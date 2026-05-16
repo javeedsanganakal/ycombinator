@@ -1,0 +1,135 @@
+[
+  {
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2013/influxdata.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2013",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 490,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1354492765,
+    "long_description": "InfluxData, the creators of InfluxDB, delivers a modern Open Source Platform built from the ground up for analyzing metrics and events (time series data) for DevOps and IoT applications. Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and Coupa. Visit https://www.influxdata.com.",
+    "name": "InfluxData",
+    "nonprofit": false,
+    "one_liner": "The platform for building and operating time series applications.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "influxdata",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Analytics",
+      "Open Source",
+      "Time Series",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "team_size": 210,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/influxdata",
+    "website": "https://influxdata.com"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2014/pipelinedb.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2014",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PipelineDB",
+      "Stride API"
+    ],
+    "id": 614,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1384978939,
+    "long_description": "PipelineDB is an open-source PostgreSQL extension that enables realtime reporting use cases by continuously aggregating large streams of time series data down into summary data. It shines the most at larger scales, where storing lots of raw time-series data and aggregating it over and over again becomes inefficient. The amount of value that PipelineDB adds is directly proportional to the amount of continuous aggregation that an analytics use case can benefit from. PipelineDB should be used for analytics use cases that only require summary data, like realtime reporting dashboards. PipelineDB is not a good fit for exploratory analytics on siloed datasets.\r\n",
+    "name": "PipelineDB",
+    "nonprofit": false,
+    "one_liner": "Open-source time-series data analytics extension for PostgreSQL",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "pipelinedb",
+    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "stage": "Early",
+    "status": "Acquired",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Open Source",
+      "Time Series"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pipelinedb",
+    "website": "http://www.pipelinedb.com"
+  },
+  {
+    "all_locations": "London, England, United Kingdom; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/questdb.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2020",
+    "demo_day_video_public": false,
+    "former_names": [
+      "QuestDB Limited"
+    ],
+    "id": 21795,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1593714682,
+    "long_description": "QuestDB is a high-performance, open-source database for time series data. It focuses on fast ingest, blazingly fast queries and superior developer experience with SQL and open formats.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible -- eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers the infrastructure for companies in Financial Services, Crypto/Web3, Space Exploration, and Energy/Renewables.",
+    "name": "QuestDB",
+    "nonprofit": false,
+    "one_liner": "The fastest open source time series database",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "questdb",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Open Source",
+      "Time Series"
+    ],
+    "tags_highlighted": [],
+    "team_size": 30,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/questdb",
+    "website": "https://questdb.io/"
+  }
+]

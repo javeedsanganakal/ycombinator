@@ -8,11 +8,13 @@ from pathlib import Path
 from .query import YCData
 from .scraper import (
     DEFAULT_DATA_DIR,
+    DEFAULT_MIRROR_DIR,
     DEFAULT_SPLIT_DIR,
     fetch_all,
     fetch_batch,
     fetch_industry,
     fetch_meta,
+    fetch_mirror,
     fetch_tag,
     split_by_batch,
 )
@@ -44,6 +46,8 @@ def cmd_fetch(args: argparse.Namespace) -> int:
         fetch_tag(args.slug, data_dir=data_dir)
     elif target == "meta":
         fetch_meta(data_dir=data_dir)
+    elif target == "mirror":
+        fetch_mirror(mirror_dir=Path(args.mirror_dir), workers=args.workers)
     return 0
 
 
@@ -121,6 +125,10 @@ def build_parser() -> argparse.ArgumentParser:
         "--split-dir", default=str(DEFAULT_SPLIT_DIR),
         help="Where to write per-company batch files (default: ./yc-companies)",
     )
+    parser.add_argument(
+        "--mirror-dir", default=str(DEFAULT_MIRROR_DIR),
+        help="Where to write the full yc-oss mirror (default: ./yc-oss-mirror)",
+    )
     sub = parser.add_subparsers(dest="command", required=True)
 
     # fetch
@@ -133,6 +141,14 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip writing per-company files under --split-dir",
     )
     fetch_sub.add_parser("meta", help="Index of batches/industries/tags")
+    p_mirror = fetch_sub.add_parser(
+        "mirror",
+        help="Mirror every yc-oss/api endpoint (~448 files) into --mirror-dir",
+    )
+    p_mirror.add_argument(
+        "--workers", type=int, default=16,
+        help="Parallel HTTP workers (default: 16)",
+    )
     for kind in ("batch", "industry", "tag"):
         p = fetch_sub.add_parser(kind, help=f"One {kind} by slug (e.g. winter-2024, fintech, ai)")
         p.add_argument("slug")

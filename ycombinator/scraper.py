@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
@@ -11,8 +12,10 @@ import requests
 API_BASE = "https://yc-oss.github.io/api"
 META_URL = f"{API_BASE}/meta.json"
 ALL_URL = f"{API_BASE}/companies/all.json"
+OSS_REPOS_URL = "https://raw.githubusercontent.com/yc-oss/open-source-companies/main/repositories.json"
 DEFAULT_DATA_DIR = Path("data")
 DEFAULT_SPLIT_DIR = Path("yc-companies")
+DEFAULT_MIRROR_DIR = Path("yc-oss-mirror")
 CACHE_TTL_SECONDS = 24 * 60 * 60
 
 _BATCH_RE = re.compile(r"^(winter|summer|spring|fall|w|s|x)\s*(\d{2}|\d{4})$", re.IGNORECASE)
@@ -155,3 +158,76 @@ def fetch_tag(slug: str, data_dir: Path = DEFAULT_DATA_DIR) -> list[dict]:
     _write_json(out, payload)
     print(f"Fetched {len(payload):,} companies with tag '{slug}' → {out}")
     return payload
+
+
+def fetch_mirror(
+    mirror_dir: Path = DEFAULT_MIRROR_DIR,
+    workers: int = 16,
+) -> dict[str, int]:
+    """Mirror every endpoint exposed by yc-oss/api into mirror_dir/, plus the
+    open-source-companies repositories list. Returns a count per category.
+
+    Layout:
+        mirror_dir/meta.json
+        mirror_dir/companies/{all,top,hiring,...}.json
+        mirror_dir/batches/{winter-2021,...}.json
+        mirror_dir/industries/{fintech,...}.json
+        mirror_dir/tags/{ai,...}.json
+        mirror_dir/open-source-companies/repositories.json
+    """
+    mirror_dir = Path(mirror_dir)
+    start = time.time()
+
+    meta = _get_json(META_URL)
+    _write_json(mirror_dir / "meta.json", meta)
+
+    jobs: list[tuple[str, Path]] = []
+    for category in ("companies", "batches", "industries", "tags"):
+        entries = meta.get(category) or {}
+        if isinstance(entries, dict):
+            iterable = entries.items()
+        else:
+            iterable = ((item.get("slug"), item) for item in entries if item.get("slug"))
+        for slug, entry in iterable:
+            url = entry.get("api") if isinstance(entry, dict) else None
+            if not url or not slug:
+                continue
+            jobs.append((url, mirror_dir / category / f"{slug}.json"))
+
+    # open-source-companies (separate repo)
+    jobs.append((OSS_REPOS_URL, mirror_dir / "open-source-companies" / "repositories.json"))
+
+    counts = {"meta": 1}
+    failed: list[tuple[str, str]] = []
+
+    def _one(url: str, target: Path) -> tuple[str, Path, Exception | None]:
+        try:
+            payload = _get_json(url)
+            _write_json(target, payload)
+            return url, target, None
+        except Exception as exc:  # noqa: BLE001
+            return url, target, exc
+
+    print(f"Mirroring {len(jobs)} files from yc-oss/api into {mirror_dir}/ ...")
+    done = 0
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(_one, url, target) for url, target in jobs]
+        for fut in as_completed(futures):
+            url, target, err = fut.result()
+            done += 1
+            if err is not None:
+                failed.append((url, str(err)))
+            else:
+                category = target.parent.name
+                counts[category] = counts.get(category, 0) + 1
+            if done % 50 == 0 or done == len(jobs):
+                print(f"  {done}/{len(jobs)} fetched")
+
+    elapsed = time.time() - start
+    summary = ", ".join(f"{k}={v}" for k, v in counts.items())
+    print(f"Mirror complete in {elapsed:.1f}s — {summary}")
+    if failed:
+        print(f"  WARNING: {len(failed)} URLs failed:")
+        for url, err in failed[:10]:
+            print(f"    {url}: {err}")
+    return counts

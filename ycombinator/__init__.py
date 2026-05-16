@@ -5,6 +5,7 @@ from .scraper import (
     fetch_batch,
     fetch_industry,
     fetch_meta,
+    fetch_mirror,
     fetch_tag,
     split_by_batch,
 )
@@ -16,6 +17,7 @@ __all__ = [
     "fetch_batch",
     "fetch_industry",
     "fetch_meta",
+    "fetch_mirror",
     "fetch_tag",
     "split_by_batch",
 ]
