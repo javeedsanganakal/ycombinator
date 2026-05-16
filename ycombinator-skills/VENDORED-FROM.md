@@ -2,7 +2,7 @@
 
 This directory is a snapshot of [jona/ycombinator-skills](https://github.com/jona/ycombinator-skills) — a Claude Code plugin / skill marketplace bundling 19 Y Combinator startup frameworks distilled from talks by YC speakers (Sam Altman, Andrew Ng, Brad Fisher, Aaron Levie, Elon Musk, Andrej Karpathy, Fei-Fei Li, et al.).
 
-- Upstream license: **none declared** (no LICENSE file) — original copyright remains with the author (Jonathan). Treat as "for personal reference"; do not redistribute without checking upstream.
+- Upstream license: **MIT** (declared in upstream README; no `LICENSE` file in the repo as of snapshot date). Original copyright remains with the author (Jonathan).
 - Upstream default branch: `main`
 - Snapshot taken: 2026-05-16
 

@@ -10,7 +10,7 @@ Three layers of data live in this repo:
 | `yc-companies/<year>-<season>/<slug>.json` | **yes** | One pretty-printed JSON per company, organized by batch — for git-friendly diffs |
 | `yc-oss-mirror/` | **yes** | Full mirror of every endpoint published by [yc-oss/api](https://github.com/yc-oss/api) (449 files, ~64 MB) |
 | `how-to-start-a-startup/` | **yes** | Vendored snapshot of [iqiancheng/how-to-start-a-startup](https://github.com/iqiancheng/how-to-start-a-startup) — Stanford × YC lecture transcripts, slide PDFs, and figures (~22 MB, Unlicense) |
-| `ycombinator-skills/` | **yes** | Vendored snapshot of [jona/ycombinator-skills](https://github.com/jona/ycombinator-skills) — 19 YC startup frameworks distilled into Claude Code skills (~200 KB, no license declared) |
+| `ycombinator-skills/` | **yes** | Vendored snapshot of [jona/ycombinator-skills](https://github.com/jona/ycombinator-skills) — 19 YC startup frameworks distilled into Claude Code skills (~200 KB, MIT per upstream README) |
 
 ## Install
 
