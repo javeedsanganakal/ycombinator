@@ -9,6 +9,7 @@ Three layers of data live in this repo:
 | `data/all.json` | no (gitignored) | Bulk file the library loads for fast in-memory queries |
 | `yc-companies/<year>-<season>/<slug>.json` | **yes** | One pretty-printed JSON per company, organized by batch — for git-friendly diffs |
 | `yc-oss-mirror/` | **yes** | Full mirror of every endpoint published by [yc-oss/api](https://github.com/yc-oss/api) (449 files, ~64 MB) |
+| `how-to-start-a-startup/` | **yes** | Vendored snapshot of [iqiancheng/how-to-start-a-startup](https://github.com/iqiancheng/how-to-start-a-startup) — Stanford × YC lecture transcripts, slide PDFs, and figures (~22 MB, Unlicense) |
 
 ## Install
 
@@ -114,6 +115,7 @@ This package is a thin wrapper over the community-maintained yc-oss org:
 - **[yc-oss/api](https://github.com/yc-oss/api)** — the canonical JSON API for YC companies (rebuilt daily). Endpoints live at `https://yc-oss.github.io/api/`.
 - **[yc-oss/open-source-companies](https://github.com/yc-oss/open-source-companies)** — list of YC startups with public open-source repositories.
 - **[yc-oss org](https://github.com/yc-oss)** — root org page.
+- **[iqiancheng/how-to-start-a-startup](https://github.com/iqiancheng/how-to-start-a-startup)** — source of the `how-to-start-a-startup/` folder. 20-lecture Stanford × YC course covering ideas, product, team, fundraising, growth, mechanics, culture. See `how-to-start-a-startup/VENDORED-FROM.md` for refresh instructions.
 
 If yc-oss adds new endpoints, `fetch mirror` will pick them up automatically because it iterates `meta.json` rather than hard-coding slugs.
 
