@@ -1,0 +1,19 @@
+# Data files - regenerated via `ycombinator fetch`
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

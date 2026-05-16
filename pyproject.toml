@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ycombinator"
+version = "0.1.0"
+description = "Fetch and query the full Y Combinator company directory locally."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Javeed Sanganakal", email = "javeedsanganakal@gmail.com" }]
+dependencies = ["requests>=2.31"]
+
+[project.scripts]
+ycombinator = "ycombinator.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["ycombinator*"]
