@@ -6,6 +6,7 @@ from .scraper import (
     fetch_industry,
     fetch_meta,
     fetch_tag,
+    split_by_batch,
 )
 
 __all__ = [
@@ -16,6 +17,7 @@ __all__ = [
     "fetch_industry",
     "fetch_meta",
     "fetch_tag",
+    "split_by_batch",
 ]
 
 __version__ = "0.1.0"

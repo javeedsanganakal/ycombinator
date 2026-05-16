@@ -1,0 +1,44 @@
+{
+  "all_locations": "San Francisco, CA, USA",
+  "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json",
+  "app_answers": null,
+  "app_video_public": false,
+  "batch": "Fall 2025",
+  "demo_day_video_public": false,
+  "former_names": [],
+  "id": 30935,
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "industry": "B2B",
+  "isHiring": false,
+  "launched_at": 1759174945,
+  "long_description": "S2 is an API for durable streams. We make working with streaming data dead simple and reliable.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
+  "name": "s2.dev",
+  "nonprofit": false,
+  "one_liner": "API for unlimited, durable, real-time streams",
+  "question_answers": false,
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "slug": "s2-dev",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
+  "stage": "Early",
+  "status": "Active",
+  "subindustry": "B2B -> Infrastructure",
+  "tags": [
+    "Developer Tools",
+    "API",
+    "Infrastructure",
+    "Databases"
+  ],
+  "tags_highlighted": [],
+  "team_size": 5,
+  "top_company": false,
+  "url": "https://www.ycombinator.com/companies/s2-dev",
+  "website": "https://s2.dev"
+}

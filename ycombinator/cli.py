@@ -8,11 +8,13 @@ from pathlib import Path
 from .query import YCData
 from .scraper import (
     DEFAULT_DATA_DIR,
+    DEFAULT_SPLIT_DIR,
     fetch_all,
     fetch_batch,
     fetch_industry,
     fetch_meta,
     fetch_tag,
+    split_by_batch,
 )
 
 
@@ -28,7 +30,12 @@ def cmd_fetch(args: argparse.Namespace) -> int:
     data_dir = Path(args.data_dir)
     target = args.target
     if target == "all":
-        fetch_all(data_dir=data_dir, force=args.force)
+        fetch_all(
+            data_dir=data_dir,
+            force=args.force,
+            split=not args.no_split,
+            split_dir=Path(args.split_dir),
+        )
     elif target == "batch":
         fetch_batch(args.slug, data_dir=data_dir)
     elif target == "industry":
@@ -37,6 +44,18 @@ def cmd_fetch(args: argparse.Namespace) -> int:
         fetch_tag(args.slug, data_dir=data_dir)
     elif target == "meta":
         fetch_meta(data_dir=data_dir)
+    return 0
+
+
+def cmd_split(args: argparse.Namespace) -> int:
+    """Re-split data/all.json into per-company files without re-fetching."""
+    path = Path(args.data_dir) / "all.json"
+    if not path.exists():
+        print(f"{path} not found. Run `ycombinator fetch all` first.", file=sys.stderr)
+        return 1
+    with path.open(encoding="utf-8") as fh:
+        companies = json.load(fh)
+    split_by_batch(companies, split_dir=Path(args.split_dir), clean=not args.no_clean)
     return 0
 
 
@@ -98,6 +117,10 @@ def build_parser() -> argparse.ArgumentParser:
         "--data-dir", default=str(DEFAULT_DATA_DIR),
         help="Where to read/write JSON files (default: ./data)",
     )
+    parser.add_argument(
+        "--split-dir", default=str(DEFAULT_SPLIT_DIR),
+        help="Where to write per-company batch files (default: ./yc-companies)",
+    )
     sub = parser.add_subparsers(dest="command", required=True)
 
     # fetch
@@ -105,11 +128,25 @@ def build_parser() -> argparse.ArgumentParser:
     fetch_sub = p_fetch.add_subparsers(dest="target", required=True)
     p_all = fetch_sub.add_parser("all", help="All ~5,900 companies")
     p_all.add_argument("--force", action="store_true", help="Bypass 24h cache")
+    p_all.add_argument(
+        "--no-split", action="store_true",
+        help="Skip writing per-company files under --split-dir",
+    )
     fetch_sub.add_parser("meta", help="Index of batches/industries/tags")
     for kind in ("batch", "industry", "tag"):
         p = fetch_sub.add_parser(kind, help=f"One {kind} by slug (e.g. winter-2024, fintech, ai)")
         p.add_argument("slug")
     p_fetch.set_defaults(func=cmd_fetch)
+
+    # split
+    p_split = sub.add_parser(
+        "split", help="Re-split cached data/all.json into per-company files",
+    )
+    p_split.add_argument(
+        "--no-clean", action="store_true",
+        help="Don't delete existing split files first (default: clean)",
+    )
+    p_split.set_defaults(func=cmd_split)
 
     # list
     p_list = sub.add_parser("list", help="List available batches/industries/tags from meta")

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 import time
 from pathlib import Path
 from typing import Any
@@ -11,7 +12,11 @@ API_BASE = "https://yc-oss.github.io/api"
 META_URL = f"{API_BASE}/meta.json"
 ALL_URL = f"{API_BASE}/companies/all.json"
 DEFAULT_DATA_DIR = Path("data")
+DEFAULT_SPLIT_DIR = Path("yc-companies")
 CACHE_TTL_SECONDS = 24 * 60 * 60
+
+_BATCH_RE = re.compile(r"^(winter|summer|spring|fall|w|s|x)\s*(\d{2}|\d{4})$", re.IGNORECASE)
+_SEASON_ALIASES = {"w": "winter", "s": "summer", "x": "fall"}
 
 
 def _get_json(url: str, retries: int = 1, timeout: int = 30) -> Any:
@@ -48,20 +53,84 @@ def fetch_meta(data_dir: Path = DEFAULT_DATA_DIR) -> dict[str, Any]:
     return meta
 
 
-def fetch_all(data_dir: Path = DEFAULT_DATA_DIR, force: bool = False) -> list[dict]:
-    """Fetch every YC company. Cached for 24h unless force=True."""
+def fetch_all(
+    data_dir: Path = DEFAULT_DATA_DIR,
+    force: bool = False,
+    split: bool = True,
+    split_dir: Path = DEFAULT_SPLIT_DIR,
+) -> list[dict]:
+    """Fetch every YC company. Cached for 24h unless force=True.
+
+    If `split` is True, also writes one pretty JSON file per company under
+    `split_dir/<year>-<season>/<slug>.json` for git-diff-friendly storage.
+    """
     out = Path(data_dir) / "all.json"
     if not force and _is_fresh(out):
         print(f"Using cached {out} (<24h old). Pass force=True to refresh.")
         with out.open(encoding="utf-8") as fh:
-            return json.load(fh)
+            companies = json.load(fh)
+    else:
+        start = time.time()
+        companies = _get_json(ALL_URL)
+        elapsed = time.time() - start
+        _write_json(out, companies)
+        print(f"Fetched {len(companies):,} companies in {elapsed:.1f}s → {out}")
 
-    start = time.time()
-    companies = _get_json(ALL_URL)
-    elapsed = time.time() - start
-    _write_json(out, companies)
-    print(f"Fetched {len(companies):,} companies in {elapsed:.1f}s → {out}")
+    if split:
+        split_by_batch(companies, split_dir=split_dir)
     return companies
+
+
+def split_by_batch(
+    companies: list[dict],
+    split_dir: Path = DEFAULT_SPLIT_DIR,
+    clean: bool = True,
+) -> dict[str, int]:
+    """Write one pretty JSON file per company under split_dir/<batch>/<slug>.json.
+
+    If `clean` is True, removes any pre-existing files in split_dir so renamed
+    or removed companies don't linger.
+    """
+    split_dir = Path(split_dir)
+    if clean and split_dir.exists():
+        for path in split_dir.rglob("*.json"):
+            path.unlink()
+
+    counts: dict[str, int] = {}
+    for company in companies:
+        batch_slug = _batch_slug(company.get("batch") or "")
+        slug = (company.get("slug") or "").strip() or _fallback_slug(company)
+        if not slug:
+            continue
+        target = split_dir / batch_slug / f"{slug}.json"
+        _write_json(target, company)
+        counts[batch_slug] = counts.get(batch_slug, 0) + 1
+
+    total = sum(counts.values())
+    print(f"Split {total:,} companies into {len(counts)} batch folders under {split_dir}/")
+    return counts
+
+
+def _batch_slug(batch: str) -> str:
+    """Normalize 'Winter 2021' → '2021-winter', 'W21' → '2021-winter'."""
+    batch = (batch or "").strip()
+    if not batch:
+        return "unbatched"
+    match = _BATCH_RE.match(batch)
+    if not match:
+        return "unbatched"
+    season, year = match.group(1).lower(), match.group(2)
+    season = _SEASON_ALIASES.get(season, season)
+    if len(year) == 2:
+        # YC's short codes: 05-99 → 19xx? In practice all YC batches are 2005+,
+        # so any 2-digit year maps to 2000+. (S05 is the earliest batch.)
+        year = f"20{year}"
+    return f"{year}-{season}"
+
+
+def _fallback_slug(company: dict) -> str:
+    name = (company.get("name") or "").strip().lower()
+    return re.sub(r"[^a-z0-9]+", "-", name).strip("-")
 
 
 def fetch_batch(slug: str, data_dir: Path = DEFAULT_DATA_DIR) -> list[dict]:
