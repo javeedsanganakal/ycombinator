@@ -1,0 +1,37 @@
+{
+  "name": "ycombinator-skills",
+  "metadata": {
+    "description": "Y Combinator startup frameworks for Claude",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Jonathan"
+  },
+  "plugins": [
+    {
+      "name": "ycombinator-skills",
+      "description": "Apply proven startup strategies and frameworks from YC speakers",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/agi-framework-chollet",
+        "./skills/ai-accelerated-building-ng",
+        "./skills/ai-product-building-heller",
+        "./skills/ai-scaling-laws-amodei",
+        "./skills/ai-scientific-discovery-jumper",
+        "./skills/ai-search-strategy-srinivas",
+        "./skills/ai-startup-insights-altman",
+        "./skills/ai-startup-questions-fisher",
+        "./skills/b2b-ai-startup-levie",
+        "./skills/design-tool-scaling-field",
+        "./skills/developer-tools-strategy-truell",
+        "./skills/enterprise-ai-strategy-nadella",
+        "./skills/first-principles-thinking-musk",
+        "./skills/robotics-ai-learning-finn",
+        "./skills/software-democratization-masad",
+        "./skills/software-paradigms-karpathy",
+        "./skills/spatial-intelligence-li"
+      ]
+    }
+  ]
+}
