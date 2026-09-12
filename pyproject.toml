@@ -15,5 +15,9 @@ dependencies = ["requests>=2.31"]
 [project.scripts]
 ycombinator = "ycombinator.cli:main"
 
+[tool.setuptools]
+package-dir = {"" = "src"}
+
 [tool.setuptools.packages.find]
+where = ["src"]
 include = ["ycombinator*"]

@@ -26,5 +26,5 @@ Each skill is a directory with a `SKILL.md` file containing frontmatter (`name`,
 ```bash
 git clone --depth=1 https://github.com/jona/ycombinator-skills.git /tmp/yc-skills-vendor
 rsync -a --delete --exclude='.git' --exclude='VENDORED-FROM.md' \
-  /tmp/yc-skills-vendor/ ~/workplace/ycombinator/ycombinator-skills/
+  /tmp/yc-skills-vendor/ ~/workplace/ycombinator/vendor/ycombinator-skills/
 ```

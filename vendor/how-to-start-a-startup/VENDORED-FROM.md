@@ -12,5 +12,5 @@ To refresh from upstream:
 cd /tmp && rm -rf how-to-start-a-startup
 git clone --depth=1 https://github.com/iqiancheng/how-to-start-a-startup.git
 rsync -a --delete --exclude='.git' --exclude='VENDORED-FROM.md' \
-  /tmp/how-to-start-a-startup/ ~/workplace/ycombinator/how-to-start-a-startup/
+  /tmp/how-to-start-a-startup/ ~/workplace/ycombinator/vendor/how-to-start-a-startup/
 ```

@@ -52,7 +52,7 @@ def cmd_fetch(args: argparse.Namespace) -> int:
 
 
 def cmd_split(args: argparse.Namespace) -> int:
-    """Re-split data/all.json into per-company files without re-fetching."""
+    """Re-split datasets/cache/all.json without re-fetching."""
     path = Path(args.data_dir) / "all.json"
     if not path.exists():
         print(f"{path} not found. Run `ycombinator fetch all` first.", file=sys.stderr)
@@ -119,15 +119,15 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--data-dir", default=str(DEFAULT_DATA_DIR),
-        help="Where to read/write JSON files (default: ./data)",
+        help="Where to read/write JSON files (default: ./datasets/cache)",
     )
     parser.add_argument(
         "--split-dir", default=str(DEFAULT_SPLIT_DIR),
-        help="Where to write per-company batch files (default: ./yc-companies)",
+        help="Where to write per-company batch files (default: ./datasets/yc-companies)",
     )
     parser.add_argument(
         "--mirror-dir", default=str(DEFAULT_MIRROR_DIR),
-        help="Where to write the full yc-oss mirror (default: ./yc-oss-mirror)",
+        help="Where to write the full yc-oss mirror (default: ./datasets/yc-oss-mirror)",
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -156,7 +156,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     # split
     p_split = sub.add_parser(
-        "split", help="Re-split cached data/all.json into per-company files",
+        "split", help="Re-split cached company data into per-company files",
     )
     p_split.add_argument(
         "--no-clean", action="store_true",

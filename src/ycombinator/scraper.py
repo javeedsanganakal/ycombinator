@@ -13,9 +13,9 @@ API_BASE = "https://yc-oss.github.io/api"
 META_URL = f"{API_BASE}/meta.json"
 ALL_URL = f"{API_BASE}/companies/all.json"
 OSS_REPOS_URL = "https://raw.githubusercontent.com/yc-oss/open-source-companies/main/repositories.json"
-DEFAULT_DATA_DIR = Path("data")
-DEFAULT_SPLIT_DIR = Path("yc-companies")
-DEFAULT_MIRROR_DIR = Path("yc-oss-mirror")
+DEFAULT_DATA_DIR = Path("datasets/cache")
+DEFAULT_SPLIT_DIR = Path("datasets/yc-companies")
+DEFAULT_MIRROR_DIR = Path("datasets/yc-oss-mirror")
 CACHE_TTL_SECONDS = 24 * 60 * 60
 
 _BATCH_RE = re.compile(r"^(winter|summer|spring|fall|w|s|x)\s*(\d{2}|\d{4})$", re.IGNORECASE)
