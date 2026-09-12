@@ -1,8 +1,10 @@
 # Startup Directory
 
-A private, non-personal knowledge base for understanding, building, launching, and scaling startups.
+An open, non-personal knowledge base for understanding, building, launching, and scaling startups.
 
-This repository combines a structured startup library with Y Combinator company data, reusable tools, and carefully attributed third-party learning material. It is organized by startup function so founders, product managers, designers, engineers, and operators can find the right material quickly.
+> **Unofficial project:** This repository is independently maintained and is not affiliated with, endorsed by, or sponsored by Y Combinator.
+
+This repository combines a structured startup library with Y Combinator company data, reusable tools, and carefully attributed third-party learning material. Its primary focus is helping existing products build repeatable sales, sustainable growth, and effective monetization. It is organized by startup function so founders, product managers, designers, engineers, and operators can find the right material quickly.
 
 ## Start here
 
@@ -88,3 +90,7 @@ See [the package guide](src/ycombinator/README.md) for the complete CLI and Pyth
 ## Upstream data
 
 The data toolkit wraps community-maintained resources from [yc-oss/api](https://github.com/yc-oss/api) and [yc-oss/open-source-companies](https://github.com/yc-oss/open-source-companies). Vendored resources retain their original licenses and provenance files.
+
+## Licensing
+
+Original code and documentation in this repository are available under the [MIT License](LICENSE). Third-party datasets and vendored resources are excluded from that grant and remain subject to their respective source terms. See [Third-party notices](THIRD_PARTY_NOTICES.md).
