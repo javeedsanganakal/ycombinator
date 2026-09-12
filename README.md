@@ -21,6 +21,8 @@ This repository combines a structured startup library with Y Combinator company 
 │   ├── ux-ui/
 │   ├── engineering/
 │   ├── go-to-market/
+│   ├── sales/
+│   ├── monetization/
 │   ├── fundraising/
 │   ├── finance/
 │   ├── legal/
@@ -42,7 +44,7 @@ This repository combines a structured startup library with Y Combinator company 
 
 ## Scope
 
-Include material that is broadly useful for startups: founder fundamentals, customer discovery, product management, UX/UI, MVP engineering, go-to-market, sales, growth, fundraising, finance, legal, hiring, culture, and operations.
+Include material that is broadly useful for startups: founder fundamentals, customer discovery, product management, UX/UI, MVP engineering, go-to-market, sales, monetization, growth, fundraising, finance, legal, hiring, culture, and operations.
 
 Do not include personal journals, private company plans, or source code for individual products. Those belong in their own repositories.
 

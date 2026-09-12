@@ -9,6 +9,8 @@ The library is the human-readable heart of this repository. It covers the startu
 | [UX/UI](ux-ui/) | Research, flows, prototyping, usability, accessibility, and design systems |
 | [Engineering](engineering/) | MVPs, architecture, quality, security, AI, and scaling |
 | [Go-to-market](go-to-market/) | Positioning, pricing, launches, marketing, sales, growth, and retention |
+| [Sales](sales/) | Founder-led sales, discovery, pipeline, closing, customer success, and revenue metrics |
+| [Monetization](monetization/) | Value metrics, packaging, pricing, billing, payments, and revenue optimization |
 | [Fundraising](fundraising/) | Investor research, pitch preparation, diligence, and fundraising process |
 | [Finance](finance/) | Runway, budgeting, unit economics, forecasting, and reporting |
 | [Legal](legal/) | Formation, equity, contracts, IP, privacy, and compliance |
