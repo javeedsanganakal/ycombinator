@@ -9,6 +9,7 @@ This repository combines a structured startup library with Y Combinator company 
 ## Start here
 
 - [Startup library](startup-library/README.md) — guides, frameworks, checklists, templates, and curated resources by function
+- [Startup skills](skills/README.md) — reusable expert workflows for applying the library to a product
 - [YC datasets](datasets/README.md) — company records and the complete `yc-oss` mirror
 - [Python toolkit](src/ycombinator/README.md) — fetch, search, filter, and inspect YC company data
 - [Vendored resources](vendor/README.md) — attributed third-party courses and startup skills
@@ -40,6 +41,7 @@ This repository combines a structured startup library with Y Combinator company 
 │   ├── yc-companies/            # One JSON file per company, grouped by batch
 │   └── yc-oss-mirror/           # Full mirror of the public yc-oss API
 ├── src/ycombinator/             # Installable Python package and CLI
+├── skills/                      # Original reusable expert skills
 ├── tests/                       # Python package tests
 └── vendor/                      # Preserved third-party material with provenance
 ```

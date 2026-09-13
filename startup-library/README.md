@@ -2,6 +2,8 @@
 
 The library is the human-readable heart of this repository. It covers the startup lifecycle from finding a problem through building an organization at scale.
 
+To apply the sales, marketing, and monetization material to a specific product, use the [`startup-revenue-strategist`](../skills/startup-revenue-strategist/) skill.
+
 | Area | Covers |
 | --- | --- |
 | [Founders](founders/) | Ideas, validation, cofounders, decision-making, and founder mindset |

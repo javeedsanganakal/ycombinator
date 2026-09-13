@@ -48,3 +48,5 @@ Every stage needs a customer action as its exit criterion. A sent email is activ
 - Sales hiring, compensation, enablement, and forecasting
 
 See [GitHub profiles for sales and monetization](../resources/github-profiles-sales-monetization.md) for open-source systems worth studying.
+
+Use the [`startup-revenue-strategist`](../../skills/startup-revenue-strategist/) skill to apply this system to an existing product.

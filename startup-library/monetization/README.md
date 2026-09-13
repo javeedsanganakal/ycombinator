@@ -47,3 +47,5 @@ Monetization connects customer value to durable revenue. It includes the value m
 - Treat pricing as a product system requiring research, design, engineering, finance, and support—not a one-time number.
 
 See [GitHub profiles for sales and monetization](../resources/github-profiles-sales-monetization.md) for implementation references.
+
+Use the [`startup-revenue-strategist`](../../skills/startup-revenue-strategist/) skill to apply this system to an existing product.
