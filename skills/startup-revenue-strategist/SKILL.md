@@ -36,15 +36,16 @@ Read only the references required for the request:
 ## Core workflow
 
 1. **Establish product truth.** Explain the product in one sentence, identify the user, buyer, painful job, current alternative, promised outcome, proof, and likely time-to-value.
-2. **Diagnose the constraint.** Determine whether the dominant problem is awareness, acquisition, qualification, activation, retention, conversion, price realization, expansion, or payment collection. Do not call every weakness the priority.
-3. **Select the commercial motion.** Choose self-serve, product-led sales, founder-led sales, outbound, inbound, channel/partner, enterprise, marketplace, or a justified hybrid.
-4. **Choose an initial segment.** Define an ICP with observable qualifiers, a trigger event, costly pain, buying role, and disqualifiers.
-5. **Position the product.** Frame the competitive alternatives, differentiated capabilities, customer value, proof, category, and plain-language promise.
-6. **Design monetization.** Select a value metric, packaging logic, price architecture, entry model, expansion path, billing cadence, and protections against surprise or abuse.
-7. **Build the revenue journey.** Map first touch through qualified demand, purchase, activation, retained use, renewal, and expansion. Assign one metric and owner to each transition.
-8. **Prioritize channels and experiments.** Recommend one primary acquisition motion, at most two supporting channels, and a sequenced experiment backlog tied to the diagnosed constraint.
-9. **Produce execution assets.** Supply the messages, scripts, page outline, offer, pricing hypothesis, event schema, dashboard, or experiment brief needed to begin—not merely strategic labels.
-10. **Define the review cadence.** Establish weekly leading indicators, monthly cohort/revenue review, decision thresholds, and explicit stop/continue/iterate rules.
+2. **Verify commercial readiness.** When product access permits, run the shortest path to value and check whether a prospect can understand, try, trust, measure, and buy it. Treat broken onboarding, misleading capability boundaries, unsafe configuration, and severe dependency issues as blockers to scaling demand.
+3. **Diagnose the constraint.** Determine whether the dominant problem is awareness, acquisition, qualification, activation, retention, conversion, price realization, expansion, or payment collection. Do not call every weakness the priority.
+4. **Select the commercial motion.** Choose self-serve, product-led sales, founder-led sales, outbound, inbound, channel/partner, enterprise, marketplace, or a justified hybrid.
+5. **Choose an initial segment.** Define an ICP with observable qualifiers, a trigger event, costly pain, buying role, and disqualifiers.
+6. **Position the product.** Frame the competitive alternatives, differentiated capabilities, customer value, proof, category, and plain-language promise.
+7. **Design monetization.** Select a value metric, packaging logic, price architecture, entry model, expansion path, billing cadence, and protections against surprise or abuse.
+8. **Build the revenue journey.** Map first touch through qualified demand, purchase, activation, retained use, renewal, and expansion. Assign one metric and owner to each transition.
+9. **Prioritize channels and experiments.** Recommend one primary acquisition motion, at most two supporting channels, and a sequenced experiment backlog tied to the diagnosed constraint.
+10. **Produce execution assets.** Supply the messages, scripts, page outline, offer, pricing hypothesis, event schema, dashboard, or experiment brief needed to begin—not merely strategic labels.
+11. **Define the review cadence.** Establish weekly leading indicators, monthly cohort/revenue review, decision thresholds, and explicit stop/continue/iterate rules.
 
 ## Minimum quality bar
 

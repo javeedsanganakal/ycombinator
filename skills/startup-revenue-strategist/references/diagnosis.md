@@ -21,6 +21,21 @@ Capture what is known and label the basis:
 
 Do not convert an unverified product claim into a fact. Write “the product claims,” “the user reports,” or “I infer” where appropriate.
 
+## Check commercial readiness
+
+Before recommending traffic, outreach, or a paid launch, verify that a prospect can safely understand, try, trust, and buy the product. This is not a full engineering audit; it is a check for product defects that would invalidate the commercial plan.
+
+| Area | Minimum evidence | Typical blocker |
+| --- | --- | --- |
+| Understand | Clear README or landing page, audience, outcome, screenshots or demo | The repository or homepage does not explain how to reach value |
+| Try | Working install or signup path and a representative first-run test | Missing dependency, broken command, or undocumented configuration |
+| Value | The core workflow produces a credible result on realistic input | Demo-only output, low-quality result, or a manual step described as automation |
+| Trust | License, privacy/security posture, support path, and honest capability boundaries | Public personal data, exposed secrets, vulnerable dependencies, or inflated claims |
+| Measure | Activation and retention events can be observed | No way to distinguish curiosity from recurring value |
+| Buy | Price hypothesis, checkout or pilot offer, fulfillment, and refund/cancellation path | Asking for payment before delivery and support are defined |
+
+When source access is available, run the documented happy path and inspect dependency, security, configuration, and data-handling signals in proportion to risk. Record the command, result, and material limitations. Do not claim the product is commercially ready merely because the code starts.
+
 ## Product brief
 
 Create this brief from available evidence. Fill gaps with clearly marked assumptions rather than blocking ordinary analysis.
