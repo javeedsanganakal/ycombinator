@@ -13,6 +13,7 @@ This repository combines a structured startup library with Y Combinator company 
 - [YC datasets](datasets/README.md) — company records and the complete `yc-oss` mirror
 - [Python toolkit](src/ycombinator/README.md) — fetch, search, filter, and inspect YC company data
 - [Vendored resources](vendor/README.md) — attributed third-party courses and startup skills
+- [Always-on agent](startup-library/knowledge-base/always-on-revenue-agent.md) — automated health checks and a product-revenue monitoring architecture
 
 ## Repository map
 
@@ -73,6 +74,7 @@ ycombinator list batches
 ycombinator stats
 ycombinator search "restaurant"
 ycombinator show stripe
+ycombinator agent                    # run the repository heartbeat once
 ```
 
 | Path | Tracked? | Purpose |

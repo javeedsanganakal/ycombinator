@@ -1,6 +1,7 @@
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
+from ycombinator.agent import CheckResult, build_report, check_internal_links, report_markdown
 from ycombinator.cli import build_parser, search_markdown
 from ycombinator.models import Company
 from ycombinator.query import YCData
@@ -91,3 +92,23 @@ def test_search_markdown_returns_heading_and_line():
         "heading": "Sales",
         "text": "Founder-led discovery creates evidence.",
     }]
+
+
+def test_agent_detects_broken_internal_markdown_link():
+    with TemporaryDirectory() as directory:
+        root = Path(directory)
+        (root / "README.md").write_text("[Missing](nope.md)\n", encoding="utf-8")
+        result = check_internal_links(root)
+    assert result.status == "fail"
+    assert "README.md -> nope.md" in result.details
+
+
+def test_agent_report_status_and_markdown():
+    report = build_report(Path("."), checks=[
+        CheckResult("one", "pass", "healthy"),
+        CheckResult("two", "fail", "broken", ("reason",)),
+    ])
+    assert report["status"] == "fail"
+    rendered = report_markdown(report)
+    assert "Startup KB Agent" in rendered
+    assert "reason" in rendered

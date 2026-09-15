@@ -1,5 +1,7 @@
 # Startup Knowledge Base
 
+- [Always-on startup revenue agent](always-on-revenue-agent.md) — scheduled monitoring, autonomy boundaries, metrics, and deployment
+
 This knowledge base maps proven open-source projects and public operating systems to startup decisions. It is designed for studying product patterns, workflows, architecture, and business-model execution—not for installing a large default stack.
 
 Last reviewed: 2026-09-14.

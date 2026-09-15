@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 from typing import Iterable
 
+from .agent import build_report, report_markdown
 from .query import YCData
 from .scraper import (
     DEFAULT_DATA_DIR,
@@ -199,6 +200,19 @@ def cmd_show(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_agent(args: argparse.Namespace) -> int:
+    report = build_report(Path(args.root))
+    if args.format == "json":
+        rendered = json.dumps(report, indent=2, ensure_ascii=False) + "\n"
+    else:
+        rendered = report_markdown(report)
+    if args.output:
+        Path(args.output).write_text(rendered, encoding="utf-8")
+    else:
+        print(rendered, end="")
+    return 0 if report["status"] == "pass" else 1
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="ycombinator",
@@ -294,6 +308,13 @@ def build_parser() -> argparse.ArgumentParser:
     p_show = sub.add_parser("show", help="Pretty-print a single company by slug")
     p_show.add_argument("slug")
     p_show.set_defaults(func=cmd_show)
+
+    # autonomous repository health heartbeat
+    p_agent = sub.add_parser("agent", help="Run the startup knowledge-base health agent once")
+    p_agent.add_argument("--root", default=".", help="Repository root (default: current directory)")
+    p_agent.add_argument("--format", choices=["markdown", "json"], default="markdown")
+    p_agent.add_argument("--output", help="Write the report to a file instead of stdout")
+    p_agent.set_defaults(func=cmd_agent)
 
     return parser
 

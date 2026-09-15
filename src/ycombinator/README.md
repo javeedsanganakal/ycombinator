@@ -48,6 +48,8 @@ ycombinator filter --industry B2B --tag AI   # structured, combinable filters
 ycombinator kb-search "pricing"              # search startup-library Markdown
 ycombinator kb-search "sales" --include-lectures
 ycombinator show stripe                     # pretty-print a single company by slug
+ycombinator agent                           # validate KB links and tracked datasets
+ycombinator agent --format json             # machine-readable heartbeat report
 ```
 
 `fetch all` caches for 24h; pass `--force` to bypass. Add `--no-split` to skip the per-company split. Override directories with `--data-dir`, `--split-dir`, `--mirror-dir`.

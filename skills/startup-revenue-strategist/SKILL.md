@@ -30,6 +30,7 @@ Read only the references required for the request:
 - For positioning, messaging, channel selection, content, launches, lifecycle, and growth loops, read [marketing.md](references/marketing.md).
 - For pricing, packaging, value metrics, trials, billing, payments, and expansion, read [monetization.md](references/monetization.md).
 - For funnel definitions, formulas, instrumentation, experiments, and prioritization, read [metrics-and-experiments.md](references/metrics-and-experiments.md).
+- For continuous monitoring, scheduled analysis, and automation boundaries, read [continuous-agent.md](references/continuous-agent.md).
 - For the full product-to-revenue plan or a user asking “what should I do?”, read [deliverable.md](references/deliverable.md), [business-models.md](references/business-models.md), and all domain references relevant to the chosen motion.
 - When researching or citing playbooks and benchmarks, read [sources.md](references/sources.md).
 - When the user asks for tools, reference implementations, technical patterns, or a startup stack, read the relevant section of the [startup knowledge base](../../startup-library/knowledge-base/README.md) and verify current project status at the primary source.
