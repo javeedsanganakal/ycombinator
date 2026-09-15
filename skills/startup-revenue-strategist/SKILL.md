@@ -33,6 +33,7 @@ Read only the references required for the request:
 - For the full product-to-revenue plan or a user asking “what should I do?”, read [deliverable.md](references/deliverable.md), [business-models.md](references/business-models.md), and all domain references relevant to the chosen motion.
 - When researching or citing playbooks and benchmarks, read [sources.md](references/sources.md).
 - When the user asks for tools, reference implementations, technical patterns, or a startup stack, read the relevant section of the [startup knowledge base](../../startup-library/knowledge-base/README.md) and verify current project status at the primary source.
+- When the user needs execution documents rather than advice alone, adapt the relevant artifact from the [startup templates](../../startup-library/templates/README.md); preserve evidence labels, owners, dates, metric definitions, and decision rules.
 
 ## Core workflow
 
