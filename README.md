@@ -24,6 +24,7 @@ This repository combines a structured startup library with Y Combinator company 
 │   ├── ux-ui/
 │   ├── engineering/
 │   ├── go-to-market/
+│   ├── marketing/
 │   ├── sales/
 │   ├── monetization/
 │   ├── fundraising/
@@ -35,7 +36,8 @@ This repository combines a structured startup library with Y Combinator company 
 │   ├── case-studies/
 │   ├── templates/
 │   ├── tools/
-│   └── resources/
+│   ├── resources/
+│   └── knowledge-base/          # Curated projects mapped to startup decisions
 ├── datasets/
 │   ├── cache/                   # Local fetch cache; generated and gitignored
 │   ├── yc-companies/            # One JSON file per company, grouped by batch

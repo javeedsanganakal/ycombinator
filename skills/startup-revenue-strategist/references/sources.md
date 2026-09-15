@@ -1,6 +1,8 @@
 # Source Registry
 
-Use this registry to begin research, not as a substitute for verifying current facts. Prefer primary data, official documentation, direct customer evidence, and clearly documented methodology. Last reviewed: 2026-09-13.
+Use this registry to begin research, not as a substitute for verifying current facts. Prefer primary data, official documentation, direct customer evidence, and clearly documented methodology. Last reviewed: 2026-09-14.
+
+For open-source implementation references organized by startup decision, browse the repository's [startup knowledge base](../../../startup-library/knowledge-base/README.md). Treat those projects as systems to study, not default stack recommendations.
 
 ## Sales and startup execution
 

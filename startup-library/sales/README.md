@@ -49,4 +49,6 @@ Every stage needs a customer action as its exit criterion. A sent email is activ
 
 See [GitHub profiles for sales and monetization](../resources/github-profiles-sales-monetization.md) for open-source systems worth studying.
 
+Browse the [sales and customer-success knowledge base](../knowledge-base/sales.md) for CRM, scheduling, conversation, and feedback implementation patterns.
+
 Use the [`startup-revenue-strategist`](../../skills/startup-revenue-strategist/) skill to apply this system to an existing product.

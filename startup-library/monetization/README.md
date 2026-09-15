@@ -48,4 +48,6 @@ Monetization connects customer value to durable revenue. It includes the value m
 
 See [GitHub profiles for sales and monetization](../resources/github-profiles-sales-monetization.md) for implementation references.
 
+Browse the [monetization and commerce knowledge base](../knowledge-base/monetization.md) for metering, billing, checkout, payments, invoicing, and commerce implementation patterns.
+
 Use the [`startup-revenue-strategist`](../../skills/startup-revenue-strategist/) skill to apply this system to an existing product.
