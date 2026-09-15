@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/documents-me.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40,7 +40,7 @@
     "website": "http://documents.me"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/mth-sense.json",
     "app_answers": null,
     "app_video_public": false,
@@ -160,7 +160,7 @@
     "website": "https://permutive.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/stealth-worker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -234,7 +234,7 @@
     "slug": "nucypher-aka-threshold-network",
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
       "Cryptography",
@@ -288,7 +288,7 @@
     "website": "http://www.fabric.me"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/preclusio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -332,7 +332,7 @@
     "website": "https://www.preclus.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -462,6 +462,7 @@
     "tags": [
       "Privacy",
       "Cybersecurity",
+      "Defense",
       "AI"
     ],
     "tags_highlighted": [],
@@ -563,7 +564,7 @@
     "website": "https://dynamo.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/reality-defender.json",
     "app_answers": null,
     "app_video_public": false,
@@ -781,7 +782,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": 17,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/clearly-ai",
     "website": "https://clearly-ai.com"
@@ -828,5 +829,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tinfoil",
     "website": "https://tinfoil.sh"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "studysesh"
+    ],
+    "id": 32129,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1784701469,
+    "long_description": "Egoist Machines is building infrastructure for a world where your personal context belongs to you, rather than to the apps and AI companies you use. Today, every assistant and consumer app builds its own version of you. We think that architecture is backwards. Your context should live with you, persist across products, and be available to any model, app or agent you choose.\r\n\r\nAI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data.\r\n\r\nApps integrate through Sign in with AI Passport, requesting only the context they need for a specific purpose and duration. Users can see what is being accessed and revoke that access later. Underneath, we have built our own memory infrastructure for fast, compact per-user retrieval and permissioned access.\r\n\r\nWe are distributing AI Passport directly to consumers through first-party products, while integrating it into consumer applications with existing distribution. Every new product that uses Passport gives users another reason to maintain their context there, and every additional Passport holder makes the context layer more useful to developers.\r\n\r\nThe next step is to build a true Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents. We call it Digital Domovoy, the hardware extension of AI Passport. Instead of your most personal context ultimately living on somebody else's servers, it lives and is processed locally on hardware you control. AI Passport becomes the permission layer between that private local context and the cloud models and internet services you choose to use.\r\n\r\nOur North Star is the Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents.",
+    "name": "Egoist Machines",
+    "nonprofit": false,
+    "one_liner": "Your personal context, securely portable across every AI app.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "egoist-machines",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Hardware",
+      "Personalization",
+      "Privacy",
+      "Consumer Products",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/egoist-machines",
+    "website": "https://ego.ist/"
   }
 ]

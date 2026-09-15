@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/cognito.json",
     "app_answers": null,
     "app_video_public": false,
@@ -131,7 +131,7 @@
     "website": "https://www.berbix.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/bouncer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -171,7 +171,7 @@
     "website": "https://www.getbouncer.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -239,15 +239,15 @@
     "id": 23105,
     "industries": [
       "B2B",
-      "Retail"
+      "Recruiting and Talent"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1616635998,
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
+    "long_description": "Reclaim Protocol provides best in class conversion rates (45%+) on education, employment and retail loyalty verification. Global coverage, secure and privacy preserving.\r\n\r\n- Global coverage : Unlike most other vendors we are global by default. No matter where in the world the user is, we can verify.\r\n- It is 100% private : Neither you, nor us, see any private information about the user. So you carry no liabilities. No risk of your database getting hacked. \r\n- Best in class conversion : We have the highest conversion rates in the industry at 45%+ because users don't have to scramble for their documents to upload.\r\n- AI fraud resistant : All the verifications happen securely using cryptography that even the most advanced models cannot fake.\r\n\r\nTotal amount raised : $10M (Series A)",
     "name": "Reclaim Protocol",
     "nonprofit": false,
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
+    "one_liner": "Education, Employment, Loyalty verification. Global & Compliant.",
     "question_answers": false,
     "regions": [
       "India",
@@ -259,19 +259,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
-      "Identity"
+      "Identity",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 26,
+    "team_size": 17,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reclaim-protocol",
     "website": "https://reclaimprotocol.org"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/cloudanix.json",
     "app_answers": null,
     "app_video_public": false,
@@ -455,7 +455,7 @@
     "website": "https://www.propelauth.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Miami, FL, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/truebiz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -468,7 +468,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1653081454,
     "long_description": "TrueBiz helps financial service providers reduce manual review during business onboarding.\r\n\r\nWe add color to the company's background with 250+ data points on the company from around the web (such as industry and address), and summarize key risk indicators.\r\n\r\nThe process takes seconds – not days, so financial service providers can efficiently meet risk requirements and onboard new businesses faster.",
     "name": "TrueBiz",
@@ -499,7 +499,7 @@
     "website": "https://truebiz.io/"
   },
   {
-    "all_locations": "Stanford, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/notebook-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -587,7 +587,7 @@
     "website": "https://getplutto.com/"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aiprise.json",
     "app_answers": null,
     "app_video_public": false,
@@ -625,7 +625,7 @@
       "Regtech"
     ],
     "tags_highlighted": [],
-    "team_size": 42,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aiprise",
     "website": "https://aiprise.com/"
@@ -646,7 +646,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1708029636,
     "long_description": "We are building a safer supply chain. Cargo Theft has been increasing yearly, and the supply chain industry is urgently looking for ways to solve this. Using experience fighting fraud at the largest delivery marketplaces and logistics tech companies, we are building solutions to stop Cargo Theft and improve profit margins and revenue for warehouses and freight brokers.",
     "name": "Indemni",
@@ -679,47 +679,44 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/agentic-fabriq.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31080,
+    "id": 30906,
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1764601102,
-    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
-    "name": "Didit",
+    "launched_at": 1762294029,
+    "long_description": "Agentic Fabriq helps companies securely manage what AI agents can access and do across business tools, data, and teams. We give each agent an identity, scoped permissions, approval flows, and audit logs, so employees and customer-facing workflows can use agents without relying on shared API keys, overbroad service accounts, or one-off integrations.",
+    "name": "Agentic Fabriq",
     "nonprofit": false,
-    "one_liner": "Infrastructure for identity and fraud.",
+    "one_liner": "The control plane for AI agents.",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "slug": "didit",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "slug": "agentic-fabriq",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "tags": [
-      "Biometrics",
+      "Artificial Intelligence",
+      "B2B",
       "Identity",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "website": "https://didit.me/"
+    "url": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "website": "https://www.agenticfabriq.com"
   }
 ]

@@ -1,3 +1,7 @@
+from pathlib import Path
+from tempfile import TemporaryDirectory
+
+from ycombinator.cli import build_parser, search_markdown
 from ycombinator.models import Company
 from ycombinator.query import YCData
 
@@ -51,6 +55,11 @@ def test_search_matches_name_or_one_liner():
     assert [c.slug for c in data] == ["doordash"]
 
 
+def test_search_matches_tags_and_subindustry():
+    assert [c.slug for c in _sample().search("developer-tools")] == ["replit"]
+    assert [c.slug for c in _sample().search("engineering, product")] == ["replit"]
+
+
 def test_stats_counts_total():
     assert _sample().stats()["total"] == 3
 
@@ -58,3 +67,27 @@ def test_stats_counts_total():
 def test_get_by_slug():
     assert _sample().get("stripe").name == "Stripe"
     assert _sample().get("nope") is None
+
+
+def test_filter_command_parses_combined_fields():
+    args = build_parser().parse_args([
+        "filter", "--industry", "B2B", "--tag", "AI",
+        "--tag", "Developer Tools", "--status", "Active", "--json",
+    ])
+    assert args.industry == "B2B"
+    assert args.tags == ["AI", "Developer Tools"]
+    assert args.status == "Active"
+    assert args.json is True
+
+
+def test_search_markdown_returns_heading_and_line():
+    with TemporaryDirectory() as directory:
+        path = Path(directory) / "guide.md"
+        path.write_text("# Sales\n\nFounder-led discovery creates evidence.\n", encoding="utf-8")
+        matches = search_markdown("discovery", [Path(directory)])
+    assert matches == [{
+        "path": str(path),
+        "line": 3,
+        "heading": "Sales",
+        "text": "Founder-led discovery creates evidence.",
+    }]

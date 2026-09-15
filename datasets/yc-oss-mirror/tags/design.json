@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/pixelapse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -122,7 +122,7 @@
     "website": "https://creativemarket.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/pixate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -163,7 +163,7 @@
     "website": "http://pixate.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/scoutzie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -286,7 +286,7 @@
     "website": "http://www.aalo.co"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/aesthetic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -507,48 +507,6 @@
     "website": "http://www.Avocademy.com"
   },
   {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/alloy.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": true,
-    "former_names": [
-      "Index"
-    ],
-    "id": 27840,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1677116260,
-    "long_description": "Prototypes that look exactly like your product. Capture your product from the browser instantly and build lifelike, interactive AI prototypes. Perfect for Product Managers, Founders, and Designers.",
-    "name": "Alloy",
-    "nonprofit": false,
-    "one_liner": "AI Prototyping for Product Management",
-    "question_answers": true,
-    "regions": [
-      "Unspecified"
-    ],
-    "slug": "alloy",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb9e41133c27d93650c2a1a32a03cc25066b8dd.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "Design",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/alloy",
-    "website": "https://alloy.app"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json",
     "app_answers": null,
@@ -642,7 +600,7 @@
     "website": "https://midrender.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA; San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/vango-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -825,7 +783,7 @@
     "website": "https://supercontrast.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/stewdio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -929,7 +887,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1737056992,
-    "long_description": "Adam is building AI CAD. It transforms text into parametric designs so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
+    "long_description": "Applied AI lab building end-to-end agents for mechanical design.",
     "name": "Adam",
     "nonprofit": false,
     "one_liner": "AI Powered CAD",
@@ -944,9 +902,9 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -1028,7 +986,7 @@
       "America / Canada"
     ],
     "slug": "design-arena",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ac909ee76924412f3072f355a4f8129e69e1478.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
@@ -1044,7 +1002,7 @@
     "website": "https://www.designarena.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1061,17 +1019,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1752094986,
-    "long_description": "Interfere is the experience layer for modern product teams. Detect, triage, and fix bugs automatically – no human required. Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.\r\n",
+    "long_description": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
     "name": "Interfere",
     "nonprofit": false,
-    "one_liner": "Build software that never breaks",
+    "one_liner": "Give engineering, product, and design teams insight into unseen issues",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "interfere",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f9845a726fcc8f4b24f4e6fbdbe17fc46f07039.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c788f853f55de9b0ed57c42d5dd9b8c7388fc49f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1081,14 +1039,14 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/interfere",
     "website": "https://interfere.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/inspector.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/radiusbrowser.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2025",
@@ -1096,7 +1054,9 @@
     "former_names": [
       "sandbox.ai",
       "Cheepr.ai",
-      "FunForge.ai"
+      "FunForge.ai",
+      "Inspector",
+      "Sol"
     ],
     "id": 30929,
     "industries": [
@@ -1106,17 +1066,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1762248076,
-    "long_description": "Inspector is the AI IDE for designers to ship to prod. Just select any element on your live front end, edit it like you would in Figma, and Inspector writes the changes straight to your codebase.",
-    "name": "Inspector",
+    "long_description": "Radius is a browser where developers can orchestrate agents from their tabs. Ship 100x from a single place where agents can see, navigate, and act on your workspace.",
+    "name": "Radius",
     "nonprofit": false,
-    "one_liner": "AI IDE for front-end development",
+    "one_liner": "Code and browse in the same place",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "inspector",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png",
+    "slug": "radiusbrowser",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbe7084af8a106e89b75c980e855e0e9ac2aaedf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1129,8 +1089,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/inspector",
-    "website": "https://www.tryinspector.com"
+    "url": "https://www.ycombinator.com/companies/radiusbrowser",
+    "website": "https://www.radiusbrowser.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1151,14 +1111,14 @@
     "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
     "name": "Lightberry",
     "nonprofit": false,
-    "one_liner": "The social brain for robots.",
+    "one_liner": "Robots with soul",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "lightberry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e293e7e459ca366271fd5317cd8af37ed2cd6625.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1191,17 +1151,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1759433421,
-    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC are Rivet customers.\r\n\r\nLearn more at rivet.design",
+    "long_description": "Rivet helps designers explore dozens of directions from their agent.  \r\n\r\nLearn more at rivet.design",
     "name": "Rivet",
     "nonprofit": false,
-    "one_liner": "Visual editor to design in production code",
+    "one_liner": "Explore dozens of design directions with your agent",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "rivet-design",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bd19a3fc057798d00b7402f78d585553560d40.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1246,7 +1206,7 @@
     "slug": "coasts",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14423e406f790420f115f8958c1af6eb85b97201.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Developer Tools",
@@ -1260,5 +1220,89 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/coasts",
     "website": "https://coasts.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/manufacturingintelligence.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32123,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1784416117,
+    "long_description": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
+    "name": "HERA",
+    "nonprofit": false,
+    "one_liner": "We make sure every factory in the world builds without mistakes.",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "manufacturingintelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "B2B",
+      "Design",
+      "Design Tools",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/manufacturingintelligence",
+    "website": "https://www.manufacturingintelligence.org"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/marengo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32981,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786181708,
+    "long_description": "Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB).\r\n\r\nMarengo is backed by YC, Exor, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.\r\n\r\nOur team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+    "name": "Marengo",
+    "nonprofit": false,
+    "one_liner": "AI-Native Engineering Firm designing Data Centers ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "marengo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60eafb41e958f2dbb87a17e5996bba09e7731f2f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Design",
+      "Energy",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/marengo",
+    "website": "https://marengox.com"
   }
 ]

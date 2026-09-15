@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/the-muse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -43,7 +43,7 @@
     "website": "http://themuse.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/hireart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -86,7 +86,7 @@
     "website": "http://hireart.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/hackerrank.json",
     "app_answers": null,
     "app_video_public": false,
@@ -164,7 +164,7 @@
     "website": "http://jobalchemist.com"
   },
   {
-    "all_locations": "London, United Kingdom; San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2008/snaptalent.json",
     "app_answers": null,
     "app_video_public": false,
@@ -526,7 +526,7 @@
     "website": "https://triplebyte.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/jopwell.json",
     "app_answers": null,
     "app_video_public": false,
@@ -611,7 +611,7 @@
     "website": "http://bluecrewjobs.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Seoul, Seoul, South Korea; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/fountain.json",
     "app_answers": null,
     "app_video_public": false,
@@ -634,7 +634,9 @@
     "one_liner": "High volume hiring made simple",
     "question_answers": false,
     "regions": [
+      "South Korea",
       "United States of America",
+      "East Asia",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -738,7 +740,7 @@
     "website": "http://instawork.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/stealth-worker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1075,7 +1077,7 @@
     "website": "https://10by10.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/candidately.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1158,7 +1160,7 @@
     "slug": "torch",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166d205fe9401e4dad34c43418600c86a5b2f471.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
       "Marketplace",
@@ -1255,7 +1257,7 @@
     "website": "http://sharpestminds.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/youteam.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1421,13 +1423,13 @@
     "status": "Acquired",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "SaaS",
       "B2B",
+      "Recruiting",
       "Compliance",
       "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 17,
+    "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ascen",
     "website": "https://ascen.com"
@@ -1567,7 +1569,7 @@
     "website": "https://www.gotlanded.com"
   },
   {
-    "all_locations": "Boston, MA, USA; Remote",
+    "all_locations": "Port St. Lucie, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/pyxai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1869,7 +1871,7 @@
     "website": "https://www.alana.jobs"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/mini-exhibitions.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1916,7 +1918,7 @@
     "website": "https://miniexhibitions.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/hiresweet.json",
     "app_answers": false,
     "app_video_public": false,
@@ -1937,7 +1939,9 @@
     "one_liner": "A talent acquisition software built for data-driven recruiting teams.",
     "question_answers": false,
     "regions": [
+      "France",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "slug": "hiresweet",
@@ -2009,7 +2013,7 @@
     "website": "https://runsyncro.com/"
   },
   {
-    "all_locations": "Bellevue, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/humanly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2190,7 +2194,7 @@
     "website": "https://www.howdy.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/modernloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2279,7 +2283,7 @@
     "website": "https://weekday.works"
   },
   {
-    "all_locations": "New York, NY, USA; Providence, RI, USA; Remote",
+    "all_locations": "New York City, NY, USA; Providence, RI, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pangea-app.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2322,7 +2326,57 @@
     "website": "https://www.pangea.app"
   },
   {
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "all_locations": "Hyderabad, Telangana, India; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Socionity",
+      "CreatorOS",
+      "CreatorOS - Questbook",
+      "Questbook",
+      "Reclaim Protocol, Questbook",
+      "CreatorOS",
+      "Bluecheck"
+    ],
+    "id": 23105,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1616635998,
+    "long_description": "Reclaim Protocol provides best in class conversion rates (45%+) on education, employment and retail loyalty verification. Global coverage, secure and privacy preserving.\r\n\r\n- Global coverage : Unlike most other vendors we are global by default. No matter where in the world the user is, we can verify.\r\n- It is 100% private : Neither you, nor us, see any private information about the user. So you carry no liabilities. No risk of your database getting hacked. \r\n- Best in class conversion : We have the highest conversion rates in the industry at 45%+ because users don't have to scramble for their documents to upload.\r\n- AI fraud resistant : All the verifications happen securely using cryptography that even the most advanced models cannot fake.\r\n\r\nTotal amount raised : $10M (Series A)",
+    "name": "Reclaim Protocol",
+    "nonprofit": false,
+    "one_liner": "Education, Employment, Loyalty verification. Global & Compliant.",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "reclaim-protocol",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [
+      "Identity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 17,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
+    "website": "https://reclaimprotocol.org"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/manara.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2408,7 +2462,7 @@
     "website": "https://crew.work/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Atherton, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Atherton, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/talentdrop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2585,20 +2639,20 @@
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/taro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2742,26 +2796,26 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1703103445,
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex interviews, screens, and schedules every candidate – over voice, video, and text – so talent teams hire more great people, faster, without adding TA headcount. The recruiter stays in control: every shortlist is approved by a human, and every relationship and offer is owned by the customer's team.\r\n\r\nWe're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
     "name": "Alex",
     "nonprofit": false,
-    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
+    "one_liner": "Alex is the AI recruiter for hiring great people.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "alex-com",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b76c25c75fac04ce234cc570b0dd988698507a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
@@ -2893,6 +2947,50 @@
     "website": "https://tweeks.io"
   },
   {
+    "all_locations": "Dubai, Dubai, United Arab Emirates",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/ovlo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Melly AI",
+      "Ovlo",
+      "Serno"
+    ],
+    "id": 30214,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1740586280,
+    "long_description": "Founder led hiring for London startups\r\n",
+    "name": "Ovlo",
+    "nonprofit": false,
+    "one_liner": "Founder led hiring for London startups",
+    "question_answers": false,
+    "regions": [
+      "United Arab Emirates",
+      "Middle East and North Africa"
+    ],
+    "slug": "ovlo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/132baabab2c2dd101f928b6f61adc1d4173a6ca6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ovlo",
+    "website": "https://ovlo.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/contrario.json",
     "app_answers": null,
@@ -2908,10 +3006,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1740035301,
-    "long_description": "Contrario is on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "long_description": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
     "name": "Contrario",
     "nonprofit": false,
-    "one_liner": "AI recruiting platform powered by expert recruiters",
+    "one_liner": "AI hiring platform powered by expert recruiters",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2930,54 +3028,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/contrario",
     "website": "https://contrario.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30255,
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1740018718,
-    "long_description": "",
-    "name": "Olive",
-    "nonprofit": false,
-    "one_liner": "Curated stories, every day",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "olive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "tags": [
-      "Productivity",
-      "Team Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/olive",
-    "website": "https://fromolive.com"
-  },
-  {
-    "all_locations": "",
+    "all_locations": "Leuven, Flanders, Belgium",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/spott.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2998,7 +3055,8 @@
     "one_liner": "AI-native ATS/CRM for recruiting firms",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Belgium",
+      "Europe"
     ],
     "slug": "spott",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
@@ -3013,53 +3071,13 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/spott",
     "website": "https://spott.io"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30796,
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1753159084,
-    "long_description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
-    "name": "Outrove",
-    "nonprofit": false,
-    "one_liner": "Ultra-realistic AI Recruiter",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "outrove",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "tags": [
-      "Recruiting",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/outrove",
-    "website": "https://www.outrove.ai/"
-  },
-  {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3091,17 +3109,49 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
-    "tags": [
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tryprism",
     "website": "https://tryprism.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/perfectly.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31153,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1768534230,
+    "long_description": "Perfectly is the first AI-native Recruiting OS.\r\n\r\nSince starting YC, we’re already helping top startups like Giga, Corgi, LlamaIndex, Porter, and dozens more hire faster.\r\n\r\nWe’re seeing:\r\n-> 4× faster hiring\r\n-> 10× candidate volume\r\n-> 2× higher interview pass rates\r\n\r\nBehind the scenes, it’s even more impressive:\r\n-> 20x higher recruiting efficiency: from 20 hours to 1 hour\r\n-> 250% higher candidate interview retention\r\n\r\nWe automate the entire recruiting function: sourcing, outreach, screening, and qualification. Interview ready candidates just show up in Slack. \r\n\r\nWe recently launched our recruiting agent Paul that provides each candidate white glove treatment so they're closed even before your offer call\r\n\r\nHiring should work like a recommendation system.\r\n\r\nLearn more now at perfectly.so\r\n",
+    "name": "Perfectly",
+    "nonprofit": false,
+    "one_liner": "The AI-native Recruiting OS",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "perfectly",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/perfectly",
+    "website": "https://www.perfectly.so/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3145,5 +3195,85 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/saffron",
     "website": "https://www.trysaffron.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/standout.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31402,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1773415057,
+    "long_description": "Standout gives every talent and company an autonomous agent that represents them, assess the other side, and makes intros when it matters.\r\n\r\nWhy it matters? Because this is hiring today:\r\n- Talent use AI to apply to 100s of jobs - this is spam.\r\n- Founders/Recruiting send 100s of AI-generated messages to hire the same talent - this is spam.\r\n\r\nThis has to stop.\r\n\r\nTalent stays fully anonymous until they accept an intro. The best way for passively exploring the market and not missing a life changing opportunity.\r\n\r\nIn 1 month, 10k talent / 60 companies / 100 intros.",
+    "name": "Standout",
+    "nonprofit": false,
+    "one_liner": "Agentic hiring marketplace",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "standout",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cae3b4c599e9e6ff92522ffbf541670c1a97669.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/standout",
+    "website": "https://standout.work"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Talentpluto"
+    ],
+    "id": 32526,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782230867,
+    "long_description": "Resumes made careers readable. LinkedIn made them filterable. Pluto makes them searchable.\r\n\r\nProfessionals spend 10 minutes talking to Pluto's voice agent about what they've done, what they're great at, and what they want next. Pluto turns that into a structured picture of who someone actually is, capturing the competency and intent that resumes and LinkedIn don't.\r\n\r\nWhen companies and AI agents go looking to hire, Pluto makes the right people discoverable.\r\n\r\n27K+ professionals have shared their career context with Pluto, and 50+ companies, including Mercor, Warp, and Rho, use it to find and reach the right people. Long-term, we're building the LinkedIn for agents.\r\n",
+    "name": "Pluto",
+    "nonprofit": false,
+    "one_liner": "LinkedIn for agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "talentpluto",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [
+      "AI",
+      "Careers",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/talentpluto",
+    "website": "https://talentpluto.com"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/cryptoseal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -43,7 +43,7 @@
     "website": "http://cryptoseal.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/mattermost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -135,7 +135,7 @@
     "website": "https://www.aptible.com"
   },
   {
-    "all_locations": "San Jose, CA, USA; Mountain View, CA, USA; Remote",
+    "all_locations": "Miami, FL, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mezmo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -226,7 +226,7 @@
     "website": "http://gitlab.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/teleport.json",
     "app_answers": null,
     "app_video_public": false,
@@ -314,7 +314,7 @@
     "website": "https://www.foxpass.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/armory.json",
     "app_answers": null,
     "app_video_public": false,
@@ -445,7 +445,7 @@
     "website": "https://www.sqreen.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Auckland, New Zealand",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/termius.json",
     "app_answers": null,
     "app_video_public": false,
@@ -466,6 +466,8 @@
     "one_liner": "Termius is an SSH client with team collaboration features",
     "question_answers": false,
     "regions": [
+      "New Zealand",
+      "Oceania",
       "Remote",
       "Partly Remote"
     ],
@@ -486,7 +488,7 @@
     "website": "https://termius.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Austin, TX, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/doppler.json",
     "app_answers": null,
     "app_video_public": false,
@@ -510,6 +512,8 @@
     "one_liner": "Secure secrets. Prevent breaches. Keep teams moving.",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -720,7 +724,7 @@
     "website": "http://fig.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/infield.json",
     "app_answers": null,
     "app_video_public": false,
@@ -807,7 +811,7 @@
     "website": "https://speedscale.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/nestybox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -887,7 +891,7 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/infracost",
     "website": "https://infracost.io"
@@ -939,7 +943,7 @@
     "website": "https://hoop.dev"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/cloudanix.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1012,7 +1016,7 @@
       "Partly Remote"
     ],
     "slug": "firezone",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d77ec2f6117521699894a917f49c85927da9cf8f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b332f151ea2bb27aee388d55b28c0e973525f259.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Security",
@@ -1030,7 +1034,7 @@
     "website": "https://www.firezone.dev"
   },
   {
-    "all_locations": "Asheville, NC, USA",
+    "all_locations": "Austin, TX, USA; Asheville, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/netmaker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1350,50 +1354,7 @@
     "website": "https://www.metalware.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 28957,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1688142176,
-    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "name": "Continue",
-    "nonprofit": false,
-    "one_liner": "Quality control for your software factory",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "continue",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "website": "https://continue.dev"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bitpatrol.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1434,7 +1395,7 @@
     "website": "https://www.bitpatrol.io/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1467,58 +1428,60 @@
     "subindustry": "B2B -> Security",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/alter",
-    "website": "https://alterai.dev"
+    "website": "https://alterauth.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30946,
+    "former_names": [
+      "Droid Factory"
+    ],
+    "id": 31506,
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1759606313,
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-    "name": "Sourcebot",
+    "launched_at": 1781726326,
+    "long_description": "Tolmo is an agent-driven security platform that secures every layer — code, CI, cloud applications at the speed of AI changes.\r\n\r\nCodebases are growing faster than ever, at a rate humans can’t keep up with. Tolmo deploys fleets of AI security agents on a live production knowledge graph that connects data from cloud services, containers, databases, and third-party providers (Observability, Security, etc.).\r\n\r\nTolmo agents triage, verify impact, and remediate security issues autonomously, escalating to humans only when truly necessary.",
+    "name": "Tolmo",
     "nonprofit": false,
-    "one_liner": "Helping humans and AI agents understand massive codebases",
+    "one_liner": "Tolmo is the AI security platform that secures every layer of cloud…",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "slug": "sourcebot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
+    "slug": "tolmo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b1fe60a254c3f83e0d218298337418aad753714.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Security",
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "DevSecOps",
-      "B2B",
-      "Open Source"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 12,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sourcebot",
-    "website": "https://www.sourcebot.dev/"
+    "url": "https://www.ycombinator.com/companies/tolmo",
+    "website": "https://www.tolmo.com"
   }
 ]

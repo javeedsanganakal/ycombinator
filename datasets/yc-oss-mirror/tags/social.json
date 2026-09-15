@@ -85,7 +85,7 @@
     "website": "http://familyleaf.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/grouper.json",
     "app_answers": null,
     "app_video_public": false,
@@ -249,7 +249,7 @@
     "website": "http://pagelever.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/messageparty.json",
     "app_answers": null,
     "app_video_public": false,
@@ -526,7 +526,7 @@
     "website": "http://tipjoy.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2006/omgpop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -689,7 +689,7 @@
     "website": "http://kippt.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/reelsurfer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -812,7 +812,7 @@
     "website": "http://www.datarank.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/yesgraph.json",
     "app_answers": null,
     "app_video_public": false,
@@ -852,7 +852,7 @@
     "website": "http://yesgraph.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/ebrandvalue.json",
     "app_answers": null,
     "app_video_public": false,
@@ -892,7 +892,7 @@
     "website": "https://www.ebrandvalue.com/"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/spoil.json",
     "app_answers": null,
     "app_video_public": false,
@@ -931,7 +931,7 @@
     "website": "https://www.spoil.co/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/chillabit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1058,7 +1058,7 @@
     "website": "https://www.tressapp.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/fam.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1232,7 +1232,7 @@
     "website": "https://polly.fun/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/rhythmm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1589,7 +1589,7 @@
     "website": "http://rune.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/basement.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1748,7 +1748,7 @@
       "America / Canada"
     ],
     "slug": "jamiphy",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09317586739566c757c55ea8bdc47bad8a30f174.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a989e6c7b77299d8e47c0afbbce8b8473904f5d.png",
     "stage": "Early",
     "status": "Inactive",
     "subindustry": "Consumer -> Social",
@@ -2131,14 +2131,15 @@
     "website": "https://jam.gg/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/dumps.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/here.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2020",
     "demo_day_video_public": false,
     "former_names": [
-      "Here"
+      "Here",
+      "Dumps"
     ],
     "id": 22184,
     "industries": [
@@ -2146,12 +2147,12 @@
       "Social"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1598328674,
-    "long_description": "Dumps is where friends connect through photos and chaotic messaging.  Our users crave an expressive, low-stakes place to share their lives and interact.\r\n",
-    "name": "Dumps",
+    "long_description": "Here is where friends feel close even if they're worlds away.  We do this by providing an infinite and interactive canvas where friends watch, play, decorate, draw and hang together, all powered by our own real-time video and voice technology.\r\n",
+    "name": "Here",
     "nonprofit": false,
-    "one_liner": "Where friends connect through photos and chaotic messaging",
+    "one_liner": "Where friends watch, play and hang together in digital rooms",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2159,10 +2160,10 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "dumps",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee8fa4e8cdd13c8d6bae87e084b05e8ca82a9be.png",
-    "stage": "Early",
-    "status": "Active",
+    "slug": "here",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4051bac362928f79cd906235f06326723eacc875.png",
+    "stage": "Growth",
+    "status": "Inactive",
     "subindustry": "Consumer -> Social",
     "tags": [
       "Consumer",
@@ -2173,8 +2174,8 @@
     "tags_highlighted": [],
     "team_size": 9,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dumps",
-    "website": "https://dumps.app"
+    "url": "https://www.ycombinator.com/companies/here",
+    "website": "https://here.fm"
   },
   {
     "all_locations": "Toronto, ON, Canada; Remote",
@@ -2265,7 +2266,7 @@
     "website": "https://sonar.app"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2538,7 +2539,7 @@
     "website": "https://Argo.LA"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/status.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2584,7 +2585,7 @@
     "website": "https://www.statusai.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/housewarming.json",
     "app_answers": null,
     "app_video_public": true,
@@ -2722,7 +2723,7 @@
     "website": "http://Holapana.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Paris, Île-de-France, France",
+    "all_locations": "São Paulo, SP, Brazil",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/jamble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2731,43 +2732,42 @@
     "former_names": [],
     "id": 27173,
     "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
+      "Consumer"
     ],
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1660193927,
-    "long_description": "Jamble is the new place to buy & sell secondhand fashion. We empower resellers with video & Live streaming tools to sell more effectively; and buyers with a unique compelling experience. Jamble is designed for the sustainable fashion community to engage, connect and inspire. We’re a mobile-first platform and launched on iOS! 👉 Check us out: https://apple.co/3Pfwran",
+    "long_description": "Jamble is a live shopping marketplace for collectibles in Brazil. Collectors discover products, meet sellers and buy together in interactive live shows, from Pokémon and other trading cards to Hot Wheels and diecast miniatures.\r\n\r\nBuyers see items live, ask questions and make offers in real time. Sellers turn their expertise and inventory into live storefronts, build an audience and grow a community of returning customers.\r\n\r\nJamble brings live video, chat, checkout, payments via PIX and cards, and tracked shipping into one app. Available on iOS and Android.\r\n\r\nExplore Jamble: https://www.jamble.com/",
     "name": "Jamble",
     "nonprofit": false,
-    "one_liner": "Fashion resale marketplace powered by live streaming and video",
-    "question_answers": false,
+    "one_liner": "Live shopping for collectibles in Brazil",
+    "question_answers": true,
     "regions": [
-      "United States of America",
-      "France",
-      "America / Canada",
-      "Europe"
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "jamble",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aafce3da646fb5bdc4a18a9ad09cd597e6540dba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8964c1f86d1269f9dbee0a1067368d0a96636bdc.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
+    "subindustry": "Consumer",
     "tags": [
       "Marketplace",
-      "Sustainable Fashion",
       "Consumer",
       "Social",
+      "E-commerce",
       "Creator Economy"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/jamble",
-    "website": "https://www.jambleapp.com/"
+    "website": "https://www.jamble.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/222.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2796,14 +2796,14 @@
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Marketplace",
       "Consumer",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 16,
+    "team_size": 23,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/222",
     "website": "https://222.place"
@@ -2826,7 +2826,7 @@
       "Social"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1708013970,
     "long_description": "Whip is a mobile app where you can create and discover interactive mini apps and games, we call them \"whips\". \r\n\r\nScroll a social feed of playable posts like trivia games, quizzes, polls, party games, and more. Build your own whip in the app and publish it on the feed in minutes. Discover, remix, like, and comment on whips built by others on the platform.\r\n\r\nwhip is built by the team behind tensorfuse",
     "name": "Whip",
@@ -2857,47 +2857,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dollyglot.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30198,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1741300119,
-    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
-    "name": "Dollyglot",
-    "nonprofit": false,
-    "one_liner": "Character.AI with real time video avatars",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "dollyglot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "Social",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dollyglot",
-    "website": "https://www.dollyglot.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/a1zap-by-a1base.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2913,7 +2872,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1740109834,
     "long_description": "The social network where people build things for each other\r\nCreate tools, games, chatbots, and interactive experiences - then share them instantly with your friends, your class, and your campus.",
     "name": "A1Zap by A1Base",
@@ -2958,7 +2917,7 @@
     "long_description": "",
     "name": "neoncoral",
     "nonprofit": false,
-    "one_liner": "🪸 AI consumer social ",
+    "one_liner": "",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2970,10 +2929,10 @@
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Social Media",
-      "Social",
-      "AI"
+      "Social"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -3113,5 +3072,134 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/digipals",
     "website": "https://www.digipals.app/"
+  },
+  {
+    "all_locations": "Irvine, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Korso",
+      "afterfive"
+    ],
+    "id": 31327,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1773339255,
+    "long_description": "The AI-native engineering team to help you ship at startup speeds.",
+    "name": "Korso",
+    "nonprofit": false,
+    "one_liner": "The AI-native agency",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "korso",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "Social"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "website": "https://korsoai.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31480,
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1778022680,
+    "long_description": "Pops lets people play, remix, and share AI games with friends.\r\n\r\nDiscover an infinite feed of games, challenges, quizzes, and other fun interactive experiences made by others. Every play instantly becomes a funny gameplay/reaction video you can send to friends, post online, or use to challenge someone to beat your score.\r\n\r\nFor creators, Pops makes it easier than ever to bring ideas to life and get them played. Instead of learning complex game engines, writing code, or fighting for distribution, anyone can create or remix a playable game in seconds. Bring your ideas, and Pops brings the audience.",
+    "name": "Pops",
+    "nonprofit": false,
+    "one_liner": "Create & play AI games with friends",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "pops",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Gaming",
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Gaming",
+      "Social"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pops",
+    "website": "https://pops.fyi"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/quippy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Quippy App, Inc."
+    ],
+    "id": 36940,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1787760832,
+    "long_description": "Quippy is a daily practice app for your social life. You run short, realistic practice conversations, like pushing back on a boss or talking during a first date, and get line-by-line feedback on what landed and what backfired. The curriculum adapts to each person's patterns, reshaping itself around their weak spots, ensuring steady improvement in the conversations that matter most.",
+    "name": "Quippy",
+    "nonprofit": false,
+    "one_liner": "Helps build social skills through daily practice",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "quippy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97c02b937035318f812614d4d9362e5c060a6f72.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Social",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/quippy",
+    "website": "https://quippyapp.com"
   }
 ]

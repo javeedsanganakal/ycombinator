@@ -10,15 +10,16 @@
   ],
   "id": 29328,
   "industries": [
-    "B2B"
+    "B2B",
+    "Infrastructure"
   ],
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1709806941,
-  "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
+  "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
   "name": "Guide Labs",
   "nonprofit": false,
-  "one_liner": "Interpretable AI models and agents",
+  "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
   "question_answers": false,
   "regions": [
     "United States of America",
@@ -28,10 +29,12 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
   "stage": "Early",
   "status": "Active",
-  "subindustry": "B2B",
-  "tags": [],
+  "subindustry": "B2B -> Infrastructure",
+  "tags": [
+    "Artificial Intelligence"
+  ],
   "tags_highlighted": [],
-  "team_size": 9,
+  "team_size": 6,
   "top_company": false,
   "url": "https://www.ycombinator.com/companies/guide-labs",
   "website": "https://www.guidelabs.ai/"

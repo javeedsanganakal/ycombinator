@@ -39,7 +39,7 @@
     "website": "https://playment.io/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Austin, TX, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dinesafe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -98,7 +98,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1541050478,
     "long_description": "The best AI models aren’t just trained and evaluated with human data; they’re built with superhuman data. The strongest datasets emerge through collective intelligence, where humans and machines work together to outperform either one alone. At Centaur, we create superior quality data by turning annotation into an arena where experts and AI compete.",
     "name": "Centaur",
@@ -157,7 +157,7 @@
       "America / Canada"
     ],
     "slug": "design-arena",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ac909ee76924412f3072f355a4f8129e69e1478.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
@@ -171,5 +171,53 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/design-arena",
     "website": "https://www.designarena.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Hub",
+      "Hub.xyz"
+    ],
+    "id": 31375,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1773429014,
+    "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
+    "name": "Hub",
+    "nonprofit": false,
+    "one_liner": "Real-world training data for frontier AI labs and robotics.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "hub",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Robotics",
+      "Crowdsourcing",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hub",
+    "website": "https://hub.xyz"
   }
 ]

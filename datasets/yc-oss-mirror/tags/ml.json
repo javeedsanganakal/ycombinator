@@ -85,49 +85,7 @@
     "website": "http://skyways.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2018",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 1891,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1524539154,
-    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "name": "Klarity",
-    "nonprofit": false,
-    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "klarity",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "Artificial Intelligence",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "team_size": 128,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/klarity",
-    "website": "http://klarity.ai"
-  },
-  {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "Seoul, Seoul, South Korea",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/superb-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -148,8 +106,8 @@
     "one_liner": "Superb AI provides end-to-end computer vision MLOps platform",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "South Korea",
+      "East Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -160,13 +118,13 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/superb-ai",
     "website": "https://www.superb-ai.com"
@@ -276,16 +234,16 @@
     ],
     "id": 25402,
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Drones"
     ],
-    "industry": "B2B",
+    "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1643295526,
-    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
     "name": "Rownd",
     "nonprofit": false,
-    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -297,11 +255,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Industrials -> Drones",
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "Drones",
       "Open Source",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -326,7 +284,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1642021051,
     "long_description": "Emobi is a unified legal, financial, and technical infrastructure that delivers seamless, secure, and reliable EV charging across networks—powering apps, fleets, and automakers while maximizing charger utilization. Our secure, fully automated charging technology, JustPlug, works instantly with no special hardware, software, or setup, making EV charging effortless.\r\n\r\nWith 122,000+ EV chargers integrated across the U.S. and Canada, Emobi is recognized as the largest EV charging ecosystem in North America. Backed by two provisional patents and 15+ enterprise customers, Emobi's technology is also trusted by the Department of Energy (DoE) and the Department of Transportation (DoT). To learn more, visit www.emobi.ai.",
     "name": "Emobi",
@@ -356,7 +314,50 @@
     "website": "https://www.emobi.ai"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/two-dots.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 26704,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1652906962,
+    "long_description": "We're building an AI consumer underwriting automation agent. ",
+    "name": "Two Dots",
+    "nonprofit": false,
+    "one_liner": "AI fraud prevention and underwriting agent",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "two-dots",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c738449ceac7bc3068c3a0510a285b6078503d.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Real Estate",
+      "B2B",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 28,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/two-dots",
+    "website": "https://www.twodots.com"
+  },
+  {
+    "all_locations": "San Diego, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/elythea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -485,7 +486,7 @@
     "website": "https://www.truemetrics.io/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/dragoneye.json",
     "app_answers": null,
     "app_video_public": false,
@@ -545,24 +546,24 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1722617907,
-    "long_description": "RunLocal is the first AI-native platform for optimizing ML model inference on edge hardware (like Nvidia Orin and Qualcomm)\r\n\r\nOur AI agent automates on-device model performance debugging and optimization. Our web platform replaces brittle validation scripts and manual experiment tracking.\r\n\r\nWith RunLocal, you deploy more capable/efficient models on your target hardware with a fraction of the engineering effort.\r\n\r\nWe’re working with market-leaders in autonomous vehicles, robotics, drones and smart cameras. We're backed by investors like Y Combinator and 468 Capital.",
+    "long_description": "RunLocal is an environment that specializes AI agents to optimize model for onboard compute platforms like NVIDIA Orin/Thor and Qualcomm → www.runlocal.ai\r\n\r\nRunLocal is built for Physical AI engineering teams across autonomous vehicles, robotics, smart cameras and more.\r\n\r\nIt tracks every experiment and continuously refines experimentation data into an understanding of what drives performance on your target hardware.\r\n\r\nThis environment means that a generic coding agent (e.g. Codex or Claude Code) can experiment and iterate better, faster and cheaper. \r\n\r\nWith RunLocal, you hit performance targets faster and ship more optimized models – without hiring inference optimization specialists. \r\n\r\nWe’re working with leaders in autonomous vehicles and robotics. We're backed by investors like Y Combinator and 468 Capital.",
     "name": "RunLocal AI",
     "nonprofit": false,
-    "one_liner": "The first AI agent for optimizing ML model inference on edge hardware",
+    "one_liner": "AI agent that optimizes inference for embedded compute like Jetson",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
     "slug": "runlocal-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c096a99a018da47706cb093bff201df7e6cbd6d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Computer Vision",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -593,11 +594,13 @@
     "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
     "name": "Pipeshift",
     "nonprofit": false,
-    "one_liner": "Inference for real-time agents",
+    "one_liner": "Ultra-low latency inference cloud for real-time workloads",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "pipeshift",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
@@ -616,6 +619,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pipeshift",
     "website": "https://pipeshift.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/feyn.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Chonkie"
+    ],
+    "id": 30431,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1741421145,
+    "long_description": "Feyn is an end-to-end service for building custom models from your data. Our models learn how your product actually works, handle the rare cases that are costly to get wrong, and grow sharper the longer they run.\r\n\r\nOur engineers start by reviewing your current setup and agreeing on what quality means for your workflow. Then we train a model on your data. Once it ships, new cases feed back into training so the model keeps improving. \r\n\r\nThe result is a model that runs faster, improves with use, and is yours to own.",
+    "name": "Feyn",
+    "nonprofit": false,
+    "one_liner": "Custom models trained on your data",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "feyn",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7711f83eeb988737aadd19d8943c753d2e4085f4.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/feyn",
+    "website": "https://www.usefeyn.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -650,13 +697,13 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Data Labeling",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cartpole",
     "website": "https://cartpole.com"
@@ -692,14 +739,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Aerospace",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/godela",
     "website": "http://godela.ai"
@@ -748,89 +795,128 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/netter.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "Netter AI"
-    ],
-    "id": 31221,
+    "former_names": [],
+    "id": 31516,
     "industries": [
       "B2B",
-      "Analytics"
+      "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1778028550,
-    "long_description": "Netter centralizes and structures traditional mid-market data to deploy analytics, workflows and ML pipelines.\r\n- A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.\r\n- A logistics operator had trucks running empty. Netter connected their TMS, ERP and fleet data, and automated route and load optimization. Less fuel, better margins.\r\n- A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.\r\n",
-    "name": "Netter",
+    "launched_at": 1777849866,
+    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
+    "name": "Expanse",
     "nonprofit": false,
-    "one_liner": "Data Science Autopilot for the real economy. ",
+    "one_liner": "Unlock wasted GPU capacity.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "netter",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2e86ec70fa3e3c6a1b8dc9f39e6aa2b5b7b5952.png",
+    "slug": "expanse",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Workflow Automation",
-      "Big Data",
-      "AI",
+      "Deep Learning",
+      "B2B",
+      "Infrastructure",
       "ML"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/netter",
-    "website": "https://netter.ai"
+    "url": "https://www.ycombinator.com/companies/expanse",
+    "website": "https://expanse.sh"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/datoric.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orchestra.json",
     "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
+    "app_video_public": true,
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Flow AI",
-      "Arzule"
+      "Understudy Labs"
     ],
-    "id": 31223,
+    "id": 32167,
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1767154035,
-    "long_description": "",
-    "name": "Datoric",
+    "launched_at": 1783740567,
+    "long_description": "Orchestra is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nOrchestra observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Orchestra starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Orchestra because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
+    "name": "Orchestra",
     "nonprofit": false,
-    "one_liner": "Responsibly sourced data for multimodal AI",
+    "one_liner": "Self-optimizing neocloud that cuts LLM costs by 100x",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "datoric",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+    "slug": "orchestra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900e0fabf138d248123ff3ddf28833736fbfb71d.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Data Labeling",
+      "Artificial Intelligence",
+      "Open Source",
       "AI",
       "ML"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/datoric",
-    "website": "https://www.datoric.com"
+    "url": "https://www.ycombinator.com/companies/orchestra",
+    "website": "https://orchestra.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-agentic-data-co.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37566,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788964517,
+    "long_description": "We design and collect audio datasets for training speech models.",
+    "name": "The Agentic Data Co.",
+    "nonprofit": false,
+    "one_liner": "Training Data For Speech Models.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "the-agentic-data-co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ebbcacfd48c52bf6fc298c17ddf035a00bbc08.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Conversational AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/the-agentic-data-co",
+    "website": "https://theagenticdatacompany.com"
   }
 ]

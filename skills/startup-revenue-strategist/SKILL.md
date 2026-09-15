@@ -34,6 +34,7 @@ Read only the references required for the request:
 - When researching or citing playbooks and benchmarks, read [sources.md](references/sources.md).
 - When the user asks for tools, reference implementations, technical patterns, or a startup stack, read the relevant section of the [startup knowledge base](../../startup-library/knowledge-base/README.md) and verify current project status at the primary source.
 - When the user needs execution documents rather than advice alone, adapt the relevant artifact from the [startup templates](../../startup-library/templates/README.md); preserve evidence labels, owners, dates, metric definitions, and decision rules.
+- When Stanford or Y Combinator material, startup examples, or comparable companies would improve the answer, use the [Stanford and YC map](../../startup-library/knowledge-base/stanford-and-yc.md) and [YC dataset research guide](../../datasets/yc-research-guide.md); verify time-sensitive claims against official primary sources.
 
 ## Core workflow
 

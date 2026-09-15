@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Chicago, IL, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/zerocater.json",
     "app_answers": null,
     "app_video_public": false,
@@ -45,7 +45,7 @@
     "website": "http://zerocater.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/spero-foods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -143,7 +143,7 @@
       "Food and Beverage"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1546662795,
     "long_description": "At Shef, we’re bringing humanity back to mealtime by connecting consumers with talented chefs in their community. By introducing the sharing economy to the dinner table, we create meaningful economic opportunities for chefs while making homemade meals more accessible and affordable. Shefs on the platform craft menus inspired by their passion and expertise, preparing meals in small batches and delivering them to your door—so you can enjoy the warmth of a homemade meal without the hassle.\r\n\r\nWe have raised over $100M from investors including Andreessen Horowitz, Y Combinator, Craft Ventures, and M13, as well as founders and executives from Instacart, TaskRabbit, StubHub, AngelList, Lyft, Airbnb, and Yelp.",
     "name": "Shef",
@@ -268,7 +268,7 @@
     "website": "https://swadesiway.com/"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/locale.json",
     "app_answers": null,
     "app_video_public": false,
@@ -396,49 +396,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/chow-central-inc",
     "website": "https://chowcentral.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Paper Star"
-    ],
-    "id": 31427,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1775700750,
-    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
-    "name": "Napkin Math",
-    "nonprofit": false,
-    "one_liner": "Building Napkin Math, hyper-personalized AI food journal",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "napkin-math",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Fitness",
-      "Digital Health",
-      "Food"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/napkin-math",
-    "website": "https://napkinmath.club"
   }
 ]

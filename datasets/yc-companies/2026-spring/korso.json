@@ -1,37 +1,39 @@
 {
-  "all_locations": "San Francisco, CA, USA",
+  "all_locations": "Irvine, CA, USA",
   "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json",
   "app_answers": null,
   "app_video_public": false,
   "batch": "Spring 2026",
   "demo_day_video_public": false,
-  "former_names": [],
+  "former_names": [
+    "Korso",
+    "afterfive"
+  ],
   "id": 31327,
   "industries": [
-    "B2B",
-    "Operations"
+    "B2B"
   ],
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1773339255,
-  "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+  "long_description": "The AI-native engineering team to help you ship at startup speeds.",
   "name": "Korso",
   "nonprofit": false,
-  "one_liner": "The Intelligence Layer for Manufacturing.",
-  "question_answers": true,
+  "one_liner": "The AI-native agency",
+  "question_answers": false,
   "regions": [
     "United States of America",
     "America / Canada"
   ],
   "slug": "korso",
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
   "stage": "Early",
   "status": "Active",
-  "subindustry": "B2B -> Operations",
+  "subindustry": "B2B",
   "tags": [
-    "Artificial Intelligence",
     "SaaS",
-    "Manufacturing"
+    "Consumer",
+    "Social"
   ],
   "tags_highlighted": [],
   "team_size": 3,

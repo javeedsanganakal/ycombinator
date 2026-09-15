@@ -75,6 +75,7 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Advanced Materials",
+      "Defense",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -84,7 +85,7 @@
     "website": "http://www.alchemynano.com"
   },
   {
-    "all_locations": "Richmond, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/maple-materials.json",
     "app_answers": null,
     "app_video_public": false,
@@ -185,7 +186,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1757191317,
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "name": "Duranium",
@@ -207,138 +208,177 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/duranium",
     "website": "https://www.duranium.co/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kara.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31294,
+    "id": 32137,
     "industries": [
-      "Industrials",
-      "Aviation and Space"
+      "Industrials"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1773166639,
-    "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
-    "name": "Dispatch",
+    "launched_at": 1785349021,
+    "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "name": "Kara",
     "nonprofit": false,
-    "one_liner": "Satellites for manufacturing in space",
+    "one_liner": "Making Diamond Semiconductors",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "dispatch",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
+    "slug": "kara",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
+    "subindustry": "Industrials",
     "tags": [
+      "Hardware",
+      "B2B",
       "Manufacturing",
-      "Aerospace",
       "Advanced Materials"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dispatch",
-    "website": "https://dispatch.space/"
+    "url": "https://www.ycombinator.com/companies/kara",
+    "website": "https://karalabs.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/83-sciences.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "MatForge",
-      "Matforge"
+      "LabAlly",
+      "83 sciences"
     ],
-    "id": 31362,
+    "id": 33056,
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1773874719,
-    "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
-    "name": "matforge",
+    "isHiring": true,
+    "launched_at": 1783362788,
+    "long_description": "83 Sciences uses AI to mine discarded experimental data and drive scientific breakthroughs. Working alongside labs, we discover the materials that will power the new Industrial Revolution.",
+    "name": "83 Sciences",
     "nonprofit": false,
-    "one_liner": "AI scientists to discover semiconductor materials",
+    "one_liner": "AI-native materials discovery powered by unpublished experimental data",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "matforge",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "slug": "83-sciences",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c94ab9737bf76c36b1cbac477c55b5067788ed.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
+      "Hard Tech",
       "Advanced Materials",
-      "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/matforge",
-    "website": "https://matforge.ai/"
+    "url": "https://www.ycombinator.com/companies/83-sciences",
+    "website": "https://83sciences.ai"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/madrone.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31399,
+    "id": 35652,
     "industries": [
       "Industrials",
-      "Energy"
+      "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1778520435,
-    "long_description": "Madrone builds cooling systems for data centers. In Texas, where most new sites are, Madrone can cool using 30% less power and water, thanks to novel dew-point cooling technology. ",
-    "name": "Madrone",
+    "launched_at": 1788918386,
+    "long_description": "Every instance of intelligence occurring in nature is embodied. Scientific intelligence is no different. We are building general-purpose robotic experimentalists: systems that unite scientific reasoning and physical action to iterate toward discovery by observing, hypothesizing and experimenting.",
+    "name": "SuperRadiant",
     "nonprofit": false,
-    "one_liner": "Maximizing compute via hyper-efficient cooling",
+    "one_liner": "Embodied Scientific Intelligence",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "madrone",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e3bc19e9055d8345250c7f097d06dc514f21674.png",
+    "slug": "superradiant",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Hardware",
-      "Climate",
+      "Robotics",
+      "Energy",
       "Advanced Materials",
       "AI",
-      "Industrial"
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/superradiant",
+    "website": "https://superradiant.co"
+  },
+  {
+    "all_locations": "El Segundo, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sinter-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36708,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788569774,
+    "long_description": "Sinter is creating a faster and radically more affordable American plastics pipeline, helping iteration heavy hardware teams evolve from additive prototypes to production parts on week-scale timelines.",
+    "name": "Sinter",
+    "nonprofit": false,
+    "one_liner": "Accelerating scaled plastics with additive technologies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sinter-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "3D Printing",
+      "Manufacturing",
+      "Advanced Materials"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/madrone",
-    "website": "https://madrone.cool/"
+    "url": "https://www.ycombinator.com/companies/sinter-systems",
+    "website": "https://sinter.systems"
   }
 ]

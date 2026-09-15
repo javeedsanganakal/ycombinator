@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/mosaicvoice.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40,6 +40,55 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mosaicvoice",
     "website": "https://mosaicvoice.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/sigmamind-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PayO (Neo Trade",
+      "Inc.)",
+      "PayO",
+      "Sigma AI"
+    ],
+    "id": 26693,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1653235676,
+    "long_description": "SigmaMind AI is a platform for building voice AI agents purpose-built for call centers. Our agents make and answer calls for lead generation, appointment setting, follow-ups, collections, customer intake, and basic support. Instead of replacing the phone systems a center already uses, we connect on top of them. Because the AI handles many calls at once, a call center can reach far more people than a human team, lower its cost per lead, and stop wasting agent time on calls that go nowhere. Our customers are usually non-technical operators running centers with 25 or more agents, with the strongest traction in insurance, home services, solar, and lending.",
+    "name": "SigmaMind AI",
+    "nonprofit": false,
+    "one_liner": "Voice AI platform purpose-built for contact centers.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "sigmamind-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4857d95e94326dab2796fc4935e39cb912bd34e3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Call Center",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 12,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sigmamind-ai",
+    "website": "https://sigmamind.ai?utm_source=yc&utm_medium=web"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -164,12 +213,12 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Call Center",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/domu-technology-inc",
     "website": "https://www.domu.ai/"
@@ -212,7 +261,7 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dodo",
     "website": "https://www.dodo.ai/"
@@ -352,48 +401,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/caseflood-ai",
     "website": "https://caseflood.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31416,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773416869,
-    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
-    "name": "Callab AI",
-    "nonprofit": false,
-    "one_liner": "AI voice agents for enterprise telephony systems.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "callab-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa8adf98dd895cf00084bc119e643a0794f80959.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Call Center"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/callab-ai",
-    "website": "https://callab.ai"
   }
 ]

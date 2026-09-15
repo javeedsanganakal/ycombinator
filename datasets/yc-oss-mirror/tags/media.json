@@ -27,7 +27,7 @@
       "America / Canada"
     ],
     "slug": "loom",
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a80fafdfab999a01d1063075c4af81677d42b1dc.png",
     "stage": "Early",
     "status": "Acquired",
     "subindustry": "Consumer -> Content",
@@ -123,7 +123,7 @@
     "website": "https://www.upbeatpr.com/"
   },
   {
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2010/all-screen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -284,7 +284,7 @@
     "website": "http://omnisio.com"
   },
   {
-    "all_locations": "Burlingame, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Burlingame, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2007/zumodrive.json",
     "app_answers": null,
     "app_video_public": false,
@@ -568,7 +568,7 @@
     "website": "http://techinasia.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/blitz-esports.json",
     "app_answers": null,
     "app_video_public": false,
@@ -824,7 +824,7 @@
     "website": "https://www.demeanor.co"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/ixora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -866,7 +866,7 @@
     "website": "http://www.ixora.org"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/mofe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -910,7 +910,7 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/plotdrive.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/figments.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
@@ -918,7 +918,8 @@
     "former_names": [
       "Figments",
       "Wordloops",
-      "Heroic Story"
+      "Heroic Story",
+      "Plotdrive"
     ],
     "id": 12536,
     "industries": [
@@ -927,10 +928,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1556041719,
-    "long_description": "Plotdrive is the first continuous production system for narrative — infrastructure that transforms how long-form stories move from imagination to completion. Most books don’t fail for lack of talent; they fail when the workflow collapses somewhere between page 80 and page 300.\r\n\r\nFounded by brothers with backgrounds in high-stakes poker, VR, and narrative systems, we built what we couldn’t find: an engine that holds the entire shape of a story while authors work inside it. Writers see 5-10× gains in throughput without losing their voice. Manuscripts that sat untouched for years finally reach the finish line. Authors are using Plotdrive to break decade-long blocks. Publishers are using it to rethink how story pipelines should operate when continuity, context, and editorial craft can finally scale.\r\n\r\nThe printing press made distribution industrial. We’re making completion industrial — creating the foundational layer for how narrative gets made at scale.",
-    "name": "Plotdrive",
+    "long_description": "Figments explored what happens when technology rewrites the rules of storytelling.\r\nOver seven years we built narrative games, virtual influencers, AI characters, creative tools, and eventually Plotdrive, an AI writing engine for long form storytelling. Each product explored a different piece of how stories are imagined, created, and shared as technology transformed creative work.",
+    "name": "Figments",
     "nonprofit": false,
-    "one_liner": "AI that remembers your book and helps you finish it",
+    "one_liner": "Building worlds at technological inflection points",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -938,22 +939,22 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "plotdrive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png",
+    "slug": "figments",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f35d52529ebe555a6a00fb848d9ce2166707cbd.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Media",
       "Creator Economy",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/plotdrive",
+    "url": "https://www.ycombinator.com/companies/figments",
     "website": "https://plotdrive.com"
   },
   {
@@ -1046,7 +1047,7 @@
     "website": "https://eternal.gg/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gigs-live.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1088,8 +1089,8 @@
     "website": "https://gigs.live"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d-labs.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
@@ -1103,7 +1104,9 @@
       "TutorAI.me",
       "QuickVid.ai",
       "QuickVid",
-      "True3D"
+      "True3D",
+      "True3D Labs",
+      "Outpaint.com"
     ],
     "id": 22880,
     "industries": [
@@ -1111,36 +1114,36 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614739771,
-    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
-    "name": "True3D Labs",
+    "long_description": "We're a research lab building foundation models and products for what comes after flat video.",
+    "name": "True3D",
     "nonprofit": false,
-    "one_liner": "AI that expands any video to fit any screen.",
+    "one_liner": "Building the next generation of visual media",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "true3d-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
+    "slug": "true3d",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a242a0c2ce6b1ca1518d1744187f98a3bf8eade9.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Media",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "website": "https://true3d.com/"
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "website": "https://www.true3d.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Miami, FL, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/litnerd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1185,7 +1188,7 @@
     "website": "https://litnerd.com/"
   },
   {
-    "all_locations": "Gold Coast, QLD, Australia",
+    "all_locations": "Brisbane, QLD, Australia; Gold Coast, QLD, Australia",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/boardcave.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1225,6 +1228,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/boardcave",
     "website": "http://www.boardcave.com"
+  },
+  {
+    "all_locations": "Mumbai, MH, India",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/craze.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 26739,
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1659184640,
+    "long_description": "Craze is the AI video agent that plans, edits and turns creative direction into tasteful videos people actually watch.",
+    "name": "Craze",
+    "nonprofit": false,
+    "one_liner": "The AI Video Maker",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "craze",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5c0add505f7307410cfab6e36c9a7df97ce8d5d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Content",
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/craze",
+    "website": "https://www.craze.ai/?utm_source=yc"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1270,7 +1314,7 @@
     "website": "http://www.trycoil.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/storyboarder.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1417,14 +1461,16 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1702093402,
-    "long_description": "Magic Hour is a professional video creation tool. \r\n\r\nIt takes the best AI video models, puts them in one workflow, and makes creating an amazing video as easy as selecting a template and customizing it.\r\n\r\nYou can use the product at https://magichour.ai",
+    "long_description": "Magic Hour is a browser-based creative platform and API for generating and editing video, images, and audio. Creators and teams use more than 100 tools, including face swap, lip sync, image-to-video, text-to-video, image editing, and voice generation. Developers integrate the same capabilities through our REST API, official SDKs, and hosted MCP server.",
     "name": "Magic Hour",
     "nonprofit": false,
-    "one_liner": "Platform for AI video generation.",
+    "one_liner": "AI media creation platform for creators and developers",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "magic-hour",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57875ffefcede579f19a1952d91ce8fd43305cc7.png",
@@ -1432,10 +1478,10 @@
     "status": "Active",
     "subindustry": "Consumer -> Content",
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
+      "Generative AI",
       "Video",
       "Media",
+      "API",
       "Creator Economy"
     ],
     "tags_highlighted": [],
@@ -1467,9 +1513,7 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "comfy-deploy",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a731bcc797807541c6c51d10993125ff2f77823.png",
@@ -1546,7 +1590,7 @@
       "Content"
     ],
     "industry": "Consumer",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1721766905,
     "long_description": "Overlap builds multimodal AI agents that can do literally anything you want related to video, such as finding specific moments, generating clips, or analyzing your video library. \r\n\r\nWhat takes media companies thousands of hours, we do in seconds. ",
     "name": "Overlap",
@@ -1575,7 +1619,7 @@
     "website": "https://www.overlap.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Denver, CO, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/darkgrade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1609,11 +1653,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Social Media",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -1637,10 +1681,10 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1731522844,
-    "long_description": "Diffusion Studio Pro is a browser based non-linear editor (NLE) that uses WebCodecs and WebGPU to deliver smooth, pro level performance. It brings the modern UX of tools like Figma and Framer to video editing, making it easy for anyone to create professional content.",
+    "long_description": "Diffusion Studio lets your agents make videos. The agent writes a composition in TSX and mounts it into the editor. Every element stays editable. Think of it as FFmpeg for agents, with generative AI and multimodal understanding built in.",
     "name": "Diffusion Studio",
     "nonprofit": false,
-    "one_liner": "Professional-grade video editing, in your browser.",
+    "one_liner": "Turn your agent into a professional video editor",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1649,7 +1693,7 @@
       "Fully Remote"
     ],
     "slug": "diffusion-studio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6f433de4b4c642c9311574e0d72dda2296ffd27.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6afcff2711f9441590b0357af0a3115ddece5ad.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Content",
@@ -1661,142 +1705,10 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/diffusion-studio",
     "website": "https://diffusion.studio/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/prism.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Prism AI"
-    ],
-    "id": 30492,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1745261196,
-    "long_description": "Prism is a platform for making short-form videos with AI.",
-    "name": "Prism",
-    "nonprofit": false,
-    "one_liner": "AI for the next generation of media",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "prism",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Generative AI",
-      "Video",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/prism",
-    "website": "https://prismvideos.com/"
-  },
-  {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/theinterface.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Preempt",
-      "The Interface"
-    ],
-    "id": 30686,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": true,
-    "launched_at": 1754968088,
-    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
-    "name": "Interface",
-    "nonprofit": false,
-    "one_liner": "The world model research lab",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "theinterface",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/theinterface",
-    "website": "https://www.theinterface.com"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-inc.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Auler"
-    ],
-    "id": 30857,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1761607655,
-    "long_description": "Aspect helps creative teams consolidate 5 media tools into one platform. We provide everything a media team needs: file ingest, local file streaming, review and approval, sharing, and archiving. \r\n\r\nAspect workspaces come with an agent that has complete understanding of your asset library including comments and revisions. Ask the agent to complete any task in the background: searching for files, setting up folder structures, labeling and organizing footage, and much more.\r\n\r\nCheck out aspect.inc/use-cases to see how different media teams use Aspect to deliver content faster.",
-    "name": "Aspect",
-    "nonprofit": false,
-    "one_liner": "Intelligent media storage for creative teams.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "aspect-inc",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/aspect-inc",
-    "website": "https://aspect.inc"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1812,7 +1724,7 @@
       "Content"
     ],
     "industry": "Consumer",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1759263547,
     "long_description": "Koyal is an Agentic AI Filmmaking Platform that allows you to seamlessly convert script or audio into personalized, visually compelling stories. We’re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We’ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world’s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
     "name": "Koyal",
@@ -1844,7 +1756,7 @@
     "website": "https://koyal.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/absurd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1861,10 +1773,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760446134,
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
+    "long_description": "Absurd is an online whiteboard for filmmakers working with AI.\r\n\r\nWe use it for our own work: our Kalshi spot \"Election Day\" did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nTry it at absurd.com",
     "name": "Absurd",
     "nonprofit": false,
-    "one_liner": "AI Videos",
+    "one_liner": "The Creative OS for AI video",
     "question_answers": false,
     "regions": [
       "United States of America",

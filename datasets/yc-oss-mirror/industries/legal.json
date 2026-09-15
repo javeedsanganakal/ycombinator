@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA; Burlingame, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/clerky.json",
     "app_answers": null,
     "app_video_public": false,
@@ -37,7 +37,7 @@
       "LegalTech"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/clerky",
     "website": "https://www.clerky.com"
@@ -209,7 +209,7 @@
     "website": "http://rossintelligence.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/jeugene.json",
     "app_answers": null,
     "app_video_public": false,
@@ -379,7 +379,7 @@
     "website": "http://www.atrium.co"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/regology.json",
     "app_answers": null,
     "app_video_public": false,
@@ -412,7 +412,7 @@
     "slug": "regology",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4e59148374543e5853a9de0a3bbd86ccab2246e.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Legal",
     "tags": [
       "Legal",
@@ -518,7 +518,7 @@
     "website": "https://axdraft.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/draftwise.json",
     "app_answers": null,
     "app_video_public": false,
@@ -564,13 +564,15 @@
     "website": "https://www.draftwise.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story-compare.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Version Story"
+    ],
     "id": 22790,
     "industries": [
       "B2B",
@@ -579,31 +581,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1616475139,
-    "long_description": "Version Story tackles the inefficient and risky process of managing legal document versions that plagues legal teams. Inspired by powerful software development tools like GitHub, Version Story's visual platform provides intuitive version control and redlining, freeing lawyers to focus on high-value work instead of file management.",
-    "name": "Version Story",
+    "long_description": "Version Story is Git for Lawyers, offering a suite of deterministic tools — compare, merge, rebase, etc. — via MCP and REST API. Easy to embed in Claude or in custom applications.",
+    "name": "Version Story Compare",
     "nonprofit": false,
-    "one_liner": "GitHub for lawyers",
+    "one_liner": "Git for Lawyers — now within Claude",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "version-story",
+    "slug": "version-story-compare",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 30,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/version-story",
+    "url": "https://www.ycombinator.com/companies/version-story-compare",
     "website": "https://versionstory.com/"
   },
   {
@@ -737,7 +739,7 @@
     "website": "https://pactima.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/dioptra.json",
     "app_answers": null,
     "app_video_public": false,
@@ -824,7 +826,53 @@
     "website": "https://www.lexter.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/cobbery.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ultimate Tournament",
+      "Inc.",
+      "Ultimate Tournament",
+      "Tangia"
+    ],
+    "id": 27039,
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1653598743,
+    "long_description": "Born out of 9-figure litigation, Cobbery AI agents are staffed on every matter to give your litigation teams superpowers",
+    "name": "Cobbery",
+    "nonprofit": false,
+    "one_liner": "Superpowers for litigators",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "cobbery",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77230af72102ed90cdbe2e9c55a7bb68f65b9b9b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Legal",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/cobbery",
+    "website": "https://cobbery.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/datasuite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -964,7 +1012,7 @@
     "website": "https://withedge.com"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/solve-intelligence.json",
     "app_answers": null,
     "app_video_public": false,
@@ -979,7 +1027,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1686701574,
-    "long_description": "Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process.\r\n\r\nWith $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more.\r\n\r\nThey are now selling their 100% secure and confidential software to 500+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers).\r\n\r\nSolve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials).\r\n\r\nSee a demo today: https://www.solveintelligence.com/contact-us",
+    "long_description": "Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process.\r\n\r\nWith $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more.\r\n\r\nThey are now selling their 100% secure and confidential software to 700+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers).\r\n\r\nSolve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials).\r\n\r\nSee a demo today: https://www.solveintelligence.com/contact-us",
     "name": "Solve Intelligence",
     "nonprofit": false,
     "one_liner": "AI patent drafting, prosecution, litigation and more for legal teams.",
@@ -995,13 +1043,13 @@
     "subindustry": "B2B -> Legal",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 43,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/solve-intelligence",
     "website": "https://www.solveintelligence.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/docsum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1046,7 +1094,7 @@
     "website": "https://www.docsum.ai/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1092,7 +1140,7 @@
     "website": "https://www.pincites.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/inlet-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1116,7 +1164,8 @@
     "one_liner": "AI timekeeping for legal professionals.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "inlet-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/947ea79d41ed24389e0a80ad75da05f02c0c5dd7.png",
@@ -1266,7 +1315,7 @@
     "website": "https://www.tryabel.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tower.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1287,7 +1336,7 @@
     "one_liner": "M&A due diligence platform powered by AI",
     "question_answers": true,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada"
     ],
     "slug": "tower",
@@ -1434,7 +1483,7 @@
       "LegalTech"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ai-2",
     "website": "https://www.tryandai.com/"
@@ -1453,19 +1502,19 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1725406800,
-    "long_description": "Rescript helps regulatory compliance and advocacy teams effortlessly track the constant stream of legal developments to always stay ahead and compliant. Rescript intelligently scans the web and analyzes regulatory changes and emerging issues, enabling teams to respond proactively and efficiently. Rescript helps Fortune 100 compliance officers juggling multi-state regulations, lobbyists tracking late-night amendments on the Hill, and trade association analysts scanning dozens of agencies at once. We’re profitable and backed by seed funding from YC, General Catalyst, and Floodgate. ",
+    "long_description": "Rescript is using AI to make the law transparent, accessible, and easy to act on. Laws and regulations differ across jurisdictions and are constantly changing, making them too complex for organizations to review and track manually at scale. We're building an agentic AI platform capable of aggregating and interpreting global regulations, tracking how they change, and identifying how organizations should respond. \r\n\r\nOur customers span AmLaw100 law firms, Fortune 100 corporations, and top trade associations across healthcare, retail, fintech and more. They depend on Rescript to help them comply with and act on an ever-changing regulatory landscape from the federal level down to individual cities.  \r\n\r\nWe're backed by YC, General Catalyst, and Floodgate. ",
     "name": "Rescript",
     "nonprofit": false,
-    "one_liner": "AI Regulatory Analyst for Enterprises",
+    "one_liner": "AI for Legal & Public Policy Teams",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "rescript",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d14c2c72f66c6805d933bc967187d7bfd4fbd9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0aaaece51f8461a1fcd555d3c78601c9adf54414.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
@@ -1477,13 +1526,62 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rescript",
     "website": "https://rescript.ai/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/draft-the-record.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Therapy Buddy",
+      "Sterling Labs",
+      "Focus Buddy",
+      "Sterling Labs, Inc"
+    ],
+    "id": 29828,
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1724988357,
+    "long_description": "We are on a mission to provide faster and affordable access to the justice system - starting with depositions and trials.\r\n\r\n1000s of depositions and trials run through DraftTheRecord every week including Senate and House meetings, Confidential federal hearings, criminal proceedings like murder trials, and civil lawsuits involving family disputes, personal injury and much more.\r\n\r\nDuring legal proceedings,\r\n• DraftTheRecord provides real time assistance to attorneys, previously requiring a legal team. The platform then helps analyze depositions and other evidence cutting down trial prep time from weeks to days. \r\n• Court reporters use DraftTheRecord to capture audio and generate live transcript drafts for attorneys and judges. \r\n• Transcribers use our legal-specific AI transcription model to cut transcription time by 3x.",
+    "name": "Draft The Record",
+    "nonprofit": false,
+    "one_liner": "AI For Litigation",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "draft-the-record",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c84a03d0d402a34192f801bf5c20f40407fa3c88.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Legal",
+    "tags": [
+      "Artificial Intelligence",
+      "Legal",
+      "LegalTech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/draft-the-record",
+    "website": "https://www.drafttherecord.com/"
+  },
+  {
+    "all_locations": "BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/beglaubigtde.json",
     "app_answers": null,
     "app_video_public": true,
@@ -1507,7 +1605,8 @@
     "one_liner": "The legal back-office for European founders - the incorporation API…",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "slug": "beglaubigtde",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/701b2bc3a4abc9947cd6ce87bda2ed1d5e17653c.png",
@@ -1537,7 +1636,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1731901982,
-    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%. We work with Orrick as our first design partner, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction ($150B / year). In the long run, we will capture 50% of the corporate transaction market with the top 30 law firms. We will then provide our AI to companies so they can execute these transactions themselves.",
+    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%.",
     "name": "Pearson Labs",
     "nonprofit": false,
     "one_liner": "AI agents to automate corporate transactions",
@@ -1552,10 +1651,10 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1607,7 +1706,7 @@
     "website": "https://caseflood.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Vancouver, BC, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gale.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1620,7 +1719,7 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1737265835,
     "long_description": "Gale is an immigration tech platform that makes immigration simple for US companies. We've simplified the visa application process, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. Through automation, we enable the independent attorneys we coordinate with to maintain quality whilst being more efficient.",
     "name": "Gale",
@@ -1628,7 +1727,7 @@
     "one_liner": "Fast and Data-Driven Immigration Platform",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada"
     ],
     "slug": "gale",
@@ -1650,11 +1749,11 @@
     "website": "https://galevisa.com"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/tire-swing.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tire-swing.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Winter 2025",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [],
     "id": 30290,
@@ -1668,7 +1767,7 @@
     "long_description": "Tire Swing uses AI to power resident and applicant eligibility evaluations for affordable housing.\r\n\r\nOur software manages the resident certification and recertification process end-to-end for public and private properties supported by Project Based Rental Assistance, Low Income Housing Tax Credit, and Housing Vouchers. It serves as a drop-in replacement for third-party consultants and auditors, and helps compliance staff complete their work faster and more accurately. ",
     "name": "Tire Swing",
     "nonprofit": false,
-    "one_liner": "AI Powered Affordable Housing Eligibility",
+    "one_liner": "AI Compliance for Affordable Housing",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1693,7 +1792,7 @@
     "website": "https://gettireswing.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/openintake.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1779,7 +1878,7 @@
     "website": "https://crimson.law"
   },
   {
-    "all_locations": "",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1803,7 +1902,8 @@
     "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Sweden",
+      "Europe"
     ],
     "slug": "vesence",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
@@ -1835,10 +1935,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1748486427,
-    "long_description": "Third Chair automates complex legal workflows at scale, supported by an on-demand network of top lawyers to step in when you need them.\r\n\r\nWe’ve started with revenue-generating workflows like IP enforcement, giving media companies visibility into who’s using their content and helping them turn unauthorized ads into a predictable income stream.\r\n\r\n The biggest media and entertainment companies in the world rely on Third Chair to enforce their intellectual property, unlock licensing revenue, and accelerate deal flow. ",
+    "long_description": "Third Chair works with IP rightsholders to enforce and monetize their rights, supported by an on-demand network of top lawyers to step in when you need them.\r\n\r\nWe’ve started with revenue-generating workflows, giving media companies visibility into who’s using their content and helping them turn unauthorized ads into a predictable income stream.\r\n\r\nThe biggest media and entertainment companies like Universal Music Group in the world rely on Third Chair to enforce their intellectual property, unlock licensing revenue, and accelerate deal flow. ",
     "name": "Third Chair",
     "nonprofit": false,
-    "one_liner": "Automating complex legal workflows with human lawyers in the loop.",
+    "one_liner": "AI-Native IP Enforcement Agent",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1874,22 +1974,24 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1746075411,
-    "long_description": "Blueshoe is an AI platform for legal research and reasoning designed to capture the structure of legal thought and allow users to work directly within the logic of caselaw. By combining advanced AI with curated legal and proprietary data pipelines, the system allows users build and test arguments with unprecedented clarity.",
+    "long_description": "Blueshoe is a full-stack law firm that helps people with everything from everyday legal issues to high-stakes litigation and trial.\r\n\r\nPeople can access legal guidance directly through our web app or the AI interfaces where they are already seeking answers. If representation is needed, Blueshoe attorneys handle many cases all the way to resolution, equipped with cutting-edge data, AI-native tools, and operational support.",
     "name": "Blueshoe",
     "nonprofit": false,
-    "one_liner": "The AI platform for legal reasoning",
+    "one_liner": "The AI-Native Consumer + Plaintiff Law Firm",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "blueshoe",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3167c58e3e1e694a6620d4b50851ebec19886cb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7df632e4878b4cdf452b698c74d065153a45564b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
       "Legal",
       "LegalTech"
     ],
@@ -1952,10 +2054,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1750286926,
-    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions.\r\n\r\nIn the public sector: we automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software.\r\n\r\nIn the private sector: we automate legal tracking and regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+    "long_description": "Vulcan builds agents for government and government-adjacent work. We currently sell two agents: Justinian and Trajan.\r\n\r\nJustinian is an AI agent coworker for people who work in and adjacent to American government. To power Justinian, we created the world’s largest legal and policy database and knowledge graph, accessible to our customers via our platform, email, and Slack.\r\n\r\nTrajan is a public-facing AI concierge built to help governments modernize service delivery. Hosted on a government website, Trajan helps businesses and citizens automatically complete permits, licenses, applications, and answer regulatory and legal questions.\r\n\r\nIn addition to government customers, Vulcan's agents serve regulatory, legal, policy, and government relations teams at major U.S. enterprises.",
     "name": "Vulcan Technologies",
     "nonprofit": false,
-    "one_liner": "AI for every law, regulation, and court case",
+    "one_liner": "Secure frontier AI for government & adjacent knowledge work",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1968,7 +2070,7 @@
     "subindustry": "B2B -> Legal",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 17,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vulcan-technologies",
     "website": "https://vulcan.ai/"
@@ -2004,11 +2106,11 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
       "B2B",
+      "Compliance",
       "LegalTech",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -2032,10 +2134,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1758861304,
-    "long_description": "At Lexi, we are building AI associates for Corporate Law. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
+    "long_description": "Lexi is an AI operating system for legal teams, law firms, and in-house counsel. It brings legal research, drafting, document review, contract redlining, case workflows, translation, knowledge management, and AI associates into one secure platform.\r\n\r\nLexi is built for enterprise legal work with end-to-end security, role-based access controls, audit trails, encrypted document handling, private workspaces, and deployment options for sensitive legal environments. Legal teams use Lexi to process high-volume legal documents, find answers with verified citations, draft in their preferred style, review contracts, and manage legal workflows from intake to output.\r\n\r\nLexi has processed 5,000,000+ documents across 200,000+ cases for 200+ organizations and law firms, helping lawyers save 10+ hours every week and handle more matters without adding headcount.",
     "name": "Lexi",
     "nonprofit": false,
-    "one_liner": "AI Associates for Corporate Law",
+    "one_liner": "AI Operating System for Legal Teams",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2049,14 +2151,14 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lexi",
     "website": "https://getlexi.io/"
@@ -2067,7 +2169,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2026",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [
       "Cadence",
       "Raise"
@@ -2078,12 +2180,12 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1771526564,
-    "long_description": "A modern solution for Startup legal: we are a premier, full service, hybrid AI law firm & legal tech platform. \r\n\r\nCustomers get software + white glove lawyer support for maximum value on each legal matter.\r\n\r\nServices: fundraise & priced rounds | customer contracts | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
     "name": "Vector Legal",
     "nonprofit": false,
-    "one_liner": "Full service ai law firm & software solution, for startups",
+    "one_liner": "A premier AI-native law firm & legal operating system for Startups.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2096,13 +2198,13 @@
     "subindustry": "B2B -> Legal",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vector-legal",
     "website": "https://vectorlegal.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2123,6 +2225,8 @@
     "one_liner": "The AI-Native Immigration Law Firm",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2154,12 +2258,12 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1765384359,
-    "long_description": "At AutoSitu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. AutoSitu provides expert-level guidance and catch issues in minutes, helping cities and design firms/developers navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
+    "long_description": "At AutoSitu, we’re building the AI operating system for the built world—coordinated AI agents that work across development, design, review, and construction.\r\n\r\nOur agents analyze complex plans, requirements, and project documentation in minutes—surfacing critical issues, doing the heavy lifting, and escalating the decisions that require human expertise.\r\n\r\nFrom site feasibility and entitlement risk to QA/QC, code compliance, constructability, quantity takeoff, and scope analysis, AutoSitu helps cities, architects, engineers, developers, and construction teams identify problems earlier and move projects forward with greater speed and confidence.\r\n\r\nWe serve as a strategic AI partner to forward-thinking public agencies and AEC organizations across the country and are backed by Y Combinator (W26).",
     "name": "AutoSitu",
     "nonprofit": false,
-    "one_liner": "AI-native workspace for development plan reviews",
+    "one_liner": "The AI operating system for the built world",
     "question_answers": false,
     "regions": [
       "Unspecified"
@@ -2169,7 +2273,10 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
-    "tags": [],
+    "tags": [
+      "Real Estate",
+      "Construction"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -2177,7 +2284,7 @@
     "website": "https://autositu.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Oslo, Oslo, Norway",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moritz.json",
     "app_answers": null,
     "app_video_public": true,
@@ -2196,19 +2303,19 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1767976988,
-    "long_description": "Moritz is a global AI-native law firm that will handle your legal work the same day, at a fraction of the market price.\r\n\r\nOur AI does 80% of the work, so you pay our elite lawyers for the final 20%.\r\n\r\nOur lawyers have closed $2bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.",
+    "long_description": "Moritz is a global AI-native law firm that will handles legal work with same day turnaround.\r\n\r\nOur lawyers have closed $ 3bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.\r\n\r\nWe're backed by YC, 20VC and the founders of Dropbox, Gusto, Instacart, Reddit, Superhuman, Producthunt, HuggingFace and 15 other unicorn founders.",
     "name": "Moritz",
     "nonprofit": false,
     "one_liner": "Global AI-native law firm handling legal work with same-day turnaround",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Norway",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
     "slug": "moritz",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dbc7271a11bcc9b3306f93350899588a1a8e678.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba9cb936197827cdb07b7561ff78521aed096ae7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
@@ -2233,24 +2340,24 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1769746017,
-    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
+    "long_description": "We're the elite AI law firm for high growth companies. Our firm provides exceptional, top-of-market legal work across commercial, corporate and employment law, at speeds and prices that put traditional law firms to shame.",
     "name": "General Legal",
     "nonprofit": false,
-    "one_liner": "The AI native law firm for growth stage companies",
+    "one_liner": "Elite AI law firm for high growth companies",
     "question_answers": false,
     "regions": [
       "Unspecified"
     ],
     "slug": "general-legal",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf548c3bb9f1d826b76f6c508355bcfc063f988.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/general-legal",
     "website": "https://general.legal"
@@ -2274,7 +2381,7 @@
     "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
     "name": "Fed10",
     "nonprofit": false,
-    "one_liner": "AI agents that replace your policy consultants",
+    "one_liner": "AI Agents for Government Affairs",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2293,7 +2400,7 @@
     "website": "https://www.fed10.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2308,30 +2415,23 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1776112979,
     "long_description": "",
     "name": "Regbase",
     "nonprofit": false,
-    "one_liner": "Tracking global laws, grants and consultations",
+    "one_liner": "Automating Corporate Compliance, Worldwide",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "regbase",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
-    "tags": [
-      "Legal",
-      "Sales Enablement",
-      "LegalTech",
-      "Regtech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
@@ -2339,7 +2439,7 @@
     "website": "https://regbase.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/andco.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2352,29 +2452,111 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1777434223,
-    "long_description": "",
+    "long_description": "Our agents retrieve and synthesize all the records law firms need to start a personal injury case. We get police reports, open insurance claims, and retrieve all the medical records and bills needed to build a case.",
     "name": "Andco",
     "nonprofit": false,
-    "one_liner": "End-to-end case workups for personal injury firms.",
+    "one_liner": "Agents that build personal injury cases",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "andco",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a1952b4bf4f03f6e4d7c3a1bc30b3b97ba2619.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
-    "tags": [
-      "Artificial Intelligence",
-      "Legal"
-    ],
+    "tags": [],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/andco",
     "website": "http://www.useandco.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/erinys.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32124,
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786258271,
+    "long_description": "Erinys provides the technology, intake, back office, and client acquisition needed to launch and scale an AI-native law firm. Lawyers own their firms and make every legal decision; Erinys handles everything around them.",
+    "name": "Erinys",
+    "nonprofit": false,
+    "one_liner": "We help lawyers start and scale AI-native law firms.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "erinys",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ecec9425d412cfc7fa1460b155883f078a7f023.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Legal",
+    "tags": [
+      "Artificial Intelligence",
+      "Legal",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/erinys",
+    "website": "https://erinys.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Lightfield, Inc."
+    ],
+    "id": 33804,
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786835532,
+    "long_description": "Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
+    "name": "Lightfield",
+    "nonprofit": false,
+    "one_liner": "AI that works for in-house legal teams",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lightfield",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Legal",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lightfield",
+    "website": "https://trylightfield.ai"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/grouper.json",
     "app_answers": null,
     "app_video_public": false,
@@ -284,7 +284,7 @@
     "website": "https://www.instacart.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/goldbelly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -368,7 +368,7 @@
     "website": "http://doordash.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/spoonrocket.json",
     "app_answers": null,
     "app_video_public": false,
@@ -408,7 +408,7 @@
     "website": "http://spoonrocket.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/gobble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -447,7 +447,7 @@
     "website": "http://gobble.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/craft-coffee.json",
     "app_answers": null,
     "app_video_public": false,
@@ -489,7 +489,7 @@
     "website": "https://www.craftcoffee.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Ljubljana, Ljubljana, Slovenia; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/flaviar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -510,7 +510,9 @@
     "one_liner": "Try-at-home service for fine spirits",
     "question_answers": false,
     "regions": [
+      "Slovenia",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -895,7 +897,7 @@
     "website": "http://www.rappi.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/farmstead.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1107,7 +1109,7 @@
     "website": "http://www.nobellfoods.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Vancouver, BC, Canada; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/cocusocial.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1128,6 +1130,7 @@
     "one_liner": "Marketplace for local activities.",
     "question_answers": false,
     "regions": [
+      "Canada",
       "United States of America",
       "America / Canada",
       "Remote",
@@ -1281,7 +1284,7 @@
     "website": "https://www.drinkdreamin.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/gainful.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1820,8 +1823,8 @@
     "status": "Active",
     "subindustry": "Consumer -> Food and Beverage",
     "tags": [
+      "Robotics",
       "Consumer",
-      "Health & Wellness",
       "Food Tech"
     ],
     "tags_highlighted": [],
@@ -1899,7 +1902,9 @@
     "question_answers": false,
     "regions": [
       "Iraq",
-      "Middle East and North Africa"
+      "Middle East and North Africa",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "lezzoo",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f27317c1ec346e2b7bea0e712c38b1d2aa2d3e.png",
@@ -1958,7 +1963,7 @@
     "website": "http://naturallclub.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Mumbai, MH, India; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/taali-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1981,7 +1986,9 @@
     "one_liner": "Taali is creating popcorn 2.0 from popped water lily seeds",
     "question_answers": false,
     "regions": [
+      "India",
       "United States of America",
+      "South Asia",
       "America / Canada"
     ],
     "slug": "taali-inc",
@@ -1999,7 +2006,7 @@
     "website": "https://www.taalifoods.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/eclipse-foods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2057,7 +2064,7 @@
       "Food and Beverage"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1546662795,
     "long_description": "At Shef, we’re bringing humanity back to mealtime by connecting consumers with talented chefs in their community. By introducing the sharing economy to the dinner table, we create meaningful economic opportunities for chefs while making homemade meals more accessible and affordable. Shefs on the platform craft menus inspired by their passion and expertise, preparing meals in small batches and delivering them to your door—so you can enjoy the warmth of a homemade meal without the hassle.\r\n\r\nWe have raised over $100M from investors including Andreessen Horowitz, Y Combinator, Craft Ventures, and M13, as well as founders and executives from Instacart, TaskRabbit, StubHub, AngelList, Lyft, Airbnb, and Yelp.",
     "name": "Shef",
@@ -2088,7 +2095,7 @@
     "website": "https://www.shef.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/lineleap.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2129,7 +2136,7 @@
     "website": "https://www.lineleap.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+    "all_locations": "New York City, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/kaiten.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2216,7 +2223,7 @@
     "website": "http://findhideout.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/racer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2264,7 +2271,7 @@
     "website": "http://racer.app"
   },
   {
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/duffl.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2433,7 +2440,7 @@
     "website": "https://www.localmilkrun.com/"
   },
   {
-    "all_locations": "London, United Kingdom; United Kingdom",
+    "all_locations": "London, England, United Kingdom; United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/fancy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2735,7 +2742,7 @@
     "website": "https://juicymarbles.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/taste.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2959,7 +2966,7 @@
     "website": "https://www.olaclick.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/mezli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3031,7 +3038,7 @@
     "slug": "nino-foods",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df80427d3277e874a082878b88292a9f7eecc488.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Consumer -> Food and Beverage",
     "tags": [
       "Ghost Kitchens",
@@ -3088,7 +3095,7 @@
     "website": ""
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/locale.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3226,7 +3233,7 @@
     "website": "https://planet-a-foods.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/onestopkitchen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3359,7 +3366,7 @@
     "website": "https://membo.ee?lang=en"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/byte-kitchen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3773,7 +3780,7 @@
       "Logistics"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 103,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/chowdeck",
     "website": "https://chowdeck.com"
@@ -3960,5 +3967,45 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/chow-central-inc",
     "website": "https://chowcentral.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/asakana.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35261,
+    "industries": [
+      "Consumer",
+      "Food and Beverage"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1788189674,
+    "long_description": "Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",
+    "name": "Asakana",
+    "nonprofit": false,
+    "one_liner": "AI order entry for food distributors: emails and texts to ERP",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "asakana",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Food and Beverage",
+    "tags": [
+      "SaaS",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/asakana",
+    "website": "https://www.asakana.co/"
   }
 ]

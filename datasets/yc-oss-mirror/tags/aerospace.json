@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Centennial, CO, USA; Englewood, CO, USA",
+    "all_locations": "Denver, CO, USA; Englewood, CO, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/boom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -363,15 +363,15 @@
     "id": 24039,
     "industries": [
       "Industrials",
-      "Drones"
+      "Aviation and Space"
     ],
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1625919461,
-    "long_description": "Kalam Labs has developed world's highest flying UAVs - deployable from high-altitude balloons they replace satellites to provide high-res EO/IR and hyperspectral reconnaissance.",
+    "long_description": "Kalam Labs has developed autonomous spaceplanes, capable of flying from 100,000+ ft altitude to conduct upper atmospheric sensing, currently limited to non-maneuverable balloons and expensive satellites.\r\nWe are one of the world's highest flying UAVs, and have $330 Mn+ contracts from global goverments to deploy the autonomous spaceplanes and replace traditional satellites and ground-borne UAVs",
     "name": "Kalam Labs",
     "nonprofit": false,
-    "one_liner": "Near Space Flying Machines",
+    "one_liner": "Autonomous Stratospheric UAVs",
     "question_answers": false,
     "regions": [
       "India",
@@ -381,11 +381,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Drones",
+    "subindustry": "Industrials -> Aviation and Space",
     "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
       "Drones",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -425,7 +427,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
       "Space Exploration",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -434,7 +437,7 @@
     "website": "https://www.heo-robotics.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toulouse, Occitanie, France",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/beyond-aero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -455,6 +458,8 @@
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -504,7 +509,7 @@
       "Partly Remote"
     ],
     "slug": "airhart-aeronautics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2c3077b0a260101b4efa34338d48f2bcb7a825.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8754b2c358df7ab9263e0a74ddf008cb7c8cee4d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
@@ -513,7 +518,7 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/airhart-aeronautics",
     "website": "https://www.airhartaero.com/"
@@ -562,7 +567,7 @@
     "website": "https://www.quindar.space"
   },
   {
-    "all_locations": "Cincinnati, OH, USA",
+    "all_locations": "Dayton, OH, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/velontra.json",
     "app_answers": null,
     "app_video_public": false,
@@ -664,17 +669,17 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1687803555,
-    "long_description": "HyLight builds and operates autonomous airships for long range monitoring. We focus on detecting methane leaks on pipelines and defects on power lines.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have developed 5 different flying aircrafts and signed 5 pilots programs with major energy infrastructure operators. We also have LOIs worth over $3.5M.",
+    "long_description": "HyLight builds and operates the HyLighters. Our autonomous airships for long range monitoring. We focus on critical infrastructure inspections:\r\n- detecting methane leaks on pipelines.\r\n- defects & vegetation risks on power lines.\r\n- defects & vegetation risks on railways.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have manufactured 20 HyLighter and are deploying across Europe.",
     "name": "HyLight",
     "nonprofit": false,
-    "one_liner": "Small unmanned hydrogen airships for long range monitoring",
+    "one_liner": "Unmanned airships for inspecting our critical assets",
     "question_answers": false,
     "regions": [
       "France",
       "Europe"
     ],
     "slug": "hylight",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e115f6387d31c268302079d59ab1981c37d8ca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bcbb9e93eb3ebbc3a622b3826ec8c2df9b276d7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
@@ -686,10 +691,55 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 22,
+    "team_size": 37,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hylight",
     "website": "https://www.hylight.aero/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/singularity.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Singularity Space"
+    ],
+    "id": 29146,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784043755,
+    "long_description": "Singularity is answering humanity’s call to engineer counter-weapon systems at scale.  We build to protect people on the battlefield and at home.",
+    "name": "Singularity",
+    "nonprofit": false,
+    "one_liner": "Building and Protecting an Exciting Future",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "singularity",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/992f82455265202b720c9d34ee95f7a7b0ffbcc9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/singularity",
+    "website": "https://www.singularityus.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -719,13 +769,13 @@
       "America / Canada"
     ],
     "slug": "navier-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d00aa43f66ec38980b608755437974dcc244c98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -752,27 +802,31 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1706583323,
-    "long_description": "Basalt is building self-flying satellite constellations for enterprise customers, no prior aerospace experience or expertise needed!  Powered by our spacecraft OS, Basalt provides a seamless experience, enabling users to fly and stream data from their own tailored satellite constellation from an app on their phones or laptops.  \r\n\r\nThe company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
+    "long_description": "Basalt is building Constellations as a Service, self-flying satellite constellations tailored for private enterprise and the government without any prior aerospace experience needed! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream data and images from their own dedicated satellite constellation onto their phones and laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
     "name": "Basalt",
     "nonprofit": false,
     "one_liner": "Constellations as a Service",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "basalt",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05acac6bcc5d9a03dbabb03c39fa62276a5ef6ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc6db574181bc5f564f9fcdee3e3a8f66a68b75.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
+      "Satellites",
       "Aerospace",
-      "Enterprise Software",
-      "Automation"
+      "Automation",
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/basalt",
     "website": "https://basalt.space/"
@@ -828,7 +882,7 @@
     "website": "https://elodin.systems/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Ottawa, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/spaceium-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -849,7 +903,8 @@
     "one_liner": "In-Space Refueling",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "slug": "spaceium-inc",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0afea0e3a81a3c4895401d9a1e4f5620a04a076b.png",
@@ -899,14 +954,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
-    "team_size": 11,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/entangl",
     "website": "https://www.entangl.com/"
@@ -997,7 +1052,94 @@
     "website": "https://aresindustries.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/vendra.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29814,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1724084407,
+    "long_description": "Vendra makes it faster and easier to get custom parts manufactured in America. \r\n\r\nSubmit one RFQ and Vendra turns your technical requirements into custom manufactured parts - routing work through qualified US suppliers, gathering competitive quotes, and managing production through delivery.\r\n\r\nWe're ITAR registered and manufacture parts for American aerospace and defense leaders. Customers include Anduril, Mach Industries, Relativity Space, Castelion, and Planet Labs.\r\n\r\nSubmit an RFQ at www.vendra.io to get started today!",
+    "name": "Vendra",
+    "nonprofit": false,
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "vendra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Supply Chain",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vendra",
+    "website": "https://vendra.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/consus.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30095,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1732222348,
+    "long_description": "Consus is an API that routes all AI requests to secure and compliant infrastructure. Aerospace and defense companies use the API to access the latest models without worrying about paperwork or infrastructure engineering. Consus manages the compliance and backend work so you can plug AI into an application and get to work. ",
+    "name": "Consus",
+    "nonprofit": false,
+    "one_liner": "The fastest and cheapest way to use AI with ITAR or CUI data. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "consus",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbe9d08b52107f4ba06be791e9808aa96113cd5f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/consus",
+    "website": "https://www.consus.io"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gander.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1055,7 +1197,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1730181783,
-    "long_description": "Forerunner is an AI-powered platform for aircraft maintenance, repair, and overhaul.",
+    "long_description": "Forerunner is the AI-powered platform for aircraft maintenance, repair, and overhaul.",
     "name": "Forerunner AI",
     "nonprofit": false,
     "one_liner": "AI that gets aircraft flying faster",
@@ -1070,9 +1212,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
-      "Artificial Intelligence",
       "Airlines",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1096,10 +1238,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1739340612,
-    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nOur first full orbital recovery mission is set to launch in April 2026.",
+    "long_description": "We are making reusable satellites for zero-g manufacturing & Hypersonic Technology Development. \r\nOur first orbital recovery mission is set to launch in Q4 2026.",
     "name": "Reditus Space",
     "nonprofit": false,
-    "one_liner": "Reusable Satellites for zero-g manufacturing",
+    "one_liner": "Reusable Satellites",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1116,7 +1258,7 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reditus-space",
     "website": "https://www.reditus.space/"
@@ -1135,7 +1277,7 @@
       "Aviation and Space"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1744173288,
     "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
     "name": "GroundControl",
@@ -1182,10 +1324,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1746647881,
-    "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
+    "long_description": "Cascade Space is building the commercial alternative to the Deep Space Network. Our first ground station, Earth Station Zero, will be online and downlinking data from the Moon in 2026, with plans to scale to a full global network by 2028.",
     "name": "Cascade Space",
     "nonprofit": false,
-    "one_liner": "Deep space communications as a service",
+    "one_liner": "Commercial alternative to the Deep Space Network",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1207,7 +1349,7 @@
     "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cascade-space",
-    "website": "https://cascade.space"
+    "website": "https://cascadespace.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1240,14 +1382,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Aerospace",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/godela",
     "website": "http://godela.ai"
@@ -1296,6 +1438,49 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30881,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1758642388,
+    "long_description": "Wardstone builds a low-cost, modular interceptor platform for air and missile defense. Our platform enables the warfighter to right sizes their interceptors against the threat. This allows us to defeat air-breathing and ballistic missile threats at a fraction of the cost of exquisite interceptors, adding affordable magazine depth to existing air defense systems.",
+    "name": "Wardstone",
+    "nonprofit": false,
+    "one_liner": "The Modular Interceptor Platform",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "wardstone",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Satellites",
+      "Rocketry",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/wardstone",
+    "website": "https://www.wardstone.us"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1310,7 +1495,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1759599519,
-    "long_description": "Always-on intelligence and connectivity for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the Sun, but never too close. It’s the modern-day U-2 spy plane, except each costs $100K and is built by the thousands. The future of warfare is in the Stratosphere.",
+    "long_description": "Icarus is building the modern-day U-2 spy plane. Our autonomous solar aircraft fly at 60,000 feet for weeks at a time, eventually months and years, above weather and below satellites. They deliver persistent intelligence and connectivity for the military at a fraction of the cost of existing systems. The stratosphere is the forgotten frontier.",
     "name": "Icarus",
     "nonprofit": false,
     "one_liner": "Stratospheric birds for defense",
@@ -1326,10 +1511,11 @@
     "subindustry": "Industrials -> Defense",
     "tags": [
       "Hardware",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 16,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/icarus",
     "website": "https://www.icarus.one/"
@@ -1377,93 +1563,88 @@
     "website": "https://www.zephyrfusion.com"
   },
   {
-    "all_locations": "London, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/seeing-systems.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Seeing Systems Ltd",
-      "Seeing Systems",
-      "Seeing Systems Ltd"
-    ],
-    "id": 31180,
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "industry": "Industrials",
-    "isHiring": true,
-    "launched_at": 1768422348,
-    "long_description": "We engineer inexpensive, autonomous strike drones designed to operate in the most contested combat environments on Earth!\r\n\r\nBy combining true hardware modularity with an agentic control system that lowers cognitive load on operators, we enable faster upgrades, broader adoption, and more than 2x reduction in lifecycle cost.\r\n\r\nOur customers and partners include the UK Royal Marine Commandos, several other units in the UK, and 4 other NATO forces, and we are currently shipping prototypes for iterative feedback.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
-    "name": "Seeing Systems",
-    "nonprofit": false,
-    "one_liner": "Modular AI-Commanded Drones for Defence",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "seeing-systems",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Defense",
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Drones",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/seeing-systems",
-    "website": "https://www.seeing-systems.com"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31294,
+    "id": 31366,
     "industries": [
       "Industrials",
-      "Aviation and Space"
+      "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1773166639,
-    "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
-    "name": "Dispatch",
+    "isHiring": true,
+    "launched_at": 1775260036,
+    "long_description": "Nine Fives produces modern radio frequency test equipment and solutions to disrupt the $130B test equipment industry. By combining modern electronics, AI ready test automation, and strategic supply chains, we’re equipping our customers to cut their time to market in half.",
+    "name": "Nine Fives",
     "nonprofit": false,
-    "one_liner": "Satellites for manufacturing in space",
+    "one_liner": "RF test equipment for next-gen spacecraft, drones, and cellphones",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "dispatch",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
+    "slug": "nine-fives",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Manufacturing",
+      "Hard Tech",
       "Aerospace",
-      "Advanced Materials"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dispatch",
-    "website": "https://dispatch.space/"
+    "url": "https://www.ycombinator.com/companies/nine-fives",
+    "website": "https://ninefives.com/"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31452,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1775570807,
+    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "name": "Degla Inc",
+    "nonprofit": false,
+    "one_liner": "The fully autonomous intelligence layer in the sky.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "degla-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Drones",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/degla-inc",
+    "website": "https://degla.ai"
   },
   {
     "all_locations": "Los Angeles, CA, USA",
@@ -1499,57 +1680,272 @@
       "Hard Tech",
       "Robotics",
       "Drones",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ornadyne",
     "website": "https://ornadyne.com/"
   },
   {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json",
+    "all_locations": "Singapore, Singapore",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/exosat.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "Fastsky"
-    ],
-    "id": 31501,
+    "former_names": [],
+    "id": 32233,
     "industries": [
       "Industrials",
       "Aviation and Space"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1772308188,
-    "long_description": "Building the elements of a new ATC system.",
-    "name": "General Aviation",
+    "launched_at": 1786056981,
+    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
+    "name": "Exosat",
     "nonprofit": false,
-    "one_liner": "Fix ATC by connecting aircraft to the internet",
+    "one_liner": "Building a neutral, sovereign alternative to Starlink",
+    "question_answers": false,
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "slug": "exosat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Space Exploration",
+      "Satellites",
+      "Aerospace",
+      "Telecommunications",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/exosat",
+    "website": "https://www.exosat.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cosmic-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33012,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783106253,
+    "long_description": "Our mission is to build a city on Mars. \r\n\r\nCosmic-1, the first equipment in our fleet, is an autonomous robot capable of heavy-lift manipulation. Its been deployed on some of the largest solar farms in the US, more than doubling labor productivity across tens of thousands of panel installs. \r\n\r\nWe're scaling in solar, expanding in data centers, and building lunar construction robotics under contract with NASA.",
+    "name": "Cosmic Robotics",
+    "nonprofit": false,
+    "one_liner": "Autonomous construction on Earth and beyond",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "general-aviation",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+    "slug": "cosmic-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/610b3f44c95c65ea346121a48c57b8c81a3788ce.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/cosmic-robotics",
+    "website": "https://www.cosmicrobotics.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/skymerse.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33111,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783640155,
+    "long_description": "Skymerse is building one AI system for airline flight operations: from planning and monitoring in the operations center to real-time support in the cockpit. It is developing specialized aeronautical models that understand the data, constraints, and procedures behind each flight, replacing fragmented tools and manual interpretation. Notamify, its first product, already serves airline customers and thousands pilots and aviation professionals.",
+    "name": "Skymerse",
+    "nonprofit": false,
+    "one_liner": "Autopilot for Flight Operations",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "skymerse",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Artificial Intelligence",
+      "Airlines",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "website": "https://skymerse.com"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ethos-space-resources.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33312,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1787528961,
+    "long_description": "Ethos makes silicon on the Moon to power terawatt scale data centers. The Moon's surface is 21% silicon. We melt and electrolyze the lunar surface to make raw materials for solar panels. With solar panels made from the Moon, the constraint that limits data center scaling and everything else in space is gone.",
+    "name": "Ethos Space Resources",
+    "nonprofit": false,
+    "one_liner": "We make silicon on the Moon, to power everything in space.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ethos-space-resources",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26c677c7621160c55e8011d6851971173fe4f8e9.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
       "Hard Tech",
-      "Satellites",
-      "Transportation",
-      "Mobility",
-      "Aerospace"
+      "Exascale Computing",
+      "Energy",
+      "Aerospace",
+      "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/general-aviation",
-    "website": "https://generalaviation.com"
+    "url": "https://www.ycombinator.com/companies/ethos-space-resources",
+    "website": "https://ethos-space.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/vernius-systems-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33319,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786812946,
+    "long_description": "We make mass-deployable radars for unmanned systems. Our first product is Archimedes, a radar seeker that finds and locks onto targets, enabling autonomous intercept on any drone. We have over $580M in LOIs for Archimedes, across some of the largest defense primes in Ukraine, the EU, and the Middle East.\r\n\r\nSeekers are the most critical and costly component in every autonomous interceptor. Developing a radar seeker takes a 200+ person team at Raytheon and hundreds of millions of dollars. Archimedes is 100x cheaper than existing radar seekers on the market - and is the first product to make it feasible to deploy radars on every drone.",
+    "name": "Vernius Systems, Inc.",
+    "nonprofit": false,
+    "one_liner": "Mass-deployable radars for air defense",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "vernius-systems-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Radar",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vernius-systems-inc",
+    "website": "https://www.vernius.systems"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35093,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789408162,
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "name": "Aviern",
+    "nonprofit": false,
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aviern",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "website": "https://aviern.com/"
   }
 ]

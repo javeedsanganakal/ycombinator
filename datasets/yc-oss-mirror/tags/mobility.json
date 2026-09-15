@@ -15,7 +15,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1336097105,
-    "long_description": "viaCycle brings affordable, sustainable transportation to areas that need it most.  Our revolutionary bike sharing technology can create a bike program anywhere, in days rather than months.\n\nViaCycle is committed to the ideals of sustainability – enduring economic prosperity, interconnected, sustainable mobility, and a healthier way of life.  We combine new ideas in transportation with cutting edge IT to achieve these ideals and open new channels for people to live and work the way they want.",
+    "long_description": "viaCycle brings affordable, sustainable transportation to areas that need it most.  Our revolutionary bike sharing technology can create a bike program anywhere, in days rather than months.\r\n\r\nViaCycle is committed to the ideals of sustainability – enduring economic prosperity, interconnected, sustainable mobility, and a healthier way of life.  We combine new ideas in transportation with cutting edge IT to achieve these ideals and open new channels for people to live and work the way they want.",
     "name": "Viacycle",
     "nonprofit": false,
     "one_liner": "viaCycle makes simple, inexpensive bicycle sharing systems that allow…",
@@ -25,7 +25,7 @@
       "America / Canada"
     ],
     "slug": "viacycle",
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a245b30b22d9c29d4be0d7a9aa454134f87f37c.png",
     "stage": "Early",
     "status": "Inactive",
     "subindustry": "Consumer -> Transportation Services",
@@ -386,7 +386,8 @@
     "batch": "Winter 2021",
     "demo_day_video_public": false,
     "former_names": [
-      "oxio"
+      "oxio",
+      "Gaiia"
     ],
     "id": 22625,
     "industries": [
@@ -397,7 +398,7 @@
     "isHiring": false,
     "launched_at": 1612041832,
     "long_description": "",
-    "name": "Gaiia",
+    "name": "gaiia",
     "nonprofit": false,
     "one_liner": "all-in-one operating system (OS) for telcos",
     "question_answers": false,
@@ -418,7 +419,7 @@
       "Telecommunications"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/gaiia",
     "website": "http://gaiia.com"
@@ -513,7 +514,7 @@
     "website": "https://book.shuttlecentral.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/weel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -536,8 +537,8 @@
     "one_liner": "GPS & dashcam smartphone app",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -558,50 +559,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/weel",
     "website": "https://weel.live/"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Fastsky"
-    ],
-    "id": 31501,
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1772308188,
-    "long_description": "Building the elements of a new ATC system.",
-    "name": "General Aviation",
-    "nonprofit": false,
-    "one_liner": "Fix ATC by connecting aircraft to the internet",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "general-aviation",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
-    "tags": [
-      "Hard Tech",
-      "Satellites",
-      "Transportation",
-      "Mobility",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "team_size": 0,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/general-aviation",
-    "website": "https://generalaviation.com"
   }
 ]

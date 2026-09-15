@@ -15,7 +15,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1732044079,
     "long_description": "Mobius is the safe spot market for electronic components like microcontrollers and capacitors. We help electronics manufacturers buy and sell chips quickly, safely & at market prices. ",
     "name": "Mobius Materials",
@@ -44,6 +44,56 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mobius-materials",
     "website": "https://www.mobiusmaterials.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/baud.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Neuralyze",
+      "Cerelyze",
+      "Zener",
+      "Front",
+      "Zener",
+      "SuperCraft",
+      "Ponder",
+      "SuperCraft",
+      "Baud Labs"
+    ],
+    "id": 28841,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1688534176,
+    "long_description": "Novel AI hardware built from first principles to let companies train, fine-tune, and deploy frontier models with orders of magnitude better performance than incumbents",
+    "name": "Baud",
+    "nonprofit": false,
+    "one_liner": "AI chips for ultra-fast training and inference",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "baud",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/baud",
+    "website": "https://baudlabs.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -88,7 +138,7 @@
     "website": "https://www.bronco.ai/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -103,10 +153,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1691095117,
-    "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
+    "long_description": "We're building AI-native tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Fortune enterprises and chip unicorns license Silimate to hit their PPA targets and functional closure in days instead of months. With Silimate, chip companies tape out better, more market-competitive chips much more quickly.",
     "name": "Silimate",
     "nonprofit": false,
-    "one_liner": "The copilot for chip designers",
+    "one_liner": "Fast, efficient agents for chip design and debug",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -131,7 +181,7 @@
     "website": "https://www.silimate.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/silogy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -176,7 +226,7 @@
     "website": "https://silogy.io"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/atum-works.json",
     "app_answers": null,
     "app_video_public": false,
@@ -195,7 +245,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1745346268,
-    "long_description": "Atum Works is building 3D ASML.\r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
+    "long_description": "",
     "name": "Atum Works",
     "nonprofit": false,
     "one_liner": "Gigascale Nanomanufacturing",
@@ -234,7 +284,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1723754775,
     "long_description": "DeepSim is building an AI physics simulator. We are currently developing the only thermal simulator to meet AI chip design needs and are validating our tool with Intel. We are a team of three electrical engineering PhDs from Stanford with backgrounds in semiconductor fabrication and design.",
     "name": "DeepSim, Inc.",
@@ -278,10 +328,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1718219316,
-    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
+    "long_description": "Conductor Quantum is building quantum superintelligence: AI that operates quantum computers to make scientific discoveries beyond human reach.\r\n\r\nQuantum computers let us understand the world at its most fundamental level, the path to new drugs, new materials, and discoveries no human can reach alone. \r\n\r\nA quantum computer is the perfect simulator of nature: it encodes the logic of reality into a programmable machine, atom by atom, electron by electron. Give AI that simulator and you open the door to discovery.\r\n\r\nThe bottleneck is operating the hardware. Today, engineers spend days or weeks by hand to bring a chip to operating conditions for just two qubits. A qubit is the information-carrying unit of a quantum computer, the equivalent of a bit in a classical one, and a useful machine needs billions. \r\n\r\nRemoving the human from that loop is only half the problem. Every command an AI sends to a quantum computer must be optimised for the specific hardware it runs on.\r\n\r\nWe build the AI that operates quantum computers and tunes every machine it runs on. That is the path to quantum superintelligence.",
     "name": "Conductor Quantum",
     "nonprofit": false,
-    "one_liner": "AI software for operating quantum computers",
+    "one_liner": "AI that operates quantum computers for scientific discovery",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -293,14 +343,14 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
     "website": "https://www.conductorquantum.com"
@@ -323,7 +373,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1722631140,
-    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
     "name": "Zettascale",
     "nonprofit": false,
     "one_liner": "Energy efficient chips for AI",
@@ -338,15 +388,62 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
+      "Hard Tech",
+      "Semiconductors",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/zettascale",
+    "website": "https://zscc.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
+    "id": 29992,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1721673756,
+    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
+    "name": "Outerport",
+    "nonprofit": false,
+    "one_liner": "EDA for Industrial Control Systems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "outerport",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
       "Hardware",
-      "Semiconductors"
+      "Manufacturing",
+      "Semiconductors",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zettascale",
-    "website": "https://zscc.ai"
+    "url": "https://www.ycombinator.com/companies/outerport",
+    "website": "https://outerport.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -387,141 +484,393 @@
       "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
     "website": "https://www.inversionsemi.com"
   },
   {
-    "all_locations": "Cambridge, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/visibl-semiconductors.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2025",
+    "batch": "Winter 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30502,
+    "id": 31182,
     "industries": [
-      "Industrials",
-      "Energy"
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1767637338,
+    "long_description": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost.\r\n\r\nWe work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances.\r\n\r\nV1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly.\r\n\r\nWe manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
+    "name": "Visibl Semiconductors",
+    "nonprofit": false,
+    "one_liner": "Custom silicon for power electronics",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "visibl-semiconductors",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Enterprise",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/visibl-semiconductors",
+    "website": "https://visiblsemi.com"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dipole-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31277,
+    "industries": [
+      "Industrials"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1748546232,
-    "long_description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
-    "name": "PowerMatrix",
+    "launched_at": 1786560399,
+    "long_description": "",
+    "name": "Dipole Labs",
     "nonprofit": false,
-    "one_liner": "Efficient and compact power supply for AI hardware",
+    "one_liner": "AI-controlled optical switching for AI clusters",
     "question_answers": false,
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
-    "slug": "powermatrix",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png",
+    "slug": "dipole-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b476fcfad147bfb48b55b119e09431103b41f4d8.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "tags": [
       "Hard Tech",
-      "Hardware",
-      "Energy",
       "Semiconductors",
-      "Electronics"
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 0,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/powermatrix",
-    "website": "https://pwrmatrix.com"
+    "url": "https://www.ycombinator.com/companies/dipole-labs",
+    "website": "https://dipolelabs.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/discovered-materials.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
       "MatForge",
-      "Matforge"
+      "Matforge",
+      "matforge"
     ],
     "id": 31362,
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1773874719,
-    "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
-    "name": "matforge",
+    "long_description": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going -  Discovered Materials will help find them. ",
+    "name": "Discovered Materials",
     "nonprofit": false,
-    "one_liner": "AI scientists to discover semiconductor materials",
+    "one_liner": "AI scientists to discover materials for the semiconductor industry.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "matforge",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "slug": "discovered-materials",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8369f21b7293d92e30b956a07f47bda16f550d10.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
-      "Advanced Materials",
       "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/matforge",
-    "website": "https://matforge.ai/"
+    "url": "https://www.ycombinator.com/companies/discovered-materials",
+    "website": "https://discoveredmaterials.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/spectre-intelligence.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "RefortifAI"
+      "Spectre Capital"
     ],
-    "id": 31373,
+    "id": 32257,
     "industries": [
-      "B2B"
+      "Fintech",
+      "Asset Management"
     ],
-    "industry": "B2B",
+    "industry": "Fintech",
     "isHiring": false,
-    "launched_at": 1774743443,
-    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
-    "name": "Refortifai",
+    "launched_at": 1787421048,
+    "long_description": "Spectre Intelligence is a neotrading firm. We create AI traders instead of hiring human ones. Currently trading semis + bio.",
+    "name": "Spectre Intelligence",
     "nonprofit": false,
-    "one_liner": "Reasoning for Electronic Design Automation ",
+    "one_liner": "We are a multi-strategy trading firm that trains AI traders. ",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "refortifai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
+    "slug": "spectre-intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd275e68bdab3f73081986be229ec8d9f1423ae5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Biotech",
+      "Investing",
+      "Trading",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/spectre-intelligence",
+    "website": "https://www.spectreintelligence.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/standard-machines.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32517,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785623138,
+    "long_description": "We build environments and evaluations to train and evaluate models on advanced chip design.",
+    "name": "Standard Machines",
+    "nonprofit": false,
+    "one_liner": "Teaching AI to Design Chips",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "standard-machines",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20aa62fc0a930e7bfdba7047f185bab421afd2b2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/standard-machines",
+    "website": "https://standardmachines.com"
+  },
+  {
+    "all_locations": "Ann Arbor, MI, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/aerogen-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32584,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786900126,
+    "long_description": "We are building the future of chip manufacturing.\r\n\r\nChips are more advanced than ever, and the features inside them keep getting smaller. But the cleanroom infrastructure supporting their manufacture has not scaled at the same pace. Intel, TSMC, Samsung, and others spend billions building and operating massive cleanrooms, only to isolate their most advanced wafers from the surrounding facility as much as possible.\r\n\r\nWe think that architecture is backwards. Instead of making the entire building cleaner, why not make the machinery itself as clean as possible?\r\n\r\nTalos is our proprietary tool-integrated purification system. It sits directly inside semiconductor equipment and continuously destroys airborne molecular contaminants before they reach the wafer. Instead of fighting contamination by constantly flooding tools with ultra-high-purity nitrogen, Talos keeps the environment inside the machine 10–100x cleaner, without the massive purge-gas bill.\r\n\r\nTalos is powerful on its own, but it is also the foundation for a much bigger vision: the Cleanpipe.\r\n\r\nThe Aerogen Systems Cleanpipe is an ultra-clean interconnect infrastructure that protects wafers as they move from machine to machine across the fab. Rather than relying on a billion-dollar cleanroom to protect every cubic foot of factory space, Cleanpipe creates a controlled environment only where cleanliness actually matters: around the wafer.\r\n\r\nTalos cleans the tools. Cleanpipe connects them. Eventually, we delete the cleanroom and build more advanced chips, at greater scale, with radically less infrastructure. With cleanpipes connecting tools, chip fabs can exist anywhere.",
+    "name": "Aerogen Systems",
+    "nonprofit": false,
+    "one_liner": "Modernizing Chip Manufacturing Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "aerogen-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hard Tech",
+      "B2B",
+      "Manufacturing",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aerogen-systems",
+    "website": "https://www.aerogensystems.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lamb-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "LAMb Intelligence"
+    ],
+    "id": 33054,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785288921,
+    "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
+    "name": "Lamb Labs",
+    "nonprofit": false,
+    "one_liner": "Lightning fast chips with hardcoded AI models",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lamb-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "Reinforcement Learning",
+      "Hardware",
       "B2B",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lamb-labs",
+    "website": "http://lamb-labs.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hardware-intelligence.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Viki",
+      "hi",
+      "Hardware Intelligence"
+    ],
+    "id": 33573,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784052551,
+    "long_description": "Hardware Intelligence makes chip design tools that cut simulation and debugging time by an order of magnitude. When a chip test fails, engineers need a recording of every internal signal - a waveform. We’ve developed WaveZip, which captures waveforms 500x smaller with 200x less overhead, and Wave, which beats frontier models on industry chip debugging benchmarks. We’re Rishov Sarkar (Georgia Tech Ph.D. in chip simulation) and Athreya Anand (ex-Google, M.S. ML/AI), YC S26. https://hardwareintelligence.ai",
+    "name": "hardware intelligence",
+    "nonprofit": false,
+    "one_liner": "AI tools for the chips your AI runs on",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hardware-intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "Enterprise Software",
       "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "website": "https://refortif.ai"
+    "url": "https://www.ycombinator.com/companies/hardware-intelligence",
+    "website": "https://hardwareintelligence.ai"
+  },
+  {
+    "all_locations": "Waterloo, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33838,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1782327485,
+    "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+    "name": "Simantic",
+    "nonprofit": false,
+    "one_liner": "Firmware simulation for AI agents",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "simantic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Semiconductors",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/simantic",
+    "website": "https://simantic.dev"
   }
 ]

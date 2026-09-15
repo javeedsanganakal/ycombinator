@@ -43,7 +43,7 @@
     "website": "http://ginkgobioworks.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/opentrons.json",
     "app_answers": null,
     "app_video_public": false,
@@ -129,7 +129,7 @@
     "website": "http://www.lygos.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/synvivia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -262,7 +262,7 @@
     "website": "https://www.genecis.co/"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/abalone-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -351,7 +351,7 @@
     "website": "https://www.livingcarbon.com"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Emeryville, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/ansa-biotechnologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -500,7 +500,7 @@
     ],
     "slug": "adaptyv",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eab524ee6260ddc6c4e8438dbfde1921ccf736f5.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
@@ -514,7 +514,7 @@
     "website": "https://www.adaptyvbio.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/humane-genomics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -601,7 +601,7 @@
     "website": "https://sensible.bio"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/engage-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -616,7 +616,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1647555290,
-    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n\r\nEngage’s Tethosome platform solves the two key hurdles that have held back the field of non-viral DNA: potency and toxicity. Using proven LNP technology, we deliver a therapeutic DNA and an mRNA encoding our proprietary Tethosome protein. This protein localizes DNA to the nucleus, increasing expression by over 100-fold. Critically, our Tethosome platform is invisible to immune sensors which detect foreign DNA and which can cause lethal immune reactions. This allows us to safely deliver potent DNA, re-dose when needed, and titrate expression to optimal levels.",
+    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n \r\nIn 2026 Engage was acquired by Eli Lilly.",
     "name": "Engage Bio",
     "nonprofit": false,
     "one_liner": "Potent, durable, and redosable non-viral genetic medicines",
@@ -628,7 +628,7 @@
     "slug": "engage-bio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95b5dd7ee1a5f617dc0a83136e30199f883050a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Healthcare -> Therapeutics",
     "tags": [
       "Synthetic Biology",
@@ -690,7 +690,7 @@
     "website": "http://www.invertbio.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA; South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/eugit-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -914,7 +914,7 @@
     "website": "https://pando.bio/"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -999,7 +999,7 @@
     "website": "https://www.synsorybio.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/acx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1111,7 +1111,7 @@
     "long_description": "Granza Bio is developing programmable therapeutics for the immune system. Our platform is built on the foundational discovery of immune “superkiller” attack particles — the natural ammunition used by cytotoxic immune cells to deliver potent, localized killing. By re-arming exhausted immune cells with newly programmed ammunition, Granza restores and enhances immune function. This approach enables a new class of treatments with the potential to transform diseases ranging from cancer to autoimmunity. ",
     "name": "Granza Bio",
     "nonprofit": false,
-    "one_liner": "Reprogramming Immunity for Target-Specific Medicines",
+    "one_liner": "Building programmable therapeutics for the immune system",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1130,7 +1130,7 @@
       "Oncology"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/granza-bio",
     "website": "https://www.granzabio.com/"
@@ -1182,7 +1182,7 @@
     "website": "https://parcelbio.com/"
   },
   {
-    "all_locations": "London, United Kingdom; Remote",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1192,36 +1192,35 @@
     "id": 29694,
     "industries": [
       "Healthcare",
-      "Industrial Bio"
+      "Diagnostics"
     ],
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1715962434,
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
+    "long_description": "We design point-of-care diagnostics for emerging biological threats - in days, not 12+ months.",
     "name": "AminoAnalytica",
     "nonprofit": false,
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
+    "one_liner": "The AI scientist for always-on biodefense",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "aminoanalytica",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Industrial Bio",
+    "subindustry": "Healthcare -> Diagnostics",
     "tags": [
-      "AI-powered Drug Discovery",
-      "SaaS",
+      "Nanosensors",
       "Synthetic Biology",
       "Biotech",
-      "Therapeutics"
+      "Diagnostics"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aminoanalytica",
     "website": "https://www.aminoanalytica.com"
@@ -1316,46 +1315,133 @@
     "website": "https://www.1849.bio"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/twentytwo.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Muon",
+      "Mohi"
+    ],
+    "id": 30702,
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1753262535,
+    "long_description": "AI is making biology easy to engineer. Life-saving drugs and therapies are accelerating, but so is the ability for bad actors to create a pandemic. TwentyTwo is working on the defensive stack to prevent the next pandemic.",
+    "name": "TwentyTwo",
+    "nonprofit": false,
+    "one_liner": "AI infrastructure for biosecurity",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "twentytwo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5be6b2304553a4bca9bfa1f2953ae02638a8d430.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "tags": [
+      "Artificial Intelligence",
+      "Synthetic Biology",
+      "Biotech",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twentytwo",
+    "website": "https://twentytwo.bio/"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/molagri.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30970,
+    "id": 32521,
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782770010,
+    "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
+    "name": "Molagri",
+    "nonprofit": false,
+    "one_liner": "Resistance free pesticides.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "molagri",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Agriculture",
+    "tags": [
+      "Synthetic Biology",
+      "Biotech",
+      "Sustainability",
+      "Climate",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/molagri",
+    "website": "https://molagri.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tarebio.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32587,
     "industries": [
       "Healthcare",
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
     "isHiring": false,
-    "launched_at": 1762663893,
-    "long_description": "What if you could train a biological foundation model on... the entire internet?\r\n\r\nExonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets.\r\n\r\nOur first application is the design of safer gene therapies.\r\n\r\nIn 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco.\r\n\r\nSo far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.\r\n",
-    "name": "Exonic",
+    "launched_at": 1785462754,
+    "long_description": "Our platform develops personalized or population-level vaccines for any disease in weeks by changing only one input: the immune imprint. Instead of trying to predict which antigens might work, we read out immune cells already fighting the disease in the body and reverse-engineer antigens that activate them. We've already run our platform end-to-end and created a vaccine that cured cancer in mice.",
+    "name": "TareBio",
     "nonprofit": false,
-    "one_liner": "Unsupervised Biological AI",
+    "one_liner": "Vaccines for any cancer or infection in weeks.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "exonic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144f0914ccf312aeee94512a8dc4a6cf9502f07e.png",
+    "slug": "tarebio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e770bbea41518001119968d389d0d3e35ce7abe.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
+      "Vaccines",
       "Synthetic Biology",
-      "Drug discovery",
       "Biotechnology"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/exonic",
-    "website": "https://exonic.ai"
+    "url": "https://www.ycombinator.com/companies/tarebio",
+    "website": "https://tarebio.com/"
   }
 ]

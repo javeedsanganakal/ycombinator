@@ -129,7 +129,7 @@
     "website": "https://getbinks.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/the-mercer-club.json",
     "app_answers": null,
     "app_video_public": false,
@@ -271,7 +271,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1626882180,
     "long_description": "The first apparel & footwear Carbon Management Platform.",
     "name": "Carbonfact",
@@ -286,7 +286,7 @@
     ],
     "slug": "carbonfact",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83845e91476e0ba520c9781b05ad6af948e7eeed.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
@@ -345,50 +345,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/autone",
     "website": "https://autone.io"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA; Paris, Île-de-France, France",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/jamble.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2022",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 27173,
-    "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1660193927,
-    "long_description": "Jamble is the new place to buy & sell secondhand fashion. We empower resellers with video & Live streaming tools to sell more effectively; and buyers with a unique compelling experience. Jamble is designed for the sustainable fashion community to engage, connect and inspire. We’re a mobile-first platform and launched on iOS! 👉 Check us out: https://apple.co/3Pfwran",
-    "name": "Jamble",
-    "nonprofit": false,
-    "one_liner": "Fashion resale marketplace powered by live streaming and video",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "France",
-      "America / Canada",
-      "Europe"
-    ],
-    "slug": "jamble",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aafce3da646fb5bdc4a18a9ad09cd597e6540dba.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
-    "tags": [
-      "Marketplace",
-      "Sustainable Fashion",
-      "Consumer",
-      "Social",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/jamble",
-    "website": "https://www.jambleapp.com/"
   }
 ]

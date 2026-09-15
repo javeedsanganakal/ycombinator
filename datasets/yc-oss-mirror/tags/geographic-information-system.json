@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/geosite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -133,6 +133,52 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Bunting Labs",
+      "Atonomo",
+      "CodeCanary"
+    ],
+    "id": 26712,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1659469853,
+    "long_description": "Bunting Labs researches and develops custom AI models for surveying and GIS.",
+    "name": "Bunting Labs",
+    "nonprofit": false,
+    "one_liner": "AI Models for GIS",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "bunting-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56779177435211428fc3b60658c5b05d7288f710.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Geographic Information System",
+      "B2B",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/bunting-labs",
+    "website": "https://buntinglabs.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -170,5 +216,90 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/monarcha",
     "website": "https://monarcha.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mireye.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33052,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1781399078,
+    "long_description": "AI agents are starting to act in the real world, but they can't reliably understand it. \r\n\r\nEvery fact about a place has its own silo: land in GIS maps, power in utility portals, people in census tables, policy in county PDFs. All built for humans, none for agents. Underneath, the data is fragmented across thousands of sources, unstructured and complex.\r\n\r\nMireye is building the infrastructure that powers agents to make decisions and act in the real world. One API and MCP to connect agents to the physical world with accurate data enrichment, signals and tools.\r\n\r\nOur mission is to index every inch of the earth, and make it as queryable as the web.",
+    "name": "Mireye",
+    "nonprofit": false,
+    "one_liner": "Search Engine for the Physical World",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mireye",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c96db3bdd6828a4a145c678555e120d2ab43c855.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Geographic Information System",
+      "AI",
+      "Location-based"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mireye",
+    "website": "https://www.mireye.com/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35093,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789408162,
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "name": "Aviern",
+    "nonprofit": false,
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aviern",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "website": "https://aviern.com/"
   }
 ]

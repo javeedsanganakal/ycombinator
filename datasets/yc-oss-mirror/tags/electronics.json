@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2007/octopart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -126,14 +126,15 @@
     "website": "https://www.avairsense.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-lab.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-labs.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "Adagy Robotics"
+      "Adagy Robotics",
+      "Tuesday Lab"
     ],
     "id": 29257,
     "industries": [
@@ -144,7 +145,7 @@
     "isHiring": true,
     "launched_at": 1706678921,
     "long_description": "Tuesday makes delightful robots that tidy your home for you",
-    "name": "Tuesday Lab",
+    "name": "Tuesday Labs",
     "nonprofit": false,
     "one_liner": "Delightful robots",
     "question_answers": false,
@@ -152,8 +153,8 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "tuesday-lab",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png",
+    "slug": "tuesday-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7c6f660a8e21354833989c609687d7125a07b0.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -165,55 +166,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tuesday-lab",
-    "website": "https://www.tuesdaylab.com"
+    "url": "https://www.ycombinator.com/companies/tuesday-labs",
+    "website": "https://www.tuesdaylabs.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/atopile.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29308,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1709142669,
-    "long_description": "atopile is a new language to design electronic circuit boards with code. We replace point and click graphical interfaces with code to bring software level automation and reuse to the field of hardware design. Our project is open source on GitHub! https://github.com/atopile/atopile",
-    "name": "atopile",
-    "nonprofit": false,
-    "one_liner": "We make tools to design electronics circuit boards with code",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "atopile",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc01556ac42a30413be04851c543100ade541b52.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Hardware",
-      "SaaS",
-      "Design Tools",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/atopile",
-    "website": "http://atopile.io"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -251,7 +210,7 @@
       "Electronics"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/diode-computers-inc",
     "website": "https://diode.computer"
@@ -298,6 +257,46 @@
     "website": "https://www.reviserobotics.com/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/steinmetz.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30190,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1740381508,
+    "long_description": "Steinmetz is building the next generation of American power electronics. The next generation of great machines — electric vehicles, robotics, aerospace, and industrial systems — depends on power electronics that are lighter, cheaper, more efficient, and built at real scale.\r\n\r\nWe push the Pareto frontier of power electronics through multi-disciplinary design. We're the OEM that customers actually appreciate.",
+    "name": "Steinmetz",
+    "nonprofit": false,
+    "one_liner": "Next-Generation Power Electronics",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "steinmetz",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a01f59af390bfd92ad55d1f62a2729543663f92.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hardware",
+      "Electric Vehicles",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/steinmetz",
+    "website": "https://steinmetzmotors.com/"
+  },
+  {
     "all_locations": "Zürich, ZH, Switzerland",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/stillwind.json",
     "app_answers": null,
@@ -316,10 +315,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740421634,
-    "long_description": "Our first product, Stillwind Search, makes finding an electronic part as easy as writing a text message. \r\nThe search engine turns natural language queries into fine-grained specifications that are matched against our proprietary database of millions of parts. \r\n\r\nThis is the first step towards autonomous electrical engineering.",
+    "long_description": "Stillwind builds AI tools for electrical engineers to aide them in the repetitive parts of the process, primarily component search, cross referencing and simple circuitry. ",
     "name": "Stillwind",
     "nonprofit": false,
-    "one_liner": "Autonomous Electrical Engineering",
+    "one_liner": "Electrical Engineering Components Compaion",
     "question_answers": false,
     "regions": [
       "Switzerland",
@@ -332,23 +331,67 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/stillwind",
     "website": "https://stillwind.ai"
   },
   {
-    "all_locations": "Cambridge, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/axal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30353,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1736891737,
+    "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
+    "name": "Axal",
+    "nonprofit": false,
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "axal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/axal",
+    "website": "https://www.axal.ai/"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nodi-energy.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "PowerMatrix"
+    ],
     "id": 30502,
     "industries": [
       "Industrials",
@@ -357,72 +400,160 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1748546232,
-    "long_description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
-    "name": "PowerMatrix",
+    "long_description": "NODI is building distributed energy infrastructure to rewire the grid. \r\n\r\nWe deploy and aggregate batteries at the edge and orchestrate them as distributed nodes, providing locational flexibility to the rigid grid — relieving congestion and unlocking capacity at constrained locations, so data centers can connect in weeks instead of waiting decades for reinforcement.",
+    "name": "NODI Energy",
     "nonprofit": false,
-    "one_liner": "Efficient and compact power supply for AI hardware",
+    "one_liner": "Distributed energy infrastructure unlocking grid power to data centers",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
-    "slug": "powermatrix",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png",
+    "slug": "nodi-energy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a4e15d9d456412939a83c9d998aaeedade968a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Energy",
     "tags": [
+      "Energy Storage",
       "Hard Tech",
       "Hardware",
       "Energy",
-      "Semiconductors",
       "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/powermatrix",
-    "website": "https://pwrmatrix.com"
+    "url": "https://www.ycombinator.com/companies/nodi-energy",
+    "website": "https://www.nodienergy.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31366,
+    "id": 31374,
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1775260036,
-    "long_description": "",
-    "name": "Nine Fives",
+    "launched_at": 1775173231,
+    "long_description": "Tenet Industries is building AI-automated factories for manufacturing of PCBAs.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCBA manufacturing and electronic manufacturing services.",
+    "name": "Tenet Industries",
     "nonprofit": false,
-    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "one_liner": "AI-automated PCB assembly factories",
+    "question_answers": false,
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "slug": "tenet-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Automation",
+      "Electronics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tenet-industries",
+    "website": "https://www.tenetindustries.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/provenmetal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Syncra"
+    ],
+    "id": 33017,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1783632830,
+    "long_description": "ProvenMetal manufactures the fastest circuit boards in the United States.\r\n\r\nDomestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet.\r\n\r\nWe automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.\r\n",
+    "name": "ProvenMetal",
+    "nonprofit": false,
+    "one_liner": "AI-native electronics manufacturing for the American industrial base",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "nine-fives",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "slug": "provenmetal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/450cf955a0b5a1e301afe718484dd30ffb22fb67.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Radar",
-      "Telecommunications",
+      "Hardware",
+      "Manufacturing",
       "Electronics"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/nine-fives",
-    "website": "https://ninefives.com/"
+    "url": "https://www.ycombinator.com/companies/provenmetal",
+    "website": "https://provenmetal.com"
+  },
+  {
+    "all_locations": "Waterloo, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33838,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1782327485,
+    "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+    "name": "Simantic",
+    "nonprofit": false,
+    "one_liner": "Firmware simulation for AI agents",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "simantic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Semiconductors",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/simantic",
+    "website": "https://simantic.dev"
   }
 ]

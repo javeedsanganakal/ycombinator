@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Chicago, IL, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/zerocater.json",
     "app_answers": null,
     "app_video_public": false,
@@ -89,7 +89,7 @@
     "website": "https://www.anylist.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/spoonrocket.json",
     "app_answers": null,
     "app_video_public": false,
@@ -168,7 +168,7 @@
     "website": "http://yumbin.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Ljubljana, Ljubljana, Slovenia; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/flaviar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -189,7 +189,9 @@
     "one_liner": "Try-at-home service for fine spirits",
     "question_answers": false,
     "regions": [
+      "Slovenia",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -210,7 +212,7 @@
     "website": "https://flaviar.com"
   },
   {
-    "all_locations": "San Leandro, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/replenish.json",
     "app_answers": null,
     "app_video_public": false,
@@ -417,7 +419,7 @@
     "website": "http://www.tovala.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/haywheel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -685,7 +687,7 @@
     "slug": "bensen",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7af36cf816e85779580f55b3d6110fd7defe50.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Marketplace",
@@ -747,7 +749,7 @@
     "website": "https://www.jupiter.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/racer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -795,7 +797,7 @@
     "website": "http://racer.app"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/glimpse-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -958,7 +960,7 @@
     "slug": "nino-foods",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df80427d3277e874a082878b88292a9f7eecc488.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Consumer -> Food and Beverage",
     "tags": [
       "Ghost Kitchens",
@@ -1018,6 +1020,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/choppy",
     "website": "http://www.eatchoppy.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/airgoods.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Stack"
+    ],
+    "id": 28827,
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1689699732,
+    "long_description": "Trusted by independent grocers across America, Airgoods is the AI-native distributor transforming how stores discover, order, and sell the products their customers want. \r\n\r\nBy combining proprietary data with automation across discovery, purchasing, receiving, and merchandising, Airgoods gives independent grocers the intelligence and operating leverage once reserved for the largest retail chains.",
+    "name": "Airgoods",
+    "nonprofit": false,
+    "one_liner": "The modern distributor for grocers.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "airgoods",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d261d8dfa76354809d8e5792b2d21ef5d258f8d5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Retail",
+    "tags": [
+      "Grocery",
+      "Supply Chain",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/airgoods",
+    "website": "https://airgoods.com/"
   },
   {
     "all_locations": "Lagos, LA, Nigeria",
@@ -1152,7 +1197,7 @@
     "website": "http://www.betterbasket.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1172,8 +1217,8 @@
     "one_liner": "AI-native ERP for food wholesalers",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "stockline",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
@@ -1191,5 +1236,45 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/stockline",
     "website": "https://stockline.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/asakana.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35261,
+    "industries": [
+      "Consumer",
+      "Food and Beverage"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1788189674,
+    "long_description": "Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",
+    "name": "Asakana",
+    "nonprofit": false,
+    "one_liner": "AI order entry for food distributors: emails and texts to ERP",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "asakana",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Food and Beverage",
+    "tags": [
+      "SaaS",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/asakana",
+    "website": "https://www.asakana.co/"
   }
 ]

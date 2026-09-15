@@ -1,5 +1,5 @@
 {
-  "all_locations": "",
+  "all_locations": "San Francisco, CA, USA",
   "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json",
   "app_answers": null,
   "app_video_public": false,
@@ -10,28 +10,33 @@
   ],
   "id": 30663,
   "industries": [
-    "B2B",
-    "Operations"
+    "Fintech",
+    "Insurance"
   ],
-  "industry": "B2B",
-  "isHiring": false,
+  "industry": "Fintech",
+  "isHiring": true,
   "launched_at": 1755571936,
-  "long_description": "Tesora builds AI-native software for insurance underwriting and actuarial teams. We forward deploy into MGAs/ Carriers to connect disparate systems, encode expert workflows, and eliminate the spreadsheet and email bottlenecks constraining growth, specifically focused on freeing up actuaries (to build a more profitable book!)",
+  "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
   "name": "Tesora",
   "nonprofit": false,
-  "one_liner": "AI-Native Underwriting and Actuarial Workflows ",
+  "one_liner": "Frontier AI for Actuaries",
   "question_answers": false,
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "slug": "tesora",
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
   "stage": "Early",
   "status": "Active",
-  "subindustry": "B2B -> Operations",
-  "tags": [],
+  "subindustry": "Fintech -> Insurance",
+  "tags": [
+    "API",
+    "Insurance",
+    "AI"
+  ],
   "tags_highlighted": [],
-  "team_size": 2,
+  "team_size": 5,
   "top_company": false,
   "url": "https://www.ycombinator.com/companies/tesora",
   "website": "https://tesora.ai"

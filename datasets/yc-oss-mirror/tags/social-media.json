@@ -257,7 +257,7 @@
     "website": "http://naytev.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/makrwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -306,7 +306,7 @@
     "website": "https://www.makrwatch.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/wakie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -349,7 +349,7 @@
     "website": "http://www.wakie.com"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/streamup.json",
     "app_answers": null,
     "app_video_public": false,
@@ -514,7 +514,7 @@
     "website": "https://www.breaker.audio"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/covetly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -755,10 +755,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1613662142,
-    "long_description": "Rethoric is a LinkedIn content agency built by founders, for founders. We run your entire content operation from strategy to publishing so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nYour content starts with a monthly interview led by people who understand the founder journey. We go deep on your ideas, decisions, and lessons learned so the content sounds like your best thinking, not a marketing team's version of it. \r\n\r\nFrom there, world-class ghostwriters and editors turn those conversations into a full content calendar.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. You approve directly from Slack notifications.",
+    "long_description": "Rethoric is a LinkedIn content consultancy service and scheduling platform used by companies like Checkr, ClickUp, Storylane, Checkly, and 100+ startups and enterprises. We run your entire content operation from strategy to publishing, so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. ",
     "name": "Rethoric",
     "nonprofit": false,
-    "one_liner": "LinkedIn ghostwriting for founders to busy to post consistently",
+    "one_liner": "LinkedIn content consultancy and scheduling platform for busy founders",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -845,9 +845,9 @@
       "Marketing"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1670314629,
-    "long_description": "Syncly is an AI-native social listening platform that analyzes social content from text to video. Syncly extracts content, creator, and consumer insights from audio, visuals, and on-screen context, not just captions and comments, across TikTok, Instagram, YouTube, and more. From enterprise leaders like Kimberly-Clark and Clorox to fast-growing brands like Neuro, teams use Syncly to get full visibility across every social channel and make faster, smarter decisions.",
+    "long_description": "Syncly co-founders (former founders of Sualab, a video AI startup, $200M exit) are building agentic AI to automate video marketing for the world’s largest CPG brands (Tiffany, Clorox), a market where brands spend hundreds of billions on agencies today. At $2.1M ARR, grown 2x in 6 months, 4x in 12 months, and 142% NDR. Backed by YC, SoftBank, and John Kim (Sendbird CEO).",
     "name": "Syncly",
     "nonprofit": false,
     "one_liner": "Social listening for the video era",
@@ -947,7 +947,7 @@
     "slug": "soundry-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a8248327c7bdfb14b2d547e4250131e4353d614.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Consumer -> Content",
     "tags": [
       "Social Media",
@@ -1139,7 +1139,50 @@
     "website": "https://typa.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/streamable.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PearAI"
+    ],
+    "id": 30023,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": true,
+    "launched_at": 1727484339,
+    "long_description": "https://streamable.run\r\n",
+    "name": "Streamable",
+    "nonprofit": false,
+    "one_liner": "Powering the biggest IRL streamers today.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "streamable",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdee682cffd04f37019b910b81a540343c3ed75e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Consumer",
+      "Social Media",
+      "Live",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/streamable",
+    "website": "https://streamable.run"
+  },
+  {
+    "all_locations": "Denver, CO, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/darkgrade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1173,11 +1216,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Social Media",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -1186,7 +1229,7 @@
     "website": "https://darkgrade.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/withcharm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1230,7 +1273,7 @@
     "team_size": 1,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/withcharm",
-    "website": "https://withcharm.app"
+    "website": "https://charm.cash/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1252,7 +1295,7 @@
     "long_description": "",
     "name": "neoncoral",
     "nonprofit": false,
-    "one_liner": "🪸 AI consumer social ",
+    "one_liner": "",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1264,10 +1307,10 @@
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Social Media",
-      "Social",
-      "AI"
+      "Social"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -1319,6 +1362,55 @@
     "website": "https://www.digipals.app/"
   },
   {
+    "all_locations": "Austin, TX, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Pando Technologies",
+      "Tellif",
+      "Tellif AI",
+      "Tell if AI",
+      "Land.dev"
+    ],
+    "id": 30873,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1760060442,
+    "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+    "name": "Tell if AI",
+    "nonprofit": false,
+    "one_liner": "AI agents on real phones, growing brands across every platform.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tell-if-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Artificial Intelligence",
+      "Telehealth",
+      "Social Media",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "website": "https://tellif.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json",
     "app_answers": null,
@@ -1360,89 +1452,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "website": "https://www.getbluma.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/instaagent.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31409,
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1778187883,
-    "long_description": "InstaAgent helps consumer brands scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M ARR in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
-    "name": "InstaAgent",
-    "nonprofit": false,
-    "one_liner": "Scale marketing campaigns across hundreds of personas",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "instaagent",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1efbbb9a75fe89206f180f9f9d1afb75dba57ca0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Marketing",
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Social Media",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/instaagent",
-    "website": "https://instaagent.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31473,
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1775508388,
-    "long_description": "Kuli is an AI agent for social media and influencer marketing teams at the world's largest consumer brands. Our agent watches every video on socials in the brand's context and helps marketers get work done to launch their campaigns 4x faster.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Disney, Nivea and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
-    "name": "Kuli",
-    "nonprofit": false,
-    "one_liner": "Claude Cowork for social media and creator marketers",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "kuli",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Marketing",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Social Media"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kuli",
-    "website": "https://kuli.one"
   }
 ]

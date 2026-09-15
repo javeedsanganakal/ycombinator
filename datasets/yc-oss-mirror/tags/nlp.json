@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/wit-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -87,7 +87,7 @@
     "website": "https://picnic.ai"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/mosaix-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -173,7 +173,7 @@
     "website": "https://shipamax.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/rankscience.json",
     "app_answers": null,
     "app_video_public": false,
@@ -343,7 +343,7 @@
     "website": "https://guggy.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/docucharm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -430,7 +430,7 @@
     "website": "http://www.kraftful.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/flowbot.json",
     "app_answers": null,
     "app_video_public": false,
@@ -515,7 +515,7 @@
     "website": "https://www.hyperglue.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/compose-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -605,7 +605,7 @@
     "website": "https://cero.ai"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/homeroom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -696,7 +696,7 @@
     "website": "https://voize.de/"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/numind.json",
     "app_answers": null,
     "app_video_public": false,
@@ -844,7 +844,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1704724705,
     "long_description": "Onyx is the open source chat UI connected to your company’s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
     "name": "Onyx",
@@ -858,7 +858,7 @@
     "slug": "onyx",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def9ae8f0c06685a28e8184b828d9de7e1232ad3.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Productivity",
     "tags": [
       "Open Source",
@@ -906,7 +906,8 @@
     "subindustry": "Government",
     "tags": [
       "GovTech",
-      "NLP"
+      "NLP",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 2,

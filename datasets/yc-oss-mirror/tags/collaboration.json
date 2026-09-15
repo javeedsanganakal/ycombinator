@@ -40,7 +40,7 @@
     "website": "http://hackpad.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/pixelapse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -80,7 +80,7 @@
     "website": "http://pixelapse.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/screenleap-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -249,7 +249,7 @@
     "website": "http://siasto.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/aerofs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -331,7 +331,7 @@
     "website": "http://jamglue.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/mattermost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -377,7 +377,7 @@
     "website": "http://mattermost.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/screenhero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -499,7 +499,7 @@
     "website": "http://worklife.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/resolve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -515,7 +515,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416222759,
     "long_description": "At Resolve we’re accelerating construction to build as fast as the future demands. Construction projects are all slowed down by rework that arises after humans spot issues in real life that slipped through all the hours of design reviews and coordination. Resolve enables construction teams to detect these issues in 3D BIM as early as possible so that we can close the gap between design and reality.\r\n\r\nBy combining realtime collaboration in the web, immersive VR reviews, and AI-driven spatial navigation into the most easy to use platform for BIM reviews, Resolve empowers construction teams to identify risks earlier, coordinate faster, and deliver higher-quality assets across mission-critical infrastructure.\r\n\r\nResolve has been used to deliver over 6GW of data center capacity and on projects across pharma, water treatment, healthcare, and other critical assets.\r\n",
     "name": "Resolve",
@@ -610,10 +610,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1509562905,
-    "long_description": "Slite is an AI-powered knowledge base making it easy to create, manage, and access company information. \r\n\r\nTeams can quickly find what they need by simply asking questions. \r\nSlite makes it easy to keep your company's knowledge current. \r\n\r\nOver 1,500 companies and 50 000 users leverage Slite as their trusted source of knowledge.",
+    "long_description": "Slite pairs a verified knowledge base with an AI agent connected to all team's tools, detecting when docs gets outdated and keeping them in sync with reality.\r\n\r\nIt gives teams a company brain that stays in sync with reality, for humans to trust and AI agents to act on.",
     "name": "Slite",
     "nonprofit": false,
-    "one_liner": "Team documentation removing the pain of maintaining and finding info",
+    "one_liner": "The self-maintaining knowledge base",
     "question_answers": false,
     "regions": [
       "Germany",
@@ -638,7 +638,7 @@
     "website": "https://slite.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/codestream.json",
     "app_answers": null,
     "app_video_public": false,
@@ -769,50 +769,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/replit",
     "website": "https://replit.com"
-  },
-  {
-    "all_locations": "Toronto, ON, Canada; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/convictional.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2019",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 11960,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1541124183,
-    "long_description": "Convictional (convictional.com) is the company OS that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
-    "name": "Convictional",
-    "nonprofit": false,
-    "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
-    "question_answers": false,
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "convictional",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "B2B",
-      "Team Collaboration",
-      "Collaboration",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "team_size": 15,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/convictional",
-    "website": "https://convictional.com"
   },
   {
     "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
@@ -1118,7 +1074,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/taskade",
     "website": "https://www.taskade.com"
@@ -1387,7 +1343,7 @@
     "website": "https://beau.to"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1410,7 +1366,7 @@
     "long_description": "Moots is the Guest Intelligence platform. We engineer the room so every guest walks away with the conversation they came for, and with a relationship that lasts beyond it. Built for the events where the room matters: brand activations, advisory retreats, investor gatherings, members clubs, donor cultivation, political fundraisers, and recurring tech communities on Luma.",
     "name": "Moots",
     "nonprofit": false,
-    "one_liner": "The guest intelligence platform for high-value corporate events",
+    "one_liner": "The guest intelligence platform for high-value client events",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1424,8 +1380,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Collaboration",
-      "AI"
+      "Artificial Intelligence",
+      "Collaboration"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1496,10 +1452,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1646206414,
-    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
+    "long_description": "For most of software's history the hard part was making things. Writing the code, drafting the document, putting the report together. That is the part that is getting cheap. An agent can now produce in an afternoon what used to take a team a month.\r\n\r\nWhat doesn't get cheaper is verifying it. Someone still has to look at what the machine did, decide whether it's right, and answer for that decision later. Output goes up, review capacity doesn't, and that is where the work now piles up.\r\n\r\nVelt is the infrastructure for that step, and it treats agents and people as the same kind of reviewer. A review agent takes the first pass and catches what a machine can catch. A person makes the call on what actually matters. Both work on the same object, in the same thread, under the same rules. Only after approval is the change applied, through your own webhook, and every decision is recorded, so you can always show who allowed what and when.\r\n\r\nTeams build this themselves and it takes about two quarters. Comments, approvals, review agents, notifications, audit trails: the boring parts nobody thinks about until they're three months in. With Velt it's a few components you drop into a React, Next, Vue, or Angular app.",
     "name": "Velt",
     "nonprofit": false,
-    "one_liner": "The Complete Collaboration Toolkit",
+    "one_liner": "SDK for adding an agent and human governance layer to your product",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1513,11 +1469,11 @@
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -1577,7 +1533,7 @@
     "website": "https://onboard.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cashboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1667,7 +1623,7 @@
     "website": "https://www.uplinkapp.io"
   },
   {
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Jacksonville, FL, USA; Remote",
+    "all_locations": "Jacksonville, FL, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/linkgrep.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1758,7 +1714,7 @@
     "website": "https://icepanel.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/clad.json",
     "app_answers": null,
     "app_video_public": false,

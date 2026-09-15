@@ -42,7 +42,7 @@
     "website": "https://www.lynks.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/mosaix-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -100,7 +100,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556761338,
     "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
     "name": "Outtalent",
@@ -130,7 +130,7 @@
     "website": "http://outtalent.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/popl.json",
     "app_answers": null,
     "app_video_public": true,
@@ -144,10 +144,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1610523196,
-    "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
+    "long_description": "Popl is the AI GTM platform for in-person events — the data layer for everything that happens face-to-face. Powered by AI and its proprietary data engine, Popl helps companies worldwide turn events into a measurable, scalable growth channel: universal badge scanning, AI-powered conversation recording, real-time data enrichment, and automatic CRM sync.",
     "name": "Popl",
     "nonprofit": false,
-    "one_liner": "Your Complete In-Person GTM Platform",
+    "one_liner": "Your AI GTM platform for In-Person Events",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -220,7 +220,7 @@
     "website": "https://waza.co/"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/cleva.json",
     "app_answers": null,
     "app_video_public": false,
@@ -234,14 +234,14 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1704535583,
-    "long_description": "Cleva enables African freelancers and businesses to receive international payment for their service, while protecting themselves from local currency volatility. With a Cleva USD account, one can easily receive USD payment from anywhere in the world, spend via a card, pay bills, convert to local currency, and save in USD to hedge against local currency volatility.",
+    "long_description": "Cleva breaks down financial borders across the globe by enabling remote workers, individuals, and businesses to hold stablecoin-backed dollars. Specifically, we enable our customers:\r\n\r\n1. Receive USD, GBP, EUR payments: Individuals and businesses can receive USD, GBP, and EUR payments into their virtual account.\r\n2. Receive and send stablecoins: They can also receive USDT or USDC, and make global payments via USDT and USDC.\r\n3. Hold funds in USD: They can choose to hold their funds in USD instead of converting to local currency. In high inflation countries, this is extremely desirable as it helps our customers hedge against inflation until they're ready to spend in local currency.\r\n4. Stablecoin-backed cards: We issue cards that are stablecoin-backed and accepted by 150M+ merchants across the globe. Users can fund in stablecoins or fiat, spend anywhere VISA is accepted, and earn cashback in the form of Cleva Points.\r\n5. Savings: We recently launched Cleva Pots, allowing users to save towards their goals and earn yield on their savings.\r\n\r\nIt's still very early days at Cleva. We've been hyper-focused on our home country Nigeria but we're now expanding to more countries across the globe.",
     "name": "Cleva",
     "nonprofit": false,
-    "one_liner": "USD banking platform for Africa",
+    "one_liner": "Global neobank for emerging markets",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -252,12 +252,14 @@
     "subindustry": "Fintech",
     "tags": [
       "Fintech",
-      "B2B",
+      "Crypto / Web3",
       "Remote Work",
       "Emerging Markets",
       "Neobank"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cleva",
@@ -306,7 +308,7 @@
     "website": "https://paasa.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/karsa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -320,7 +322,7 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1737358426,
     "long_description": "Karsa is a stablecoin neobank for over 100M people in emerging markets. We enable people to buy dollar-denominated stablecoins, save money in US bank accounts, and spend anywhere with a Visa card.",
     "name": "Karsa",
@@ -360,12 +362,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1767738733,
     "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "name": "Kita",
     "nonprofit": false,
-    "one_liner": "Automate credit review for lenders in emerging markets",
+    "one_liner": "Automate credit assessment for lenders in emerging markets",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -383,9 +385,9 @@
       "Emerging Markets"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kita",
-    "website": "https://www.usekita.com/"
+    "website": "https://www.kita.ai/"
   }
 ]

@@ -79,7 +79,7 @@
     "website": "http://inklingmarkets.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/paytango.json",
     "app_answers": null,
     "app_video_public": false,
@@ -119,7 +119,7 @@
     "website": "http://paytango.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/abacus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -163,7 +163,7 @@
     "website": "http://abacus.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/chargehound.json",
     "app_answers": null,
     "app_video_public": false,
@@ -207,7 +207,7 @@
     "website": "https://www.chargehound.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/rocketrip.json",
     "app_answers": null,
     "app_video_public": false,
@@ -248,7 +248,7 @@
     "website": "http://rocketrip.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/unicornly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -457,7 +457,7 @@
     "website": "http://GoBonfire.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/giveffect.json",
     "app_answers": null,
     "app_video_public": false,
@@ -585,7 +585,7 @@
     "website": "https://www.tesorio.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/yardbook.json",
     "app_answers": null,
     "app_video_public": false,
@@ -894,7 +894,7 @@
     "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
     "name": "Fondo",
     "nonprofit": false,
-    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
+    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 2,000+ startups",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -908,10 +908,10 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 80,
@@ -1091,7 +1091,7 @@
     "website": "http://bhrdglobal.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/interprime.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1184,7 +1184,7 @@
     "website": "https://www.deel.com/"
   },
   {
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "Lisbon, Lisbon, Portugal",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/caribou.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1207,7 +1207,7 @@
     "one_liner": "The autonomous tax firm",
     "question_answers": true,
     "regions": [
-      "United Kingdom",
+      "Portugal",
       "Europe"
     ],
     "slug": "caribou",
@@ -1333,7 +1333,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1594318518,
     "long_description": "Kinter empowers leading organizations to supplement their workforce with AI Accountants that execute the accounting close. Trusted by global leaders including Amazon, Mastercard, and UPS, Kinter is backed by a16z, Bain Capital Ventures, Y Combinator and dozens of career operators and founders.",
     "name": "Kinter",
@@ -1352,9 +1352,9 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
@@ -1363,7 +1363,7 @@
     "website": "https://kinter.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/blue-onion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1398,9 +1398,9 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "team_size": 27,
@@ -1454,7 +1454,7 @@
     "website": "https://finmark.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/payflow-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1485,7 +1485,7 @@
     "slug": "payflow-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a26715d50dea86a98186746ad74932cda51155ed.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
       "Fintech",
@@ -1499,7 +1499,7 @@
     "website": "https://www.payflow.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/abacum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1586,7 +1586,7 @@
     "website": "https://tupelosmb.com/"
   },
   {
-    "all_locations": "Bengaluru, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/cashbook.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1646,10 +1646,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1614447840,
-    "long_description": "Pry makes it simple for companies to manage their budget, hiring plan, financial models, and cash runway.\r\n\r\nToday, most people plan for their business once a quarter. It's done in Excel - buggy, boring, confusing, and really time-expensive. A lot of people have tried to solve this and only found moderate success or failed.\r\n\r\nWe're the team to do it right.",
+    "long_description": "Now working on prune.com\r\n\r\nPry makes it simple for companies to manage their budget, hiring plan, financial models, and cash runway.\r\n\r\nToday, most people plan for their business once a quarter. It's done in Excel - buggy, boring, confusing, and really time-expensive. A lot of people have tried to solve this and only found moderate success or failed.\r\n\r\nWe're the team to do it right.",
     "name": "Pry Financials",
     "nonprofit": false,
-    "one_liner": "Finance for Founders",
+    "one_liner": "Finance for Founders (now at prune.com)",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1891,7 +1891,7 @@
     "website": "https://gimbooks.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/liveflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2036,10 +2036,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1627685643,
-    "long_description": "Soraban's building an intelligent tax workflow platform for accounting firms. Our AI is first automating the client data intake process, data entry into legacy accounting software, and final delivery of the return package.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants, since excel. ",
+    "long_description": "AI-native Tax workflow Platform for accounting firms from client request to delivery. We raised $18m from patient investors who are onboard to help us grow and serve tens of thousands of accounting firms. We're not in this market to grow fast and fail fast. We're in this to build something that'll last decades. ",
     "name": "Soraban",
     "nonprofit": false,
-    "one_liner": "AI Tax Workflow for accounting firms ",
+    "one_liner": "AI tax workflow platform for accounting firms ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2195,7 +2195,7 @@
     "website": "https://www.contalink.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/confido.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2227,14 +2227,14 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/confido",
     "website": "https://www.confidotech.com"
@@ -2256,7 +2256,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628792157,
     "long_description": "Swipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.",
     "name": "Swipe",
@@ -2286,7 +2286,7 @@
     "website": "https://getswipe.in"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2332,7 +2332,7 @@
     "website": "https://www.doublehq.com"
   },
   {
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/lago.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2353,8 +2353,8 @@
     "one_liner": "The AI Native Billing Platform",
     "question_answers": false,
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2371,7 +2371,7 @@
       "Billing"
     ],
     "tags_highlighted": [],
-    "team_size": 45,
+    "team_size": 27,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lago",
     "website": "https://www.getlago.com/"
@@ -2424,7 +2424,7 @@
     "website": "http://konta.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/maroo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2467,7 +2467,7 @@
     "website": "https://maroo.us/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/aleph.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2610,7 +2610,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1625691576,
     "long_description": "Synder is an easy accounting platform focused on e-commerce.  It connects all sales platforms (like Shopify, Stripe, Amazon or Etsy) into one ecosystem, providing businesses with consolidated cash flow, automated accounting, and inventory management making Synder a single source of truth of the correct analytics, accounting and tax filing.",
     "name": "Synder",
@@ -2681,7 +2681,7 @@
     "website": "https://www.chipax.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/toku.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2702,6 +2702,7 @@
     "one_liner": "Account Receivables Platform for Latin American Enterprises",
     "question_answers": false,
     "regions": [
+      "Chile",
       "Mexico",
       "Latin America"
     ],
@@ -2861,7 +2862,7 @@
     "website": "https://haddock.app"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3035,7 +3036,7 @@
     "website": "https://www.jutsoo.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/versa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3121,7 +3122,7 @@
     "website": "https://delegasi.co/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cashboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3164,55 +3165,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cashboard",
     "website": "https://www.cashboard.co"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA; Singapore, Singapore",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/pivot.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Metafi"
-    ],
-    "id": 26818,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1661470428,
-    "long_description": "Pivot helps you visualise, analyse and model your company's financial data way faster than Excel.",
-    "name": "Pivot",
-    "nonprofit": false,
-    "one_liner": "Your AI FP&A Analyst",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "Singapore",
-      "America / Canada",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "pivot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/890f95427cc41ee18857db66456770c31a41ddf7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [
-      "SaaS",
-      "Finance",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pivot",
-    "website": "https://www.trypivot.xyz/"
   },
   {
     "all_locations": "Austin, TX, USA; Remote",
@@ -3320,10 +3272,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1660657383,
-    "long_description": "Invofox is the document processing AI for software companies. If you need to process documents such as invoices, receipts, bills of lading and others for your customers, you can easily build a first-in-class service with minimum effort using our technology. Check out our\r\nwebsite and developers portal for more information.",
+    "long_description": "Software teams in 150+ companies solve their document processing needs using Invofox.\r\nWe are a good option for you if:\r\n- Great accuracy is a requirement in your business (we guarantee +99% as part of our SLAs, written in our contracts)\r\n- You want a simple and easy to understand pricing (we charge per page, and any documents were you report back an error are completely free)\r\n- You want a system that just works, and that gets better over time (Invofox learns automatically with feedback)\r\n\r\nYou can try it with this link and get an extra 250 pages for free: https://go.invofox.com/ooVVIw",
     "name": "Invofox",
     "nonprofit": false,
-    "one_liner": "INVOFOX is the document processing AI for software companies",
+    "one_liner": "Invofox is the document parsing and data extraction API for software…",
     "question_answers": false,
     "regions": [
       "Spain",
@@ -3344,7 +3296,7 @@
     "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/invofox",
-    "website": "https://invofox.com"
+    "website": "https://invofox.com?utm_source=yc"
   },
   {
     "all_locations": "Jeddah, Makkah Province, Saudi Arabia",
@@ -3389,7 +3341,7 @@
     "website": "https://uselevers.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/lotus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3520,7 +3472,7 @@
     "website": "https://mogara.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/concourse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3537,10 +3489,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1680338396,
-    "long_description": "Concourse is building AI agents for corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an AI analyst tailor-built for finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company’s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
+    "long_description": "Concourse is the vertical AI platform for enterprise finance teams. \r\n\r\nFinance teams accelerate their AI transformation by building production-ready agents that own end-to-end workflows across departments. Concourse agents deliver higher accuracy, lower cost, and stronger governance than AI assistants and base LLMs: they connect to your core data sources, encode your business logic, compute math in code instead of generating it, and trace every output back to source. Concourse is already in production at Fortune 500 companies, and has raised $20M from Andreessen Horowitz, CRV, and Y Combinator.",
     "name": "Concourse",
     "nonprofit": false,
-    "one_liner": "AI Agents for corporate finance teams",
+    "one_liner": "The AI Agent platform for finance",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3561,10 +3513,10 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/concourse",
-    "website": "https://concourse.co/"
+    "website": "https://concourse.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3582,7 +3534,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1672355505,
-    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 3,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
+    "long_description": "Numeral is the trusted solution for U.S. sales tax, VAT, and GST compliance, used by 3,000+ global businesses, including Eight Sleep, Supabase, and Brex.\r\n\r\nOur end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "name": "Numeral",
     "nonprofit": false,
     "one_liner": "The AI-native sales tax solution.",
@@ -3594,8 +3546,8 @@
       "Partly Remote"
     ],
     "slug": "numeral",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png",
-    "stage": "Early",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a499f6b96256283dc99bacb914267102619b349.png",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
@@ -3606,13 +3558,13 @@
       "E-commerce"
     ],
     "tags_highlighted": [],
-    "team_size": 100,
+    "team_size": 110,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/numeral",
     "website": "https://www.numeral.com/"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/bujeti.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3627,14 +3579,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673189707,
-    "long_description": "Control your business finances, all in one place\r\nTrack expenses, reimbursements, and invoices for financial efficiency on Africa’s most loved spend management platform.",
+    "long_description": "Control spending, process payments, manage payroll, and multi-currency operations with approval workflows, total visibility and control, from one unified platform",
     "name": "Bujeti",
     "nonprofit": false,
-    "one_liner": "Financial OS for African businesses",
+    "one_liner": "The Finance Control Centre for African Businesses",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -3688,17 +3640,17 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/truewind",
-    "website": "https://www.trytruewind.com"
+    "website": "https://truewind.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3744,7 +3696,7 @@
     "website": "https://www.fintool.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/onshore.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3760,7 +3712,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1669758881,
     "long_description": "Onshore uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
     "name": "Onshore",
@@ -3844,7 +3796,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1676868805,
     "long_description": "Dill helps construction suppliers automate accounts receivable, online payments, and credit applications.",
     "name": "Dill",
@@ -3870,7 +3822,7 @@
     "website": "https://usedill.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/benchmark.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3885,7 +3837,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1673633463,
     "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
     "name": "Benchmark",
@@ -3914,7 +3866,7 @@
     "website": "https://withbenchmark.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/metal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3927,12 +3879,12 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1674209670,
-    "long_description": "Metal is building the world’s most powerful intelligence platform for private market investors. We support deal teams throughout the investment lifecycle - from market research and sourcing to diligence and post-close. Top-tier funds like Berkshire Partners and Clearlake Capital already rely on Metal to move faster and make smarter investment decisions - and we’re just getting started.\r\n\r\nIf you're excited to transform how private investors work, collaborate, and make decisions, we’d love to meet you.",
+    "long_description": "Firm proprietary data is only as sharp as the context around it. Metal is the context platform for private capital.\r\n\r\nIt structures everything a firm has touched, every deal, company, and figure, along with every decision the deal team has made, into one context graph. So the AI tools your deal teams already rely on, like Claude, ChatGPT, and Copilot, can reason with the firm's own knowledge. Every deal feeds back into the graph, so the firm's edge compounds: each decision sharpens the one that follows.\r\n\r\nMetal is purpose-built for private equity and private credit. We turn what a firm knows into how it wins.",
     "name": "Metal",
     "nonprofit": false,
-    "one_liner": "Institutional Intelligence for Private Equity",
+    "one_liner": "The AI context platform for private capital. Everything your firm…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3944,11 +3896,11 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 17,
@@ -4000,7 +3952,7 @@
     "website": "https://www.finta.com/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Toronto, ON, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/speedy-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4023,6 +3975,8 @@
     "one_liner": "Maximize profits with AI-powered rebate management.",
     "question_answers": false,
     "regions": [
+      "Canada",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -4039,7 +3993,7 @@
     "website": "https://speedylabs.ai/"
   },
   {
-    "all_locations": "London, United Kingdom; Remote",
+    "all_locations": "London, England, United Kingdom; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/alguna.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4071,11 +4025,11 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -4126,14 +4080,15 @@
   },
   {
     "all_locations": "Provo, UT, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/agentive.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/punchcard.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2023",
     "demo_day_video_public": false,
     "former_names": [
       "Audit AI",
-      "Substantive AI"
+      "Substantive AI",
+      "Agentive"
     ],
     "id": 28849,
     "industries": [
@@ -4143,17 +4098,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1687833550,
-    "long_description": "Agentive is an AI workspace for financial and technology audit firms that leverages context-aware AI agents to perform testing procedures from natural language instructions—just like an audit associate.\r\n\r\nBy combining critical workflows such as audit planning, client document requests, and evidence testing into one seamless platform, Agentive streamlines audit processes, reduces inefficiencies, and frees teams to focus on high-impact areas.\r\n\r\nWe're backed by Y Combinator, Foundation Capital, Dell Technologies Capital, Liquid 2 Ventures, Ritual Capital, UpHonest Capital, and other fantastic investors from the public accounting profession.",
-    "name": "Agentive",
+    "long_description": "Punchcard is a system designed for assurance engagements like financial statement audits and SOX control programs. Purpose-built for selecting, requesting, and testing audit evidence. Punchcard leverages assertion-driven AI agents that perform testing procedures from natural language instructions—just like an audit associate.\r\n\r\nBy combining critical workflows such as audit planning, client document requests, evidence testing, and workpaper documentation into one seamless platform, Agentive streamlines audit processes, reduces inefficiencies, and frees teams to focus on high-impact areas.",
+    "name": "Punchcard",
     "nonprofit": false,
-    "one_liner": "AI Workspace for Audit & Advisory Firms",
+    "one_liner": "Agentive assurance system for auditors, risk consultants, and clients.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "agentive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7205b3549162efdab32a6366db7e49992589fca3.png",
+    "slug": "punchcard",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35234c07d053e0ad46079e11465b9c97a2ee8f2d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
@@ -4165,11 +4120,52 @@
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/agentive",
-    "website": "https://www.goagentive.com"
+    "url": "https://www.ycombinator.com/companies/punchcard",
+    "website": "https://www.punchcard.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/vectorshift.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29001,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1690889498,
+    "long_description": "VectorShift is the AI operating system for private market investors.VectorShift is the AI operating system for private market investors. We capture a firm's institutional knowledge across every deal, decision, and diligence finding, and put it to work across data room analysis, IC memos, portfolio company monitoring, and LP reporting.",
+    "name": "VectorShift",
+    "nonprofit": false,
+    "one_liner": "AI Operating System for Private Market Investors",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "vectorshift",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d30177551218ee02ced845873981b3eabea3ffe0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 30,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vectorshift",
+    "website": "https://www.vectorshift.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/trayd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4187,10 +4183,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689535318,
-    "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
+    "long_description": "Trayd is building the operating system for commercial construction: payroll, compliance, and back office workflows that actually work in the real world.\r\n\r\nConstruction is one of the biggest industries in North America (valued at $2T+), and it still runs on a messy mix of spreadsheets, legacy payroll providers, and manual processes that break the moment things get even slightly complex. The people doing the work are the hardest working people in the country, and the companies running crews are forced to spend hours every week fighting systems that were never built for them.\r\n\r\nWe’re changing that.\r\n\r\nTrayd started with a simple promise: construction workers should be able to access the money they already earned faster, and subcontractors should be able to run payroll without chaos. Today, we’re building deeper infrastructure across payroll, union rules, job costing, and accounting workflows so our customers can run their businesses with confidence.",
     "name": "Trayd",
     "nonprofit": false,
-    "one_liner": "A construction payroll platform designed for same-day pay.",
+    "one_liner": "A construction payroll and compliance platform built for specialty…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4209,13 +4205,13 @@
       "Payroll"
     ],
     "tags_highlighted": [],
-    "team_size": 30,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trayd",
     "website": "https://www.buildtrayd.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/dili.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4233,7 +4229,7 @@
     "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "name": "dili",
     "nonprofit": false,
-    "one_liner": "Automating PWA Compliance and Diligence",
+    "one_liner": "Automating Compliance for Construction",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4247,11 +4243,11 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -4260,7 +4256,7 @@
     "website": "https://www.dili.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/carousel-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4301,48 +4297,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/carousel-technologies",
     "website": "https://usecarousel.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/omniai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29326,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1699651931,
-    "long_description": "At Omni, we’re rebuilding how banks and fintechs lend to small businesses.\r\n\r\nThere are 34 million small businesses in the U.S., yet getting a loan still means weeks of emails, PDFs, and paperwork. Every deal starts with a pile of documents — tax returns, bank statements, corporate filings, and contracts that no one wants to read but everyone depends on. \r\n\r\nOmni is changing that. We work directly with lenders to modernize the entire stack, from document intake to underwriting, and we’re doing it with a small, fast-moving team that ships real systems used in production every day.",
-    "name": "OmniAI",
-    "nonprofit": false,
-    "one_liner": "AI Agents for Commercial Lending",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "omniai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [
-      "Documents",
-      "Finance",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/omniai",
-    "website": "https://getomni.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4511,7 +4465,7 @@
       "B2B"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 45,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/taxgpt",
     "website": "https://www.taxgpt.com"
@@ -4543,7 +4497,7 @@
     ],
     "slug": "fazeshift",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c74ff87f3dfbb5392eebf85ad2a0b29ffd7073fa.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
@@ -4678,7 +4632,7 @@
     "website": "https://midship.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/afternoon-co.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4694,7 +4648,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1730493677,
     "long_description": "Afternoon.co empowers founders to make better business decisions with real time financial metrics. We pair managed AI bookkeeping and tax services, to reduce administrative burden on founders. \r\n\r\nAccountants struggle serving 4 million+ of ecommerce brands & startups in the US, because of complexity in sales tax, multiple sales channels and inventory management. We automate a large portion of bookkeeping by integrating with their sales and inventory systems, so founders can spend less time doing admin work.\r\n",
     "name": "Afternoon.co",
@@ -4733,7 +4687,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1727913374,
     "long_description": "Dexter helps procurement teams understand exactly where money is being spent and where it can be saved. Dexter's AI agents mine supplier invoices and contracts for insights, surfacing consolidation opportunities, contract leakage, and off-contract spend. ",
     "name": "Dexter",
@@ -4763,7 +4717,7 @@
     "website": "https://www.getdexter.co/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cardamon.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4795,19 +4749,19 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cardamon",
     "website": "https://cardamon.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/trata.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4837,11 +4791,11 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -4896,7 +4850,7 @@
     "website": "http://www.usemesh.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/bluebook.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4917,8 +4871,8 @@
     "one_liner": "AI for accounting",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Sweden",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -4988,18 +4942,16 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1746913900,
-    "long_description": "We’re building an AI-native accounting firm where accountants collaborate with intelligent agents to deliver superior financial advisory services. Together, they close the books in a fraction of the time traditional firms require.",
+    "long_description": "We’re making financial services fast and affordable for everyone, starting with accounting.",
     "name": "Minerva",
     "nonprofit": false,
-    "one_liner": "AI native accounting firm",
+    "one_liner": "AI native financial institution",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "minerva",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
@@ -5011,10 +4963,10 @@
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/minerva",
-    "website": "https://www.tryminerva.ai"
+    "website": "https://joinminerva.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/combinely.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5035,7 +4987,8 @@
     "one_liner": "AI coworker for Accountants",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "combinely",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d60074c98f74b46443d4cb4aaad793b532b48401.png",
@@ -5044,7 +4997,7 @@
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/combinely",
     "website": "https://combinely.ai"
@@ -5090,7 +5043,7 @@
     "website": "https://www.mobyanalytics.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sieveai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5170,7 +5123,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "website": "https://www.gofinto.com/"
@@ -5194,14 +5147,16 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1753405058,
-    "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
+    "long_description": "ProcIndex uses AI to automate accounting operations for the construction and manufacturing sectors.\r\n\r\nIt connects to your existing ERP and operates in the background while giving you full visibility into its actions. By automating accounts payable, accounts receivable, reconciliation, and vendor management, ProcIndex helps accounting teams improve efficiency by 33%.",
     "name": "ProcIndex",
     "nonprofit": false,
-    "one_liner": "AI Agents for Accounting Operations",
+    "one_liner": "AI-powered accounting automation for construction and manufacturing",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "procindex",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
@@ -5215,10 +5170,10 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/procindex",
-    "website": "https://www.procindex.com"
+    "website": "https://procindex.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5236,12 +5191,12 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1759732290,
-    "long_description": "Cranston is a full stack AI accounting firm automating the $900b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for startups & SMBs. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive accounting work.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
+    "long_description": "Cranston is AI tax prep and bookkeeping for CPA firms.\r\n\r\nOur tax agents prepare returns the way a strong staff accountant would: they read the source documents, work the return in your tax software, and hand your reviewer a return that holds up, with workpapers attached. Our bookkeeping agents keep client books current all year, so tax season starts from clean numbers instead of cleanup.\r\n\r\nPrep and books are the start. We're building Cranston into the system a firm runs on: the place where prep, review, client requests, and the rest of the practice get done.",
     "name": "Cranston AI",
     "nonprofit": false,
-    "one_liner": "Full Stack AI Accounting Firm",
+    "one_liner": "AI Tax prep and accounting software for CPA firms",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5252,19 +5207,102 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/cranston-ai",
+    "website": "https://www.cranston.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Nivara AI",
+      "Nivara",
+      "Terrain"
+    ],
+    "id": 30889,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1761077242,
+    "long_description": "We’re building AI agents for finance teams. They handle repetitive work across email and accounting systems - processing documents, following up on open items, reconciling records, and resolving exceptions while people retain approval and oversight.",
+    "name": "Nivara",
+    "nonprofit": false,
+    "one_liner": "AI agents for the finance back office.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "nivara",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "SaaS",
       "B2B",
       "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/cranston-ai",
-    "website": "https://www.cranstonai.com/"
+    "url": "https://www.ycombinator.com/companies/nivara",
+    "website": "https://getnivara.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/zalos.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30945,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1759103907,
+    "long_description": "Zalos is the Finance Automation Workbench for enterprise finance teams.\r\n\r\nZero Integrations | Transparent Decisioning | Outcome-based Pricing\r\n\r\nLearn more at www.zalos.ai/contact-us\r\n\r\nZalos AI Workers automate processes with improved accuracy, controls & auditability, using a Finance-specific agent harness & skill library.\r\n\r\nBacked by Y Combinator, 14 Peaks, Cohen Circle and strategic angels such as CFO Fedex, Board Member TA Associates, COO Deel and more.\r\n\r\nHire Zalos AI workers such as:\r\n• Zalos AI Staff Accountant\r\n• Zalos AI Billing Analyst\r\n• Zalos AI AP Analyst\r\n• Zalos AI Treasury Manager\r\n\r\nAnd more. Discuss your enterprise finance transformation at www.zalos.ai/contact-us",
+    "name": "Zalos",
+    "nonprofit": false,
+    "one_liner": "Hire Zalos AI workers to run your finance department",
+    "question_answers": true,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "zalos",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e6ee7d8a3b596506042ea8802d90c9c4292a17.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Enterprise",
+      "Billing",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/zalos",
+    "website": "https://www.zalos.ai/"
+  },
+  {
+    "all_locations": "Oslo, Oslo, Norway",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/crunched.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5285,7 +5323,8 @@
     "one_liner": "Excel AI analyst for Power Users",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Norway",
+      "Europe"
     ],
     "slug": "crunched",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/386111466c0c67b245d52cdab2fb675d0a73799e.png",
@@ -5340,7 +5379,7 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/denki",
     "website": "https://denki.ai"
@@ -5361,12 +5400,12 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1762391689,
-    "long_description": "Zarna is private equity’s first AI associate class.\r\n\r\nOur agents plug directly into your firm’s data and work like a deal team that never sleeps. Zarna’s agents analyze CIMs, build LBOs, update CRMs, draft IC memos, & act based on decades of proprietary firm knowledge. \r\n\r\nThe result: investors spend less time buried in decks and spreadsheets, and more time on judgment, relationships, and winning deals. \r\n",
+    "long_description": "Zarna is private equity's first AI associate class. \r\n\r\nBuilt for BD teams at middle-market firms, our agents manage your CRM, source new opportunities, and prep you for every meeting. Runs natively in Outlook and Teams.",
     "name": "Zarna",
     "nonprofit": false,
-    "one_liner": "AI Associates for Private Capital ",
+    "one_liner": "AI Associates for Middle-Market Private Equity ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5423,45 +5462,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/fullseam",
     "website": "https://fullseam.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Paena"
-    ],
-    "id": 31066,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1772054441,
-    "long_description": "Payna is building the AI licensing agent for regulated companies. We automate the filings, renewals, amendments, and regulator follow ups required to get licensed and stay licensed across jurisdictions, so teams no longer have to manage compliance through spreadsheets, email threads, and expensive outside firms. Starting with financial services categories like lending, debt collection, and money transmission, Payna helps companies move faster, stay compliant, and scale without adding compliance headcount linearly.",
-    "name": "Payna",
-    "nonprofit": false,
-    "one_liner": " AI Licensing Agent for Regulated Industries",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "payna",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/payna",
-    "website": "https://payna.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5542,7 +5542,7 @@
     "website": "https://endclose.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5557,10 +5557,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1765258468,
-    "long_description": "o11 integrates directly inside of Microsoft PowerPoint, Excel, and Word, along with Google Slides, Sheets, and Docs. We enable you to automate any workflow directly within these apps from crafting templated presentations to building full financial models. Hundreds of companies across the globe use o11 currently.\r\n\r\nOur vision doesn't stop there though. We're building the AI plugin inside of every app. Every platform deserves to be automated through chat. o11 brings enterprises and users this potential.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "long_description": "o11 is the AI data warehouse for financial firms. The largest firms build a moat around their data. Today, they pay engineers $200k a year each to spend years organizing/maintaining disconnected sources in a legacy data warehouse. The business intelligence that results is the key unlock, but it's time effort and money that would be better spent elsewhere.\r\n\r\no11 brings a custom ontology and data model to firms of any size allowing them to unify CRM, email, files, data rooms, market data, M365, etc. all in one place. We help firms architect their own data warehouse, and then from their AI maintains it. No engineers, no legacy solutions, no complex migration. o11 is built for security and complex permissions from the ground up allowing it to safely connect directly into any agent including Claude, ChatGPT, and Copilot.\r\n\r\nLeverage your proprietary data -- it's the deal, relationship, and business intelligence that makes your firm special",
     "name": "o11",
     "nonprofit": false,
-    "one_liner": "The AI Agent Inside Every Enterprise App",
+    "one_liner": "The AI Data Warehouse For Financial Firms",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5571,7 +5571,12 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -5579,7 +5584,7 @@
     "website": "https://o11.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5595,7 +5600,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1768976472,
     "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
     "name": "Balance",
@@ -5603,7 +5608,8 @@
     "one_liner": "Full-Stack AI Accounting",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "getbalance",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
@@ -5616,91 +5622,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/getbalance",
     "website": "https://getbalance.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Sevenfold",
-      "Rhombal",
-      "Coevolved"
-    ],
-    "id": 31260,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1768253497,
-    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-    "name": "Copperlane",
-    "nonprofit": false,
-    "one_liner": "Agentic Mortgage Origination",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "copperlane",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/copperlane",
-    "website": "https://www.copperlane.ai"
-  },
-  {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31451,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1776977656,
-    "long_description": "Reward anything. Anywhere. Anytime.\r\n\r\nArcher is a conversational AI platform that turns any event into an instant payout or physical reward. Define a behavior in plain English. Archer tracks it. Money and rewards move automatically.\r\n\r\nWe deploy AI agents with the ability to send payments and rewards globally using stablecoin and card rails. No dashboards. No manual ops. No engineering bottlenecks.\r\n\r\nLaunch referral programs, affiliate payouts, creator rewards, customer incentives, employee bonuses, loyalty campaigns, commissions, and automated treasury flows simply by describing what you want to happen. Archer handles the tracking, orchestration, and money movement underneath.",
-    "name": "Archer",
-    "nonprofit": false,
-    "one_liner": "Reward. Anything.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "archer",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [
-      "Crypto / Web3",
-      "Finance"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/archer",
-    "website": "https://archermoney.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5723,7 +5644,7 @@
     "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
     "name": "Arden",
     "nonprofit": false,
-    "one_liner": "AI agents that automate SOX control testing.",
+    "one_liner": "AI-native internal audit firm",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5734,11 +5655,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
-    "tags": [
-      "Finance",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -5746,7 +5663,7 @@
     "website": "https://ardentech.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/cohesion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5761,10 +5678,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1776132340,
-    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
+    "long_description": "Cohesion is building the modern system of intelligence for financial analysts. Cohesion believes that the way financial research is done is changing. Teams that leverage AI better understand their research, can cover more scope, and make better decisions.\r\n",
     "name": "Cohesion",
     "nonprofit": false,
-    "one_liner": "Your public equities agentic teammate ",
+    "one_liner": "Modern Intelligence for Finance",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5776,14 +5693,308 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Fintech",
-      "SaaS",
-      "Investing"
+      "Finance"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cohesion",
     "website": "https://cohesionplatform.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32131,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784606823,
+    "long_description": "Shielded connects companies’ internal and external data to map market shifts, tariffs, and disruptions directly to suppliers, products, and margins. We turn those impacts into real-time decisions that grow and protect the business. ",
+    "name": "Shielded",
+    "nonprofit": false,
+    "one_liner": "We help Fortune 500 companies hedge their supply chain risk",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shielded",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Fintech",
+      "Supply Chain",
+      "Agriculture",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shielded",
+    "website": "https://www.shieldedglobal.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32155,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1779903831,
+    "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "name": "Rex",
+    "nonprofit": false,
+    "one_liner": "AI-native BPO for enterprise order-to-cash",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rex-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "website": "https://www.rex.inc"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ledgix",
+      "Bylaw"
+    ],
+    "id": 32286,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782681224,
+    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
+    "name": "Definite",
+    "nonprofit": false,
+    "one_liner": "Build everyday back-office agents on one live model of your books",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "definite",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/definite",
+    "website": "https://www.usedefinite.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32848,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1785364349,
+    "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
+    "name": "Luca IQ",
+    "nonprofit": false,
+    "one_liner": "API-first tax engine for CPA firms and developers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "luca-iq",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05718bc482e46fde4208c29e7eef28f2f4b686e7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "B2B",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/luca-iq",
+    "website": "https://lucaiq.com/"
+  },
+  {
+    "all_locations": "Helsinki, Finland",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/last-accounting-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32914,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784575015,
+    "long_description": "Last Accounting Company (LAC) is a full-stack AI accounting firm. We sell the same service (bookkeeping, tax filings, etc.) as a traditional accounting firm, but underneath agents handle everything and a certified accountant signs off. Our service is faster, cheaper, and fully integrated, allowing our clients to focus on what matters, not accounting admin.\r\n\r\nLAC replaces both outsourced accountants and legacy accounting software for startups and SMBs. Our system is fully proprietary, from the general ledger to the accounting agents. This allows us to create powerful self-reinforcing loops and ultimately provide a state-of-the-art accounting service.",
+    "name": "Last Accounting Company",
+    "nonprofit": false,
+    "one_liner": "AI-native accounting firm.",
+    "question_answers": false,
+    "regions": [
+      "Finland",
+      "Europe"
+    ],
+    "slug": "last-accounting-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf21d2add4951b9271177840cd785b32579fdb0f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/last-accounting-company",
+    "website": "https://lastaccountingcompany.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33606,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784327267,
+    "long_description": "Billow handles the work of Accounting and FP&A FTEs keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
+    "name": "Billow AI Labs",
+    "nonprofit": false,
+    "one_liner": "AI-native Accounting Firm that's killing Deloitte",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "billow-ai-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/billow-ai-labs",
+    "website": "https://thebillow.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34895,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789180865,
+    "long_description": "",
+    "name": "Sigma",
+    "nonprofit": false,
+    "one_liner": "AI Operating System for Mergers & Acquisitions",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sigma-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sigma-2",
+    "website": ""
   }
 ]

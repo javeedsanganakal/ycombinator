@@ -41,7 +41,7 @@
     "website": "https://watsi.org"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Austin, TX, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/caremessage.json",
     "app_answers": null,
     "app_video_public": false,
@@ -55,7 +55,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1384978604,
-    "long_description": "CareMessage is the technology non-profit building the largest patient engagement platform for low-income populations in the United States. Powered by the Health Equity Engine™, the platform enables organizations to combine messaging, data, and interoperability to increase access to care, improve clinical outcomes, and address social drivers of health.\r\n\r\nWith 20 million patients reached since 2013, CareMessage is the only patient engagement solution proven to improve health equity at scale. The team, many with lived experiences in these communities, leverages a nonprofit model to reinvest revenue into impact. CareMessage is the partner of choice for organizations committed to advancing health equity.",
+    "long_description": "CareMessage is a social enterprise and the largest patient engagement platform for low-income populations in the United States. We deliver personalized health education and care coordination through text messaging — reaching patients where they already are, in the language they speak, at the moments that matter most. Unlike technology built for large health systems and adapted down, CareMessage is designed from the ground up for organizations serving low-income, historically marginalized communities.\r\n\r\nFounded in 2012, CareMessage has now engaged more than 22 million people across 45 states, partnering with Federally Qualified Health Centers, Free and Charitable Clinics, and Tribal Health Organizations to produce measurable improvements in health equity — and we publish the evidence to prove it. As a nationally-recognized social enterprise we reinvest revenue into impact. We believe driving profit and purpose are not trade-offs, they are the same strategy.\r\n\r\nCareMessage has been recognized by TIME 100 Most Influential Company for Impact in Equality, Inc. Best in Business for Social Good, and recognized at the World Economic Forum for Social Entrepreneurship. Learn more about our work at: www.caremessage.org/impact",
     "name": "CareMessage",
     "nonprofit": true,
     "one_liner": "Patient engagement for low-income populations",
@@ -67,13 +67,16 @@
       "Fully Remote"
     ],
     "slug": "caremessage",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257d91e86a36909e80fbbf60641fea27a4a61e02.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6873bfb173c962e32b30d736838c71902e93e054.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare",
     "tags": [
+      "Artificial Intelligence",
+      "Nonprofit",
       "Health Tech",
-      "Digital Health"
+      "Digital Health",
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "team_size": 45,
@@ -82,7 +85,7 @@
     "website": "http://caremessage.org"
   },
   {
-    "all_locations": "Bengaluru, KA, India",
+    "all_locations": "Traverse City, MI, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/noora-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -102,8 +105,8 @@
     "one_liner": "Training patients and their families with health skills",
     "question_answers": false,
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -244,7 +247,7 @@
     "website": "https://www.zidisha.org"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "Sacramento, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/opencurriculum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -324,7 +327,7 @@
     "website": "http://immunityproject.org"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/bayes-impact.json",
     "app_answers": null,
     "app_video_public": false,
@@ -344,7 +347,9 @@
     "one_liner": "Tech nonprofit building the future of public services.",
     "question_answers": false,
     "regions": [
+      "France",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -409,7 +414,7 @@
     "website": "http://democracy.earth/"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/the-human-utility.json",
     "app_answers": null,
     "app_video_public": false,
@@ -451,7 +456,7 @@
     "website": "https://www.detroitwaterproject.org/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/sirum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1055,7 +1060,7 @@
     "website": "http://www.dosteducation.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/aclu.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1094,23 +1099,24 @@
     "website": "https://www.aclu.org/"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/tarjimly.json",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/tarjimly-acquired.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2018",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Tarjimly"
+    ],
     "id": 1861,
     "industries": [
-      "Consumer",
-      "Social"
+      "Healthcare"
     ],
-    "industry": "Consumer",
+    "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1512543744,
-    "long_description": "Tarjimly is a YC-backed nonprofit (YC W18) that allows anyone to volunteer their language skills to help refugees and immigrants in need.  We connect the world's bilingual speakers with the 23 million refugees struggling to communicate with doctors, lawyers, and NGOs using chat, phone, and video calling.  We're building a new way for the world to help refugees by bridging language gaps.",
-    "name": "Tarjimly",
+    "long_description": "Tarjimly is a YC-backed nonprofit (YC W18) building language-access infrastructure for navigating critical life moments across healthcare, legal, and social services. The company was acquired by CLEAR Global in 2025.",
+    "name": "Tarjimly (acquired)",
     "nonprofit": true,
     "one_liner": "Translating for Humanity",
     "question_answers": false,
@@ -1120,18 +1126,19 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "tarjimly",
+    "slug": "tarjimly-acquired",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afd0f94fe908901e234dd94e1cf271709a78f826.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer -> Social",
+    "subindustry": "Healthcare",
     "tags": [
+      "Marketplace",
       "Nonprofit"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 20,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tarjimly",
+    "url": "https://www.ycombinator.com/companies/tarjimly-acquired",
     "website": "https://tarjimly.org"
   },
   {
@@ -1218,7 +1225,7 @@
     "website": "http://www.gfi.org"
   },
   {
-    "all_locations": "New York City, NY, USA; Oakland, CA, USA",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/anniecannons.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1232,7 +1239,7 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1527048482,
-    "long_description": "AnnieCannons (AC) is a 501(c)3 nonprofit dedicated to training survivors of human trafficking and gender-based violence to be programmers, giving them both the economic and technological empowerment to invent solutions to overcome the hardships they have survived, and the capacity to support themselves and their families. \r\n",
+    "long_description": "AnnieCannons' mission is to train, prepare, and connect human trafficking survivors of sustainable careers in tech. Through a trauma-informed coding and workforce development program, AnnieCannons trains survivors to become professional software developers and AI engineers and places them in paid apprenticeships with partner companies through a model that converts at over 80%, with median starting salaries of $75,000 or more. The program is tailored for people who have faced compounded barriers including poverty, housing insecurity, interrupted education, and trauma across multiple systems. ",
     "name": "AnnieCannons",
     "nonprofit": true,
     "one_liner": "Connecting Survivors to Careers in Tech",
@@ -1241,7 +1248,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "anniecannons",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/324bfa1e5d16ce99b583a7336b9027c846e41503.png",
@@ -1260,7 +1267,7 @@
     "website": "https://www.anniecannons.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/enveritas.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1384,7 +1391,7 @@
     "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/"
   },
   {
-    "all_locations": "CA, USA; Remote",
+    "all_locations": "Boston, MA, USA; CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/votingworks.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1424,7 +1431,7 @@
     "website": "https://voting.works"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/recidiviz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1436,7 +1443,7 @@
       "Government"
     ],
     "industry": "Government",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1559183122,
     "long_description": "Recidiviz is a non-profit technology company that drives meaningful changes in criminal justice systems and improved outcomes for justice-impacted individuals.\r\n\r\nCriminal justice data today is inefficient and ineffective: researchers, advocates, policymakers and practitioners each need funding and time for data collection and cleaning (for almost any data at all), and most data collected is too stale by the time it’s compiled to be useful.\r\n\r\nRecidiviz has built an open-source platform to ingest data from across data silos, link it, standardize it, and expose it in usable formats to the ecosystem. We provide products and analyses on top of this platform to help government agencies understand how their justice systems are functioning, set and track progress towards goals, drive evidence-based improvements to practice and policy, and ensure justice-impacted folks reenter their communities as safely and quickly as they can.",
     "name": "Recidiviz",
@@ -1460,13 +1467,13 @@
       "Nonprofit"
     ],
     "tags_highlighted": [],
-    "team_size": 100,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/recidiviz",
     "website": "https://www.recidiviz.org/"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/openbiome.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1507,7 +1514,7 @@
     "website": "http://openbiome.org"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1555,7 +1562,7 @@
     "website": "https://www.DegreesOfFreedom.org"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/upchieve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1567,7 +1574,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1613154543,
     "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
     "name": "UPchieve",
@@ -1679,7 +1686,7 @@
     "website": "https://kokocares.org"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Amman, Amman Governorate, Jordan; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/darsel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1699,6 +1706,8 @@
     "one_liner": "Chatbot teaching K12 math in developing countries",
     "question_answers": false,
     "regions": [
+      "Jordan",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],

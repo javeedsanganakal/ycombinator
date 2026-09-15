@@ -47,7 +47,7 @@
     "website": "http://citusdata.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/compose.json",
     "app_answers": null,
     "app_video_public": false,
@@ -311,7 +311,7 @@
     "website": "https://www.triplit.dev"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/scratch-data.json",
     "app_answers": null,
     "app_video_public": false,
@@ -360,7 +360,7 @@
     "website": "https://www.scratchdata.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/jumpwire.json",
     "app_answers": null,
     "app_video_public": false,
@@ -581,7 +581,7 @@
     "website": "http://datashare.co/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/epsilla.json",
     "app_answers": null,
     "app_video_public": false,
@@ -641,10 +641,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689280457,
-    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
+    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
     "name": "ParadeDB",
     "nonprofit": false,
-    "one_liner": "Simple, Elastic-quality search for Postgres",
+    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -665,7 +665,7 @@
       "Databases"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paradedb",
     "website": "https://paradedb.com"
@@ -715,7 +715,7 @@
     "website": "http://lantern.dev"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json",
     "app_answers": null,
     "app_video_public": false,
@@ -736,6 +736,8 @@
     "one_liner": "Open source alternative to AWS",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -773,10 +775,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1709255809,
-    "long_description": "Trellis helps healthcare providers treat more patients, faster—while eliminating pre-service paperwork. We automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending—delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
+    "long_description": "",
     "name": "Trellis AI",
     "nonprofit": false,
-    "one_liner": "AI for streamlining healthcare paperwork",
+    "one_liner": "Accelerate Medication Access with AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -795,7 +797,7 @@
       "Databases"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trellis-ai",
     "website": "https://runtrellis.com/"
@@ -966,55 +968,10 @@
       "Databases"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pgdog",
     "website": "https://pgdog.dev"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "DataBridge"
-    ],
-    "id": 30475,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1745265466,
-    "long_description": "Morphik is open-source multimodal search for AI apps. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
-    "name": "Morphik",
-    "nonprofit": false,
-    "one_liner": "Open-source multimodal search for AI apps",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "morphik",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Search",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/morphik",
-    "website": "https://morphik.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1050,6 +1007,7 @@
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Developer Tools",
+      "Open Source",
       "API",
       "Infrastructure",
       "Databases"
@@ -1059,5 +1017,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "website": "https://s2.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hebbian-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Vanda Labs"
+    ],
+    "id": 33279,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786123276,
+    "long_description": "Hebbian Robotics builds APIs for robotics data teams to verify data quality for model training.  \r\n\r\nOur customers use us to build quality control pipelines in just a few lines of code, with custom models 10x faster and 8x cheaper than general foundation models. \r\n\r\nhttps://hebbianrobotics.com/\r\nhttps://github.com/Hebbian-Robotics/hflow",
+    "name": "Hebbian Robotics",
+    "nonprofit": false,
+    "one_liner": "APIs for robotics data teams to verify data quality for model training",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hebbian-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hebbian-robotics",
+    "website": "https://hebbianrobotics.com/"
   }
 ]

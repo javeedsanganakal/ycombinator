@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/elpha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -44,7 +44,7 @@
     "website": "https://elpha.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/pippin-rent-the-backyard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -184,7 +184,7 @@
     "website": "http://www.hutsy.co"
   },
   {
-    "all_locations": "New York, NY, USA; New Delhi, DL, India",
+    "all_locations": "New York City, NY, USA; New Delhi, DL, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/swadesh.json",
     "app_answers": null,
     "app_video_public": false,
@@ -232,7 +232,7 @@
     "website": "http://www.swadesh.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/superorder.json",
     "app_answers": null,
     "app_video_public": false,
@@ -446,7 +446,7 @@
       "SaaS"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/beacons",
     "website": "https://beacons.ai/"
@@ -539,7 +539,7 @@
     "website": "http://vizy.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/path.json",
     "app_answers": null,
     "app_video_public": false,
@@ -627,7 +627,7 @@
     "website": "https://prenda.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/safely-finance.json",
     "app_answers": null,
     "app_video_public": false,
@@ -716,7 +716,7 @@
     "website": "https://bun.sh"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Chicago, IL, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vouch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -867,7 +867,7 @@
       "Home and Personal"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1555983373,
     "long_description": "Dex is a personal CRM that reminds you to keep in touch with the people you would otherwise forget.\r\n\r\nDex helps turn your acquaintances into your allies.  Going beyond the superficiality of social networks requires commitment.  If you remember to keep in touch thoughtfully, you can turn the interesting person you met at a networking event into a friend that has your back.  \r\n\r\nI built Dex after failing to keep up with the tools I tried (Airtable, Notion, etc) for relationship management. Installing an actual CRM like Hubspot felt like a wrong fit for my informal relationships -- these people were 'my team,' not customers.\r\n\r\nDex is a lightweight personal CRM that’s easy to stick with. Key to Dex is a Chrome extension that enables you to manage relationships while you’re in Facebook, Messenger, Twitter, and the social apps you already use. Dex can also send you actionable reminders (daily, or based on your calendar events) to log your interactions for next time. By using Dex, you can:\r\n\r\n- Build stronger relationships, by sending you a nudge to follow-up.\r\n- Be more thoughtful, by helping you remember where you left off.\r\n- Become a superconnector, by making connections you wouldn’t otherwise remember.\r\n",
     "name": "Dex",
@@ -897,7 +897,7 @@
     "website": "https://getdex.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/mofe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1029,7 +1029,7 @@
     "website": "https://www.cuboh.com"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Emeryville, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/shiru.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1211,7 +1211,7 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/plotdrive.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/figments.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
@@ -1219,7 +1219,8 @@
     "former_names": [
       "Figments",
       "Wordloops",
-      "Heroic Story"
+      "Heroic Story",
+      "Plotdrive"
     ],
     "id": 12536,
     "industries": [
@@ -1228,10 +1229,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1556041719,
-    "long_description": "Plotdrive is the first continuous production system for narrative — infrastructure that transforms how long-form stories move from imagination to completion. Most books don’t fail for lack of talent; they fail when the workflow collapses somewhere between page 80 and page 300.\r\n\r\nFounded by brothers with backgrounds in high-stakes poker, VR, and narrative systems, we built what we couldn’t find: an engine that holds the entire shape of a story while authors work inside it. Writers see 5-10× gains in throughput without losing their voice. Manuscripts that sat untouched for years finally reach the finish line. Authors are using Plotdrive to break decade-long blocks. Publishers are using it to rethink how story pipelines should operate when continuity, context, and editorial craft can finally scale.\r\n\r\nThe printing press made distribution industrial. We’re making completion industrial — creating the foundational layer for how narrative gets made at scale.",
-    "name": "Plotdrive",
+    "long_description": "Figments explored what happens when technology rewrites the rules of storytelling.\r\nOver seven years we built narrative games, virtual influencers, AI characters, creative tools, and eventually Plotdrive, an AI writing engine for long form storytelling. Each product explored a different piece of how stories are imagined, created, and shared as technology transformed creative work.",
+    "name": "Figments",
     "nonprofit": false,
-    "one_liner": "AI that remembers your book and helps you finish it",
+    "one_liner": "Building worlds at technological inflection points",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1239,22 +1240,22 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "plotdrive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png",
+    "slug": "figments",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f35d52529ebe555a6a00fb848d9ce2166707cbd.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Media",
       "Creator Economy",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/plotdrive",
+    "url": "https://www.ycombinator.com/companies/figments",
     "website": "https://plotdrive.com"
   },
   {
@@ -1300,7 +1301,7 @@
     "website": "https://andrewcoyle.com/health-tech.html"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/revercare.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1339,7 +1340,7 @@
     "website": "https://www.revercare.com"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/palifer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1375,7 +1376,7 @@
     "status": "Acquired",
     "subindustry": "Industrials -> Automotive",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1427,7 +1428,7 @@
     "website": "https://souffle.club"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Austin, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/method-financial.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1473,7 +1474,7 @@
     "website": "https://methodfi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/gamebytes.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1611,7 +1612,7 @@
     "website": "https://www.pillar.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/symplex.json",
     "app_answers": null,
     "app_video_public": true,
@@ -1753,7 +1754,7 @@
     "website": "https://wellprincipled.com"
   },
   {
-    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
+    "all_locations": "New York City, NY, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/legacy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1919,7 +1920,7 @@
     "website": "http://junocollege.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/odeko.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2003,7 +2004,7 @@
     "website": "https://www.getprompt.app/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/preclusio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2197,7 +2198,7 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556161445,
     "long_description": "",
     "name": "Zeal",
@@ -2308,7 +2309,7 @@
     "website": "http://www.encepheal.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/voyage-biomedical.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2613,7 +2614,7 @@
     "website": "https://lucidbots.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/narrator.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2656,7 +2657,7 @@
     "website": "https://www.narratordata.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/sable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2683,7 +2684,7 @@
       "Partly Remote"
     ],
     "slug": "sable",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d941eb079a968e06d64e54e638280e3fac67849.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/682ae8359f3196bfbd0f33bad112a609474463e1.png",
     "stage": "Early",
     "status": "Acquired",
     "subindustry": "Fintech -> Consumer Finance",
@@ -2754,10 +2755,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1556572947,
-    "long_description": "TRM is on a mission to build a safer financial system for billions of people. We deliver a blockchain intelligence data platform to financial institutions, crypto companies, and governments to fight cryptocurrency fraud and financial crime. We consider our business — and our profit — as a way to move towards our mission sustainably and at scale. \r\n\r\nJoin our mission ➔ www.trmlabs.com/careers",
+    "long_description": "TRM is on a mission to build a safer world for billions of people. \r\n\r\nAI is extending the capability gap between attackers and defenders. The fundamental unit of scale has shifted from humans to AI tokens. \r\n\r\nTRM combines proprietary data, with an AI investigations platform to build a system of action for crime fighters. Think Claude CoWork for mission critical investigations. \r\n\r\nWe believe AI scale crime deserves AI scale defense. \r\n\r\nJoin our mission ➔ www.trmlabs.com/careers",
     "name": "TRM Labs",
     "nonprofit": false,
-    "one_liner": "TRM is building a safer financial system for billions of people.",
+    "one_liner": "TRM is building a safer world for billions of people.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2773,13 +2774,12 @@
     "tags": [
       "Fintech",
       "Machine Learning",
-      "Crypto / Web3",
+      "GovTech",
+      "Cybersecurity",
       "Data Engineering"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "team_size": 250,
+    "tags_highlighted": [],
+    "team_size": 400,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trm-labs",
     "website": "https://trmlabs.com/"
@@ -2873,7 +2873,7 @@
     "website": "https://www.lantern.so"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/audiofocus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2900,7 +2900,7 @@
     "slug": "audiofocus",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfd0e481274d2ce049ec8ba610428a947f18b71a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
       "Deep Learning",
@@ -3001,7 +3001,7 @@
     "website": "https://dashblock.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/gen1e-lifesciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3109,12 +3109,12 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556659657,
-    "long_description": "*S19 and YCG F21*\r\nEngineering teams shouldn’t be in the dark when it comes to the performance of their mobile apps and user experiences. With our industry-leading mobile observability technology, Embrace aims to give SRE and DevOps teams better insight into what matters most – their users – by tying mobile performance data to backend observability insights.\r\n\r\nAs the only user-focused, mobile-first observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps and mobile teams to illuminate real customer impact – not just server impact – to deliver the best app experiences. Customers like The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo love Embrace’s mobile observability platform because it makes extremely complicated and voluminous data actionable.",
+    "long_description": "*S19 and YCG F21*\r\nEngineering teams shouldn’t be in the dark when it comes to the performance of their web and mobile apps and user experiences. With our industry-leading  observability technology, Embrace aims to give SRE and DevOps teams better insight into what matters most – their users – by tying performance data to backend observability insights.\r\n\r\nAs the only user-focused, use-focused observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps and frontend teams to illuminate real customer impact – not just server impact – to deliver the best app experiences. Customers like The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo love Embrace’s  observability platform because it makes extremely complicated and voluminous data actionable.",
     "name": "Embrace",
     "nonprofit": false,
-    "one_liner": "Modern mobile observability built on OpenTelemetry",
+    "one_liner": "Modern user-focused observability built on OpenTelemetry",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3125,15 +3125,16 @@
     "slug": "embrace",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5df7e755694ec01e6b16cfc307e0ddf5712e43.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Developer Tools",
       "SaaS",
-      "Open Source"
+      "Open Source",
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 52,
+    "team_size": 62,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/embrace",
     "website": "https://embrace.io"
@@ -3436,7 +3437,7 @@
     ],
     "slug": "localyze",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96bd85f56312c5abd48c88dcb718430c1ade2150.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Acquired",
     "subindustry": "B2B -> Human Resources",
     "tags": [
@@ -3626,7 +3627,7 @@
     "website": "https://tandem.chat"
   },
   {
-    "all_locations": "New York, NY, USA; Dallas, TX, USA; Minneapolis, MN, USA",
+    "all_locations": "New York City, NY, USA; Dallas, TX, USA; New York, NY, USA; Minneapolis, MN, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/fynn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3688,9 +3689,9 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556686578,
-    "long_description": "We develop surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible.",
+    "long_description": "ZETA SURGICAL is redefining the standard of care for image-guided surgery and targeted neuro-therapeutics. Its navigation and robotics platform applies advanced artificial intelligence and computer vision to enable high-accuracy image guidance across virtually any point of care in minutes, unlocking less invasive and more precise targeted therapies. The Zeta Navigation System and Zeta TMS Navigation System are cleared by the FDA and commercially available in the United States.",
     "name": "ZETA SURGICAL",
     "nonprofit": false,
     "one_liner": "Next-Generation Surgical Navigation and Robotics",
@@ -3710,7 +3711,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": null,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zeta-surgical",
     "website": "http://zetasurgical.com"
@@ -3763,7 +3764,7 @@
     "website": "https://www.openreplay.com/"
   },
   {
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/banner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3809,7 +3810,7 @@
     "website": "https://withbanner.com"
   },
   {
-    "all_locations": "Pasadena, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Pasadena, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/kubesail.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3914,7 +3915,7 @@
       "Security"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1556761305,
     "long_description": "Canix is building the first generation of modern software for the burgeoning cannabis industry. We help our customers overcome daunting compliance regulation, sell more product, and optimize their day to day operations—from cultivation, to processing, to distribution.\r\n\r\nRecent winner of TechCrunch Disrupt 2020, find out more at TechCrunch and canix.com.",
     "name": "Canix",
@@ -3958,7 +3959,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556761338,
     "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
     "name": "Outtalent",
@@ -4066,7 +4067,7 @@
     "slug": "downtobid",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63589ab125b18c4f235fe17ab462bfbde2b02ec.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
       "Construction"
@@ -4078,7 +4079,7 @@
     "website": "https://downtobid.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/rainbow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4171,7 +4172,7 @@
     "website": "https://joinflo.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/lightwell.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4208,7 +4209,7 @@
     "website": "https://lightwell.pro/"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/million-marker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4252,7 +4253,7 @@
     "website": "https://www.millionmarker.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/bouncer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4553,7 +4554,7 @@
     "website": "http://rosebud.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/rutter.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4601,7 +4602,7 @@
     "website": "https://rutter.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/directshifts.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4618,16 +4619,16 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1556764281,
-    "long_description": "We connect healthcare workers (physicians, advanced practitioners, nurses and allied health workers) to hospitals/clinics/telehealth companies for short/full time job opportunities. ",
+    "long_description": "DirectShifts helps telehealth and digital health companies build, launch, and scale nationwide clinical workforces.\r\n\r\nWe provide the workforce and operational infrastructure needed to expand into new states—from recruiting physicians, nurse practitioners, physician assistants, nurses, and other clinicians to managing multi-state licensing, credentialing, payer enrollment, collaborative physician supervision, telehealth scheduling, and ongoing workforce operations.\r\n\r\nFor companies expanding nationally, we help clinicians obtain and maintain licenses across multiple states, manage Medicare, Medicaid, and commercial payer enrollment, and provide collaborative physician and supervision solutions for advanced practice providers. We also help manage clinician availability and scheduling so organizations can align provider capacity with patient demand.\r\n\r\nInstead of building separate internal teams and systems for recruiting, licensing, credentialing, supervision, and scheduling, healthcare companies can use DirectShifts as a single platform to manage these functions.\r\n\r\nIn addition to telehealth and digital health companies, we work with hospitals, health systems, physician groups, and other healthcare organizations to recruit and deploy clinicians and manage the infrastructure required to support their clinical workforce.\r\n\r\nBy combining technology, automation, and healthcare workforce expertise, DirectShifts helps healthcare organizations launch in new states faster, reduce operational complexity, and scale their clinical workforce nationwide.\r\n",
     "name": "DirectShifts",
     "nonprofit": false,
-    "one_liner": "Helping healthcare workers find their next career opportunity ",
+    "one_liner": "Workforce platform to recruit, license, credential & manage clinicians",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "directshifts",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669185db4e1c72e8c0c2041d35950c4045986b7f.png",
@@ -4858,7 +4859,7 @@
     "website": "https://www.datamechanics.co"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "CT, Spain; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/microverse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4878,6 +4879,8 @@
     "one_liner": "Training and connecting untapped talent with global opportunities",
     "question_answers": false,
     "regions": [
+      "Spain",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -5077,7 +5080,7 @@
     "website": "http://colabsoftware.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/lineleap.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5291,7 +5294,7 @@
     "website": "https://www.getlokalapp.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/proof-trading.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6142,7 +6145,7 @@
     "website": "https://www.trella.app/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/recidiviz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6154,7 +6157,7 @@
       "Government"
     ],
     "industry": "Government",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1559183122,
     "long_description": "Recidiviz is a non-profit technology company that drives meaningful changes in criminal justice systems and improved outcomes for justice-impacted individuals.\r\n\r\nCriminal justice data today is inefficient and ineffective: researchers, advocates, policymakers and practitioners each need funding and time for data collection and cleaning (for almost any data at all), and most data collected is too stale by the time it’s compiled to be useful.\r\n\r\nRecidiviz has built an open-source platform to ingest data from across data silos, link it, standardize it, and expose it in usable formats to the ecosystem. We provide products and analyses on top of this platform to help government agencies understand how their justice systems are functioning, set and track progress towards goals, drive evidence-based improvements to practice and policy, and ensure justice-impacted folks reenter their communities as safely and quickly as they can.",
     "name": "Recidiviz",
@@ -6178,7 +6181,7 @@
       "Nonprofit"
     ],
     "tags_highlighted": [],
-    "team_size": 100,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/recidiviz",
     "website": "https://www.recidiviz.org/"
@@ -6213,7 +6216,7 @@
       "Fully Remote"
     ],
     "slug": "holy-grail-inc",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7aed6cc89d9e2921404ae49c1a4b74c1b43faf7d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bc225ca97797bf7ebc687394db0b4d61644c2cf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -6485,7 +6488,7 @@
     "website": "https://freshpaint.io"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/traces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6699,7 +6702,7 @@
     "website": "http://www.curri.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/flowbot.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6785,10 +6788,10 @@
   {
     "all_locations": "Monterrey, N.L., Mexico",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vitau.json",
-    "app_answers": true,
+    "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "former_names": [],
     "id": 12854,
     "industries": [
@@ -6873,7 +6876,7 @@
     "website": "https://treble.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/coco-wallet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6919,7 +6922,7 @@
     "website": "https://cocowallet.app"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/aspect.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6942,7 +6945,8 @@
     "one_liner": "Build UI fast.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "aspect",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5864cc2d657e919dc5bf2ea218178e543d59d747.png",
@@ -6960,7 +6964,7 @@
     "website": "https://aspect.app"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/deepnote.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6981,6 +6985,8 @@
     "one_liner": "A better data science notebook.",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -7000,7 +7006,7 @@
     "website": "https://www.deepnote.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/asher-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7077,17 +7083,17 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/meridian-industries",
-    "website": "https://index.app"
+    "website": "https://mora.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -7129,7 +7135,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/taskade",
     "website": "https://www.taskade.com"
@@ -7183,7 +7189,7 @@
     "website": "https://www.blockstampsf.com/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vorticity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7425,7 +7431,7 @@
     "slug": "vendr",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0a18a94193b88aba9845e4a0cd83768e08d5222.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Operations",
     "tags": [
       "SaaS",
@@ -7439,7 +7445,7 @@
     "website": "http://www.vendr.com"
   },
   {
-    "all_locations": "New York, NY, USA; London, England, United Kingdom; Remote",
+    "all_locations": "New York City, NY, USA; London, England, United Kingdom; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/unflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7538,7 +7544,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 12903,
     "industries": [
@@ -7547,7 +7553,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1559595488,
-    "long_description": "Breadfast is Egypt’s leading online grocery brand. We operate a fully vertically integrated supply chain, delivering 3,500 SKUs on-demand in under 60 minutes. Our selection includes a range of freshly baked bread, coffee, fruits, vegetables, eggs, dairy, meat and poultry, alongside a range of CPG staples designed to serve a household’s daily and weekly needs.",
+    "long_description": "Breadfast is Egypt’s leading online grocery brand. We operate a fully vertically integrated supply chain, delivering 8,000 SKUs on-demand in under 60 minutes. Our selection includes a range of freshly baked bread, coffee, fruits, vegetables, eggs, dairy, meat and poultry, alongside a range of CPG staples designed to serve a household’s daily and weekly needs.",
     "name": "Breadfast",
     "nonprofit": false,
     "one_liner": "Household needs, from bread to everything.",
@@ -7571,13 +7577,13 @@
       "E-commerce"
     ],
     "tags_highlighted": [],
-    "team_size": 6000,
+    "team_size": 10000,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/breadfast",
     "website": "https://www.breadfast.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/odin.json",
     "app_answers": null,
     "app_video_public": false,

@@ -86,7 +86,7 @@
     "website": "https://www.macromoltek.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dorian-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -129,7 +129,7 @@
     "website": "http://www.doriantherapeutics.com"
   },
   {
-    "all_locations": "Novato, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Novato, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/gerostate-alpha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -171,7 +171,7 @@
     "website": "http://www.gerostatealpha.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Los Altos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Los Altos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/intact-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -296,7 +296,7 @@
     "website": "https://www.sequencebio.com/"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/abalone-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -384,7 +384,7 @@
     "website": "https://www.felixbt.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA; South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/altay-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -468,6 +468,52 @@
     "website": "https://equatortherapeutics.com/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/algen-biotechnologies.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2020",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Algen Biotechnologies",
+      "Inc."
+    ],
+    "id": 13705,
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1759774411,
+    "long_description": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
+    "name": "Algen Biotechnologies",
+    "nonprofit": false,
+    "one_liner": "Using CRISPR to find treatments for cancer and inflammation",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "algen-biotechnologies",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "tags": [
+      "CRISPR",
+      "Biotech",
+      "Therapeutics",
+      "Drug discovery",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/algen-biotechnologies",
+    "website": "https://www.algenbio.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/pardes-bio.json",
     "app_answers": null,
@@ -512,7 +558,7 @@
     "website": "http://www.pardesbio.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/gilgamesh-pharmaceuticals.json",
     "app_answers": null,
     "app_video_public": false,
@@ -642,55 +688,7 @@
     "website": "https://www.promakhos.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/mindstate-design-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Kykeon Biotechnologies Inc.",
-      "Kykeon Biotechnologies"
-    ],
-    "id": 23951,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1629815779,
-    "long_description": "We're making every therapeutically valuable emotion available on demand in pharmaceutical form.\r\n\r\nOur Osmanthus platform is an ensemble of AI models that synthesize the world’s largest datasets of psychoactive pharmacology and phenomenology, quantitatively pinpointing the combination of neurotransmitter receptor activity that underlies various emotional as well as cognitive and perceptual states.\r\n\r\nOur lead program MSD-001 is designed to be rapid-acting and produce heightened emotional and cognitive flexibility without hallucinations. MSD-001 is currently in human trials, and will be the base ingredient for multiple drug combination \"emotions in a bottle\" such as empathy, awe, clarity, or beauty.",
-    "name": "Mindstate Design Labs",
-    "nonprofit": false,
-    "one_liner": "Clinical-stage AI neuroengineering platform",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "mindstate-design-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3509dac4b76d442f8f0aa79c2bda0b827e78798.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "Machine Learning",
-      "Mental Health Tech",
-      "Biotech",
-      "Therapeutics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mindstate-design-labs",
-    "website": "http://mindstate.design"
-  },
-  {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/catena-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -769,6 +767,7 @@
     "tags": [
       "AI-Enhanced Learning",
       "Medical Devices",
+      "Digital Health",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -909,7 +908,7 @@
     "website": "https://sensible.bio"
   },
   {
-    "all_locations": "Walnut Creek, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Walnut Creek, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/keylika.json",
     "app_answers": true,
     "app_video_public": false,
@@ -954,7 +953,7 @@
     "website": "https://www.keylika.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/engage-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -969,7 +968,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1647555290,
-    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n\r\nEngage’s Tethosome platform solves the two key hurdles that have held back the field of non-viral DNA: potency and toxicity. Using proven LNP technology, we deliver a therapeutic DNA and an mRNA encoding our proprietary Tethosome protein. This protein localizes DNA to the nucleus, increasing expression by over 100-fold. Critically, our Tethosome platform is invisible to immune sensors which detect foreign DNA and which can cause lethal immune reactions. This allows us to safely deliver potent DNA, re-dose when needed, and titrate expression to optimal levels.",
+    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n \r\nIn 2026 Engage was acquired by Eli Lilly.",
     "name": "Engage Bio",
     "nonprofit": false,
     "one_liner": "Potent, durable, and redosable non-viral genetic medicines",
@@ -981,7 +980,7 @@
     "slug": "engage-bio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95b5dd7ee1a5f617dc0a83136e30199f883050a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Healthcare -> Therapeutics",
     "tags": [
       "Synthetic Biology",
@@ -1054,7 +1053,7 @@
       "Healthcare"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1644435477,
     "long_description": "Andson Biotech helps pharmaceutical companies measure difficult to detect chemicals that they need to measure while developing and manufacturing drugs like cell-therapies or biologics. Drug companies want to use our technologies to get fast and accurate chemical measurements they do thousands of times per day for drug development and quality control. ",
     "name": "Andson Biotech",
@@ -1125,7 +1124,7 @@
     "website": "http://origamitherapeutics.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA; South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/eugit-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1216,7 +1215,7 @@
     "website": "http://www.cisternabx.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/serinus-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1261,7 +1260,7 @@
     "website": "http://www.serinus.bio"
   },
   {
-    "all_locations": "Edmonton, AB, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Edmonton, AB, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/kemnet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1395,7 +1394,7 @@
     "website": "http://www.guardian-bio.com"
   },
   {
-    "all_locations": "Woodland, CA, USA",
+    "all_locations": "Sacramento, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/persist-ai.json",
     "app_answers": true,
     "app_video_public": true,
@@ -1490,7 +1489,7 @@
     "website": "https://adventris.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/nanograb.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1511,8 +1510,8 @@
     "one_liner": "Deliver genes to any cell with AI",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "nanograb",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ae1f1866a70286591b56aa5fd2f81bdf18af255.png",
@@ -1723,7 +1722,7 @@
     "long_description": "Granza Bio is developing programmable therapeutics for the immune system. Our platform is built on the foundational discovery of immune “superkiller” attack particles — the natural ammunition used by cytotoxic immune cells to deliver potent, localized killing. By re-arming exhausted immune cells with newly programmed ammunition, Granza restores and enhances immune function. This approach enables a new class of treatments with the potential to transform diseases ranging from cancer to autoimmunity. ",
     "name": "Granza Bio",
     "nonprofit": false,
-    "one_liner": "Reprogramming Immunity for Target-Specific Medicines",
+    "one_liner": "Building programmable therapeutics for the immune system",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1742,7 +1741,7 @@
       "Oncology"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/granza-bio",
     "website": "https://www.granzabio.com/"
@@ -1792,51 +1791,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/parcelbio",
     "website": "https://parcelbio.com/"
-  },
-  {
-    "all_locations": "London, United Kingdom; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29694,
-    "industries": [
-      "Healthcare",
-      "Industrial Bio"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1715962434,
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "name": "AminoAnalytica",
-    "nonprofit": false,
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "aminoanalytica",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Industrial Bio",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "SaaS",
-      "Synthetic Biology",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "website": "https://www.aminoanalytica.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1929,51 +1883,7 @@
     "website": "https://www.exintherapeutics.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/reticular.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Advocate"
-    ],
-    "id": 30049,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1731023720,
-    "long_description": "Reticular helps pharma companies discover drugs with AI models like AlphaFold by making them steerable, just like you can prompt LLMs. Today, limited validation data means companies spend millions on failed experiments trying to steer these models through trial and error. We’re piloting our AI interpretability technology with early-stage biotechs and scaling rapidly. Just a week after our pivot, we identified the first interpretable features ever found in protein models, allowing precise control over biological functions.\r\n\r\nNithin and John met competing in Biology Olympiads before spending 4 years as roommates at MIT publishing ML/bio research in NeurIPS and Nature. We believe biological models encode far more information than anyone is currently using - our goal is to unlock this potential.",
-    "name": "Reticular",
-    "nonprofit": false,
-    "one_liner": "Interpretable AI for drug discovery",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "reticular",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a095fb7c8d0a473c792ea390cf5088f1c5bb819.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Generative AI",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/reticular",
-    "website": "https://reticular.ai"
-  },
-  {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "Oxford, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/finaldose.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2013,5 +1923,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/finaldose",
     "website": "https://finaldose.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ronan Rx Inc."
+    ],
+    "id": 32979,
+    "industries": [
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1784908687,
+    "long_description": "RonanRX is a full-stack pharmaceutical company, starting with personalized peptides and GLP-1s.\r\n\r\nIn our first 10 weeks, we went from having no pharmacy to being licensed in 33 states. Since launch, we’ve grown 50% week over week.\r\n\r\nWe manufacture the medications ourselves, sell directly to patients, and eliminate the layers of middlemen that make prescription drugs more expensive.\r\n\r\nWhat makes this possible is AI.\r\n\r\nTraditional pharmaceutical companies are built to manufacture one drug for millions of people. RonanRX is purpose-built to personalize treatment for each patient: different biology, different response, different dose.\r\n\r\nPatients come directly to RonanRX or through doctors using our platform. Every patient completes our medical intake, meets with a licensed doctor through our telehealth platform, and receives a personalized prescription when appropriate. From there, we manufacture the medication ourselves and deliver it directly to the patient.\r\n\r\nLabs, wearables, medical history, treatment response, and other health data feed back into the platform so doctors can continuously refine treatment over time.\r\n\r\nBefore AI, doing this for every patient at scale was impossible.\r\n\r\nWe didn't invent the demand we are seeing. 80 Million people are on a GLP-1 and millions more are using Peptides. We're building a better way to manufacture, personalize, prescribe, and deliver them.\r\n\r\nOur founders have built and exited multiple companies, raised more than $100M, built a $50M U.S. medical manufacturing business, and spent years developing peptide therapeutics at companies including Eli Lilly and AbbVie.\r\n\r\nWe’re just getting started with peptides and GLP-1s. Next comes hormone therapy and the rest of personalized medicine.",
+    "name": "RonanRx Inc.",
+    "nonprofit": false,
+    "one_liner": "Full Stack Pharmaceutical Company for Personalized Peptides and GLP-1s",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ronanrx-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce1dcec626f9c7fdc1ea66f4d7850c7a32015773.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare",
+    "tags": [
+      "Health Tech",
+      "Telehealth",
+      "Therapeutics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ronanrx-inc",
+    "website": "https://ronanrx.com/"
   }
 ]

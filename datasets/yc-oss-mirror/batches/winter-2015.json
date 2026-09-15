@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Foster City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Foster City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/notable-labs.json",
     "app_answers": false,
     "app_video_public": false,
@@ -126,7 +126,7 @@
     "website": "http://3dot.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/final.json",
     "app_answers": null,
     "app_video_public": false,
@@ -335,7 +335,7 @@
     "website": "http://akidolabs.com"
   },
   {
-    "all_locations": "San Jose, CA, USA; Mountain View, CA, USA; Remote",
+    "all_locations": "Miami, FL, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mezmo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -504,7 +504,7 @@
     "website": "http://bizzy.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bluesmart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -583,7 +583,7 @@
     "website": "http://booktrope.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
+    "all_locations": "New York City, NY, USA; Mexico City, CDMX, Mexico; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bright.json",
     "app_answers": null,
     "app_video_public": false,
@@ -604,7 +604,9 @@
     "one_liner": "Sunrun for the developing world",
     "question_answers": false,
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Fully Remote"
@@ -716,7 +718,7 @@
     "website": "http://cribspot.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/cyberfend.json",
     "app_answers": null,
     "app_video_public": false,
@@ -801,7 +803,7 @@
     "website": "http://democracy.earth/"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/the-human-utility.json",
     "app_answers": null,
     "app_video_public": false,
@@ -843,7 +845,7 @@
     "website": "https://www.detroitwaterproject.org/"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zeitview.json",
     "app_answers": null,
     "app_video_public": false,
@@ -903,7 +905,7 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416220006,
     "long_description": "Bankjoy provides a full suite of modern digital banking software, including mobile banking, online banking, online account opening, loan applications, and conversational AI to banks and credit unions.",
     "name": "Bankjoy",
@@ -1185,7 +1187,7 @@
     "website": "http://higherme.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/instavest.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1307,7 +1309,7 @@
     "website": "https://labdoor.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Lima, Callao Region, Peru; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1316,44 +1318,37 @@
     "former_names": [],
     "id": 774,
     "industries": [
-      "Education"
+      "B2B",
+      "Productivity"
     ],
-    "industry": "Education",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1416220798,
-    "long_description": "Platzi cracked online education. It teaches courses on design, marketing and programming with a 70% completion rate, to over one million students worldwide.\r\n\r\nThe classes include real-time collaboration among students and industry leaders as teachers. It aims to be the professional home for lifelong learning of advanced skills.",
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
     "name": "Platzi",
     "nonprofit": false,
-    "one_liner": "Latin America's School of Technology",
+    "one_liner": "Turning company knowledge into expert teams",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "Chile",
-      "Mexico",
-      "Spain",
-      "Argentina",
-      "Colombia",
-      "Peru",
       "America / Canada",
-      "Latin America",
-      "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "platzi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "Education",
+    "subindustry": "B2B -> Productivity",
     "tags": [
+      "AI-Enhanced Learning",
       "Education",
       "eLearning",
-      "Video",
-      "HR Tech",
-      "Subscriptions"
+      "Sales Enablement",
+      "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 300,
+    "team_size": 123,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/platzi",
     "website": "https://platzi.com"
@@ -1520,7 +1515,7 @@
     "website": "https://pakible.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/paperspace.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1647,7 +1642,7 @@
     "website": "http://readme.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/reschedule-med.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1816,7 +1811,7 @@
     "website": "https://sailsjs.com/about"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/sirum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1984,7 +1979,7 @@
     "website": "http://teamnoteapp.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/makrwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2206,7 +2201,7 @@
   {
     "all_locations": "McLean, VA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/vest.json",
-    "app_answers": true,
+    "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2015",
     "demo_day_video_public": false,
@@ -2221,7 +2216,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1416222636,
-    "long_description": "Vest, on a mission to bring wider access to financial derivatives and other institutional investment strategies, manages investment products worth $50+ billion (as of 9/30/25). Backed by private equity, the firm has a strategic partnership with Cboe Global Markets, Inc. (NASDAQ: CBOE), and First Trust, a global asset manager. \r\n\r\nVest created Target Outcome Investments in 2013, which target a defined return profile, with an allowance for a specific level of risk, at a particular point in time. Today, Target Outcome Investments are available as mutual funds, exchange-traded funds (ETFs), unit investment trusts (UITs), collective investment trusts (CITs), and customizable managed accounts / sub-advisory services. \r\n\r\nThe firm was launched and backed by preeminent venture firms such as Y-Combinator (Airbnb, Reddit, Dropbox), Payment Ventures (MicroVentures, CardFlight) and First Round Capital (Uber, Mint, Square).\r\n\r\nSee more at https://www.vestfin.com.",
+    "long_description": "Vest, on a mission to bring wider access to financial derivatives, manages investment products worth $70+ billion (as of 6/30/26). Backed by private equity, the firm has a strategic partnership with Cboe Global Markets, Inc. (NASDAQ: CBOE), and First Trust, a global asset manager. \r\n\r\nVest created Target Outcome Investments in 2013, which target a defined return profile, with an allowance for a specific level of risk, at a particular point in time. Today, Target Outcome Investments are available as mutual funds, exchange-traded funds (ETFs), unit investment trusts (UITs), collective investment trusts (CITs), and customizable managed accounts / sub-advisory services. \r\n\r\nThe firm was launched and backed by preeminent venture firms such as Y-Combinator (Airbnb, Reddit, Dropbox), First Round Capital (Uber, Mint, Square) and Payment Ventures (MicroVentures, CardFlight).\r\n\r\nSee more at https://www.vestfin.com.",
     "name": "Vest",
     "nonprofit": false,
     "one_liner": "Bringing wider access to financial derivatives. ",
@@ -2242,13 +2237,13 @@
       "Investing"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vest",
     "website": "http://www.vestfin.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/resolve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2264,7 +2259,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416222759,
     "long_description": "At Resolve we’re accelerating construction to build as fast as the future demands. Construction projects are all slowed down by rework that arises after humans spot issues in real life that slipped through all the hours of design reviews and coordination. Resolve enables construction teams to detect these issues in 3D BIM as early as possible so that we can close the gap between design and reality.\r\n\r\nBy combining realtime collaboration in the web, immersive VR reviews, and AI-driven spatial navigation into the most easy to use platform for BIM reviews, Resolve empowers construction teams to identify risks earlier, coordinate faster, and deliver higher-quality assets across mission-critical infrastructure.\r\n\r\nResolve has been used to deliver over 6GW of data center capacity and on projects across pharma, water treatment, healthcare, and other critical assets.\r\n",
     "name": "Resolve",
@@ -2296,7 +2291,7 @@
     "website": "https://www.resolvebim.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/yesgraph.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2336,7 +2331,7 @@
     "website": "http://yesgraph.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA; New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/yhat.json",
     "app_answers": true,
     "app_video_public": false,
@@ -2423,7 +2418,7 @@
     "website": "http://GoBonfire.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/wayup.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2466,7 +2461,7 @@
     "website": "http://wayup.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/cleanly.json",
     "app_answers": true,
     "app_video_public": false,
@@ -2590,7 +2585,7 @@
     "website": "https://www.lucirahealth.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/quantierra.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2632,7 +2627,7 @@
     "website": "http://quantierra.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/ebrandvalue.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2758,7 +2753,7 @@
     "website": "http://gitlab.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/giveffect.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2801,7 +2796,7 @@
     "website": "http://giveffect.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/glassjar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2841,7 +2836,7 @@
     "website": "http://glassjar.co"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Alameda, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/industrial-microbes.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2926,7 +2921,7 @@
     "website": "https://www.nextravel.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA; Atlanta, GA, USA; South Lake Tahoe, CA, USA",
+    "all_locations": "New York City, NY, USA; Atlanta, GA, USA; South Lake Tahoe, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/level-frames.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3130,45 +3125,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/outbound",
     "website": "http://outbound.io"
-  },
-  {
-    "all_locations": "Palo Alto, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/cinder.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2015",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 821,
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1416309122,
-    "long_description": "Cinder designs and manufactures premium smart cooking appliances that empower people who love great food to evolve the way they cook and eat at home.",
-    "name": "Cinder",
-    "nonprofit": false,
-    "one_liner": "The World’s First Countertop Precision Grill –  using two ceramic…",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "cinder",
-    "small_logo_thumb_url": "/company/thumb/missing.png",
-    "stage": "Early",
-    "status": "Inactive",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "tags": [
-      "Hardware"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/cinder",
-    "website": "https://cindercooks.com"
   },
   {
     "all_locations": "Toronto, ON, Canada; Remote",
@@ -3545,7 +3501,7 @@
     "website": "https://sigopt.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/spoil.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3670,7 +3626,7 @@
     "website": "https://www.tab.travel"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zenflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3698,7 +3654,7 @@
     ],
     "slug": "zenflow",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39dafe5a7c09ff15739f0bf0dfb5ef1902393913.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
@@ -3711,7 +3667,7 @@
     "website": "http://zenflow.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/transcriptic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3909,7 +3865,7 @@
     "website": "http://winkhealth.com"
   },
   {
-    "all_locations": "Singapore, Singapore; Bangkok, Thailand; Düsseldorf, NRW, Germany",
+    "all_locations": "Bangkok, Thailand; Düsseldorf, NRW, Germany",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/x-zell.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3930,7 +3886,6 @@
     "one_liner": "Early, pain-free cancer detection. ",
     "question_answers": false,
     "regions": [
-      "Singapore",
       "Thailand",
       "Germany",
       "Southeast Asia",
@@ -3990,7 +3945,7 @@
     "website": "http://raventech.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bagaveev-corporation.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4166,7 +4121,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1419816809,
     "long_description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
     "name": "Tara AI",
@@ -4242,7 +4197,7 @@
     "website": "https://replika.ai/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/automate-ads.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4409,7 +4364,7 @@
     "website": "https://spirehealth.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/thinair.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4491,7 +4446,7 @@
     "website": "https://www.lumi.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mashgin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4523,14 +4478,14 @@
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
+      "Artificial Intelligence",
       "Cashierless Checkout",
       "Deep Learning",
       "Hardware",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
-    "team_size": 75,
+    "team_size": 150,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mashgin",
     "website": "http://mashgin.com"
@@ -4581,7 +4536,7 @@
     "website": ""
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/direct-match.json",
     "app_answers": null,
     "app_video_public": false,

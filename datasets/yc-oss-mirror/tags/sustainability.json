@@ -294,7 +294,7 @@
     "website": "http://www.wacomet.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/c16-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -377,7 +377,7 @@
     "website": "https://frey.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/enveritas.json",
     "app_answers": null,
     "app_video_public": false,
@@ -461,7 +461,7 @@
     "website": "https://www.instacrops.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/bluumbio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -593,5 +593,88 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vista-power",
     "website": "https://vistapower.com"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/molagri.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32521,
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782770010,
+    "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
+    "name": "Molagri",
+    "nonprofit": false,
+    "one_liner": "Resistance free pesticides.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "molagri",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Agriculture",
+    "tags": [
+      "Synthetic Biology",
+      "Biotech",
+      "Sustainability",
+      "Climate",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/molagri",
+    "website": "https://molagri.com"
+  },
+  {
+    "all_locations": "Zürich, ZH, Switzerland",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/grip.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33144,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785254669,
+    "long_description": "Grip is a robotics company building intelligent robotic systems for waste and recycling. We are starting with organic waste, where removing contaminants from messy, constantly changing streams remains difficult and highly manual. Our technology combines learning-based manipulation and custom hardware to identify and pick objects, learning from real-world operating data, including every successful and failed grasp, to become more reliable and adaptable over time. This helps waste operators reduce manual sorting, recover more valuable material, lower contamination, and deploy automation flexibly across facilities. Over time, Grip aims to expand beyond organics and build the intelligent manipulation layer for trash in general, making waste processing and the circular economy more efficient and scalable.",
+    "name": "Grip",
+    "nonprofit": false,
+    "one_liner": "Robots for waste manipulation",
+    "question_answers": false,
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "slug": "grip",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6be2671c5d4e3adfe916a4a59aad4680c7cc9d3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotic Process Automation",
+      "Sustainability"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/grip",
+    "website": "https://www.griprobotics.ai"
   }
 ]

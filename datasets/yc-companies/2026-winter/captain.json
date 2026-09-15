@@ -14,10 +14,10 @@
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1762492786,
-  "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
+  "long_description": "Captain syncs complex, multimodal files and cloud storage from sources like S3, SharePoint, and Google Drive, and makes that knowledge searchable for your agents.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, Captain self-tunes the retrieval pipeline to your data and workloads.\r\n\r\nOn benchmarks, this improves accuracy from roughly 78% with standard RAG to over 97% by tuning retrieval to the unique structure and content of your data.\r\n\r\nCaptain is purpose-built for complex, regulated, and high-stakes file search workloads.\r\n\r\nLearn more at https://captain.dev",
   "name": "Captain",
   "nonprofit": false,
-  "one_liner": "Give AI agents accurate knowledge search that scales",
+  "one_liner": "Self-tuning file search for AI agents",
   "question_answers": false,
   "regions": [
     "United States of America",
@@ -38,5 +38,5 @@
   "team_size": 2,
   "top_company": false,
   "url": "https://www.ycombinator.com/companies/captain",
-  "website": "https://runcaptain.com"
+  "website": "https://captain.dev"
 }

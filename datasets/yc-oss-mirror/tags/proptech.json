@@ -253,7 +253,7 @@
     "website": "http://www.buildscience.com/"
   },
   {
-    "all_locations": "Richmond, VA, USA",
+    "all_locations": "San Francisco, CA, USA; Richmond, VA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/tenant-turner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -381,7 +381,7 @@
     "website": "https://starcity.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/rezi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -436,7 +436,7 @@
       "Housing and Real Estate"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1493175698,
     "long_description": "VergeSense is a Y Combinator-backed startup that develops an AI-powered sensing device for facility management. The sensor-as-a-system platform consists of sensing devices containing a series of different sensor hardware, including an image sensor, coupled with a cloud platform for pre-training machine learning models that run on the hardware, process data and report occupancy analysis back to VergeSense’s cloud.",
     "name": "VergeSense",
@@ -510,6 +510,50 @@
     "website": "https://roofr.com/"
   },
   {
+    "all_locations": "Denver, CO, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2017/rabbet.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2017",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Contract Simply"
+    ],
+    "id": 1636,
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1493404227,
+    "long_description": "Rabbet is a real estate software company with two products: Rabbet Development and Rabbet Construction Lending. Our mission is to take the friction out of real estate development execution through structured, connected financial data. We help real estate teams turn fragmented project information into trusted insights that can be shared, understood, and acted on throughout the development lifecycle. Learn more at rabbet.com. \r\n\r\nRabbet Development is real estate development management software for owners, developers, and asset managers. It brings budgets, anticipated costs, draw schedules, and funding sources together across every phase of development, so teams always know where every project stands, answer questions without chasing information, and spot financial changes before they become project problems. Learn more at rabbet.com/developers/product-overview \r\n\r\nRabbet Construction Lending is construction loan management software for banks, credit unions, and private lenders. It brings loan administration, documentation, draw review, and portfolio reporting into one system, so lending policies are applied consistently, portfolio risk is visible as projects evolve, and every funding decision is backed by the evidence and an audit trail required to move money. Learn more at rabbet.com/lenders/product-overview",
+    "name": "Rabbet",
+    "nonprofit": false,
+    "one_liner": "The financial foundation for every real estate development decision",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rabbet",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71a94018030f7d7d85f1b0d093981745b4c3715c.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction",
+    "tags": [
+      "Fintech",
+      "Real Estate",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 23,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rabbet",
+    "website": "http://rabbet.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Tempe, AZ, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/culdesac.json",
     "app_answers": null,
@@ -523,7 +567,7 @@
       "Housing and Real Estate"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1575871649,
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "name": "Culdesac",
@@ -554,7 +598,7 @@
     "website": "http://culdesac.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/pippin-rent-the-backyard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -646,7 +690,7 @@
     "website": "https://www.convex.com"
   },
   {
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/banner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -826,7 +870,7 @@
     "website": "https://www.handoff.ai/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/haven.json",
     "app_answers": null,
     "app_video_public": false,
@@ -992,7 +1036,7 @@
       "Proptech"
     ],
     "tags_highlighted": [],
-    "team_size": 55,
+    "team_size": 75,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inspectify",
     "website": "http://www.inspectify.com"
@@ -1086,7 +1130,7 @@
     "website": "https://www.buildatmos.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gobuild-fka-brick.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1302,10 +1346,10 @@
       "Home Services"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 45,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/homebreeze",
-    "website": "https://www.homebreeze.com/"
+    "website": "https://www.homebreeze.ai/"
   },
   {
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
@@ -1510,7 +1554,7 @@
     "slug": "propreturns",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6ba36875562c96fddf6ef04d0acd5852345d88.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "tags": [
       "Fintech",
@@ -1524,7 +1568,7 @@
     "website": "https://www.propreturns.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/commery.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1666,10 +1710,10 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1624984593,
-    "long_description": "With Ancana, you can own a 1/4 or 1/8 share of the home and split expenses with the other co-owners. If you buy a 1/4 share of a home, you have access to it for 3 months of the year. For each property we set up the investment trust, find qualified co-owners, and handle the entire real estate purchase transaction. Costs are split amongst the co-owners, and we take care of the furnishing and ongoing property management.\r\n\r\nWe accomplish this by creating an investment trust for each property and dividing it into individual, purchasable shares that represent ownership in the property. We furnish each home and find and vet the co-owners. Once all of the shares of the property are sold, we retain no ownership stake in the property and transition into the role of property manager, ensuring the home is well maintained and handling any issues that arise. Unlike a timeshare, Ancana owners own a real asset (the property) versus a block of time. If you decide you want to sell your share, you are free to do so at any time, either through us or on the open market, and capture any appreciation the property has accrued.",
+    "long_description": "Ancana is a marketplace for fully managed, co-owned vacation homes. Owners buy a real share of a property alongside a small group of vetted co-owners, each with guaranteed usage time every year. Unused weeks can be rented out or swapped for stays at other Ancana properties, so the ownership stays useful even as plans change. Ancana handles everything behind the purchase — setting up the ownership structure, vetting and matching co-owners, and managing the transaction — then runs the property year-round, from furnishing to bookings and maintenance. We operate in Mexico, the US, and Spain, each with different legal and regulatory requirements for ownership, and solving that structuring problem market by market is what makes the model hold up as we expand.",
     "name": "Ancana",
     "nonprofit": false,
-    "one_liner": "Marketplace to buy managed vacation homes through fractional ownership",
+    "one_liner": "Marketplace for vacation home co-ownership, fully managed",
     "question_answers": false,
     "regions": [
       "Mexico",
@@ -1684,17 +1728,18 @@
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "tags": [
       "Marketplace",
+      "Real Estate",
       "Travel",
       "Proptech"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ancana",
-    "website": "https://www.ancana.co"
+    "website": "https://ancanaliving.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/resident-boost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1779,13 +1824,13 @@
       "Proptech"
     ],
     "tags_highlighted": [],
-    "team_size": 33,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/agave",
     "website": "https://www.useagave.com"
   },
   {
-    "all_locations": "Newport Beach, CA, USA",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1798,7 +1843,12 @@
       "Inc",
       "WeReno",
       "WeReno (Vidcall",
-      "Inc.)"
+      "Inc.)",
+      "WeReno",
+      "Scope3D (fka WeReno)",
+      "Scope3D",
+      "Built OS",
+      "BuiltOS"
     ],
     "id": 25318,
     "industries": [
@@ -1808,37 +1858,36 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1647622736,
-    "long_description": "WeReno is an AI-powered platform unifying construction, renovation, and property maintenance through intelligent automation. Our ecosystem includes Renobot.ai for renovation and build planning, Handyman.ai for on-demand residential and SMB repairs, and Repaired.ai for commercial maintenance via QR-based reporting.\r\n\r\nWe connect property owners, developers, and businesses with 2,000+ vetted contractors to scope, price, and execute projects end-to-end — from small repairs to $50M builds. WeReno manages over $500M in property value and partners with brands like Hilton, Holiday Inn, Starbucks, Staples, and CVS to deliver projects with precision, transparency, and speed.",
+    "long_description": "WeReno is an AI owner's representative that helps building owners plan and manage renovations, capital projects, and property improvements. It automatically analyzes drawings, generates scopes of work, estimates costs, prepares RFQs, coordinates vendors, and tracks project execution, giving owners the capabilities of an experienced owner's rep through software.",
     "name": "WeReno",
     "nonprofit": false,
-    "one_liner": "AI platform for construction, renovation, and property maintenance.",
+    "one_liner": "AI owner's representative for commercial construction and renovations.",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "slug": "wereno",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c78986b23d9ab7c1e3cc7f8e34b14ae56a86fcaf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "Real Estate",
       "Construction",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wereno",
-    "website": "https://wereno.com"
+    "website": "https://WeReno.com"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/homeroom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1970,7 +2019,7 @@
     "website": "https://munily.com/#/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/permitflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2014,7 +2063,7 @@
     "website": "http://www.permitflow.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/stairs-financial.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2142,7 +2191,7 @@
     "website": "https://materialdepot.in/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nophin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2363,7 +2412,7 @@
     "website": "https://www.remihq.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/paces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2395,14 +2444,14 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Artificial Intelligence",
       "Proptech",
       "Climate",
       "Energy",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 48,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paces",
     "website": "https://paces.com"
@@ -2494,7 +2543,7 @@
     "website": "https://www.pulppo.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/homli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2656,16 +2705,16 @@
       "Partly Remote"
     ],
     "slug": "landeed",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0810eca0d686750cb529fa49d82db4a6ef2d2a5b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Fintech",
       "Legal",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 35,
@@ -2674,7 +2723,7 @@
     "website": "https://www.landeed.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/flexdesk.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2762,7 +2811,7 @@
     "website": ""
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/trigo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2926,7 +2975,7 @@
     "slug": "homeflow",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfb9cc8d9dd9147ff98523666ebfa64cc90b36a9.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "tags": [
       "Real Estate",
@@ -3028,7 +3077,7 @@
     "website": "https://craftwork.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/trayd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3046,10 +3095,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689535318,
-    "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
+    "long_description": "Trayd is building the operating system for commercial construction: payroll, compliance, and back office workflows that actually work in the real world.\r\n\r\nConstruction is one of the biggest industries in North America (valued at $2T+), and it still runs on a messy mix of spreadsheets, legacy payroll providers, and manual processes that break the moment things get even slightly complex. The people doing the work are the hardest working people in the country, and the companies running crews are forced to spend hours every week fighting systems that were never built for them.\r\n\r\nWe’re changing that.\r\n\r\nTrayd started with a simple promise: construction workers should be able to access the money they already earned faster, and subcontractors should be able to run payroll without chaos. Today, we’re building deeper infrastructure across payroll, union rules, job costing, and accounting workflows so our customers can run their businesses with confidence.",
     "name": "Trayd",
     "nonprofit": false,
-    "one_liner": "A construction payroll platform designed for same-day pay.",
+    "one_liner": "A construction payroll and compliance platform built for specialty…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3068,7 +3117,7 @@
       "Payroll"
     ],
     "tags_highlighted": [],
-    "team_size": 30,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trayd",
     "website": "https://www.buildtrayd.com/"
@@ -3201,19 +3250,19 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "tags": [
-      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/averyiq",
-    "website": "https://callavery.com"
+    "website": "https://averyiq.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ryse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3272,7 +3321,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1705128056,
     "long_description": "An AI agent that catches issues in construction drawings before they become costly rework and project delays",
     "name": "InspectMind AI",
@@ -3296,7 +3345,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inspectmind-ai",
     "website": "https://www.inspectmind.ai"
@@ -3366,11 +3415,11 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1722479842,
-    "long_description": "Propaya uses AI to instantly abstract and analyze commercial leases - delivering clause-cited insights, linked schedules, and export-ready data in minutes. Beyond lease reviews, we empower brokers, heads of real estate, and attorneys with market benchmarks and deal evaluation tools to negotiate more effectively and efficiently.",
+    "long_description": "Propaya is an AI-powered commercial real estate intelligence platform that transforms leases and property documents into structured, actionable data. It extracts key terms, obligations, costs, and critical dates with source citations, while identifying legal, operational, environmental, and biological property-risk signals. Teams can customize risk taxonomies, track portfolio-level issues, export structured data, and route flagged findings to property managers, legal teams, or domain specialists for review.",
     "name": "Propaya",
     "nonprofit": false,
-    "one_liner": "AI commercial lease abstractions and review",
-    "question_answers": true,
+    "one_liner": "",
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
@@ -3385,7 +3434,6 @@
     "tags": [
       "Artificial Intelligence",
       "Real Estate",
-      "Housing",
       "Proptech"
     ],
     "tags_highlighted": [],
@@ -3458,12 +3506,12 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1722719636,
-    "long_description": "RentFlow is the first ‘Buy Now Pay Later’ platform for commercial rent.\r\n\r\nIn the US alone, ~ 50% of small & medium businesses are behind on their rent. \r\nRentFlow is the first AI-powered platform to end the late rent cycle for businesses:\r\nFor landlords: Rent is paid in full and on time every month, at no extra cost. Cut the collections hassle.\r\nFor businesses: Rent is split into smaller, revenue-synced installments. Match fixed costs to real cash flow year-long.\r\n\r\nNo late rent. Just perfect timing on both sides.",
+    "long_description": "RentFlow is tackling a hair-on-fire problem for small and medium businesses across the U.S.: the way their rent is paid each month is fundamentally misaligned with how cash actually comes in.\r\n\r\nWe’re building the infrastructure layer to fix that.\r\n\r\nToday, ~50% of U.S. businesses are late on rent in any given month. The rest face invisible struggles to pay on time, undermining their stability month after month.\r\n\r\nRentFlow is the first platform to turn fixed business rent into an AI-driven, cash-flow-synced product, underwritten in real time from transaction-level data to prevent financial issues before they even surface.",
     "name": "RentFlow",
     "nonprofit": false,
-    "one_liner": "The first 'Buy Now Pay Later' solution for Commercial Rent",
+    "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3505,10 +3553,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": true,
     "launched_at": 1732038457,
-    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
+    "long_description": "ArchiLabs is building the data center project OS.",
     "name": "ArchiLabs",
     "nonprofit": false,
-    "one_liner": "AI Copilot for Architects",
+    "one_liner": "AI Data Center Design",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3522,14 +3570,14 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/archilabs",
     "website": "https://archilabs.ai"
@@ -3556,10 +3604,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740115759,
-    "long_description": "ZoomInfo but for hotels. Figure out who owns any property in CALA and access contact data to reach them.",
+    "long_description": "Identify and connect with the owners and key decision-makers behind 300,000+ hotels globally. Our customers include the world's leading hospitality firms: Marriott International, Choice Hotels, Wyndham Hotels & Resorts, Hotel Equities, and more. ",
     "name": "Bystreet",
     "nonprofit": false,
-    "one_liner": "Your key to the hotel market. ",
+    "one_liner": "Your partner for hotel ownership data. ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3568,7 +3616,7 @@
       "Partly Remote"
     ],
     "slug": "bystreet",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17421a7106c2aa1e760abcb7892a8de8d04a9e7a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -3600,7 +3648,7 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1752084453,
-    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage, leasing, property management, and acquisition advisory to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
+    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage and property management to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
     "name": "PARES AI",
     "nonprofit": false,
     "one_liner": "AI-native real estate services firm",
@@ -3615,9 +3663,9 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction",
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -3669,47 +3717,48 @@
     "website": "https://automax.ai"
   },
   {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atlia.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "PLANO AI Inc."
+      "Odyssey"
     ],
-    "id": 31460,
+    "id": 31257,
     "industries": [
-      "Real Estate and Construction"
+      "Real Estate and Construction",
+      "Housing and Real Estate"
     ],
     "industry": "Real Estate and Construction",
     "isHiring": false,
-    "launched_at": 1777504379,
-    "long_description": "PLAN0 is an AI-powered construction cost intelligence platform serving real estate developers, investors, and general contractors.\r\n\r\nPLAN0 analyzes architectural plans using computer vision models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform is also building a database of historical and real-time localized cost data that power its analytics tools. A developer can test whether switching from concrete to steel reduces cost, a lender can stress-test against historical overrun patterns, and a contractor can lock in steel pricing ahead of forecasted hikes.\r\n\r\nThe vision is to develop the Bloomberg of construction.",
-    "name": "PLAN0 AI",
+    "launched_at": 1785302953,
+    "long_description": "We use AI agents to manage short-term rental properties by running operations completely autonomously. We cut traditional human management fees in half so owners take home 20% to 30% more revenue. And we operate with near-zero boots-on-the-ground so we can scale nationwide with software margins and at venture speed in a traditionally physical industry.",
+    "name": "Atlia",
     "nonprofit": false,
-    "one_liner": "AI powered construction cost estimation & analytics.",
+    "one_liner": "The AI-native property management company for short-term rentals",
     "question_answers": false,
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
-    "slug": "plan0-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
+    "slug": "atlia",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a4b2fb5aaa99f5f795d2aa898508681eae26222.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "tags": [
-      "Computer Vision",
+      "Artificial Intelligence",
       "Real Estate",
-      "Construction",
       "Proptech",
+      "Big Data",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/plan0-ai",
-    "website": "https://plan0.ai/"
+    "url": "https://www.ycombinator.com/companies/atlia",
+    "website": "https://www.atlia.com"
   }
 ]

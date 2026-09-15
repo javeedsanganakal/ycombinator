@@ -38,7 +38,7 @@
     "website": "http://solidstage.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/compose.json",
     "app_answers": null,
     "app_video_public": false,
@@ -368,7 +368,7 @@
     "website": "https://www.aptible.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/neptune-io.json",
     "app_answers": null,
     "app_video_public": false,
@@ -464,7 +464,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1419816809,
     "long_description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
     "name": "Tara AI",
@@ -535,7 +535,7 @@
     "website": "https://www.opsolutely.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/fastjvm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -582,7 +582,7 @@
     "website": "https://fastjvm.com"
   },
   {
-    "all_locations": "Bengaluru, India; Mountain View, CA, USA",
+    "all_locations": "Bengaluru, KA, India; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/dockup.json",
     "app_answers": null,
     "app_video_public": false,
@@ -663,7 +663,7 @@
     "website": "https://www.okayhq.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/scout.json",
     "app_answers": null,
     "app_video_public": false,
@@ -785,7 +785,7 @@
     "slug": "shuttle",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c189cabb560e9c254a44aff2d8e3ff94ea9d36e.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Artificial Intelligence",
@@ -997,7 +997,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1626365093,
-    "long_description": "Accelerate software development with WarpBuild.\r\nGet 30% faster, 90% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.",
+    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "name": "WarpBuild",
     "nonprofit": false,
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
@@ -1021,14 +1021,14 @@
       "DevOps"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/warpbuild",
     "website": "https://www.warpbuild.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai-orca.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -1037,7 +1037,8 @@
       "Lovecast",
       "UpArrow",
       "UpDragon",
-      "Stably"
+      "Stably",
+      "Stably AI"
     ],
     "id": 25342,
     "industries": [
@@ -1047,10 +1048,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1645204142,
-    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
-    "name": "Stably AI",
+    "long_description": "Orca is an ADE built for engineers who run 10 to 100 coding agents at once. Termina-based. Any coding agent. Bring your own subscription (Claude Code, Codex etc). Mobile app included. Browser, CUA, Mobile emulator, and other. Minimal yet powerful.\r\n\r\nIncludes CLI to let agents control it\r\n\r\nhttps://github.com/stablyai/orca",
+    "name": "Stably AI (Orca)",
     "nonprofit": false,
-    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
+    "one_liner": "We make Orca, MIT open source terminal-based agent orchestrator",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1058,26 +1059,26 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "stably-ai",
+    "slug": "stably-ai-orca",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 25,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/stably-ai",
-    "website": "https://www.stably.ai"
+    "url": "https://www.ycombinator.com/companies/stably-ai-orca",
+    "website": "http://onorca.dev/"
   },
   {
-    "all_locations": "New York, NY, USA; Paris, Île-de-France, France; Remote",
+    "all_locations": "New York City, NY, USA; Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/brainboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1138,17 +1139,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1669037258,
-    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
+    "long_description": "Depot gives engineering teams the fast source control, builds, CI runners, sandboxes, caches, and registries they need to ship reliable software they trust at AI speed. Companies like PostHog, Inference, Wistia, PlanetScale, Poolside, Astral, and Semgrep use Depot to power their entire software delivery stack.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their take on what software delivery and a replacement for GitHub could look like in the world of AI.\r\n",
     "name": "Depot",
     "nonprofit": false,
-    "one_liner": "Build faster. Waste less time.",
+    "one_liner": "Software delivery built for machine scale.",
     "question_answers": false,
     "regions": [
       "Remote",
       "Fully Remote"
     ],
     "slug": "depot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee26edbce33f1fe3229feaa137276afd82b5ea00.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1157,7 +1158,7 @@
       "DevOps"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 22,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/depot",
     "website": "https://depot.dev"
@@ -1211,7 +1212,7 @@
     "website": "https://uselynx.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/datasuite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1311,7 +1312,7 @@
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/skyhook.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Winter 2023",
     "demo_day_video_public": false,
     "former_names": [
@@ -1391,13 +1392,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": null,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/metoro",
     "website": "https://metoro.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/parea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1443,49 +1444,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/parea",
     "website": "https://www.parea.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 28957,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1688142176,
-    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "name": "Continue",
-    "nonprofit": false,
-    "one_liner": "Quality control for your software factory",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "continue",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "website": "https://continue.dev"
   },
   {
     "all_locations": "",
@@ -1536,51 +1494,7 @@
     "website": "https://tryterracotta.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/engines.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Parasale"
-    ],
-    "id": 29311,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1709590695,
-    "long_description": "Engines is an AI platform engineer that containerizes codebases, debugs Terraform code, and helps you get complex monorepos setup.",
-    "name": "Engines",
-    "nonprofit": false,
-    "one_liner": "Setup any repo with one command",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "engines",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f746cab4c1fdc6ea404f1bbe73e27c8e7bf34caf.png",
-    "stage": "Early",
-    "status": "Inactive",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/engines",
-    "website": "https://engines.dev"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/onegrep.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1733,10 +1647,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1721925789,
-    "long_description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks — no YAML, no ops team required.",
+    "long_description": "Opslane verifies that AI-written code actually works. Opslane opens your app in a real browser, clicks through what the PR changed, and posts screenshots, video, and data checks as proof it works.",
     "name": "Opslane",
     "nonprofit": false,
-    "one_liner": "Deploy to Kubernetes in minutes",
+    "one_liner": "Verify AI-generated code before you ship it",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1748,11 +1662,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -1779,10 +1693,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1727386579,
-    "long_description": "Struct cross-references logs, metrics, traces, and your codebase to accurately root-cause eng alerts and bugs. \r\n\r\nIntegrate your entire stack in minutes, auto-investigate every issue, dive deeper at will, and hand-off context to fix in one click.\r\n",
+    "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
     "name": "Struct",
     "nonprofit": false,
-    "one_liner": "Automate your on-call runbook",
+    "one_liner": "Agents that keep prod running",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1801,13 +1715,13 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/struct-ai",
     "website": "https://struct.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ryvn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1849,52 +1763,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ryvn",
     "website": "https://ryvn.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/sre-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "SRE.ai",
-      "sre.ai"
-    ],
-    "id": 30115,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1731196685,
-    "long_description": "Reliability on autopilot. Free you team to build what's next.",
-    "name": "SRE.ai",
-    "nonprofit": false,
-    "one_liner": "AI DevOps Agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "sre-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sre-ai",
-    "website": "https://sre.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1967,7 +1835,7 @@
     "slug": "tensorpool",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "AIOps",
@@ -1998,10 +1866,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1747381971,
-    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 6x faster and 13x cheaper.",
     "name": "StarSling",
     "nonprofit": false,
-    "one_liner": "Self-Driving CI",
+    "one_liner": "Self-Driving CI: fast AI-native GitHub Actions runners",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2020,10 +1888,10 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/starsling",
-    "website": "https://www.starsling.dev/"
+    "website": "https://starsling.dev/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2041,7 +1909,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1756399069,
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
     "name": "Dedalus Labs",
     "nonprofit": false,
     "one_liner": "Compute substrate for AI agents",
@@ -2098,23 +1966,65 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lark",
     "website": "https://getlark.ai/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30903,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1761187283,
+    "long_description": "Kestrel is the AI automation layer for platform engineering teams.\r\n\r\nPlatform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack.\r\n\r\nKestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions.\r\n\r\nDeveloper-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+    "name": "Kestrel AI",
+    "nonprofit": false,
+    "one_liner": "AI Agents for Platform Engineering",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "kestrel-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kestrel-ai",
+    "website": "https://usekestrel.ai/"
+  },
+  {
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [],
@@ -2129,14 +2039,14 @@
     "long_description": "Specific lets your coding agent write code and build the infrastructure to deploy it. Connect your favorite coding agent and start building immediately. Run `specific dev` to get a full local environment running in seconds. Run `specific deploy` to go to production on our scalable cloud platform in minutes.",
     "name": "Specific",
     "nonprofit": false,
-    "one_liner": "AWS for coding agents",
+    "one_liner": "The cloud platform built for coding agents",
     "question_answers": false,
     "regions": [
       "Sweden",
       "Europe"
     ],
     "slug": "specific",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78cfc7f96ec9c05be6c06823bccd27995a3125.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32b20b00d4eefb0011495a24b9f27376787da0bc.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2154,24 +2064,24 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gitcafe.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31507,
+    "id": 31592,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1773453080,
-    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. runs on the browser of any device..",
-    "name": "ProjectX",
+    "launched_at": 1785301269,
+    "long_description": "We build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
+    "name": "GitCafe",
     "nonprofit": false,
-    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "one_liner": "The Git forge for the next hundred billion commits",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2179,22 +2089,152 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "projectx",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "slug": "gitcafe",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7253a933be3a143635c29e5c657cccd546868c00.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Marketplace",
+      "Developer Tools",
+      "B2B",
       "DevOps",
-      "Cloud Computing",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/projectx",
-    "website": "https://www.projectx.cloud/"
+    "url": "https://www.ycombinator.com/companies/gitcafe",
+    "website": "https://git.cafe"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "HyperTest inc"
+    ],
+    "id": 33177,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1783455456,
+    "long_description": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data.\r\n\r\nHyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs.\r\n\r\nZero redeploys. Under 1% CPU overhead. Automatic PII redaction.\r\n\r\nWe turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.\r\n\r\n",
+    "name": "HyperProbe",
+    "nonprofit": false,
+    "one_liner": "AI engineer that debugs and fixes production incidents in realtime",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "hyperprobe",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hyperprobe",
+    "website": "https://hyperprobe.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35258,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789011304,
+    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
+    "name": "Mirrors",
+    "nonprofit": false,
+    "one_liner": "Catch and fix AI agent regressions before they reach production",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mirrors",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "website": "https://www.runmirrors.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35260,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788469833,
+    "long_description": "OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",
+    "name": "OnePatch",
+    "nonprofit": false,
+    "one_liner": "Automate on-call at agent-scale.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "onepatch",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "DevOps",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/onepatch",
+    "website": "https://onepatch.dev"
   }
 ]

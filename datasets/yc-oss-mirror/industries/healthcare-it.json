@@ -40,7 +40,7 @@
     "website": "http://medigram.com"
   },
   {
-    "all_locations": "Hayward, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Hayward, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/quartzy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -53,7 +53,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1326789155,
     "long_description": "The world’s No. 1 lab management platform. We help scientists easily organize orders, manage inventory, and save money.",
     "name": "Quartzy",
@@ -125,7 +125,7 @@
     "website": "https://agilemd.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/comprehend.json",
     "app_answers": null,
     "app_video_public": false,
@@ -251,7 +251,7 @@
     "website": "http://humandx.org"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/eligible.json",
     "app_answers": null,
     "app_video_public": false,
@@ -376,7 +376,7 @@
     "website": "http://medxt.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/listrunner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -627,7 +627,7 @@
     "website": "http://akidolabs.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/reschedule-med.json",
     "app_answers": null,
     "app_video_public": false,
@@ -907,7 +907,7 @@
     "website": "https://www.patientbank.us"
   },
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/rigplenish.json",
     "app_answers": null,
     "app_video_public": false,
@@ -947,7 +947,7 @@
     "website": "http://rigplenish.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/elemeno-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1033,7 +1033,7 @@
     "website": "https://www.bloomtext.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/mednet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1167,7 +1167,7 @@
     "website": "https://livelyme.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/ribbon-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1337,7 +1337,7 @@
     "website": "https://www.semantix.ai"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/truepill.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1378,7 +1378,7 @@
     "website": "https://truepill.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/blueberry-pediatrics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1640,6 +1640,47 @@
     "website": "https://www.medumo.com/"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/jetlenses.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2018",
+    "demo_day_video_public": false,
+    "former_names": [
+      "JetLenses"
+    ],
+    "id": 1901,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1524625564,
+    "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
+    "name": "Verse Medical",
+    "nonprofit": false,
+    "one_liner": "AI-enabled ordering for medical equipment & supplies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "jetlenses",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 200,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/jetlenses",
+    "website": "http://versemedical.com/"
+  },
+  {
     "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/apprentice-health.json",
     "app_answers": null,
@@ -1783,7 +1824,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525316920,
     "long_description": "Papa is a one-stop-shop for flexible family care, providing companionship and a helping hand wherever it’s needed. With wide-ranging industry, technology, and transformation experience, we share a vision for a world where no one has to go it alone. And a deep well of gratitude for the Papa People who move this vision forward.\r\n\r\n\r\nFounded in 2017 and headquartered in Miami, Papa is backed by Canaan, Tiger Global Management, Comcast Ventures, SoftBank Vision Fund 2, TCG, Initialized Capital, and Seven Seven Six, among other revered institutional and individual investors. \r\n\r\n\r\nPapa is an equal opportunity employer. We proudly support the ParityPledge® for gender and/or racial parity at the highest levels of business.\r\n\r\n",
     "name": "Papa",
@@ -1810,54 +1851,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/papa",
     "website": "https://www.papa.com"
-  },
-  {
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/eden-2.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2018",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Higia",
-      "Inc.",
-      "Higia",
-      "Eva Tech",
-      "Eva Center"
-    ],
-    "id": 2003,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1525846177,
-    "long_description": "Developing AI to unleash diagnostic abundance: accurate and timely medical imaging for all of humanity.\r\n\r\nEden is the leading AI-and-cloud-native Diagnostic OS, empowering over 2,600 medical institutions across 18 countries and impacting millions of patients every year.\r\n\r\nAll, with one purpose: building the best tools to perform medicine at its highest level.\r\n\r\n",
-    "name": "Eden",
-    "nonprofit": false,
-    "one_liner": "Developing AI to unleash diagnostic abundance.",
-    "question_answers": false,
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "eden-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9ed624456ba1fbda4567d62416d80343145cd4d.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "team_size": 55,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/eden-2",
-    "website": "https://edenmed.com"
   },
   {
     "all_locations": "San Juan, San Juan, Puerto Rico",
@@ -1964,7 +1957,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1541050478,
     "long_description": "The best AI models aren’t just trained and evaluated with human data; they’re built with superhuman data. The strongest datasets emerge through collective intelligence, where humans and machines work together to outperform either one alone. At Centaur, we create superior quality data by turning annotation into an arena where experts and AI compete.",
     "name": "Centaur",
@@ -2076,6 +2069,51 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/bunkerhill-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2019",
+    "demo_day_video_public": false,
+    "former_names": [
+      "BunkerHill",
+      "BunkerHill Health"
+    ],
+    "id": 12042,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1588466168,
+    "long_description": "Bunkerhill is the agentic AI platform for health systems. Turn your ideas into reality. Backed by Sequoia and Khosla.",
+    "name": "Bunkerhill Health",
+    "nonprofit": false,
+    "one_liner": "Bunkerhill is the agentic AI platform for health systems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "bunkerhill-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e37f47c8f336faaae481a49417e95761012d1dbb.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Health Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 30,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/bunkerhill-health",
+    "website": "http://bunkerhillhealth.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/apero-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2124,10 +2162,10 @@
   {
     "all_locations": "Monterrey, N.L., Mexico",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vitau.json",
-    "app_answers": true,
+    "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "former_names": [],
     "id": 12854,
     "industries": [
@@ -2164,7 +2202,7 @@
     "website": "https://vitau.mx"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/h1.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2222,20 +2260,20 @@
     "long_description": "",
     "name": "Candid Health",
     "nonprofit": false,
-    "one_liner": "The revenue cycle automation platform.",
+    "one_liner": "The autonomous revenue cycle management platform.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "candid-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1fc72499603c65b614fa89ee6cd64919abda54.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce2becf86aa3d046e808ea6e1d2a53ae86579f7e.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 125,
+    "team_size": 200,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/candid-health",
     "website": "https://www.joincandidhealth.com"
@@ -2283,7 +2321,7 @@
     "website": "https://farmako.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/corecare.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2547,7 +2585,7 @@
     "website": "https://curvenote.com"
   },
   {
-    "all_locations": "Cambridge, MA, USA; Remote",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/coverified.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2631,7 +2669,7 @@
     "website": "http://www.bewelldigital.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gradia-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2715,13 +2753,13 @@
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 28,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/axle-health",
     "website": "https://www.axlehealth.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/camber-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2758,7 +2796,7 @@
       "Health Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 85,
+    "team_size": 101,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/camber-2",
     "website": "https://www.camber.health/"
@@ -2810,7 +2848,7 @@
     "website": "https://dashlabs.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/quadrant-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2849,13 +2887,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/quadrant-health",
     "website": "https://quadrant.health"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lamar-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2944,7 +2982,7 @@
     "website": "https://zealth-ai.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/rejoy-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2964,16 +3002,16 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1614703106,
-    "long_description": "Our AI-powered healthcare information platform leverages  LLMs to deliver accurate, up-to-date medical knowledge",
+    "long_description": "Rejoy Health is the AI care team for clinics. AI workers for healthcare that run the day end to end, from the first call to the last note.\r\n\r\nEvery missed call is a patient you never see. Every hour after clinic is time you don’t get back. Phones go unanswered, the schedule has holes, and clinicians are still charting, coding, and looking things up while the next patient waits. Rejoy takes that work off the team’s plate.\r\n\r\nThe AI Receptionist answers around the clock, books and reschedules visits, and never puts a patient on hold, so the calendar stays full. In the room, the AI Scribe turns the conversation into structured notes, the AI Interpreter handles live language in English, Spanish, French, Chinese, Korean, and more, and RejoyGPT plus clinical decision support answer questions while the patient is still there. After the visit, the AI Coder suggests ICD-10 and CPT codes so billing goes out cleaner and faster. A medical search engine and study companion sit in the same suite for guidelines, journals, and exam prep.\r\n\r\nNot another chatbot. One system for doctors, nurses, MAs, and the front desk. More accurate than ChatGPT. HIPAA-compliant. Trusted by 40,000+ clinicians at leading US hospitals and health systems.\r\n\r\nYou stay in charge. Rejoy does the work. Book more patients. See more patients. Chart less.",
     "name": "Rejoy Health",
     "nonprofit": false,
-    "one_liner": "AI-powered healthcare information",
+    "one_liner": "AI workers that book, scribe, code, interpret, and answer clinicians",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "rejoy-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8915251968445e21f6c523ef791b6cee8e7d0c59.png",
@@ -2989,55 +3027,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rejoy-health",
     "website": "https://www.rejoyhealth.com/"
-  },
-  {
-    "all_locations": "New York, NY, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/vitalstrata.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Superpass",
-      "PlusIdentity",
-      "Vansec",
-      "Aldermate"
-    ],
-    "id": 24130,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1628792922,
-    "long_description": "Boost coding accuracy, uncover hidden prospective signals, and increase audit-defensibility of MAO risk adjustment operations with VitalStrata's RAF Precision AI.",
-    "name": "VitalStrata",
-    "nonprofit": false,
-    "one_liner": "AI for risk adjustment integrity ",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "vitalstrata",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd0109481d906e6297d06b8dd77f7ea4ff307796.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/vitalstrata",
-    "website": "https://www.vitalstrata.com"
   },
   {
     "all_locations": "Austin, TX, USA; Remote",
@@ -3083,7 +3072,7 @@
     "website": "https://www.akutehealth.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/opkit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3176,7 +3165,7 @@
     "website": "https://www.adra.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nest-genomics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3330,10 +3319,10 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1642832442,
-    "long_description": "US hospitals and clinics are losing $125B every year due to delayed and inaccurate medical coding. Arintra is solving this problem by automating medical coding using clinical AI. Arintra converts a patient chart instantly into insurance claims with 96% accurate medical codes and zero human intervention.\r\n\r\nArintra has partnered with several provider clients that includes health systems and large physician groups with 100% success. Through automation of these charts, Arintra has reduced undercoding by 11% and coding-related claim denials by 43%. Arintra is headquartered in Austin, Texas. \r\n\r\nArintra is bi-directionally integrated with leading EHRs including Epic, Athena, Cerner, etc. to process patient charts directly from the EHR to create a direct-to-billing claim. This direct-to-billing claim includes precise E/M levels, CPT, ICD-10, HCC, HCPCS codes with appropriate modifiers and units.\r\n\r\nBoth founders have PhDs in AI, significant ML and NLP experience, 60+ patents and publications, and a combined 20+ years of experience working at B2B companies and startups in Silicon Valley.",
+    "long_description": "Arintra is an enterprise AI platform for revenue assurance in healthcare, empowering health systems to get paid accurately, promptly, and fairly. Combining agentic AI with deep clinical expertise, Arintra autonomously codes every chart, explainably, across 23+ specialties and every care setting a health system operates — then cascades that intelligence across the revenue cycle through documentation intelligence (CDI) and denial appeals. Leading enterprise health systems including UC Davis Health, Mercyhealth, Meritus Health, Rochester Regional Health, Reid Health, Mercy Medical Center, and more use Arintra as their centralized, audit-ready revenue cycle platform. Arintra is available in the Epic Toolbox and on the athenahealth Marketplace, is HITRUST e1 certified, and earned a 93/100 with A+ performance rating from KLAS Research.",
     "name": "Arintra",
     "nonprofit": false,
-    "one_liner": "Medical coding automation",
+    "one_liner": "Enterprise-grade AI for revenue assurance ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3342,22 +3331,22 @@
       "Partly Remote"
     ],
     "slug": "arintra",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5062433c0cd2b53219dee1f6f03c41690b9965b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63e7c7dfa79e75106d18dc572d76823b8a5b6b6.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
       "SaaS",
       "Health Tech",
-      "B2B",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/arintra",
-    "website": "https://arintra.com"
+    "website": "https://www.arintra.com/"
   },
   {
     "all_locations": "Stockholm, Stockholm County, Sweden",
@@ -3392,14 +3381,14 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Healthcare",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 13,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bemlo",
     "website": "https://www.bemlo.com/en"
@@ -3437,9 +3426,9 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
+      "Artificial Intelligence",
       "Data Science",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -3470,7 +3459,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "medplum",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4229dd6804f5d73a29c33ab5b98b1cf482e0ea34.png",
@@ -3483,7 +3474,7 @@
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/medplum",
     "website": "https://www.medplum.com"
@@ -3504,10 +3495,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1654554081,
-    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
+    "long_description": "Metriport provides real-time access to medical data for 340 million individuals across the US. Its open-source platform turns scattered patient records across all major healthcare IT systems into structured information that gives clinicians what they need, exactly when they need it, to provide the best possible care. \r\n\r\nMetriport manages dozens of connections across all national HIEs and QHINs, state and regional HIEs, ADT networks, pharmacies, labs, and EHRs. It then matches, extracts, standardizes, deduplicates, and enriches records, and converts them into a unified data model, accessible through a single API, data warehouse, or apps directly within an EHR.\r\n\r\nIn addition to providing longitudinal patient clinical data at the point of care, Metriport offers ambient monitoring, alerting providers in real time as patients are moved through the healthcare system to assist with transitions of care. Metriport also delivers insights on top of the data, like AI medical record summarization, condition suspecting, and surfacing care gaps.\r\n\r\nFounded in 2022 and headquartered in San Francisco, Metriport processes 4.2 billion network requests a month and returns the first structured record in under 15 seconds. Teams across care delivery, value-based programs, and health tech platforms build on Metriport, including Amazon One Medical, Strive Health, Color, Sollis Health, and Canvas Medical.",
     "name": "Metriport",
     "nonprofit": false,
-    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
+    "one_liner": "Healthcare data infrastructure for next generation care delivery.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3516,70 +3507,25 @@
       "Partly Remote"
     ],
     "slug": "metriport",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b4285b77e4b14c5f733b3fb8ecb0243b368b92c.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 24,
+    "team_size": 29,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/metriport",
     "website": "https://metriport.com/"
   },
   {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/lamin.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Lamin Labs"
-    ],
-    "id": 27092,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1655969538,
-    "long_description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
-    "name": "Lamin",
-    "nonprofit": false,
-    "one_liner": "Open data framework for biology",
-    "question_answers": false,
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "lamin",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Biotech",
-      "Open Source",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "team_size": 10,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lamin",
-    "website": "https://lamin.ai"
-  },
-  {
-    "all_locations": "Edmonton, AB, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Edmonton, AB, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/kemnet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3701,11 +3647,11 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Productivity",
-      "Digital Health",
-      "AI"
+      "Digital Health"
     ],
     "tags_highlighted": [],
     "team_size": null,
@@ -3933,7 +3879,7 @@
     "website": "https://www.pledge.health/"
   },
   {
-    "all_locations": "New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/fairway-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4076,7 +4022,57 @@
     "website": "http://www.sanvivo.eu"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/clearest-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Mano AI",
+      "Mano",
+      "Mano AI",
+      "Mano Health",
+      "Mano Claims",
+      "Mano Health"
+    ],
+    "id": 28780,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1686714264,
+    "long_description": "Clearest Health is an AI-enabled revenue recovery platform for independent healthcare practices with underpaid out-of-network claims. Through verified IDR benchmarks, claim analysis, and audit-ready dispute support, Clearest helps providers strengthen No Surprises Act appeals and recover revenue that might otherwise be written off.",
+    "name": "Clearest Health",
+    "nonprofit": false,
+    "one_liner": "AI revenue recovery for underpaid healthcare claims.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "clearest-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4c1cc0751098e00020fe57a63b4a98b4977331.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "team_size": 11,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/clearest-health",
+    "website": "https://clearesthealth.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sohar-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4089,7 +4085,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1688557144,
     "long_description": "Sohar Health is an AI-driven front-end RCM solution that transforms insurance verification processes for healthcare providers, enabling faster patient conversions and reducing administrative workloads.  With a 95% automation rate, our API-first platform seamlessly integrates into existing workflows to provide real-time claim accuracy and eligibility checks. \r\nKey performance metrics showcase the power of our technology: Median latency of just 6 seconds, ensuring real-time eligibility; over 90% of checks returned within 30 seconds for increased patient conversion; 96% accuracy in identifying and verifying benefits details; Industry-leading 99% accuracy for eligibility determination; >90% carve-out detection rate, mitigating surprise billing risks; a 60% success rate with our Insurance Discovery API, helping identify coverage for self-pay patients.\r\n\r\nOur customers include outpatient clinics, specialty practices, and digital health platforms looking to streamline front-end claim management. By reducing errors and maximizing clean claim submissions, Sohar Health empowers healthcare organizations to convert and retain more patients, reduce operating costs, and increase their top-line revenue.",
     "name": "Sohar Health",
@@ -4104,7 +4100,7 @@
     ],
     "slug": "sohar-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e3f7c771362aee962754af2fd00c6281c92c7b2.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
@@ -4164,7 +4160,7 @@
     "website": "https://healthharbor.co/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/decoda-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4187,7 +4183,7 @@
     "one_liner": "The all-in-one EMR built for med spas and elective care",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -4198,19 +4194,19 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Digital Health",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 19,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/decoda-health",
     "website": "https://decodahealth.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/fortuna-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4245,7 +4241,7 @@
       "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 22,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/fortuna-health",
     "website": "https://fortunahealth.com/"
@@ -4397,10 +4393,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1688443537,
-    "long_description": "Healthtech-1 automates repetitive processes for healthcare systems. We’re starting with the world’s most famous: the NHS. We’re already live in over 1,400+ primary care practices.\r\n\r\nBased out of Raj's parents' Primary Care practice the Healthtech 1 team are systematically digitising the repetitive processes they experience everyday, saving thousands of hours of staff time. \r\n\r\nWhy now? \r\nThe UK's National Health Service (NHS) delivers free healthcare in 590 million patient contacts every year. Post-pandemic, Britain's most treasured institution is in crisis. Patient satisfaction is at 25 year low and 1/7 staff are applying for Non-NHS jobs fuelling an 11% recruitment gap. \r\n\r\nBy digitising the 100s of repetitive processes in healthcare, Healthtech 1 will reverse the trend, and produce the world's most productive health care system.",
+    "long_description": "Healthtech-1 builds clinical AI that navigates patients to the right place, first time. Today we automate eligibility checks, triage and appointment booking for 1,600+ NHS GP practices.\r\n\r\nTomorrow, every healthcare appointment - GP, pharmacy, dentist, physio - is instantly bookable on bookable.health.\r\n\r\nWhy now?\r\nThe NHS has come a long way, but access to it hasn't. Patient satisfaction is at a 25-year low. Automating access to care - eligibility, triage, booking - is how we reverse the trend.",
     "name": "Healthtech 1",
     "nonprofit": false,
-    "one_liner": "Automating repetitive processes in healthcare",
+    "one_liner": "Navigating patients to the right place, first time.",
     "question_answers": true,
     "regions": [
       "United Kingdom",
@@ -4419,7 +4415,7 @@
       "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/healthtech-1",
     "website": "https://www.healthtech1.uk/"
@@ -4565,7 +4561,7 @@
     "website": "https://www.copperhealth.co/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/clarion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4597,13 +4593,13 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/clarion",
     "website": "https://clarionhealth.com"
@@ -4862,7 +4858,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sagecare",
     "website": "https://sagecare.ai"
@@ -4905,7 +4901,7 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dodo",
     "website": "https://www.dodo.ai/"
@@ -4924,7 +4920,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1723528837,
     "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
     "name": "Planbase",
@@ -4948,7 +4944,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/planbase",
     "website": "https://www.joinplanbase.com/"
@@ -4973,7 +4969,7 @@
     "name": "Brighterway",
     "nonprofit": false,
     "one_liner": "Streamlining the medical record review process in workers comp",
-    "question_answers": true,
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
@@ -5024,7 +5020,7 @@
     "slug": "baseline-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2cd9231d352195b9c81d40c7f7df4295e580f3.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
       "Artificial Intelligence",
@@ -5099,10 +5095,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1723733582,
-    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "long_description": "Syntra’s mission is to make healthcare faster, starting with healthcare payments.\r\n\r\nSyntra Autonomous, our first product, automates pre-bill chart review, claim review, and submission.\r\n\r\nIn the 12 months since launch, Syntra Autonomous has processed more than 1 million patient encounters and over $200 million in insurance collections across hundreds of practice locations nationwide.\r\n\r\nIf you’re interested in building toward infinitely fast healthcare, reach out!",
     "name": "Syntra",
     "nonprofit": false,
-    "one_liner": "Medical chart and claim review ",
+    "one_liner": "Faster healthcare payments ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5117,11 +5113,12 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
       "Artificial Intelligence",
-      "Big Data",
+      "FinOps",
+      "Fintech",
       "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/syntra",
     "website": "https://www.syntra.com"
@@ -5265,51 +5262,6 @@
     "website": "https://www.toothy.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/amby-health.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Vertex Health"
-    ],
-    "id": 30238,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1738458555,
-    "long_description": "Amby Health automates billing and quality reviews for ambulance agencies (EMS), replacing large back-office teams with AI. We analyze patient reports in seconds—not months—accurately coding claims and identifying liability and care risks while eliminating costly, error-prone manual processes.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "name": "Amby Health",
-    "nonprofit": false,
-    "one_liner": "AI Copilot for Ambulance Agencies (EMS)",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "amby-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b9958107dbb0957f151ac1f60d74995db0f2314.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/amby-health",
-    "website": "https://tryamby.com"
-  },
-  {
     "all_locations": "Austin, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/healthkey.json",
     "app_answers": null,
@@ -5347,7 +5299,7 @@
     "website": "https://gethealthkey.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harbera.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5393,7 +5345,7 @@
     "website": "https://harbera.com/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5408,12 +5360,12 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1739954707,
-    "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
+    "long_description": "Voice agents for outpatient facilities. ",
     "name": "Paratus Health",
     "nonprofit": false,
-    "one_liner": "Medical Voice Agents for Patient Management",
+    "one_liner": "healthcare AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5425,12 +5377,13 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
+      "Sales",
+      "Sales Enablement",
       "Digital Health",
-      "Healthcare IT",
-      "AI Assistant"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paratus-health",
     "website": "https://paratushealth.com/"
@@ -5478,7 +5431,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [
       "Wrkdn",
       "Work Done (WRKDN)",
@@ -5492,34 +5445,83 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1745803962,
-    "long_description": "Adentris is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
+    "long_description": "US healthcare providers lose billions every year to denied claims, most of them traced back to documentation and coding gaps no one catches until the payer says no. Adentris is an AI revenue integrity platform that catches them first. Our AI agents read EHR and payer interfaces directly, no API integration required, across five modules: documentation, coding QA, prior authorization, appeals and denials, and discharge summaries. And for providers that don't have their own CDI or billing teams, we run billing as a service on top of the platform.",
     "name": "Adentris",
     "nonprofit": false,
-    "one_liner": "Real-time AI Compliance for Medical Documentation",
+    "one_liner": "Real-time AI Compliance & Revenue Integrity for Medical Providers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "adentris",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/299342dc68e4bc077a079313853d9982af12d81d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "B2B",
+      "Compliance",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/adentris",
+    "website": "https://www.adentris.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/pelica.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Cue",
+      "Delty AI",
+      "Delty"
+    ],
+    "id": 30533,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1746945144,
+    "long_description": "Pelica helps risk-bearing healthcare organizations improve quality performance, close care gaps, and lower administrative cost using specialized AI agents. Built for health plans, IPAs, MSOs, ACOs, and risk-bearing medical groups, Pelica unifies claims, EHR, pharmacy, lab, and ADT data into one live member record, then gives quality, risk adjustment, pharmacy, provider network, and care management teams agents that carry work through to completion. Pelica currently serves more than 350,000 members.",
+    "name": "Pelica",
+    "nonprofit": false,
+    "one_liner": "AI agents for risk-bearing healthcare organizations",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "adentris",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
+    "slug": "pelica",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01b4aaee846929d39e6331c0fdbf8fdf6ea08da6.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
-      "Health Tech",
+      "Artificial Intelligence",
       "B2B",
-      "Compliance",
-      "Enterprise Software",
+      "Healthcare",
+      "Healthcare IT",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/adentris",
-    "website": "https://www.adentris.com"
+    "url": "https://www.ycombinator.com/companies/pelica",
+    "website": "https://www.pelica.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5600,54 +5602,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/playgent",
     "website": "https://useplaygent.com"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI"
-    ],
-    "id": 30681,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1752533752,
-    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "name": "Parachute",
-    "nonprofit": false,
-    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "parachute",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "website": "https://parachute-ai.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5731,7 +5685,7 @@
     "website": "https://avelishealth.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/locata.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5754,7 +5708,8 @@
     "one_liner": "AI Referral Automation for Primary Care Clinics",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "locata",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
@@ -5782,12 +5737,12 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1751446455,
-    "long_description": "America is facing an addiction and mental health crisis. We're building a suite of AI agents to automate away the tasks that occupy half of the time and resources of behavioral health clinics—documentation, compliance, audits, and more.\r\n\r\nWe save time, money, and mental bandwidth so that clinicians can stop chasing insurance reimbursements and go back to saving lives. ",
+    "long_description": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. \r\n\r\nWe work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better.\r\n\r\nOur agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
     "name": "Perspectives Health",
     "nonprofit": false,
-    "one_liner": "Automating away admin for behavioral health clinics",
+    "one_liner": "AI to run behavioral health programs better",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5805,7 +5760,7 @@
       "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/perspectives-health",
     "website": "https://perspectiveshealth.ai/"
@@ -5867,7 +5822,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1759865815,
-    "long_description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan’s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.\r\n",
+    "long_description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare systems in the country.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan’s biggest healthcare AI scribe company, used by thousands of healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. ",
     "name": "LunaBill",
     "nonprofit": false,
     "one_liner": "AI Voice callers for healthcare billing teams",
@@ -5895,7 +5850,7 @@
     "website": "https://lunabill.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Washington, DC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scheduling-wizard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5916,7 +5871,8 @@
     "one_liner": "Logistics infrastructure to modernize healthcare operations",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "scheduling-wizard",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a941d8028fafa95dd706134a19099c733b0726ff.png",
@@ -6005,7 +5961,7 @@
     "website": "https://patientdesk.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6029,8 +5985,8 @@
     "one_liner": "AI-native platform for Life-Sciences Documentation ",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "slug": "ritivel",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
@@ -6066,33 +6022,108 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1778267831,
-    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 6,000 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
+    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 8,300 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
     "name": "Klarify",
     "nonprofit": false,
     "one_liner": "AI Agent for Therapists",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "klarify",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Artificial Intelligence",
-      "Mental Health Tech",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/klarify",
     "website": "https://www.klarify.ca/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/elite.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Stratum",
+      "Stratum Industries"
+    ],
+    "id": 32523,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1785365250,
+    "long_description": "Elite builds AI voice agents that run the front office for healthcare practices. Elite answers every patient call instantly and finishes the job inside the practice's EHR: scheduling, triage, referrals, refills, eligibility, intake, and billing, across voice, SMS, and web, around the clock.\r\n\r\nFront offices are drowning in phone volume, so patients wait on hold, calls go unanswered, and staff get pulled away from care. Elite picks up every call, resolves the routine ones end to end, and escalates anything complex to the team with full context. It ships knowing the scheduling protocols of 18 specialties and writes back to more than 19 EHRs including Epic, athenahealth, eClinicalWorks, and ModMed. There is no rip-and-replace, it goes live in days, and every resolved patient interaction is what we charge for.\r\n\r\nOur starting point is healthcare. The mission is to rebuild the critical industries America runs on, including government, finance, insurance, and manufacturing, by deploying AI agents into the slow, manual workflows at their core.",
+    "name": "Elite",
+    "nonprofit": false,
+    "one_liner": "Healthcare AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "elite",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b0b3923cf1e5272885bc93999098a208c85926.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/elite",
+    "website": "https://elitehq.ai/"
+  },
+  {
+    "all_locations": "Seattle, WA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hubble-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33062,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1784648214,
+    "long_description": "Hubble is the AI-native retrieval engine for medical records, delivered in one API. I scaled Grow Therapy to a $3B valuation; my cofounder built One Medical's first AI agents, now used by millions of patients. Four weeks in, we already have ten signed customers and 7-figure year-one revenue across platform and usage fees. Every new agentic use case across industries like legal, clinical trials, consumer health, insurance, needs a complete medical record, and today that still means faxes and phone calls. Hubble fixes that with voice and browser agents that reach the providers APIs can't, in a market worth $45B just in the verticals we've mapped so far.",
+    "name": "Hubble",
+    "nonprofit": false,
+    "one_liner": "AI-native retrieval engine for medical records",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hubble-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d58ef930283a4163ee9544b3936abd1327a463a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hubble-ai",
+    "website": "https://hubble.ai/"
   }
 ]

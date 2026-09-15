@@ -4,6 +4,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from typing import Iterable
 
 from .query import YCData
 from .scraper import (
@@ -90,15 +91,101 @@ def cmd_stats(args: argparse.Namespace) -> int:
 
 def cmd_search(args: argparse.Namespace) -> int:
     data = YCData.load(data_dir=Path(args.data_dir)).search(args.query)
+    return _print_companies(data, args.limit, as_json=args.json, empty_query=args.query)
+
+
+def cmd_filter(args: argparse.Namespace) -> int:
+    data = YCData.load(data_dir=Path(args.data_dir)).filter(
+        batch=args.batch,
+        industry=args.industry,
+        subindustry=args.subindustry,
+        status=args.status,
+        stage=args.stage,
+        tags=args.tags,
+        region=args.region,
+    )
+    if args.query:
+        data = data.search(args.query)
+    return _print_companies(data, args.limit, as_json=args.json)
+
+
+def _print_companies(
+    data: YCData,
+    limit: int,
+    *,
+    as_json: bool = False,
+    empty_query: str | None = None,
+) -> int:
     if not len(data):
-        print(f"No companies match '{args.query}'.")
+        if empty_query:
+            print(f"No companies match '{empty_query}'.")
+        else:
+            print("No companies match the selected filters.")
         return 0
-    for c in list(data)[: args.limit]:
-        print(f"{c.slug:40s} {c.batch:8s} {c.name}")
+
+    selected = list(data)[:limit]
+    if as_json:
+        print(json.dumps([c.to_dict() for c in selected], indent=2, ensure_ascii=False))
+        return 0
+
+    for c in selected:
+        print(f"{c.slug:40s} {(c.batch or ''):18s} {c.name}")
         if c.one_liner:
             print(f"  → {c.one_liner}")
-    if len(data) > args.limit:
-        print(f"...and {len(data) - args.limit} more. Use --limit to see more.")
+    if len(data) > limit:
+        print(f"...and {len(data) - limit} more. Use --limit to see more.")
+    return 0
+
+
+def search_markdown(query: str, roots: Iterable[Path]) -> list[dict[str, object]]:
+    """Return contextual, line-level matches from Markdown files under roots."""
+    needle = query.casefold()
+    matches: list[dict[str, object]] = []
+    seen: set[Path] = set()
+    for root in roots:
+        root = Path(root)
+        if not root.exists():
+            continue
+        paths = [root] if root.is_file() else sorted(root.rglob("*.md"))
+        for path in paths:
+            resolved = path.resolve()
+            if resolved in seen:
+                continue
+            seen.add(resolved)
+            heading = ""
+            with path.open(encoding="utf-8", errors="replace") as fh:
+                for lineno, raw in enumerate(fh, 1):
+                    line = raw.strip()
+                    if line.startswith("#"):
+                        heading = line.lstrip("#").strip()
+                    if needle in line.casefold():
+                        matches.append({
+                            "path": str(path),
+                            "line": lineno,
+                            "heading": heading,
+                            "text": line,
+                        })
+    return matches
+
+
+def cmd_kb_search(args: argparse.Namespace) -> int:
+    roots = [Path(args.kb_dir)]
+    if args.include_lectures:
+        roots.append(Path(args.lectures_dir))
+    matches = search_markdown(args.query, roots)
+    selected = matches[:args.limit]
+    if args.json:
+        print(json.dumps(selected, indent=2, ensure_ascii=False))
+        return 0
+    if not selected:
+        print(f"No knowledge-base entries match '{args.query}'.")
+        return 0
+    for match in selected:
+        context = f" — {match['heading']}" if match["heading"] else ""
+        print(f"{match['path']}:{match['line']}{context}")
+        print(f"  {match['text']}")
+    if len(matches) > args.limit:
+        print(f"...and {len(matches) - args.limit} more. Use --limit to see more.")
     return 0
 
 
@@ -134,7 +221,7 @@ def build_parser() -> argparse.ArgumentParser:
     # fetch
     p_fetch = sub.add_parser("fetch", help="Download YC data")
     fetch_sub = p_fetch.add_subparsers(dest="target", required=True)
-    p_all = fetch_sub.add_parser("all", help="All ~5,900 companies")
+    p_all = fetch_sub.add_parser("all", help="All companies in the current upstream snapshot")
     p_all.add_argument("--force", action="store_true", help="Bypass 24h cache")
     p_all.add_argument(
         "--no-split", action="store_true",
@@ -173,10 +260,35 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("stats", help="Summary counts").set_defaults(func=cmd_stats)
 
     # search
-    p_search = sub.add_parser("search", help="Full-text search on name + one_liner")
+    p_search = sub.add_parser("search", help="Full-text search across public company fields")
     p_search.add_argument("query")
     p_search.add_argument("--limit", type=int, default=25)
+    p_search.add_argument("--json", action="store_true", help="Print selected records as JSON")
     p_search.set_defaults(func=cmd_search)
+
+    # structured company filtering
+    p_filter = sub.add_parser("filter", help="Filter companies by structured fields")
+    p_filter.add_argument("--batch")
+    p_filter.add_argument("--industry")
+    p_filter.add_argument("--subindustry")
+    p_filter.add_argument("--status")
+    p_filter.add_argument("--stage")
+    p_filter.add_argument("--tag", dest="tags", action="append", help="Require tag; repeat for AND filtering")
+    p_filter.add_argument("--region")
+    p_filter.add_argument("--query", help="Also require a full-text match")
+    p_filter.add_argument("--limit", type=int, default=25)
+    p_filter.add_argument("--json", action="store_true", help="Print selected records as JSON")
+    p_filter.set_defaults(func=cmd_filter)
+
+    # repository knowledge-base search
+    p_kb = sub.add_parser("kb-search", help="Search local startup Markdown knowledge")
+    p_kb.add_argument("query")
+    p_kb.add_argument("--kb-dir", default="startup-library")
+    p_kb.add_argument("--include-lectures", action="store_true")
+    p_kb.add_argument("--lectures-dir", default="vendor/how-to-start-a-startup")
+    p_kb.add_argument("--limit", type=int, default=25)
+    p_kb.add_argument("--json", action="store_true", help="Print matches as JSON")
+    p_kb.set_defaults(func=cmd_kb_search)
 
     # show
     p_show = sub.add_parser("show", help="Pretty-print a single company by slug")

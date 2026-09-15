@@ -79,7 +79,7 @@
     "website": "http://statuspage.io"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/neptune-io.json",
     "app_answers": null,
     "app_video_public": false,
@@ -298,7 +298,7 @@
     "website": "https://www.highlight.io/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/parea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -349,7 +349,7 @@
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json",
     "app_answers": null,
-    "app_video_public": false,
+    "app_video_public": true,
     "batch": "Winter 2024",
     "demo_day_video_public": false,
     "former_names": [
@@ -363,7 +363,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1711136962,
-    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
     "name": "Respan",
     "nonprofit": false,
     "one_liner": "Self-driving observability, evals, and gateway for AI agents",
@@ -381,13 +381,13 @@
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 23,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/respan",
     "website": "https://respan.ai"
@@ -427,7 +427,7 @@
     ],
     "slug": "raindrop",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53f3136371147d755b0a7f4891db765c11734499.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -470,16 +470,16 @@
       "America / Canada"
     ],
     "slug": "coval",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc31ffe74137f2876c08ce7153b3a5cfd5001ca.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -546,10 +546,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1759953898,
-    "long_description": "Understand user patterns and find silent failures in your AI agents.\r\n\r\nThe Context Company helps teams analyze AI agent conversations to surface user behavior patterns, performance trends, and moments where agents struggle - so teams know what’s working, what’s not, and what to improve next.\r\n\r\nWe turn raw conversations into structured signals: topic clustering, user feedback analysis, custom pattern tracking, and alerts. All alongside traditional observability like traces, tool calls, latency, and costs.\r\n\r\nGet started in less than 10 lines of code.",
+    "long_description": "We analyze every conversation between your customers and your AI agent to find what's losing you customers and money. Then we help ship the fix and prove it worked.\r\n\r\nNobody on the team can read every conversation once an agent is in production. TCC does, and turns them into patterns tied to the accounts they affect: where customers get stuck, what they wish the agent could do, and where it's spending more than it needs to.\r\n\r\nEngineers ask about a pattern from their IDE through our MCP, get the conversations and traces behind it down to the tool call or prompt that went wrong, ship the fix, and benchmark cost and quality before and after. Product sees what customers are actually trying to do with the agent and where it falls short, broken out by topic and account, which becomes the backlog for what to build next. Customer success sees which accounts the agent is struggling with before the customer says anything, and steps in with the full conversation on hand.\r\n\r\nAny agent framework, a few lines of code. If you're running an agent in production or about to launch, ping us.",
     "name": "The Context Company",
     "nonprofit": false,
-    "one_liner": "Monitor AI agents and understand user behavior",
+    "one_liner": "Find what's losing you customers and money in your AI agent and fix it",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -561,20 +561,63 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/the-context-company",
-    "website": "https://thecontext.company"
+    "website": "https://www.thecontextcompany.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30969,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1761703288,
+    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
+    "name": "Lemma",
+    "nonprofit": false,
+    "one_liner": "Production Monitoring for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "uselemma",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/335dca5772b36d447d2e1c9b0f730539813d1846.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Analytics",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/uselemma",
+    "website": "https://www.uselemma.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/control-seat.json",
     "app_answers": null,
     "app_video_public": false,
@@ -590,13 +633,14 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1777448165,
-    "long_description": "",
+    "long_description": "Control Seat builds the hardware and software that helps industrial teams see, understand, and run their operations.\r\n\r\nOur platform creates one clear source of truth across the plant. It connects the systems teams already use, brings control, monitoring, history, and machine health together, and adds an intelligence layer that continuously watches for meaningful changes. Teams can understand what happened, catch problems earlier, and act before they become downtime.\r\n\r\nThe result is fewer surprises, faster decisions, and less time spent piecing together information across disconnected tools.\r\n\r\nWe work with manufacturers, utilities, energy companies, and other industrial operators modernizing existing facilities or building new ones.",
     "name": "Control Seat",
     "nonprofit": false,
-    "one_liner": "Control and Monitoring of Industrial Operations",
+    "one_liner": "AI that runs factories. ",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "control-seat",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
@@ -616,58 +660,45 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "Swish",
-      "Pulsend",
-      "Pulsent",
-      "Deep Engage",
-      "Deepengage",
-      "Openengage",
-      "Deepengage",
-      "Pulsending",
-      "deep engage",
-      "Singlevox",
-      "deep engage",
-      "Pulsent"
-    ],
-    "id": 31380,
+    "former_names": [],
+    "id": 33019,
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Analytics"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1775225049,
-    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
-    "name": "Superlog",
+    "launched_at": 1783481375,
+    "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better, faster & cheaper than frontier models.",
+    "name": "Agnost AI",
     "nonprofit": false,
-    "one_liner": "Observability that installs itself and fixes the bugs it finds.",
+    "one_liner": "We find where AI agents fail, then train better models to run them.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "superlog",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "slug": "agnost-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Analytics",
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "Monitoring",
-      "AI"
+      "Machine Learning",
+      "Analytics",
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/superlog",
-    "website": "https://superlog.sh/"
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "website": "https://agnost.ai"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/optilly-installmonetizer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -127,7 +127,7 @@
     "website": "https://amplitude.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/onesignal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -174,7 +174,7 @@
     "website": "https://onesignal.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/leadgenius.json",
     "app_answers": null,
     "app_video_public": false,
@@ -422,6 +422,51 @@
     "website": "http://ownlocal.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2009/olark.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2009",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 249,
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1326790657,
+    "long_description": "Built for the marketer doing five jobs at once. Easily install an Olark AI agent to answer questions, qualify visitors, and know exactly when to bring in a human.\r\n\r\nOlark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nUse our previewer on https://olark.com to try it on your website in less than 60 seconds.",
+    "name": "Olark",
+    "nonprofit": false,
+    "one_liner": "Olark gives you an AI agent that works your marketing funnel 24/7",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "olark",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2971ba804a1fb214a567b3c22e4e6fd1b271fdf.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Retail",
+    "tags": [
+      "Sales",
+      "Marketing",
+      "Customer Service",
+      "Chat",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/olark",
+    "website": "http://olark.com"
+  },
+  {
     "all_locations": "Southfield, MI, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2007/contestmachine.json",
     "app_answers": null,
@@ -461,7 +506,7 @@
     "website": "http://contestmachine.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/canopy-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -793,6 +838,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bizzy",
     "website": "http://bizzy.io"
+  },
+  {
+    "all_locations": "Oslo, Oslo, Norway; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2016/superside.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2016",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Konsus"
+    ],
+    "id": 1034,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1447567515,
+    "long_description": "Superside is the world's leading AI-first creative partner for enterprise teams. We help marketing and creative teams at brands like Amazon, Microsoft, Reddit, DoorDash and Intuit scale high-quality, on-brand creative without the cost or complexity of traditional agencies.\r\n\r\nWe are not a traditional agency, a freelance marketplace or a standalone AI tool. Superside combines a global team of expert designers, writers, motion artists and strategists with AI-powered workflows and Superspace — our proprietary creative management platform — all delivered through one flexible subscription. \r\n\r\nWith 800+ team members across 70+ countries, 200,000+ projects delivered and 90%+ of our creatives AI-certified, we cover every creative service from ad creative and video to motion, branding and web design.\r\n\r\nSince Y Combinator W16, Superside has raised capital from Luxor Capital, Prosus Ventures, Freestyle Capital, Slack Fund, Sam Altman, High Alpha and Alliance Ventures.\r\n",
+    "name": "Superside",
+    "nonprofit": false,
+    "one_liner": "AI-First Creative Partner for Enterprise Teams",
+    "question_answers": false,
+    "regions": [
+      "Norway",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "superside",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f97e6f72e5f0f939f199ac6282cab34c72f7945.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Design Tools",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 850,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/superside",
+    "website": "http://www.superside.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1283,7 +1374,7 @@
     "website": "https://treble.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/letterdrop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1301,12 +1392,12 @@
       "Sales"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1646371716,
-    "long_description": "Find warm leads from public and private conversations across the web, your calls, and CRM. Draft personalized outbound for hot leads. Nurture other leads with automated thought leadership.",
+    "long_description": "If you beat your competitors in head to head bakeoffs, you should want to get into every active evaluation of them possible. Letterdrop makes that possible so you can sell customers on your better solution.",
     "name": "Letterdrop",
     "nonprofit": false,
-    "one_liner": "Book more meetings with conversational intent",
+    "one_liner": "Get into the competitive deals you can't see",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1331,7 +1422,7 @@
     "website": "https://letterdrop.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/clearmix.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1375,7 +1466,7 @@
     "website": "https://clearmix.com"
   },
   {
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "Dubai, Dubai, United Arab Emirates",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/mailwarm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1396,8 +1487,8 @@
     "one_liner": "Prevents your emails from landing in spam.",
     "question_answers": false,
     "regions": [
-      "France",
-      "Europe",
+      "United Arab Emirates",
+      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -1464,7 +1555,7 @@
     "website": "http://re2.ai"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/venu-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1536,10 +1627,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1613662142,
-    "long_description": "Rethoric is a LinkedIn content agency built by founders, for founders. We run your entire content operation from strategy to publishing so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nYour content starts with a monthly interview led by people who understand the founder journey. We go deep on your ideas, decisions, and lessons learned so the content sounds like your best thinking, not a marketing team's version of it. \r\n\r\nFrom there, world-class ghostwriters and editors turn those conversations into a full content calendar.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. You approve directly from Slack notifications.",
+    "long_description": "Rethoric is a LinkedIn content consultancy service and scheduling platform used by companies like Checkr, ClickUp, Storylane, Checkly, and 100+ startups and enterprises. We run your entire content operation from strategy to publishing, so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. ",
     "name": "Rethoric",
     "nonprofit": false,
-    "one_liner": "LinkedIn ghostwriting for founders to busy to post consistently",
+    "one_liner": "LinkedIn content consultancy and scheduling platform for busy founders",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1564,7 +1655,7 @@
     "website": "http://rethoric.com/ycombinator"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/navattic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1591,7 +1682,7 @@
       "Partly Remote"
     ],
     "slug": "navattic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22212a19a00cdc48d8187c96a9935e78ca56ee79.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4a4ef6a3d05c5e0e6207e2f196eaafa06183e8.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -1599,7 +1690,8 @@
       "SaaS",
       "B2B",
       "Sales",
-      "Marketing"
+      "Marketing",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "team_size": 35,
@@ -1673,7 +1765,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1627581948,
-    "long_description": "Replo enables anyone around the world to sell anything, anytime, anywhere. We are building every company's GTM specialist — from ecommerce to SaaS. To date, we’ve raised over $8.2M from Figma, YCombinator, Vercel, General Catalyst, Infinity Ventures, MAGIC Fund, Base Case Capital.\r\n",
+    "long_description": "Agents that help you sell anything on the internet. Come build what the next million businesses launch on.\r\n\r\nTo date, we’ve raised over $8.2M from Figma, YCombinator, Vercel, General Catalyst, Infinity Ventures, MAGIC Fund, Base Case Capital.\r\n",
     "name": "Replo",
     "nonprofit": false,
     "one_liner": "Sell anything",
@@ -1683,7 +1775,7 @@
       "America / Canada"
     ],
     "slug": "replo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d35b8ea019eb95e63016971bc2bcc28e3bffcaa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60f75a909cd4fe5c8368c1b60a2257626955c988.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1700,7 +1792,7 @@
     "website": "https://replo.app/"
   },
   {
-    "all_locations": "London, England, United Kingdom; Remote",
+    "all_locations": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/kaya.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1723,8 +1815,8 @@
     "one_liner": "Marketing agency for startups: 10x cheaper, better and faster",
     "question_answers": false,
     "regions": [
-      "United Kingdom",
-      "Europe",
+      "Malaysia",
+      "Southeast Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -1973,7 +2065,7 @@
     "website": "https://www.getzorba.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Ho Chi Minh City, Vietnam",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1996,8 +2088,8 @@
     "one_liner": "Turn intuition into insights, in minutes",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Vietnam",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -2021,14 +2113,15 @@
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/supersend.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/ranla.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
     "demo_day_video_public": false,
     "former_names": [
       "EXO Freight",
-      "Super Send"
+      "Super Send",
+      "SuperSend"
     ],
     "id": 25605,
     "industries": [
@@ -2038,10 +2131,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1642105352,
-    "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
-    "name": "SuperSend",
+    "long_description": "Ranla is an AI growth marketer for PLG SaaS teams. You instrument product events once; Ranla segments users, plans lifecycle campaigns, writes the email, sends it on infrastructure you control, and reports back in dollars — trials converted, upgrades, churn risk — not just opens and clicks.\r\n\r\nMost founders ship the product but never hire a lifecycle marketer. Ranla owns that loop: weekly plans, occasion-based sends, A/B tests, and approval flows so nothing goes out without you when you want a gate. Transactional and lifecycle email live on the same stack, so password resets and onboarding drips aren't split across Resend plus a separate ESP.\r\n\r\nWe're built for teams with signups and revenue data but no one running email full time — the gap between \"we have users\" and \"we have a growth motion.\"\r\n\r\n\r\n",
+    "name": "Ranla",
     "nonprofit": false,
-    "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
+    "one_liner": "The AI growth marketer that turns SaaS signups into revenue",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2049,8 +2142,8 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "supersend",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
+    "slug": "ranla",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e77030a95d7d1d6848dce062a119a876a2676952.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -2061,13 +2154,13 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/supersend",
-    "website": "https://supersend.io/"
+    "url": "https://www.ycombinator.com/companies/ranla",
+    "website": "https://ranla.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cotera.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2192,11 +2285,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
       "Advertising",
-      "SEO"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -2435,7 +2527,54 @@
     "website": "https://popsy.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/ad-army.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Conversion Pattern",
+      "Findly"
+    ],
+    "id": 27097,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1660122078,
+    "long_description": "Ad Army is an AI creative tool for brands that need a constant supply of ad creative.\r\n\r\nYou build your brand's world once — characters, products, locations — each with locked descriptors and reference images. Then you generate against it: @-mention an entity in a prompt and its references are pulled into the model call, so the same product, the same face and the same location hold across images, video, and dozens of variants. Save any chain of steps as a recipe and replay it on the next campaign.\r\n\r\nWe're model-agnostic by design — video, image, text and audio providers sit behind one interface, and new models land as they ship. For a full narrative spot, the same world scripts, storyboards, animates, voices, captions and exports multi-scene ads in every aspect ratio.",
+    "name": "Ad Army",
+    "nonprofit": false,
+    "one_liner": "Generate, iterate, and ship AI ad creatives faster",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ad-army",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aba1aa30f9ea19c4283a2cbd34673bd680b92532.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Marketing",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ad-army",
+    "website": "https://ad.army/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/avina.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2543,9 +2682,9 @@
       "Marketing"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1670314629,
-    "long_description": "Syncly is an AI-native social listening platform that analyzes social content from text to video. Syncly extracts content, creator, and consumer insights from audio, visuals, and on-screen context, not just captions and comments, across TikTok, Instagram, YouTube, and more. From enterprise leaders like Kimberly-Clark and Clorox to fast-growing brands like Neuro, teams use Syncly to get full visibility across every social channel and make faster, smarter decisions.",
+    "long_description": "Syncly co-founders (former founders of Sualab, a video AI startup, $200M exit) are building agentic AI to automate video marketing for the world’s largest CPG brands (Tiffany, Clorox), a market where brands spend hundreds of billions on agencies today. At $2.1M ARR, grown 2x in 6 months, 4x in 12 months, and 142% NDR. Backed by YC, SoftBank, and John Kim (Sendbird CEO).",
     "name": "Syncly",
     "nonprofit": false,
     "one_liner": "Social listening for the video era",
@@ -2604,7 +2743,7 @@
     "slug": "gluetrail",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/655e9f2acbaad108c6e7539ecb81f7a1ce60e8cc.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Marketing",
     "tags": [
       "Artificial Intelligence",
@@ -2642,10 +2781,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1667592357,
-    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
+    "long_description": "Goose is an AI creative engine that turns your brand into a continuous stream of on-brand ads. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer, then generate short-form creative for Meta and TikTok at the volume performance marketing actually requires.\r\n\r\nThe engine compounds: the agent learns from ad performance, competitors, trends, and human feedback, so your creative gets better every month. Run as a human-guided, done-for-you service.",
     "name": "Gooseworks",
     "nonprofit": false,
-    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
+    "one_liner": "Self-Improving Ad Creative Engines",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2660,10 +2799,10 @@
     "subindustry": "B2B -> Marketing",
     "tags": [
       "Artificial Intelligence",
-      "Sales",
+      "Video",
       "Marketing",
-      "AI",
-      "AI Assistant"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -2844,7 +2983,7 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 32,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hockeystack",
     "website": "https://hockeystack.com"
@@ -2895,7 +3034,7 @@
     "website": "https://kite.video"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/maintouch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2903,7 +3042,8 @@
     "demo_day_video_public": false,
     "former_names": [
       "Hidden Hand",
-      "Camber"
+      "Camber",
+      "maintouch"
     ],
     "id": 28899,
     "industries": [
@@ -2912,10 +3052,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1690571664,
-    "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
-    "name": "maintouch",
+    "long_description": "We help you turn SEO and AEO into your best growth channel. I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
+    "name": "Maintouch",
     "nonprofit": false,
-    "one_liner": "Scale SEO and AI SEO from one platform.",
+    "one_liner": "Make more $$$ with SEO and AEO",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2930,7 +3070,7 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/maintouch",
     "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile"
@@ -3029,7 +3169,7 @@
     "website": "https://midrender.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/converge.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3088,10 +3228,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1731442233,
-    "long_description": "SEO & GEO is confusing and massively overpriced. RankAI will handle everything autonomously to drive you millions of visitors from Google and AI search like ChatGPT. \r\n\r\nRankAI first identifies search queries your customers already search for, then it builds search-optimized pages to capture millions of these queries. Finally, like a real agency, RankAI will track its results, rethink its strategy, and rewrite pages again and again to improve performance. RankAI does not stop until traffic swarms in.",
+    "long_description": "Websites used to be static billboards, passive and waiting to be found.  \r\n\r\nRankAI helps startups and agencies grow websites on autopilot. It learns from your site, market, competitors, and performance data to identify which pages should exist, creates them in your brand, publishes them directly to your live website, and continuously improves them based on real traffic and conversion — so your website gets discovered, trusted, and converted on by both human and Agents. ",
     "name": "Rankai",
     "nonprofit": false,
-    "one_liner": "AI-Native Agency for Organic Growth (SEO & GEO) ",
+    "one_liner": "RankAI grows your website on autopilot",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3103,19 +3243,19 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rankai",
     "website": "https://rankai.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/smobi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3161,6 +3301,51 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/twine.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29117,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1692063402,
+    "long_description": "Twine helps service businesses turn more leads into booked revenue. We capture every call, text, form, chat, Google, Yelp, and ad lead in one place, then use AI to respond instantly, qualify customers, follow up automatically, book jobs, and show which channels are actually making money.",
+    "name": "Twine",
+    "nonprofit": false,
+    "one_liner": "ai revenue engine for service businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "twine",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e6d9ef44b5a30957092f779906587404458335.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Sales Enablement",
+      "Marketing",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twine",
+    "website": "http://www.usetwine.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/nowadays.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3175,16 +3360,14 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1687830204,
-    "long_description": "Nowadays is an AI copilot that automates the boring parts of planning corporate events and retreats. For example, our AI can contact venues by email and phone to get availability, deal with back-and-forth negotiations, and present the best options. ",
+    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners – it does the work. It emails and calls venues, negotiates rates in 22 languages, parses 50-page hotel proposals into clean apples-to-apples comparisons, and surfaces unmanaged meeting spend across your entire org.\r\n\r\nWe work with companies ranging from ones planning one epic company kickoff a year to ones running thousands of meetings through the platform annually. Clients include Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify.\r\n\r\nUnlike legacy platforms like Cvent that bolted AI onto decades-old infrastructure, Nowadays was built from the ground up for the AI era.",
     "name": "Nowadays",
     "nonprofit": false,
-    "one_liner": "AI co-pilot for corporate retreat and event planning",
+    "one_liner": "AI-native platform for corporate meetings and events",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "nowadays",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
@@ -3199,7 +3382,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nowadays",
     "website": "http://nowadays.ai/"
@@ -3220,10 +3403,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1698787268,
-    "long_description": "ion designs and launches hundreds of on-brand pages for your website, so you close more deals, rank better, and turn your website into a growth engine.\r\n\r\nEvery ad campagin, use case, case study, and competitor comparison gets its own dedicated page, designed to convert.\r\n\r\nIt's like a growth designer working 24/7 to help you convert more traffic.",
+    "long_description": "We're a website platform for Ecommerce brands. ION pairs your website with AI agents that design, launch, and learn from on-brand experiments that increase revenue per visitor.\r\n\r\nBrands that use ION learn and grow faster than if they were using a traditional CRO team. It's like a growth team working 24/7 to help drive and convert more traffic.\r\n\r\nWe're trusted by $1b+ companies and leading Ecommerce brands.",
     "name": "ion design",
     "nonprofit": false,
-    "one_liner": "AI that creates & tests 100s of landing pages for your product",
+    "one_liner": "AI Website platform that grows revenue automatically",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3360,7 +3543,7 @@
     ],
     "slug": "toma",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
@@ -3404,9 +3587,7 @@
     "question_answers": true,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "slug": "justai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166536f94d496e2b50084b3b8edf8b6d9e29040b.png",
@@ -3414,11 +3595,11 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -3472,7 +3653,7 @@
     "website": "https://latted.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/yarn-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3486,26 +3667,26 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1708454742,
-    "long_description": "Yarn uses AI to help founders, salespeople, and marketers make product and sales videos.\r\n\r\nTeams are using Yarn to make sales collateral, launch videos, use-case demos, training guides, and feature updates for Twitter and LinkedIn.\r\n\r\nNo video experience needed and everything looks great out-of-the-box – think Notion, Linear, or Stripe-quality – but branded for your team.\r\n\r\nThe magic really comes from AI (TTS, CV, LLMs) – so you can zip through 5x faster than a Loom.",
+    "long_description": "Yarn is a new kind of video product that lets anyone on your team ship videos: feature launches, custom demos, walkthroughs and explainers, ABM.\r\n\r\nYarn is the first agentic video system that doesn't compromise on quality or ease of use.",
     "name": "Yarn",
     "nonprofit": false,
-    "one_liner": "Make sales and marketing videos with AI.",
+    "one_liner": "Yarn is the video product for agentic GTM teams.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "yarn-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecaa1199b6d124b85c33c51f6a249e1fff1b0f96.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Video",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -3598,10 +3779,54 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/apten",
     "website": "https://www.apten.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/videogen.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29644,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1725431613,
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Sora, Veo, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
+    "name": "VideoGen",
+    "nonprofit": false,
+    "one_liner": "Create professional videos in minutes with AI, online or via API",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "videogen",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "eLearning",
+      "Video",
+      "API",
+      "Marketing",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/videogen",
+    "website": "https://videogen.io"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3621,10 +3846,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1717523721,
-    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nThere’s a wealth of data distributed across GA4, GSC, keywords, prompts, ads, and more. This data is incredibly rich, but fragmented and complicated to understand.\r\n\r\nGauge unifies all of these data sources into a single agent that can do the work of an entire marketing team.\r\n",
+    "long_description": "Agents are leading the next wave of growth for companies like Supabase, Openrouter, Resend, PostHog, Braintrust, and more.\r\n\r\nUnlike chat experiences, Claude Code, Codex, and Cursor are now implementing products autonomously. They are doing so without ever talking to a sales rep or taking a demo.\r\n\r\nGauge runs real chats and coding sessions to help your product get recommended and implemented by AI.",
     "name": "Gauge",
     "nonprofit": false,
-    "one_liner": "Your marketing agent for organic, paid, and AI search.",
+    "one_liner": "Gauge helps you get recommended and implemented by AI.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3636,66 +3861,17 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/gauge",
-    "website": "https://withgauge.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stormy-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "1nterface.ai",
-      "stormy.ai",
-      "Stormy AI – Autonomous marketing agent",
-      "Stormy AI – Vibe marketing agent"
-    ],
-    "id": 29697,
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1723238839,
-    "long_description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t•\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t•\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t•\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building—Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
-    "name": "Stormy AI",
-    "nonprofit": false,
-    "one_liner": "Al platform that makes social marketing as easy as running a Google…",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "stormy-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Marketing",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/stormy-ai",
-    "website": "https://stormy.ai"
+    "url": "https://www.ycombinator.com/companies/gauge",
+    "website": "https://withgauge.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3818,11 +3994,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Marketing",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -3863,9 +4039,9 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "Sales",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -3874,7 +4050,7 @@
     "website": "https://unusual.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/bezel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3916,7 +4092,7 @@
     "website": "https://www.trybezel.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Seoul, Seoul, South Korea",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cuckoo-labs.json",
     "app_answers": null,
     "app_video_public": true,
@@ -3936,7 +4112,8 @@
     "one_liner": "Real-time AI translator for global sales and marketing",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "South Korea",
+      "East Asia"
     ],
     "slug": "cuckoo-labs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
@@ -3971,7 +4148,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1738308751,
-    "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
+    "long_description": "Wildcard is the full-stack AEO & GEO platform for ecommerce and retail brands. We audit and action on how you show up across across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, Amazon Rufus/Alexa, and Walmart Sparky. We build the roadmap to close the gaps, and create the content that gets you recommended.\r\n\r\nMost tools stop at a visibility score. We do the work, and are built for ecommerce brands and retailers, not SaaS. Brands using Wildcard now show up first in AI answers where they used to be invisible.\r\n\r\nWildcard is building the command center for agentic commerce, everything brands need to serve a new type of shopper: AI agents; including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
     "name": "Wildcard",
     "nonprofit": false,
     "one_liner": "AEO/GEO for E-Commerce and Retail",
@@ -3993,7 +4170,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 0,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wildcard",
     "website": "https://wild-card.ai"
@@ -4016,10 +4193,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1748129784,
-    "long_description": "Using our 6+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+    "long_description": "Using our 6+ years of creator marketing experience to help companies run their creator campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
     "name": "Beluga",
     "nonprofit": false,
-    "one_liner": "Influencer marketing that converts",
+    "one_liner": "Creator marketing that scales like paid ads",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4033,10 +4210,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "Marketing",
       "Advertising",
-      "Creator Economy"
+      "Creator Economy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -4045,7 +4222,7 @@
     "website": "https://www.trybeluga.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "ZH, Switzerland",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4065,14 +4242,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1747978633,
-    "long_description": "You only need two tools to build a business in 2026 - Cursor for building and Clarm for sales, distribution, and support. Our AI captures inbound, qualifies buyer intent, and routes revenue across every channel while you build.",
+    "long_description": "Clarm Atlas 10xes productivity for non-technical operators in high-trust, regulated teams - banks, healthcare, insurance, publicly listed companies - by letting them build their own, fully governed AI agents. Teams build agents on their own approved data: every answer cites its source, all primitives are deterministic and highly governable, every action is logged for audit, and you bring your own AI model.",
     "name": "Clarm",
     "nonprofit": false,
-    "one_liner": "Capture inbound revenue whilst you build",
+    "one_liner": "Build governed AI agents on your own data, without code",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Switzerland",
+      "Europe"
     ],
     "slug": "clarm",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
@@ -4081,10 +4258,10 @@
     "subindustry": "B2B -> Productivity",
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "Sales",
       "Marketing",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -4108,7 +4285,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1753141974,
-    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 110,000 users, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
+    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 170,000 users as of July '26, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
     "name": "Golpo",
     "nonprofit": false,
     "one_liner": "Create Whiteboard Explainer Videos with AI from a Prompt or Document",
@@ -4130,7 +4307,7 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/golpo",
     "website": "https://video.golpoai.com/"
@@ -4156,10 +4333,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754166755,
-    "long_description": "Ensuring every approved drug reaches patients who need it.\r\n\r\nAuditable AI to satisfy regulators and payors 10x faster. We Synthesize fragmented pharma and device data to prove safety, optimize market access, and anticipate regulatory response.\r\n\r\nMembers of our team worked in software engineering at Apple and AI at NVIDIA, helped start a large-cap pharma clinical trial, and trained at Harvard Medical School.\r\n\r\n",
+    "long_description": "Datasets and environments to help healthcare agents succeed at complex tasks.",
     "name": "Theora",
     "nonprofit": false,
-    "one_liner": "OpenEvidence for Pharmaceutical Evidence",
+    "one_liner": "Building medical school for AI Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4194,7 +4371,7 @@
       "Marketing"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1752263741,
     "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
     "name": "Motives",
@@ -4211,10 +4388,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "team_size": null,
@@ -4223,7 +4400,7 @@
     "website": "https://motives.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/geo-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4283,7 +4460,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760555997,
-    "long_description": "Lapis gives businesses the ability to generate on-brand advertising creatives using AI, and run end-end ads on ChatGPT. It uses existing assets like logos, colors, fonts, and product images, and automatically creates image ads that match a company's visual identity and voice across ChatGPT, Meta, and Google.\r\n\r\nWith Lapis, businesses can rapidly iterate on creatives and A/B test at scale without being bottlenecked by design and creative capacity.\r\n\r\nLapis is used by 1,000+ marketing teams, from big businesses like Hyundai and Tata to small businesses around the world, and supports 15+ languages including English, Spanish, and Italian.",
+    "long_description": "Lapis builds, launches, and scales paid ad campaigns for DTC and SaaS businesses.\r\n\r\nLapis agents handle every step of the paid ads journey: writing ad copy (headlines and descriptions), generating the static images used in ads, deploying campaigns across paid channels, creating a custom landing page for each ad, and feeding real user interaction data back into a self-improving ads engine that gets better every day.\r\n\r\nWith Lapis, businesses can rapidly iterate on ads and A/B test at scale, free from the human design and creative bottlenecks that slow teams down. Using Lapis, companies can quantitatively improve their paid ads performance by up to 20x.\r\n\r\nLapis is used by 1,500+ marketing teams and 30+ enterprises, from Fortune 500 businesses to fast growing DTC businesses, and supports 10 languages including English, Spanish, and Italian.",
     "name": "Lapis",
     "nonprofit": false,
     "one_liner": "AI that creates and runs ads, end-end",
@@ -4293,7 +4470,7 @@
       "America / Canada"
     ],
     "slug": "lapis",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c3bc6a804835cf4e60592673af66342d45aa417.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9bacd59e8691b297a03e4d95b6d05915aa8b7f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -4305,10 +4482,59 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lapis",
     "website": "https://www.trylapis.com/"
+  },
+  {
+    "all_locations": "Austin, TX, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Pando Technologies",
+      "Tellif",
+      "Tellif AI",
+      "Tell if AI",
+      "Land.dev"
+    ],
+    "id": 30873,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1760060442,
+    "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+    "name": "Tell if AI",
+    "nonprofit": false,
+    "one_liner": "AI agents on real phones, growing brands across every platform.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tell-if-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Artificial Intelligence",
+      "Telehealth",
+      "Social Media",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "website": "https://tellif.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4336,15 +4562,15 @@
       "America / Canada"
     ],
     "slug": "imagine-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/970910171a94d4462949dcdc9bf32a46422e39bc.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -4353,7 +4579,7 @@
     "website": "https://imagineai.me"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/absurd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4370,10 +4596,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760446134,
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
+    "long_description": "Absurd is an online whiteboard for filmmakers working with AI.\r\n\r\nWe use it for our own work: our Kalshi spot \"Election Day\" did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nTry it at absurd.com",
     "name": "Absurd",
     "nonprofit": false,
-    "one_liner": "AI Videos",
+    "one_liner": "The Creative OS for AI video",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4441,90 +4667,93 @@
     "website": "https://www.getbluma.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pavoot.json",
+    "all_locations": "BY, Germany",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Winter 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Pavoot (formerly capturecore)"
+      "pulse",
+      "sitefire",
+      "itefire"
     ],
-    "id": 31398,
+    "id": 31203,
     "industries": [
       "B2B",
       "Marketing"
     ],
     "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1778084784,
-    "long_description": "Pavoot is an AI agent for events that helps marketing and sales teams source the right attendees, personalize each guest’s experience, and turn events into pipeline.\r\n\r\nCompanies spend millions on events because relationships drive revenue. Yet most interactions are never captured, event experiences remain generic, and standard follow-ups fail to convert high-potential attendees.\r\n\r\nBefore the event, Pavoot identifies the attendee profiles most likely to convert and sends personalized invitations. During the event, it helps create relevant introductions and capture important conversations. After the event, it identifies top leads, generates personalized follow-ups, and syncs engagement back into the CRM.\r\n\r\n===\r\n\r\nPavoot turns events into personalized customer journeys. Book a demo: pavoot.com",
-    "name": "Pavoot",
+    "isHiring": true,
+    "launched_at": 1770178936,
+    "long_description": "Sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). Sitefire identifies which content drives AI visibility, and automatically creates it. The teams using Sitefire execute on-page and off-page actions to deliver measurable top-line growth.",
+    "name": "Sitefire",
     "nonprofit": false,
-    "one_liner": "AI that turns events into pipeline",
+    "one_liner": "Marketing suite for the agentic web",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
-    "slug": "pavoot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
+    "slug": "sitefire",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Sales",
+      "Analytics",
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pavoot",
-    "website": "https://pavoot.com"
+    "url": "https://www.ycombinator.com/companies/sitefire",
+    "website": "https://sitefire.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json",
     "app_answers": null,
-    "app_video_public": true,
-    "batch": "Spring 2026",
+    "app_video_public": false,
+    "batch": "Winter 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31407,
+    "former_names": [
+      "Veriad",
+      "Supafax"
+    ],
+    "id": 31263,
     "industries": [
       "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1774901696,
-    "long_description": "Sherpa automatically increases website conversion rates by analyzing visitor behavior, building new page variants, and continuously A/B testing them. Customers typically see a 15-20% lift on their primary conversion metric in their first 30 days.",
-    "name": "Sherpa",
+    "launched_at": 1767420715,
+    "long_description": "Veriad is building marketing agents for enterprises.",
+    "name": "Veriad",
     "nonprofit": false,
-    "one_liner": "Turn more website visitors into customers",
-    "question_answers": true,
+    "one_liner": "Enterprise marketing agents",
+    "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
-    "slug": "sherpa",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
+    "slug": "veriad",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a84742c8558c6378997c9b19b54dd6ad334ce0c.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
       "B2B",
       "Marketing",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sherpa",
-    "website": "https://www.withsherpa.ai/"
+    "url": "https://www.ycombinator.com/companies/veriad",
+    "website": "https://veriad.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4542,7 +4771,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1778187883,
-    "long_description": "InstaAgent helps consumer brands scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M ARR in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
+    "long_description": "InstaAgent helps B2C companies scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M Ann. Run Rate in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
     "name": "InstaAgent",
     "nonprofit": false,
     "one_liner": "Scale marketing campaigns across hundreds of personas",
@@ -4557,78 +4786,35 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Generative AI",
-      "B2B",
-      "Social Media",
-      "Marketing"
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/instaagent",
     "website": "https://instaagent.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/auxos.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31510,
+    "id": 31463,
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1778707730,
-    "long_description": "Auxos creates simulated audiences for marketing, product, and research teams to test their hypotheses at scale. We build custom audiences for each company to validate product, pricing, and positioning decisions before going live.\r\n\r\nCurrently, customer research is slow and expensive. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos can get you population scale insights in minutes, at a fraction of the current cost.",
-    "name": "Auxos",
+    "launched_at": 1778126369,
+    "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+    "name": "Armature",
     "nonprofit": false,
-    "one_liner": "Simulated audiences for customer research",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "auxos",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "B2B",
-      "Marketing",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/auxos",
-    "website": "https://www.useauxos.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31513,
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1778455015,
-    "long_description": "Marketers today don’t actually do much marketing at all.\r\n\r\nToday, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. \r\n\r\nCharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour.\r\n\r\nCustomers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns.\r\n\r\nTeams like 1upHealth, ABC Fitness, and Emplifi use us to:\r\n\r\n1-) Build segments/audiences faster\r\n2-) Create on-brand creative (AI is terrible at staying on-brand)\r\n3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. \r\n\r\nWe replicate your brand guidelines, deeply understand past campaigns, and work inside your systems.\r\n\r\nIf you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.\r\n",
-    "name": "CharacterQuilt",
-    "nonprofit": false,
-    "one_liner": "AI infrastructure for marketers. Ship campaigns in your tools in an…",
+    "one_liner": "We get your product picked by coding agents.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4636,61 +4822,148 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "characterquilt",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35883346a2e401f4b3b0ca990dda1b700900858b.png",
+    "slug": "armature",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "B2B",
       "Marketing",
-      "AI"
+      "SEO",
+      "AI",
+      "APIs"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/characterquilt",
-    "website": "https://characterquilt.com"
+    "url": "https://www.ycombinator.com/companies/armature",
+    "website": "https://armature.tech"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lemonlime.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31527,
+    "id": 32171,
     "industries": [
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1776869663,
-    "long_description": "Revnu is a growth team for founders addicted to building. \r\n\r\nPoint us at your product and autonomous agents start running your SEO, ads, cold outreach, A/B tests and more. All sharing a single intelligence layer, so every channel makes the others smarter. \r\n\r\nYou keep shipping. We run the business.",
-    "name": "Revnu",
+    "isHiring": true,
+    "launched_at": 1783367890,
+    "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
+    "name": "LemonLime",
     "nonprofit": false,
-    "one_liner": "Everything but the app itself",
+    "one_liner": "Fully automated GTM for small business",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "revnu",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "slug": "lemonlime",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Developer Tools",
+      "SaaS",
+      "Sales",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lemonlime",
+    "website": "https://www.lemonlime.com/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trynearby.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32815,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786488480,
+    "long_description": "TryNearby connects local businesses with creators who live nearby. Restaurants subscribe monthly and automatically get booked visits from local creators who film, edit, and post a review to the local algorithm. This creates a steady stream of content that compounds into discovery on TikTok, Instagram, and increasingly AI search. Over 100 restaurants and thousands of creators are on the platform across Southern California, with AI agents handling matching, booking, and every creator conversation.",
+    "name": "TryNearby",
+    "nonprofit": false,
+    "one_liner": "Local creators for local businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "trynearby",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/043d0df2ce658d03b7ad1d70bb0deaa3f2282ea5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Restaurant Tech",
+      "Marketing",
+      "Creator Economy",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/trynearby",
+    "website": "https://trynearby.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/frontrunner.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37273,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788967219,
+    "long_description": "Build agents that research accounts, find prospects, run campaigns, update your CRM, qualify inbound, and more. Connect them to the systems you already use and let them work alongside your GTM team.\r\n\r\nEngineer your revenue factory on Frontrunner. ",
+    "name": "Frontrunner",
+    "nonprofit": false,
+    "one_liner": "Cursor for GTM",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "frontrunner",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9d85abe63d98ee4de2bf8d852d5f9cf4ad82e21.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
       "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/revnu",
-    "website": "https://revnu.com"
+    "url": "https://www.ycombinator.com/companies/frontrunner",
+    "website": "https://usefr.com/"
   }
 ]

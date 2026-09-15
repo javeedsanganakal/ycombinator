@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Virginia Beach, VA, USA",
+    "all_locations": "Charlotte, NC, USA; Virginia Beach, VA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/7cups.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39,7 +39,7 @@
     "website": "http://7cups.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/in-your-corner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -82,7 +82,7 @@
     "website": "http://inyourcorneronline.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/wakie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -183,7 +183,7 @@
     "long_description": "Airo Health is a fast growing Y Combinator-funded company building a next generation armband that has changed people think about their health. We are a multidisciplinary team that brings together expertise in biomedical engineering, user experience, artificial intelligence, software engineering, hardware engineering, and manufacturing.\r\n\r\nMental Health, an issue often neglected, directly affects your overall health, quality of life, and productivity. Airo is your companion through the stressful times. It sits on your arm and automatically tracks when you’re getting anxious and recommends easy tweaks that reduce stress.",
     "name": "Airo Health",
     "nonprofit": false,
-    "one_liner": "Airo is an AI to passively track and manage your mental health. ",
+    "one_liner": "Airo is an AI wearable to track mental health.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -196,7 +196,10 @@
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "tags": [
       "Artificial Intelligence",
-      "Mental Health Tech"
+      "Hard Tech",
+      "Hardware",
+      "Mental Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -295,7 +298,7 @@
     "website": "https://www.bloomtext.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Boston, MA, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/modern-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -381,7 +384,7 @@
     "website": "https://www.psylaris.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Helsinki, Finland",
+    "all_locations": "San Francisco, CA, USA; Helsinki, Finland",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/meru-health.json",
     "app_answers": true,
     "app_video_public": true,
@@ -519,7 +522,7 @@
     "website": "https://getstoic.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/ophelia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -556,7 +559,7 @@
       "Telemedicine"
     ],
     "tags_highlighted": [],
-    "team_size": 130,
+    "team_size": 250,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ophelia",
     "website": "https://ophelia.com"
@@ -776,7 +779,7 @@
     "website": "https://www.terapify.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/camber-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -813,7 +816,7 @@
       "Health Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 85,
+    "team_size": 101,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/camber-2",
     "website": "https://www.camber.health/"
@@ -870,7 +873,8 @@
     "batch": "Summer 2021",
     "demo_day_video_public": false,
     "former_names": [
-      "Reframe"
+      "Reframe",
+      "Reframe (Glucobit)"
     ],
     "id": 23832,
     "industries": [
@@ -881,7 +885,7 @@
     "isHiring": true,
     "launched_at": 1624239750,
     "long_description": "Reframe is the leading app to help people cut back on drinking. Reframe uses neuroscience & psychology to help people shift the way they think about drinking & help build great habits. We don't believe in stigma or restrictions. In the past 12 months, Reframe has had over 2M+ users and has helped more people cut back on alcohol use than any other org worldwide.",
-    "name": "Reframe (Glucobit)",
+    "name": "Reframe",
     "nonprofit": false,
     "one_liner": "App to help people quit or cut back on alcohol use",
     "question_answers": false,
@@ -906,54 +910,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reframe",
     "website": "https://www.joinreframeapp.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/mindstate-design-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Kykeon Biotechnologies Inc.",
-      "Kykeon Biotechnologies"
-    ],
-    "id": 23951,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1629815779,
-    "long_description": "We're making every therapeutically valuable emotion available on demand in pharmaceutical form.\r\n\r\nOur Osmanthus platform is an ensemble of AI models that synthesize the world’s largest datasets of psychoactive pharmacology and phenomenology, quantitatively pinpointing the combination of neurotransmitter receptor activity that underlies various emotional as well as cognitive and perceptual states.\r\n\r\nOur lead program MSD-001 is designed to be rapid-acting and produce heightened emotional and cognitive flexibility without hallucinations. MSD-001 is currently in human trials, and will be the base ingredient for multiple drug combination \"emotions in a bottle\" such as empathy, awe, clarity, or beauty.",
-    "name": "Mindstate Design Labs",
-    "nonprofit": false,
-    "one_liner": "Clinical-stage AI neuroengineering platform",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "mindstate-design-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3509dac4b76d442f8f0aa79c2bda0b827e78798.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "Machine Learning",
-      "Mental Health Tech",
-      "Biotech",
-      "Therapeutics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mindstate-design-labs",
-    "website": "http://mindstate.design"
   },
   {
     "all_locations": "Dubai, Dubai, United Arab Emirates; Remote",
@@ -1220,7 +1176,7 @@
     "website": "https://www.veranohealth.org/"
   },
   {
-    "all_locations": "Bogotá, Bogota, Colombia; Bogotá, Bogotá, Colombia",
+    "all_locations": "Miami, FL, USA; Bogotá, Bogotá, Colombia",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/selia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1243,7 +1199,9 @@
     "one_liner": "Selia is an online platform connecting individuals with top-quality…",
     "question_answers": false,
     "regions": [
+      "United States of America",
       "Colombia",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -1266,7 +1224,7 @@
     "website": "https://www.selia.co"
   },
   {
-    "all_locations": "Cambridge, MA, USA; Mexico City, CDMX, Mexico",
+    "all_locations": "Mexico City, CDMX, Mexico",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/actipulse-neuroscience.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1287,9 +1245,7 @@
     "one_liner": "Bringing non-invasive brain stimulation from the hospital to the home",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "Mexico",
-      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -1417,7 +1373,7 @@
       "Consumer Health and Wellness"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1642039829,
     "long_description": "Joon is an integrated pediatric digital health platform for kids, starting with behavior disorders like ADHD, autism, anxiety, and depression. In Joon, kids access a game-based digital therapeutic where they level up when they do real-life behaviors that are managed by parents and clinicians. \r\n\r\nOver the next 10 years, we plan on being the first-line vertically integrated digital treatment for pediatric behavior disorders, leveraging the first of its kind technology to drive behavior change.",
     "name": "Joon Health",
@@ -1536,7 +1492,7 @@
     "website": "https://www.joinrelay.app"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/overlord.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1583,7 +1539,7 @@
     "website": "https://www.overlord.app/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA",
+    "all_locations": "Philadelphia, PA, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/orchid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1625,93 +1581,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/orchid",
     "website": "https://orchid.health"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31326,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1778267831,
-    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 6,000 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
-    "name": "Klarify",
-    "nonprofit": false,
-    "one_liner": "AI Agent for Therapists",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "klarify",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Artificial Intelligence",
-      "Mental Health Tech",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/klarify",
-    "website": "https://www.klarify.ca/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31485,
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "industry": "Consumer",
-    "isHiring": true,
-    "launched_at": 1777953945,
-    "long_description": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-    "name": "ANORIA",
-    "nonprofit": false,
-    "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "anoria",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da4a14a3baf739d13d28c4b5fd536756215a6801.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Mental Health Tech",
-      "Consumer Health Services",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/anoria",
-    "website": "https://www.anoria.com"
   }
 ]

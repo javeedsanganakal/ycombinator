@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Foster City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Foster City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/notable-labs.json",
     "app_answers": false,
     "app_video_public": false,
@@ -90,7 +90,7 @@
     "website": "https://www.numerionlabs.ai"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/synvivia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -260,7 +260,7 @@
     "website": "http://www.encepheal.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/gen1e-lifesciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -394,7 +394,7 @@
     "website": "https://www.sequencebio.com/"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/abalone-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -481,7 +481,7 @@
     "website": "https://www.generalproximity.bio/"
   },
   {
-    "all_locations": "San Carlos, CA, USA; South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/altay-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -523,6 +523,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/altay-therapeutics",
     "website": "http://www.altaytherapeutics.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/algen-biotechnologies.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2020",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Algen Biotechnologies",
+      "Inc."
+    ],
+    "id": 13705,
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1759774411,
+    "long_description": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
+    "name": "Algen Biotechnologies",
+    "nonprofit": false,
+    "one_liner": "Using CRISPR to find treatments for cancer and inflammation",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "algen-biotechnologies",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "tags": [
+      "CRISPR",
+      "Biotech",
+      "Therapeutics",
+      "Drug discovery",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/algen-biotechnologies",
+    "website": "https://www.algenbio.com/"
   },
   {
     "all_locations": "Ontario, CA, USA; Remote",
@@ -642,7 +688,7 @@
     "slug": "forcyte-biotechnologies",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7b684971715c34dcf43972f00b40675ec273846.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
       "Drug discovery"
@@ -697,7 +743,7 @@
     "website": "https://www.talus.bio"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/harmonic-discovery.json",
     "app_answers": null,
     "app_video_public": false,
@@ -741,7 +787,7 @@
     "website": "http://harmonicdiscovery.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/engage-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -756,7 +802,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1647555290,
-    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n\r\nEngage’s Tethosome platform solves the two key hurdles that have held back the field of non-viral DNA: potency and toxicity. Using proven LNP technology, we deliver a therapeutic DNA and an mRNA encoding our proprietary Tethosome protein. This protein localizes DNA to the nucleus, increasing expression by over 100-fold. Critically, our Tethosome platform is invisible to immune sensors which detect foreign DNA and which can cause lethal immune reactions. This allows us to safely deliver potent DNA, re-dose when needed, and titrate expression to optimal levels.",
+    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n \r\nIn 2026 Engage was acquired by Eli Lilly.",
     "name": "Engage Bio",
     "nonprofit": false,
     "one_liner": "Potent, durable, and redosable non-viral genetic medicines",
@@ -768,7 +814,7 @@
     "slug": "engage-bio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95b5dd7ee1a5f617dc0a83136e30199f883050a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Healthcare -> Therapeutics",
     "tags": [
       "Synthetic Biology",
@@ -784,7 +830,7 @@
     "website": "http://engagebio.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/flowdeploy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1091,7 +1137,7 @@
     "website": "https://invitris.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/acx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1315,7 +1361,7 @@
     "website": "https://www.angstrom-ai.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Philadelphia, PA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/biocartesian.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1342,7 +1388,7 @@
       "America / Canada"
     ],
     "slug": "biocartesian",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/829faf276e5fc759cb0c8e72860cd6cdab552050.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91093b7c8dbe1ed84a73aa4907b878fc5b0f52bf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -1405,45 +1451,45 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atlas-discovery.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30970,
+    "former_names": [
+      "Rhizome Bio"
+    ],
+    "id": 31532,
     "industries": [
       "Healthcare",
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
     "isHiring": false,
-    "launched_at": 1762663893,
-    "long_description": "What if you could train a biological foundation model on... the entire internet?\r\n\r\nExonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets.\r\n\r\nOur first application is the design of safer gene therapies.\r\n\r\nIn 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco.\r\n\r\nSo far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.\r\n",
-    "name": "Exonic",
+    "launched_at": 1782247231,
+    "long_description": "",
+    "name": "Atlas Discovery",
     "nonprofit": false,
-    "one_liner": "Unsupervised Biological AI",
+    "one_liner": "AI-native pharma company",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "exonic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144f0914ccf312aeee94512a8dc4a6cf9502f07e.png",
+    "slug": "atlas-discovery",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e6c174c3a8e56844bf81efbc8b8532b4e509f73.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Synthetic Biology",
+      "AI-powered Drug Discovery",
       "Drug discovery",
       "Biotechnology"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/exonic",
-    "website": "https://exonic.ai"
+    "url": "https://www.ycombinator.com/companies/atlas-discovery",
+    "website": "https://atlasdiscovery.bio"
   }
 ]

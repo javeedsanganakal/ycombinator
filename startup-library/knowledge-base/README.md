@@ -19,6 +19,7 @@ Last reviewed: 2026-09-14.
 | [Finance, fundraising, and legal](finance-fundraising-and-legal.md) | Which official sources should guide runway, records, fundraising instruments, securities, contracts, and equity data? |
 | [Hiring and operations](hiring-and-operations.md) | How should early teams define roles, hire fairly, classify workers, document decisions, and operate reliably? |
 | [Canonical playbooks and standards](standards-and-playbooks.md) | Which durable primary sources should be checked before relying on blogs, social posts, or generic advice? |
+| [Stanford and Y Combinator](stanford-and-yc.md) | Which Stanford and YC courses, lectures, tools, company data, and primary resources apply to the current startup decision? |
 
 ## How to use an entry
 

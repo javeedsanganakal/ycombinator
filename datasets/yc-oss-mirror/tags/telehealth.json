@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/in-your-corner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -88,7 +88,7 @@
     "website": "https://spirehealth.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/athelas.json",
     "app_answers": null,
     "app_video_public": false,
@@ -132,7 +132,7 @@
     "website": "http://athelas.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/blueberry-pediatrics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -214,7 +214,7 @@
     "slug": "dear-brightly",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c32d165d91cfa6f986d3b77764a91c313b23744b.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "tags": [
       "Telehealth"
@@ -362,6 +362,47 @@
     "website": "http://www.bravecare.com"
   },
   {
+    "all_locations": "Charleston, SC, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/ringmd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2020",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 21792,
+    "industries": [
+      "Government"
+    ],
+    "industry": "Government",
+    "isHiring": false,
+    "launched_at": 1599762607,
+    "long_description": "We partner with healthcare groups and governments to implement enterprise telemedicine as a service.  ",
+    "name": "RingMD",
+    "nonprofit": false,
+    "one_liner": "We work with governments to implement telemedicine programs.  ",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ringmd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5b54658f5442de91f1200c526663ccf9721ace.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Government",
+    "tags": [
+      "Telehealth",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "team_size": 32,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ringmd",
+    "website": "https://www.ring.md"
+  },
+  {
     "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/jeevam-health.json",
     "app_answers": null,
@@ -457,7 +498,7 @@
     "website": "http://www.synapticure.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gradia-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -681,7 +722,7 @@
     "website": "https://www.ourhivehealth.com"
   },
   {
-    "all_locations": "London, United Kingdom; San Francisco, CA, USA; Remote",
+    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -731,7 +772,7 @@
     "website": "https://www.trymable.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Los Angeles, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Los Angeles, CA, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/ruth-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -863,7 +904,7 @@
     "website": "https://medervahealth.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Houston, TX, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/ankr-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -936,13 +977,14 @@
       "Partly Remote"
     ],
     "slug": "clinikally",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1ffef7173b4db71617ba49d813425dd45a1df6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/968a00fcee89cbca494f2021b1f408abac81e1b2.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "tags": [
       "Consumer Health Services",
       "Telehealth",
+      "Consumer",
       "Digital Health",
       "E-commerce"
     ],
@@ -1060,9 +1102,9 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1675703099,
-    "long_description": "Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung disease. Kivo's AI powered virtual care programs help health plans reduce costs by keeping members healthy and out of the hospital.",
+    "long_description": "Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung care. We keep people out of the hospital and save payers $8k+ on average per patient. We work with major health systems like Stanford, UCLA and Optum Health. We just raised our $10M Series A and are growing quickly.",
     "name": "Kivo Health",
     "nonprofit": false,
     "one_liner": "AI-powered care for seniors with chronic disease",
@@ -1075,7 +1117,7 @@
     ],
     "slug": "kivo-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee15c21c618dfd0aa1cbb6bb3be671ac26a2be94.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
     "tags": [
@@ -1085,7 +1127,7 @@
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kivo-health",
     "website": "https://kivohealth.com"
@@ -1215,7 +1257,7 @@
     ],
     "slug": "lucis",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7c86075dc463745a297d1580339e2396abc55ba.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "tags": [
@@ -1231,47 +1273,94 @@
     "website": "https://www.lucis.life"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json",
+    "all_locations": "Austin, TX, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "Clara Health"
+      "Pando Technologies",
+      "Tellif",
+      "Tellif AI",
+      "Tell if AI",
+      "Land.dev"
     ],
-    "id": 31063,
+    "id": 30873,
     "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
+      "B2B",
+      "Marketing"
     ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1774031425,
-    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
-    "name": "Clara",
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1760060442,
+    "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+    "name": "Tell if AI",
     "nonprofit": false,
-    "one_liner": "AI primary care doctor",
+    "one_liner": "AI agents on real phones, growing brands across every platform.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "clara-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "slug": "tell-if-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "Telehealth",
-      "Healthcare",
-      "Telemedicine",
-      "AI"
+      "Social Media",
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/clara-2",
-    "website": "http://askclara.com"
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "website": "https://tellif.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ronan Rx Inc."
+    ],
+    "id": 32979,
+    "industries": [
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1784908687,
+    "long_description": "RonanRX is a full-stack pharmaceutical company, starting with personalized peptides and GLP-1s.\r\n\r\nIn our first 10 weeks, we went from having no pharmacy to being licensed in 33 states. Since launch, we’ve grown 50% week over week.\r\n\r\nWe manufacture the medications ourselves, sell directly to patients, and eliminate the layers of middlemen that make prescription drugs more expensive.\r\n\r\nWhat makes this possible is AI.\r\n\r\nTraditional pharmaceutical companies are built to manufacture one drug for millions of people. RonanRX is purpose-built to personalize treatment for each patient: different biology, different response, different dose.\r\n\r\nPatients come directly to RonanRX or through doctors using our platform. Every patient completes our medical intake, meets with a licensed doctor through our telehealth platform, and receives a personalized prescription when appropriate. From there, we manufacture the medication ourselves and deliver it directly to the patient.\r\n\r\nLabs, wearables, medical history, treatment response, and other health data feed back into the platform so doctors can continuously refine treatment over time.\r\n\r\nBefore AI, doing this for every patient at scale was impossible.\r\n\r\nWe didn't invent the demand we are seeing. 80 Million people are on a GLP-1 and millions more are using Peptides. We're building a better way to manufacture, personalize, prescribe, and deliver them.\r\n\r\nOur founders have built and exited multiple companies, raised more than $100M, built a $50M U.S. medical manufacturing business, and spent years developing peptide therapeutics at companies including Eli Lilly and AbbVie.\r\n\r\nWe’re just getting started with peptides and GLP-1s. Next comes hormone therapy and the rest of personalized medicine.",
+    "name": "RonanRx Inc.",
+    "nonprofit": false,
+    "one_liner": "Full Stack Pharmaceutical Company for Personalized Peptides and GLP-1s",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ronanrx-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce1dcec626f9c7fdc1ea66f4d7850c7a32015773.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare",
+    "tags": [
+      "Health Tech",
+      "Telehealth",
+      "Therapeutics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ronanrx-inc",
+    "website": "https://ronanrx.com/"
   }
 ]

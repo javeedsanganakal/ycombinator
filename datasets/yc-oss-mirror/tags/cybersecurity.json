@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/cyberfend.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40,7 +40,7 @@
     "website": "http://cyberfend.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/thinair.json",
     "app_answers": null,
     "app_video_public": false,
@@ -119,7 +119,7 @@
     "website": "http://cymmetria.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/traversal-networks.json",
     "app_answers": null,
     "app_video_public": false,
@@ -158,7 +158,7 @@
     "website": "http://traversalnetworks.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "New York City, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/salt-security.json",
     "app_answers": null,
     "app_video_public": false,
@@ -408,7 +408,52 @@
     "website": "http://sublimeblack.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/trm-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2019",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 12608,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1556572947,
+    "long_description": "TRM is on a mission to build a safer world for billions of people. \r\n\r\nAI is extending the capability gap between attackers and defenders. The fundamental unit of scale has shifted from humans to AI tokens. \r\n\r\nTRM combines proprietary data, with an AI investigations platform to build a system of action for crime fighters. Think Claude CoWork for mission critical investigations. \r\n\r\nWe believe AI scale crime deserves AI scale defense. \r\n\r\nJoin our mission ➔ www.trmlabs.com/careers",
+    "name": "TRM Labs",
+    "nonprofit": false,
+    "one_liner": "TRM is building a safer world for billions of people.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "trm-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19aa5130e3a0a349d200e7510f0c2fe8439a646f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "GovTech",
+      "Cybersecurity",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 400,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/trm-labs",
+    "website": "https://trmlabs.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/skypher.json",
     "app_answers": null,
     "app_video_public": false,
@@ -484,7 +529,7 @@
     ],
     "slug": "formal",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66941efea1bbb96c0037b8eb01cd10d72092895c.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
@@ -582,7 +627,7 @@
     "website": "https://www.stacksi.com"
   },
   {
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/tarsal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -666,6 +711,7 @@
     "tags": [
       "Privacy",
       "Cybersecurity",
+      "Defense",
       "AI"
     ],
     "tags_highlighted": [],
@@ -720,50 +766,7 @@
     "website": "https://www.telivy.com"
   },
   {
-    "all_locations": "New York City, NY, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/splendor.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Uptick",
-      "Fortuna Genomics"
-    ],
-    "id": 26015,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1711477333,
-    "long_description": "Splendor provides year-round security coverage for startups that aren't ready to hire a CISO. Start with continuous embedded code review and exploit research, or scale to get a fractional security function covering board reporting, security roadmaps, and enterprise procurement reviews.",
-    "name": "Splendor",
-    "nonprofit": false,
-    "one_liner": "The security firm for startups.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "splendor",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/splendor",
-    "website": "https://withsplendor.com"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/overwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -851,7 +854,7 @@
     "website": "https://www.matano.dev"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/credal-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -940,7 +943,7 @@
     "website": "https://www.variance.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/xeol.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1133,10 +1136,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1700644508,
-    "long_description": "CodeAnt AI is the agentic code security platform, combining defense and offense in a single self-learning engine.\r\n\r\nDefense\r\n→ AI Code Review: Cuts code review time down 80%.\r\n→ Code Security: SAST, SCA, Secrets, IaC, SBOM in one scan.\r\n→ Code Quality: Retires SonarQube across 30+ languages.\r\n\r\nOffense\r\n→ AI Pentesting: 500+ exploit agents, 48-hour report. Free unless we find a critical.\r\n\r\nPlus Developer 360: engineering metrics that ship work.\r\n\r\nWorks with GitHub, GitLab, Bitbucket, Azure DevOps. Every IDE, every CI/CD, every language. \r\n\r\nSOC 2 Type II & HIPAA Complaint.",
+    "long_description": "CodeAnt AI attacks your systems the way a real adversary would, then it walks back into your code and helps you build the defenses exactly where the attack got through.\r\n\r\nContinuous attack. Continuous defense. One self-learning platform.\r\n\r\nTrigger a free pentest No engagement fee. Pay only if we find high or critical issues; low and medium issues are free.",
     "name": "CodeAnt AI",
     "nonprofit": false,
-    "one_liner": "Agentic Code Security Platform",
+    "one_liner": "Autonomous offensive and defensive cybersecurity platform",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1242,13 +1245,13 @@
       "Cybersecurity"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zeropath",
     "website": "https://zeropath.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1271,8 +1274,8 @@
     "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1317,10 +1320,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1740017526,
-    "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
+    "long_description": "Candor is agentic data loss prevention (DLP) and insider risk management. Employees share sensitive data with third parties and email source code to personal inboxes every day. For fast-moving companies, protecting these crown jewels and customer trust is core to closing deals. Legacy DLP tools can cross off compliance checkboxes but flood security teams with false positives. Candor's AI agents understand both the data movement and the person behind it, giving lean security teams broad coverage without the noise. ",
     "name": "Candor",
     "nonprofit": false,
-    "one_liner": "Insider Threat for the Modern Enterprise",
+    "one_liner": "Protect your data and stop insider risk",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1385,7 +1388,7 @@
     "website": "https://archon.inc"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/probo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1406,8 +1409,8 @@
     "one_liner": "We help you get compliant while you focus on your business.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1426,7 +1429,7 @@
     "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/probo",
-    "website": "https://www.getprobo.com/"
+    "website": "https://www.probo.com?utm_source=yc-bookface"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1473,7 +1476,7 @@
     "website": "https://cotool.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bitpatrol.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1554,52 +1557,7 @@
     "website": "https://contextfort.ai/"
   },
   {
-    "all_locations": "Boston, MA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Riverbank Labs",
-      "Riverbank",
-      "Riverbank Security"
-    ],
-    "id": 30680,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1754465108,
-    "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
-    "name": "Riverbank",
-    "nonprofit": false,
-    "one_liner": "AI-native Red Teaming and Offensive Security ",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "riverbank",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Artificial Intelligence",
-      "IoT Security",
-      "Cybersecurity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/riverbank",
-    "website": "https://www.riverbank.sh/"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1612,19 +1570,19 @@
       "Security"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1753230986,
-    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
+    "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
     "name": "GhostEye",
     "nonprofit": false,
-    "one_liner": "Vulnerability Management for the Human Layer ",
+    "one_liner": "Your always-on red team.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "ghosteye",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Security",
@@ -1634,7 +1592,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ghosteye",
     "website": "https://ghosteye.ai"
@@ -1697,10 +1655,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1762810607,
-    "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
+    "long_description": "Use AI tools like ChatGPT, Claude, and Gemini safely without leaking sensitive data. LogosGuard redacts your private information before the prompt ever leaves your device.",
     "name": "LogosGuard",
     "nonprofit": false,
-    "one_liner": "The risk management software for enterprises adopting AI",
+    "one_liner": "The sensitive data redaction layer for AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1712,17 +1670,59 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/logosguard",
     "website": "https://logosguard.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/agentic-fabriq.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30906,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1762294029,
+    "long_description": "Agentic Fabriq helps companies securely manage what AI agents can access and do across business tools, data, and teams. We give each agent an identity, scoped permissions, approval flows, and audit logs, so employees and customer-facing workflows can use agents without relying on shared API keys, overbroad service accounts, or one-off integrations.",
+    "name": "Agentic Fabriq",
+    "nonprofit": false,
+    "one_liner": "The control plane for AI agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "agentic-fabriq",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Identity",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "website": "https://www.agenticfabriq.com"
   },
   {
     "all_locations": "Berlin, Berlin, Germany",
@@ -1755,16 +1755,366 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
       "B2B",
+      "Compliance",
       "LegalTech",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/complydo",
     "website": "https://www.complydo.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/antigen.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Claybird",
+      "zag.dev",
+      "Zag"
+    ],
+    "id": 30999,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1759979466,
+    "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
+    "name": "Antigen",
+    "nonprofit": false,
+    "one_liner": "Continuous offensive security for the enterprise.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "antigen",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/antigen",
+    "website": "https://antigen.sh/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trident.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Esprit"
+    ],
+    "id": 31537,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785361922,
+    "long_description": "Trident is the standard for modern day security. its an agentic pentester that chains vulnerabilities together like a real attacker mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs. Run AI attacks and get fixes.\r\n\r\nGet started today: tridentsecurity.io",
+    "name": "Trident",
+    "nonprofit": false,
+    "one_liner": "Autonomous offensive security agents. The best defense is offense",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "trident",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/trident",
+    "website": "https://tridentsecurity.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/nebusec.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Nebula Security"
+    ],
+    "id": 32138,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1783007241,
+    "long_description": "NebuSec is founded by the world’s #1 hacking team.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by NebuSec” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
+    "name": "NebuSec",
+    "nonprofit": false,
+    "one_liner": "Autonomous AI defense system for cyber attack",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "nebusec",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60d9cd12e8c1b315e07ee45555c24b5f74d5654.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/nebusec",
+    "website": "https://nebusec.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32418,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785015608,
+    "long_description": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up.\r\n\r\nTraceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+    "name": "Traceforce",
+    "nonprofit": false,
+    "one_liner": "CrowdStrike for AI Agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "traceforce",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/traceforce",
+    "website": "https://www.traceforce.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/fabraix.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32624,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1783913331,
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes. We built Nyx to automate the work required to red-team AI agents. It is multi modal by design and interacts with the target indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "name": "Fabraix",
+    "nonprofit": false,
+    "one_liner": "The world's frontier hacker of AI agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "fabraix",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/fabraix",
+    "website": "https://fabraix.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/palisade-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33059,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784742432,
+    "long_description": "",
+    "name": "Palisade",
+    "nonprofit": false,
+    "one_liner": "AI that finds and fixes OS-level vulnerabilities across device fleets",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "palisade-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15205df0821b37ecf5cd82136bd682c2cb65c1b2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/palisade-2",
+    "website": "https://palisade-ai.com/"
+  },
+  {
+    "all_locations": "George Town, George Town, Cayman Islands",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/caution.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Caution SEZC"
+    ],
+    "id": 33673,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785719703,
+    "long_description": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin.\r\n\r\nConfidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running.\r\n\r\nWe built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production.\r\n\r\nAs AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
+    "name": "Caution",
+    "nonprofit": false,
+    "one_liner": "Hosting platform for software you can't afford to have hacked",
+    "question_answers": false,
+    "regions": [
+      "Cayman Islands",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "caution",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0571039e7dc6cc20c7a181c0b7ffa967bc5c6d3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Cybersecurity",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/caution",
+    "website": "https://caution.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 38127,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789029188,
+    "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",
+    "name": "DeepMark",
+    "nonprofit": false,
+    "one_liner": "A live watermark inside AI voice that survives phone calls",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "deepmark",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/deepmark",
+    "website": "https://www.deepmark.me"
   }
 ]

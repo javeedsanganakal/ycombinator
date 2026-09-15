@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/algoriz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -43,7 +43,7 @@
     "website": "http://www.algoriz.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/kalshi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -128,7 +128,7 @@
     "website": "https://hapi.trade/"
   },
   {
-    "all_locations": "Bengaluru, KA, India; Kochi, KL, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/marketfeed.json",
     "app_answers": null,
     "app_video_public": false,
@@ -145,10 +145,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1627922443,
-    "long_description": "marketfeed offers an automated trading platform that helps users earn returns through sophisticated options trading strategies. By connecting their broker's account, users can automate expert-developed strategies. The platform automatically executes trades, providing the potential for periodic earnings without the need for constant monitoring.",
+    "long_description": "At marketfeed, we're on a mission to help every Indian understand what's wrong with their money and fix it. We're building a new generation of products that turn financial confusion into clear, actionable solutions. Our goal is to empower you to take complete control of your financial future, one smart decision at a time.",
     "name": "marketfeed",
     "nonprofit": false,
-    "one_liner": "Helps affluent Indians invest in automated options trading strategies ",
+    "one_liner": "Helping Indians make better financial decisions.",
     "question_answers": false,
     "regions": [
       "India",
@@ -167,10 +167,56 @@
       "Stocks"
     ],
     "tags_highlighted": [],
-    "team_size": 55,
+    "team_size": 18,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/marketfeed",
     "website": "https://marketfeed.com"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/coinrule.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2021",
+    "demo_day_video_public": true,
+    "former_names": [],
+    "id": 24374,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1628767549,
+    "long_description": "Coinrule Catches the Next Market Opportunity on Your Behalf by Automating Your Investments: Crypto, Stocks, ETFs.\r\nDocufilm: https://youtu.be/YitEyKmx8fg\r\nPrevious Crowdfunding: https://youtu.be/nnYJ4PnSvnU?si",
+    "name": "Coinrule",
+    "nonprofit": false,
+    "one_liner": "Coinrule Automates Your Crypto and Stock Investments",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "coinrule",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/060a4532a28d07a4d01b23bad67a8ac803210fee.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Trading",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/coinrule",
+    "website": "https://coinrule.com/"
   },
   {
     "all_locations": "Seoul, Seoul, South Korea",
@@ -192,7 +238,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1641267384,
-    "long_description": "AI-native crypto hedge fund",
+    "long_description": "We provides two AI trading services\r\n\r\n- ZenTrade.me is AI trading service for retail traders. \r\n\r\n- AYC Fund is AI-native crypto hedge fund. \r\n\r\n",
     "name": "AYC Fund",
     "nonprofit": false,
     "one_liner": "AI-native crypto hedge fund",
@@ -207,10 +253,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Asset Management",
     "tags": [
+      "Artificial Intelligence",
       "Crypto / Web3",
       "Finance",
       "Trading",
-      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [
@@ -222,7 +268,7 @@
     "website": "http://www.AYCFund.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nftscoring.json",
     "app_answers": null,
     "app_video_public": false,
@@ -326,12 +372,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1728431199,
-    "long_description": "We’re a research lab that puts its ideas to the test in one of the most complex, information-rich environments in the world: the financial markets.\r\n\r\nIf you care about learning systems, clean abstractions, and applying research in the wild - we’re hiring.",
+    "long_description": "Step 1: Build the Prime Radiant\r\nStep 2: Apply it to Financial Markets\r\nStep 3: Manage the world's assets",
     "name": "attimet",
     "nonprofit": false,
-    "one_liner": "we predict stuff",
+    "one_liner": "Building the Prime Radiant",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -343,9 +389,9 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
+      "Artificial Intelligence",
       "Finance",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -354,7 +400,7 @@
     "website": "https://attimet.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/axiom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -375,7 +421,8 @@
     "one_liner": "Trade memecoins, perpetuals, and earn yield.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "axiom",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffbe7a826e30d31bb15e11d521be0059beb3f81.png",
@@ -438,9 +485,362 @@
       "Trading"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 14,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/qfex",
     "website": "https://qfex.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/selfin.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30922,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1759770880,
+    "long_description": "Bring us risk. We’ll find the market. Institutional liquidity for event-driven exposure across prediction markets.\r\n",
+    "name": "Selfin",
+    "nonprofit": false,
+    "one_liner": "Institutional liquidity across prediction markets",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "selfin",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Investing",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/selfin",
+    "website": "https://selfin.app"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/instinct-xyz.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Assonant"
+    ],
+    "id": 31168,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1779953002,
+    "long_description": "We believe in the next generation of finance where everyone around the world can access the global market and liquidity from the tip of their hands. \r\n\r\nWe are building the best mobile trading app that will enable this vision. \r\n\r\nHyperliquid is the house of all finance, Instinct is the app of all finance. \r\n\r\nHyperliquid.",
+    "name": "Instinct",
+    "nonprofit": false,
+    "one_liner": "Trade your instinct",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "instinct-xyz",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2c4947196f35e938655df560aee5ba21c58b51.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Trading",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/instinct-xyz",
+    "website": "https://instinct.xyz"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Andustry",
+      "Standard Gaussian"
+    ],
+    "id": 31367,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1773916364,
+    "long_description": "",
+    "name": "Andustry",
+    "nonprofit": false,
+    "one_liner": "",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "andustry",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cad618041deb29b222958392d35d6e8a7e0d845.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "website": "http://andustry.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Kimpton AI"
+    ],
+    "id": 31420,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1774039716,
+    "long_description": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it.\r\n\r\nKimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on.\r\n\r\nThe whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade.\r\n\r\nKimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss.\r\n\r\nThat same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule.\r\n\r\nWe're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack.\r\n\r\nWe're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
+    "name": "Kimpton",
+    "nonprofit": false,
+    "one_liner": "Live Evaluation Arenas for Financial Work",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "kimpton",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc55a7e4190cac127494553294ea19379fdf8fc3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Investments",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kimpton",
+    "website": "https://kimpton.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/prodigy-research.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Prodigy AI"
+    ],
+    "id": 32254,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1786153448,
+    "long_description": "Prodigy is the frontier AI trading research lab. We've trained the world's best foundation model for quantitative finance. We've already achieved more than 100% returns in live trading over the course of our YC batch, doubling our capital while major indices were flat. Our founders previously worked on a trading desk at Jane Street, trained frontier AI models at Google DeepMind and shipped cutting-edge AI at Apple to billions of customers. Join us as we use AI to solve the market.",
+    "name": "Prodigy Research",
+    "nonprofit": false,
+    "one_liner": "Training the world's best AI model for quantitative finance.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "prodigy-research",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2db1ee59cf597cd664444e784ae76e1f753d775.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Reinforcement Learning",
+      "Finance",
+      "Investing",
+      "Trading",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/prodigy-research",
+    "website": "https://prodigy.markets"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/spectre-intelligence.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Spectre Capital"
+    ],
+    "id": 32257,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1787421048,
+    "long_description": "Spectre Intelligence is a neotrading firm. We create AI traders instead of hiring human ones. Currently trading semis + bio.",
+    "name": "Spectre Intelligence",
+    "nonprofit": false,
+    "one_liner": "We are a multi-strategy trading firm that trains AI traders. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "spectre-intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd275e68bdab3f73081986be229ec8d9f1423ae5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Biotech",
+      "Investing",
+      "Trading",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/spectre-intelligence",
+    "website": "https://www.spectreintelligence.ai"
+  },
+  {
+    "all_locations": "Singapore, Singapore",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/arbital.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32749,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1785892617,
+    "long_description": "Arbital lets you trade perps, memes, stocks, and run market-making strategies from one place. In our first 7 months, 2,700 traders have traded $1.35B in volume through Arbital, and we're now doing $435M/month. \r\n\r\nWe're building towards a social, mobile-first trading app that brings tokenized equities, crypto, and perps to everyone.",
+    "name": "Arbital",
+    "nonprofit": false,
+    "one_liner": "The social trading app for stocks, memes, and perps",
+    "question_answers": false,
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "slug": "arbital",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41b5fd38dcf7826f6043c80c1a7e50338b8b5cb1.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Investing",
+      "Trading"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/arbital",
+    "website": "https://www.arbital.xyz"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Hobby.Trade"
+    ],
+    "id": 32814,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1784612730,
+    "long_description": "",
+    "name": "Computable",
+    "nonprofit": false,
+    "one_liner": "Derivatives Exchange for Compute",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "computable",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Finance",
+      "Cloud Computing",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/computable",
+    "website": "https://getcomputable.com"
   }
 ]

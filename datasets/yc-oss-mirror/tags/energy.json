@@ -87,7 +87,7 @@
     "website": "http://www.buildscience.com/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/reach.json",
     "app_answers": null,
     "app_video_public": false,
@@ -526,7 +526,7 @@
     "website": "http://gaia-scope.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/powerx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -654,7 +654,53 @@
     "website": "https://www.aurabeattech.com/"
   },
   {
-    "all_locations": "Richmond, CA, USA",
+    "all_locations": "Oslo, Oslo, Norway; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/enode.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Enode AS"
+    ],
+    "id": 22953,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1616508622,
+    "long_description": "Device connectivity, home energy coordination, and grid orchestration in a single platform.",
+    "name": "Enode",
+    "nonprofit": false,
+    "one_liner": "Energy Orchestration Platform",
+    "question_answers": false,
+    "regions": [
+      "Norway",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "enode",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d173e80b5b8cf1006b5c3b5baa37e052acecc8c5.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Climate",
+      "API",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 70,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/enode",
+    "website": "http://www.enode.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Richmond, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/moxion-power-co.json",
     "app_answers": null,
     "app_video_public": false,
@@ -832,7 +878,7 @@
     "website": "https://endla.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/ferveret-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -844,15 +890,15 @@
     "id": 24598,
     "industries": [
       "Industrials",
-      "Climate"
+      "Energy"
     ],
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1628701179,
-    "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
+    "long_description": "Ferveret is developing Adaptive Phase Cooling, a next-generation thermal solution for AI data centers inspired by heat transfer principles used in nuclear reactor systems. Our rack-integrated design delivers 35% more usable compute from the same power envelope, with a PUE of 1.03 (vs. the 1.2 industry standard), zero water consumption, and 45°C inlet temperatures that eliminate the need for chillers. Compatible with NVIDIA MGX and HGX architectures, Ferveret's solution uses a proprietary dielectric fluid that is not part of any regulated PFAS category, giving AI infrastructure operators a scalable, water-free path to higher compute density without redesigning their facilities.",
     "name": "Ferveret",
     "nonprofit": false,
-    "one_liner": "Liquid cooling solutions inspired by nuclear reactor cooling",
+    "one_liner": "Nuclear-inspired cooling that turns wasted power into more AI compute",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -864,14 +910,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "Industrials -> Energy",
     "tags": [
       "Hardware",
       "Climate",
       "Energy"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ferveret-inc",
     "website": "http://www.ferveret.com"
@@ -937,7 +983,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1642021051,
     "long_description": "Emobi is a unified legal, financial, and technical infrastructure that delivers seamless, secure, and reliable EV charging across networks—powering apps, fleets, and automakers while maximizing charger utilization. Our secure, fully automated charging technology, JustPlug, works instantly with no special hardware, software, or setup, making EV charging effortless.\r\n\r\nWith 122,000+ EV chargers integrated across the U.S. and Canada, Emobi is recognized as the largest EV charging ecosystem in North America. Backed by two provisional patents and 15+ enterprise customers, Emobi's technology is also trusted by the Department of Energy (DoE) and the Department of Transportation (DoT). To learn more, visit www.emobi.ai.",
     "name": "Emobi",
@@ -967,7 +1013,7 @@
     "website": "https://www.emobi.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toulouse, Occitanie, France",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/beyond-aero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -988,6 +1034,8 @@
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1010,7 +1058,7 @@
     "website": "https://www.beyond-aero.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/paces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1042,14 +1090,14 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Artificial Intelligence",
       "Proptech",
       "Climate",
       "Energy",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 48,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paces",
     "website": "https://paces.com"
@@ -1116,7 +1164,7 @@
       "Energy"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1654465495,
     "long_description": "MaverickX is a chemical technology company advancing natural resource extraction. The company was founded by Eric Herrera, former Department of Defense scientist,  and Jesse Evans, former startup operations manager. \r\n\r\nAs resources become more difficult to extract across the energy and mining sectors, new technologies are needed. MaverickX has a portfolio of chemical solutions -- PetroX and LithX -- to enhance recovery of oil from shale reservoirs and metals from low-grade ores. \r\n\r\nMore oil. More metal. Better chemistry.\r\n\r\n",
     "name": "MaverickX",
@@ -1228,7 +1276,7 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/atmeto",
     "website": "https://www.atmeto.com"
@@ -1249,17 +1297,17 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1687803555,
-    "long_description": "HyLight builds and operates autonomous airships for long range monitoring. We focus on detecting methane leaks on pipelines and defects on power lines.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have developed 5 different flying aircrafts and signed 5 pilots programs with major energy infrastructure operators. We also have LOIs worth over $3.5M.",
+    "long_description": "HyLight builds and operates the HyLighters. Our autonomous airships for long range monitoring. We focus on critical infrastructure inspections:\r\n- detecting methane leaks on pipelines.\r\n- defects & vegetation risks on power lines.\r\n- defects & vegetation risks on railways.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have manufactured 20 HyLighter and are deploying across Europe.",
     "name": "HyLight",
     "nonprofit": false,
-    "one_liner": "Small unmanned hydrogen airships for long range monitoring",
+    "one_liner": "Unmanned airships for inspecting our critical assets",
     "question_answers": false,
     "regions": [
       "France",
       "Europe"
     ],
     "slug": "hylight",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e115f6387d31c268302079d59ab1981c37d8ca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bcbb9e93eb3ebbc3a622b3826ec8c2df9b276d7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
@@ -1271,99 +1319,13 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 22,
+    "team_size": 37,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hylight",
     "website": "https://www.hylight.aero/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [
-      "sizeless GmbH"
-    ],
-    "id": 28959,
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "industry": "Real Estate and Construction",
-    "isHiring": false,
-    "launched_at": 1691128419,
-    "long_description": "Make data-driven decisions. Optimize property management. With the property Digital Twin from sizeless, you can access highly accurate data to understand your property's details, make informed decisions on inspections, and work on the required management optimization measures.",
-    "name": "sizeless",
-    "nonprofit": false,
-    "one_liner": "Instant 3D Digital Twins for Smarter Real Estate.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "sizeless",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90ad40c9214ea17e0132605fba1e092c86e8b9a0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Real Estate and Construction",
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "Real Estate",
-      "Construction",
-      "Energy"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sizeless",
-    "website": "https://www.sizeless.co"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cedalio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29071,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1685752888,
-    "long_description": "Track and control emissions, energy, water, gas, and more—across all sites and countries, from a single place.\r\nCedalio automates utility bill processing, detects anomalies, and centralizes your data into one source of truth. Save hours of manual work, make faster decisions, and enhance your sustainability efforts.​",
-    "name": "Cedalio",
-    "nonprofit": false,
-    "one_liner": "Turn your utility bills into smart decisions with AI",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "cedalio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/253ca8c2833042159f28652e47d94970cc10b5cc.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Artificial Intelligence",
-      "Energy",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/cedalio",
-    "website": "https://cedalio.com/"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/dili.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1381,7 +1343,7 @@
     "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "name": "dili",
     "nonprofit": false,
-    "one_liner": "Automating PWA Compliance and Diligence",
+    "one_liner": "Automating Compliance for Construction",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1395,11 +1357,11 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -1421,7 +1383,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1687128394,
     "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
     "name": "Orbio Earth",
@@ -1492,7 +1454,7 @@
     "website": "https://www.sparkhq.ai"
   },
   {
-    "all_locations": "Kirkland, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/silurian.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1537,7 +1499,7 @@
     "website": "https://silurian.ai/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rewbi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1552,13 +1514,14 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1724874761,
-    "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
+    "long_description": "A stealth mode startup.",
     "name": "Rewbi",
     "nonprofit": false,
-    "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
+    "one_liner": "A stealth mode startup.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "rewbi",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
@@ -1566,14 +1529,14 @@
     "status": "Active",
     "subindustry": "Industrials -> Energy",
     "tags": [
-      "Energy Storage",
       "B2B",
       "Energy",
       "Renewable Energy",
+      "Cloud Computing",
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rewbi",
     "website": "https://www.rewbi.com/"
@@ -1592,7 +1555,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1724527338,
     "long_description": "Plume is an AI-powered geospatial platform for site selection in energy infrastructure projects. \r\n\r\nSelecting the right sites requires analysis of +50 geospatial, grid, and regulatory constraints across fragmented data sources. \r\n\r\nPlume changes the process by enabling users to interact with geospatial data using natural language.",
     "name": "Plume",
@@ -1637,9 +1600,9 @@
       "Automotive"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1728353435,
-    "long_description": "Curo enables electric vehicle fleets to lease EV chargers. We do this by providing a standardized process so that any EV charger owner can host a fleet, such as an office building overnight when their employees go home.\r\n\r\nOwners of EV chargers get <15% usage after paying hundreds of thousands of dollars to install, and fleets are rapidly trying to electrify yet charging is a huge bottleneck. Curo increases revenue 5x for charger owners and enables fleets to electrify instantly, at a fraction of the cost. \r\n\r\nWe're live across 5 states, having grown 50% MoM for the past 6 months. Curo is already backed by investors like Blue Bear, Not Boring, Slow and Eniac.\r\n\r\n\r\n\r\n\r\n\r\n",
+    "long_description": "Acquired by Inspiration Mobility Group.\r\n\r\nFleet EV charging and parking marketplace that scaled to 15+ states for companies like Google, Uber, Zoox, Zipcar, Cox Enterprises, Boston Properties and Irvine Company.\r\n\r\nRaised $6M+ from YC, Blue Bear, Not Boring, Eniac and others.\r\n\r\n\r\n\r\n\r\n\r\n",
     "name": "Curo",
     "nonprofit": false,
     "one_liner": "Electric fleets park and charge anywhere with Curo",
@@ -1653,7 +1616,7 @@
     "slug": "curo",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/451b623d0d8d5338642a73d361cc7f15a4cca9bc.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Industrials -> Automotive",
     "tags": [
       "Transportation",
@@ -1661,10 +1624,54 @@
       "Automotive"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/curo",
     "website": "https://www.curocharging.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Dartboard Energy"
+    ],
+    "id": 30201,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1739492408,
+    "long_description": "Dartboard is the modern remote operations center for hardware fleets. We pair expert operators with AI agents to identify, diagnose, and fix issues faster.",
+    "name": "Dartboard",
+    "nonprofit": false,
+    "one_liner": "AI-native remote operations center for hardware fleets",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "dartboard",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6b5a6279db8d201fef41a88a35c1d4c0828744e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Energy",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dartboard",
+    "website": "https://dartboard.ai"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -1751,13 +1758,15 @@
     "website": "https://maritimefusion.com"
   },
   {
-    "all_locations": "Cambridge, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nodi-energy.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "PowerMatrix"
+    ],
     "id": 30502,
     "industries": [
       "Industrials",
@@ -1766,32 +1775,32 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1748546232,
-    "long_description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
-    "name": "PowerMatrix",
+    "long_description": "NODI is building distributed energy infrastructure to rewire the grid. \r\n\r\nWe deploy and aggregate batteries at the edge and orchestrate them as distributed nodes, providing locational flexibility to the rigid grid — relieving congestion and unlocking capacity at constrained locations, so data centers can connect in weeks instead of waiting decades for reinforcement.",
+    "name": "NODI Energy",
     "nonprofit": false,
-    "one_liner": "Efficient and compact power supply for AI hardware",
+    "one_liner": "Distributed energy infrastructure unlocking grid power to data centers",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
-    "slug": "powermatrix",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png",
+    "slug": "nodi-energy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a4e15d9d456412939a83c9d998aaeedade968a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Energy",
     "tags": [
+      "Energy Storage",
       "Hard Tech",
       "Hardware",
       "Energy",
-      "Semiconductors",
       "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/powermatrix",
-    "website": "https://pwrmatrix.com"
+    "url": "https://www.ycombinator.com/companies/nodi-energy",
+    "website": "https://www.nodienergy.com"
   },
   {
     "all_locations": "",
@@ -1834,5 +1843,475 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/voxel-energy",
     "website": "https://voxelenergy.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31226,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783647531,
+    "long_description": "We’re building collaborative robotic crews for large-scale infrastructure projects, including solar farms and data centers.\r\n\r\n002C: “002A, 5.3 mm left.”\r\n002B: “002A, you’re running low. Next pallet is on the way.”\r\n002C: “Am I clear to come in?”\r\n002A: “Aligned. Panel released. You’re clear.”\r\n002C: “Fastening.”\r\n002B: “Next load arriving now.”\r\n\r\nThis isn’t a human crew talking. It’s three robots building a utility-scale solar farm together. \r\n\r\nOur AI control system enables specialized robots to collaborate, learn reusable construction skills, like alignment, fastening, and manipulation, and transfer them across workflows, from solar farms to data centers. 🚧 🦺 ",
+    "name": "Libra Robotics",
+    "nonprofit": false,
+    "one_liner": "Robotic crews for large-scale infrastructure construction",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "libra-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/libra-robotics",
+    "website": "https://www.librabots.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31858,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1783552199,
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "name": "Torus",
+    "nonprofit": false,
+    "one_liner": "Legora for physical engineering firms",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "torus",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "website": "https://www.usetorus.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32131,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784606823,
+    "long_description": "Shielded connects companies’ internal and external data to map market shifts, tariffs, and disruptions directly to suppliers, products, and margins. We turn those impacts into real-time decisions that grow and protect the business. ",
+    "name": "Shielded",
+    "nonprofit": false,
+    "one_liner": "We help Fortune 500 companies hedge their supply chain risk",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shielded",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Fintech",
+      "Supply Chain",
+      "Agriculture",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shielded",
+    "website": "https://www.shieldedglobal.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Maingen AI",
+      "Maingen",
+      "Maingen AI"
+    ],
+    "id": 32157,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784688239,
+    "long_description": "Maingen builds simulations for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run power plants, factories, and datacenters.",
+    "name": "Maingen",
+    "nonprofit": false,
+    "one_liner": "Simulating Agents Running Industrial Companies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "maingen",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb59fa1eb6f59fafb938607c641276931a20aef.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Energy",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/maingen",
+    "website": "https://www.maingen.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/marengo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32981,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786181708,
+    "long_description": "Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB).\r\n\r\nMarengo is backed by YC, Exor, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.\r\n\r\nOur team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+    "name": "Marengo",
+    "nonprofit": false,
+    "one_liner": "AI-Native Engineering Firm designing Data Centers ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "marengo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60eafb41e958f2dbb87a17e5996bba09e7731f2f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Design",
+      "Energy",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/marengo",
+    "website": "https://marengox.com"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ethos-space-resources.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33312,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1787528961,
+    "long_description": "Ethos makes silicon on the Moon to power terawatt scale data centers. The Moon's surface is 21% silicon. We melt and electrolyze the lunar surface to make raw materials for solar panels. With solar panels made from the Moon, the constraint that limits data center scaling and everything else in space is gone.",
+    "name": "Ethos Space Resources",
+    "nonprofit": false,
+    "one_liner": "We make silicon on the Moon, to power everything in space.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ethos-space-resources",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26c677c7621160c55e8011d6851971173fe4f8e9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Exascale Computing",
+      "Energy",
+      "Aerospace",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ethos-space-resources",
+    "website": "https://ethos-space.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/salem-robotics-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33408,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783052221,
+    "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of mandatory manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we started in nuclear and are already expanding to other hazardous industries.",
+    "name": "Salem Robotics Inc",
+    "nonprofit": false,
+    "one_liner": "Deploying robots to replace workers in hazardous spaces",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "salem-robotics-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbf386dc8fa91340ed1cce1b80613f66e88ee12d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Energy",
+      "Defense",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/salem-robotics-inc",
+    "website": "https://salemroboticsinc.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atomarine.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33607,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784997775,
+    "long_description": "We are building nuclear power delivery ships to power our floating compute barges at sea. Our systems are fully standalone, have better cooling, and avoid all the resource competition that leads to local community opposition. Our centralized manufacturing allows us to deploy anywhere on Earth, four times faster than on land.",
+    "name": "Atomarine",
+    "nonprofit": false,
+    "one_liner": "Floating nuclear powered data centers at sea.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "atomarine",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6485491a38d727a14e926be75b62003c9f8fccff.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Hard Tech",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/atomarine",
+    "website": "https://atomarine.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edviro.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33805,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782807553,
+    "long_description": "Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",
+    "name": "Edviro",
+    "nonprofit": false,
+    "one_liner": "AI That Operates Energy Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "edviro",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/edviro",
+    "website": "https://edviroenergy.com"
+  },
+  {
+    "all_locations": "Baltimore, MD, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35128,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1787763466,
+    "long_description": "At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously monitor critical power equipment and detect problems early on using anomaly-detection models. For each fault, we provide detailed analyses of the problem, exactly where and why it happened, as well as next steps teams should take. ",
+    "name": "Talos",
+    "nonprofit": false,
+    "one_liner": "Predictive maintenance for power infrastructure.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "talos-us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Deep Learning",
+      "IoT",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/talos-us",
+    "website": "https://www.talos-us.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35652,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788918386,
+    "long_description": "Every instance of intelligence occurring in nature is embodied. Scientific intelligence is no different. We are building general-purpose robotic experimentalists: systems that unite scientific reasoning and physical action to iterate toward discovery by observing, hypothesizing and experimenting.",
+    "name": "SuperRadiant",
+    "nonprofit": false,
+    "one_liner": "Embodied Scientific Intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "superradiant",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Energy",
+      "Advanced Materials",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/superradiant",
+    "website": "https://superradiant.co"
   }
 ]

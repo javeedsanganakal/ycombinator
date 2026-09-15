@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Washington, DC, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/pocketsuite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -84,50 +84,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/solve",
     "website": "https://www.solve.com"
-  },
-  {
-    "all_locations": "Toronto, ON, Canada; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/convictional.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2019",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 11960,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1541124183,
-    "long_description": "Convictional (convictional.com) is the company OS that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
-    "name": "Convictional",
-    "nonprofit": false,
-    "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
-    "question_answers": false,
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "convictional",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "B2B",
-      "Team Collaboration",
-      "Collaboration",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "team_size": 15,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/convictional",
-    "website": "https://convictional.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -226,6 +182,98 @@
     "website": "https://nimbus.dev"
   },
   {
+    "all_locations": "Atlanta, GA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/tractian.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "TRACTIAN"
+    ],
+    "id": 23017,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1613167873,
+    "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
+    "name": "Tractian",
+    "nonprofit": false,
+    "one_liner": "Physical AI for asset-heavy industries",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "tractian",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a76ce0d932f5b9149b08c23515c1d62bbef3229.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "SaaS",
+      "IoT",
+      "B2B",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 530,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tractian",
+    "website": "https://tractian.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/jestor.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "jestor"
+    ],
+    "id": 23973,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1626482465,
+    "long_description": "Stop vibecoding internal tools nobody can maintain. Get apps, tables, forms, dashboards, and AI automations built for your process, on infrastructure that already handles permissions, data, and integrations. Your team just opens the app. Unlimited users, pause anytime.",
+    "name": "Jestor",
+    "nonprofit": false,
+    "one_liner": "Saving OPS from SLOPS. Jestor builds internal systems that last.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "jestor",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "B2B",
+      "Productivity",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 12,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/jestor",
+    "website": "https://jestor.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/sequin.json",
     "app_answers": null,
@@ -314,7 +362,7 @@
     "website": "http://www.ponyrun.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -446,7 +494,60 @@
     "website": "https://www.trysalient.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/loopfour.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Loopfour",
+      "JustPaid.io (Loopfour Inc)",
+      "Loopfour Inc",
+      "JustPaid (Loopfour Inc)",
+      "JustPaid",
+      "JustPaid.io",
+      "JustPaid.ai",
+      "JustPaid"
+    ],
+    "id": 27817,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1676918637,
+    "long_description": "Deterministic, auditable automation for the finance workflows your team dreads. We build and run it on your existing stack. You approve only the exceptions.",
+    "name": "loopfour",
+    "nonprofit": false,
+    "one_liner": "Workflow automation, without AI hallucinations.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "loopfour",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16284384d06d6162a400238a8b4e998e471fe35b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Workflow Automation",
+      "Automation",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 20,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/loopfour",
+    "website": "https://www.loopfour.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/warp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -462,11 +563,11 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1677261125,
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $25M from Sound Ventures (Ashton Kutcher), A-Star, Abstract, Drew Houston & Arash Ferdowsi (Dropbox), Balaji Srinivasan, Amjad Masad (Replit), Kyle Vogt (Cruise), SV Angel & Homebrew Capital.",
+    "long_description": "Warp is the AI-native employee management platform for high-growth companies. We run payroll, HR, compliance, benefits, and IT on a single platform for companies from 5 to 10,000 employees, using AI agents to complete the work that legacy systems leave to people.\r\n\r\nWe've raised $85M from Battery Ventures, Peak XV, Sound Ventures (Ashton Kutcher), Sapphire, A-Star, SV Angel, and Homebrew Capital.\r\n\r\nSome of the fastest growing companies of today trust Warp to reduce HR and admin overhead so they build faster. We're proud to serve top startups like Serval, Bland, Greptile, Reducto, Corgi, Campfire, alongside our mid-size and enterprise customers.\r\n\r\nWe're humbled to have the backing of people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, former Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, former Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, former Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "name": "Warp",
     "nonprofit": false,
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
-    "question_answers": true,
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
@@ -480,10 +581,11 @@
       "B2B",
       "HR Tech",
       "Payroll",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/warp",
     "website": "https://www.warp.co/"
@@ -626,7 +728,7 @@
     "website": "https://usesaga.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/greenboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -655,14 +757,14 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Compliance",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 26,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/greenboard",
     "website": "https://www.greenboard.com"
@@ -805,7 +907,51 @@
     "website": "https://getcallback.ai"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/decisional-ai.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Decisional AI, Inc."
+    ],
+    "id": 29655,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1723533013,
+    "long_description": "Decisional is the fastest way to build self healing automation agents that work with the apps you use.\r\nYou just ask for an agent in natural language, it builds and tests its own workflow that it runs constantly in the background.\r\n",
+    "name": "Decisional AI",
+    "nonprofit": false,
+    "one_liner": "AI Coworkers for Business Automation",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "decisional-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Automation",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/decisional-ai",
+    "website": "https://www.decisional.com/"
+  },
+  {
+    "all_locations": "Austin, TX, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/modus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -825,6 +971,8 @@
     "one_liner": "Unlock revenue per employee with AI-powered headcount management",
     "question_answers": true,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -938,7 +1086,7 @@
     "website": "https://www.usesimple.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1027,52 +1175,56 @@
     "website": "https://orgorg.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/vortexify.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Winter 2025",
+    "batch": "Fall 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "Platter"
+      "Praxis AI",
+      "Vortexify AI",
+      "VortexifyAI"
     ],
-    "id": 30338,
+    "id": 30042,
     "industries": [
-      "Fintech",
-      "Insurance"
+      "B2B",
+      "Operations"
     ],
-    "industry": "Fintech",
+    "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1734580429,
-    "long_description": "CopyCat builds AI specifically for the insurance industry. We help brokers, carriers, and MGA's move faster and more efficiently for what will soon be the next generation of insurance operations.",
-    "name": "CopyCat",
+    "launched_at": 1732148257,
+    "long_description": "Vortexify is an AI app builder for full-stack, internal business apps. Businesses such as manufacturers, hospitals and logistics services use Vortexify to solve complex, operational problems such as scheduling, process optimization, forecasting, root cause analysis and scenario planning.\r\n\r\nOur agents encode business logic by mapping operational problems to the data in your systems and collaborating with domain experts. Operations teams can build apps without writing code. Engineering teams can edit and manage agent written code at any time.\r\n\r\nVortexify builds applications beyond simple dashboards with native support for databases, scheduled tasks, optimization solvers, machine learning models, data pipelines, API calls and more. Our secure, managed infrastructure enables our agents to build quickly and get it right the first time.\r\n\r\nSolve your hardest operations problems today! Create a free account to get started. For additional technical services or support, contact us or book a demo.",
+    "name": "Vortexify",
     "nonprofit": false,
-    "one_liner": "AI agents built for insurance. ",
+    "one_liner": "Build full-stack applications for business operations with AI",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "slug": "copycat",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "slug": "vortexify",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb3be511411bbaed481f911d10c8dcbfcfbc8735.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Insurance",
+    "subindustry": "B2B -> Operations",
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Logistics",
-      "Healthcare",
-      "Operations"
+      "Supply Chain",
+      "Big Data",
+      "Operations",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/copycat",
-    "website": "https://runcopycat.com"
+    "url": "https://www.ycombinator.com/companies/vortexify",
+    "website": "https://www.vortexify.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/acolite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1090,10 +1242,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1747166393,
-    "long_description": "Acolite builds AI teammates that handle submissions, issuing COIs, and SOV mapping across any AMS. Like an extra teammate, you simply forward an email and Acolite handles the rest.",
+    "long_description": "Acolite is an AI-powered insurance brokerage purpose-built for the construction industry. We combine modern technology with dedicated, licensed brokers to help contractors get the right coverage faster and at better rates than traditional brokerages can offer.",
     "name": "Acolite",
     "nonprofit": false,
-    "one_liner": "AI Teammates for Insurance Agencies",
+    "one_liner": "AI Native Commercial Insurance Broker",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1105,9 +1257,9 @@
     "status": "Active",
     "subindustry": "Fintech -> Insurance",
     "tags": [
+      "Artificial Intelligence",
       "Insurance",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1116,7 +1268,7 @@
     "website": "https://acolite.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/flott-hq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1136,7 +1288,8 @@
     "one_liner": "AI-native operating system for vehicle fleet management",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "slug": "flott-hq",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb20e1f29c5b7138851e75459877c74ca0beccf7.png",
@@ -1173,7 +1326,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1747084472,
-    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.ai/",
     "name": "Lumari",
     "nonprofit": false,
     "one_liner": "AI Digital Workers for Supply Chain ",
@@ -1188,20 +1341,64 @@
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lumari",
-    "website": "https://www.lumari.io/"
+    "website": "https://www.lumari.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Salesmith"
+    ],
+    "id": 30807,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1754546482,
+    "long_description": "Paloma gives manufacturing companies an embedded team of engineers and ops experts who replace their manual operations with custom AI-native software.",
+    "name": "Paloma",
+    "nonprofit": false,
+    "one_liner": "Digital transformation for real economy businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "paloma",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1218976659374be7dae288b56678777bbb6a1eb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Analytics",
+      "Manufacturing",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/paloma",
+    "website": "https://getpaloma.ai/"
+  },
+  {
+    "all_locations": "BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunavo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1222,8 +1419,8 @@
     "one_liner": "Lunavo is the AI assistant for carriers.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
     "slug": "lunavo",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ddcb85e74794b0138c39337072b830c38a4934f.png",
@@ -1244,6 +1441,50 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Remediate"
+    ],
+    "id": 30867,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1759390917,
+    "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
+    "name": "Soren",
+    "nonprofit": false,
+    "one_liner": "The AI workforce for business operations.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "soren",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "website": "https://usesoren.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/madethis.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1259,7 +1500,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1762394891,
     "long_description": "",
     "name": "MadeThis",
@@ -1296,15 +1537,15 @@
     "id": 31030,
     "industries": [
       "B2B",
-      "Operations"
+      "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1766374394,
-    "long_description": "Haladir is the operational AI layer for logistics. We unify and structure data across WMS, TMS, OMS, etc., and embed solver-grade optimization, ML models, RL environments for frontier AI labs, and forecasting into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take operations managers and OR analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "long_description": "Haladir builds advanced AI systems for logistics. We sit on top of your WMS, TMS and ERP, turning their data into decisions across supply chain planning and execution: solver-grade optimization that decides what should happen, and AI agents that run the workflows. Today's AI brought intelligence. The next frontier is judgement.",
     "name": "Haladir",
     "nonprofit": false,
-    "one_liner": "Building Operational Superintelligence.",
+    "one_liner": "Operational Superintelligence for Global Logistics",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1314,11 +1555,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Reinforcement Learning",
+      "Artificial Intelligence",
       "Logistics",
-      "Data Engineering",
+      "Supply Chain",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -1326,6 +1567,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/haladir",
     "website": "https://www.haladir.com/"
+  },
+  {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31200,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1765975223,
+    "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
+    "name": "Ressl AI",
+    "nonprofit": false,
+    "one_liner": "Train, eval and build autonomous agents",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "ressl-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "B2B",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ressl-ai",
+    "website": "https://ressl.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1343,22 +1624,22 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1764881455,
-    "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
+    "long_description": "Bubble Lab helps event organizers and professional communities turn a room full of people into meaningful connections. We help them understand who’s in the room, identify who should meet, make the introduction, and remember those relationships for the next event.\r\n\r\nAttendee enrichment, matchmaking, searchable member directories, applications, payments, Luma and Slack sync, onboarding, and analytics all live in one place, so a single operator can run better gatherings and build a smarter community over time.",
     "name": "Bubble Lab",
     "nonprofit": false,
-    "one_liner": "Prompt once, automate forever.",
+    "one_liner": "Turn gatherings into lasting relationships.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "bubble-lab",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff46390128d2a3a9098a5a430b66444fd364775.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a94fc548c8500f0d7e462b5e941cb7f149637d0.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
-      "Workflow Automation",
+      "Community",
       "Automation",
       "Operations",
       "AI"
@@ -1371,66 +1652,24 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31428,
+    "id": 31378,
     "industries": [
       "B2B",
       "Operations"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1773487694,
-    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours.",
-    "name": "Ontora",
+    "launched_at": 1777151399,
+    "long_description": "GodHands makes employee transitions seamless and ensures that critical knowledge is captured for posterity. We reconstruct any employee’s work in days from the systems where they did it. You can see what depends on them, hand their role over, and keep their work running after they leave. \r\n",
+    "name": "GodHands",
     "nonprofit": false,
-    "one_liner": "AI agents that interview every employee to map how work gets done.",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "ontora",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "website": "https://ontora.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31511,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773098013,
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "name": "Arzana",
-    "nonprofit": false,
-    "one_liner": "AI automation for the manufacturing office",
+    "one_liner": "We reconstruct how employees actually work, so nothing breaks when…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1438,22 +1677,63 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "arzana",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "slug": "godhands",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Automation",
-      "Operations",
-      "Industrial"
+      "Enterprise",
+      "Operations"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "website": "https://www.arzana.com/"
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "website": "https://godhands.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kebra.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Third Eye"
+    ],
+    "id": 31825,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784399832,
+    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their work, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "name": "Kebra",
+    "nonprofit": false,
+    "one_liner": "AI For The Skilled Workforce",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "kebra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "B2B",
+      "Home Services",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kebra",
+    "website": "https://kebra.com"
   }
 ]

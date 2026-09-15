@@ -230,7 +230,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1628991585,
-    "long_description": "Liv Labs (@livlabsfitness) is a US-based, Y Combinator-backed women's wellness innovator. 78 million American women live with pelvic floor weakness and 31M worry daily about leaking. Liv Labs is commercializing the patented Pippa Resistance Spring to boost fitness during exercise and semi-automated self-care coaching to keep them strong and active, lifelong. First orders shipped October 11, 2025.\r\n\r\nPippa inventor, Carly Price, reimagined the humble pillow for Casper and has 41 patents to her name. Company CEO, Melody Roberts, incubated digital service experiences now scaling globally at McDonald's and Panera. Pippa development has been substantially funded by non-dilutive SBIR grants from NIH, NSF, and State of Illinois, based on stellar product effectiveness data and user feedback like, \"With this, surgery is off the table.\" ",
+    "long_description": "Liv Labs (@livlabsfitness) is a US-based, Y Combinator-backed women's wellness innovator. Some 78 million American women live with pelvic floor weakness and 31M worry daily about leaking. Liv Labs now sells the patented Pippa® Resistance Spring to boost a healthy user's pelvic floor fitness during exercise, when it matters most.\r\n\r\nPippa inventor, Carly Price, reimagined the humble pillow for Casper and has 45 patents to her name. Company CEO, Melody Roberts, incubated digital service experiences now scaling globally at McDonald's and Panera. Pippa development was substantially funded by non-dilutive SBIR grants from NIH, NSF, and State of Illinois, based on stellar product effectiveness data and user feedback like, \"With this, surgery is off the table.\" ",
     "name": "Liv Labs",
     "nonprofit": false,
     "one_liner": "Pelvic floor fitness made easy",
@@ -259,7 +259,7 @@
     "website": "http://www.livlabsfitness.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/scout-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -355,52 +355,7 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/serno.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Melly AI",
-      "Ovlo"
-    ],
-    "id": 30214,
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1740586280,
-    "long_description": "Serno is the AI tool you reach for when one model isn't enough: pricing strategy, market entry, hiring trade-offs, anything you'd normally route to a team. Describe the question and Serno assembles 3–5 AI experts on Claude, GPT, and Gemini, each with a real role and research brief. \r\n\r\nThey debate contradictions and map the answer as a canvas you can navigate, share, or export.",
-    "name": "Serno",
-    "nonprofit": false,
-    "one_liner": "Custom AI experts that map what one AI can't",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "serno",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05a07f591188d21700a21e8d03d6cd5989e0a1fe.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "tags": [
-      "SaaS",
-      "Consumer Products",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/serno",
-    "website": "https://serno.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/joindex.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
@@ -411,7 +366,8 @@
       "Dexterity AI",
       "Dexterity",
       "Dex",
-      "ThirdLayer"
+      "ThirdLayer",
+      "Dex"
     ],
     "id": 30351,
     "industries": [
@@ -421,17 +377,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1737217789,
-    "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
-    "name": "Dex",
+    "long_description": "ThirdLayer is the learning and alignment layer for enterprise AI. We continuously ingest and structure messy organizational context, complex operational processes, and siloed, permission-sensitive data, then grade agents against the outcomes each company cares about. Every interaction becomes feedback that helps agents improve over time.\r\n\r\nCompanies use ThirdLayer to power their internal agents or embed it into the AI products they’re building. We give agents the context, evaluations, and learning loops they need to stay aligned with each organization and deliver better outcomes with every run.",
+    "name": "Thirdlayer",
     "nonprofit": false,
-    "one_liner": "The AI Coworker in Chrome",
+    "one_liner": "Continual learning for enterprise AI",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "joindex",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac79d12169377e5c2a4f0dfc5863cb25ef3beb7.png",
+    "slug": "thirdlayer",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0d87f32109c76adfd7d671c77380aed15d429e2.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
@@ -444,8 +400,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/joindex",
-    "website": "https://joindex.com"
+    "url": "https://www.ycombinator.com/companies/thirdlayer",
+    "website": "https://thirdlayer.inc"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -493,154 +449,25 @@
     "website": "https://www.trystratify.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/foresight.json",
+    "all_locations": "Atlanta, GA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2025",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
-    "former_names": [
-      "Fluentive AI",
-      "Fluentive"
-    ],
-    "id": 30737,
+    "former_names": [],
+    "id": 31005,
     "industries": [
       "B2B",
-      "Analytics"
+      "Operations"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1778160677,
-    "long_description": "Foresight builds AI-powered simulations of human behavior to help companies predict how people will think, react, and choose before making real-world decisions. It lets organizations test countless possible moves in advance, see how each one is likely to play out, and choose the strongest path forward.",
-    "name": "Foresight",
+    "launched_at": 1759442158,
+    "long_description": "MarkIt is an AI-powered regulatory compliance platform that helps consumer brands launch products in new markets. We review formulations, packaging, and supporting documents against local regulations, identify compliance gaps, and provide the exact changes, regulatory references, and market-ready labels needed before launch. We are initially focused on cosmetics and food products entering the U.S., replacing weeks of manual work across regulatory consultants, spreadsheets, and disconnected vendors with one actionable compliance workflow.\r\n",
+    "name": "MarkIt",
     "nonprofit": false,
-    "one_liner": "On-demand consumer insights",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "foresight",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e73e06f06f9c82efc635b55f38984d2cb9645b67.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Market Research",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/foresight",
-    "website": "https://foresight.tt/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/juno-chat.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31383,
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1776751581,
-    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness. Juno builds a longitudinal health profile from conversations, biometrics, and medical history to identify patterns behind symptoms and provide tailored guidance. \r\n\r\nIsaac and Marshall started building Juno after growing up with chronic conditions and spending years trying to understand their symptoms. Like millions of others, they waited months for appointments and struggled to explain complex medical history in 15 minutes. As a result, key signals are missed, contributing to an average diagnosis time of 7.6 years. Even after receiving a diagnosis, patients are often left without a clear treatment plan and have to manage their condition alone. \r\n\r\nMany use AI chatbots for support, but without context on their medical history or symptom progression, they receive generic advice that is rarely actionable. Juno solves this by building a continuous, structured health profile for each user and connecting this fragmented health information. We spent the last year conducting research at Oxford and UCL to build our proprietary engagement layer for daily conversations, allowing Juno to ask the right questions at the right time and understand each user's health better than anyone else ever could. \r\n\r\nWe launched in October and are already at $600k in annual run rate, supporting 50,000+ patients globally. We’re building a future where everyone has a private clinical specialist in their pocket, 24/7.",
-    "name": "Juno",
-    "nonprofit": false,
-    "one_liner": "AI Health Assistant for Chronic Illness",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "juno-chat",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "tags": [
-      "Health Tech",
-      "Health & Wellness",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/juno-chat",
-    "website": "https://juno-chat.com/"
-  },
-  {
-    "all_locations": "Copenhagen, Denmark",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/complir.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31443,
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1774933783,
-    "long_description": "AI-powered product compliance platform that makes it easy for retailers to launch and scale products across borders without drowning in regulatory work. Complir's AI agents handle the regulations and documentation across every market you sell in - and keep your entire catalogue audit-ready.",
-    "name": "Complir",
-    "nonprofit": false,
-    "one_liner": "Vanta for physical products",
-    "question_answers": false,
-    "regions": [
-      "Denmark",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "complir",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1f72e453635f03c2884d2d58c26211bfd627530.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Retail",
-    "tags": [
-      "Retail",
-      "Regtech",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "team_size": 13,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/complir",
-    "website": "https://complir.io/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31482,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1777184787,
-    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
-    "name": "Memory Store",
-    "nonprofit": false,
-    "one_liner": "Shared context for all of your team's agents.",
+    "one_liner": "Compliance that makes products ready for global markets.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -648,63 +475,108 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "memory-store",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
+    "slug": "markit",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b63a988d2773d1a5c1037f6450dfbc78231218.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Operations",
     "tags": [
-      "Generative AI",
-      "SaaS",
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Compliance",
       "Consumer Products"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/memory-store",
-    "website": "https://memory.store"
+    "url": "https://www.ycombinator.com/companies/markit",
+    "website": "https://markittrade.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31485,
+    "former_names": [
+      "studysesh"
+    ],
+    "id": 32129,
     "industries": [
-      "Consumer",
-      "Consumer Electronics"
+      "Consumer"
     ],
     "industry": "Consumer",
-    "isHiring": true,
-    "launched_at": 1777953945,
-    "long_description": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-    "name": "ANORIA",
+    "isHiring": false,
+    "launched_at": 1784701469,
+    "long_description": "Egoist Machines is building infrastructure for a world where your personal context belongs to you, rather than to the apps and AI companies you use. Today, every assistant and consumer app builds its own version of you. We think that architecture is backwards. Your context should live with you, persist across products, and be available to any model, app or agent you choose.\r\n\r\nAI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data.\r\n\r\nApps integrate through Sign in with AI Passport, requesting only the context they need for a specific purpose and duration. Users can see what is being accessed and revoke that access later. Underneath, we have built our own memory infrastructure for fast, compact per-user retrieval and permissioned access.\r\n\r\nWe are distributing AI Passport directly to consumers through first-party products, while integrating it into consumer applications with existing distribution. Every new product that uses Passport gives users another reason to maintain their context there, and every additional Passport holder makes the context layer more useful to developers.\r\n\r\nThe next step is to build a true Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents. We call it Digital Domovoy, the hardware extension of AI Passport. Instead of your most personal context ultimately living on somebody else's servers, it lives and is processed locally on hardware you control. AI Passport becomes the permission layer between that private local context and the cloud models and internet services you choose to use.\r\n\r\nOur North Star is the Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents.",
+    "name": "Egoist Machines",
     "nonprofit": false,
-    "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
+    "one_liner": "Your personal context, securely portable across every AI app.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "anoria",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da4a14a3baf739d13d28c4b5fd536756215a6801.png",
+    "slug": "egoist-machines",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer -> Consumer Electronics",
+    "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Mental Health Tech",
-      "Consumer Health Services",
-      "Consumer Products"
+      "Personalization",
+      "Privacy",
+      "Consumer Products",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/anoria",
-    "website": "https://www.anoria.com"
+    "url": "https://www.ycombinator.com/companies/egoist-machines",
+    "website": "https://ego.ist/"
+  },
+  {
+    "all_locations": "Vancouver, BC, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/oro-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35521,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788891308,
+    "long_description": "We're building the open benchmark for commerce.\r\n\r\nBuilders submit shopping agents. Independent validators run them against problems that change daily. The best agent earns the rewards, and every run becomes training data.",
+    "name": "ORO AI",
+    "nonprofit": false,
+    "one_liner": "Continuously improving evals for agentic commerce",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "oro-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b66a9717c54294ba9f6e296bb8c04f9c3da74d27.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Crypto / Web3",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/oro-ai",
+    "website": "https://www.oroagents.com"
   }
 ]

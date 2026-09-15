@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/the-muse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -43,7 +43,7 @@
     "website": "http://themuse.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/hackerrank.json",
     "app_answers": null,
     "app_video_public": false,
@@ -85,7 +85,7 @@
     "website": "http://hackerrank.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/assembled.json",
     "app_answers": null,
     "app_video_public": false,
@@ -128,7 +128,7 @@
     "website": ""
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/recurse-center.json",
     "app_answers": null,
     "app_video_public": false,
@@ -253,7 +253,7 @@
     "website": "http://hackermeter.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/jopwell.json",
     "app_answers": null,
     "app_video_public": false,
@@ -478,7 +478,7 @@
       "Job and Career Services"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1478145033,
     "long_description": "At Extern, we’re solving the experience gap.  Extern created the remote Externship, a skill-building work experience that is easier for students to access, and easier for companies to run, than an internship.  Our mission is to help anyone discover and launch their career through professional experiences available anywhere at any time.  Since 2020, we’ve created and powered Externships for over 50,000 students on behalf of companies from Fortune 500s to startups.  \r\n\r\nAfter spending $100K on average for a 4-year degree, graduates find that almost 40% of entry level jobs on Linkedin required 3+ years of work experience. Internships are how many college students get this kind of experience, but the demand for good internships outstrips the supply. Internship programs are difficult to scale, they favor students who already have social capital, and they’re time-consuming for employers to run.\r\n\r\nExternships are short, online, project-based work experiences that employers can offer to hundreds of students using less resource and employee time than it would take to support an intern.  Extern makes the complex process of running an Externship completely turnkey with software and industry experts which in turn makes professional experience more accessible to more students.\r\n\r\nBy making work experience more accessible, Extern is driving the rapid mobility and upskilling needed for a new economy.  We envision a world where anyone can access work experience as a form of education – no matter their background, experience, or socio-economic status.  Come join our movement to reshape work, education, and credentialing for future generations with the Externship.\r\n\r\nExtern was born out of a pivot from Paragon One (W17) which initially focused on providing students with a career center-as-a-service platform, connecting them with industry professionals to receive career coaching and guidance.  Backed by Y Combinator, Foundation Capital, Launch Fund, University Ventures, and Learn Capital.",
     "name": "Extern",
@@ -716,7 +716,7 @@
     "website": "https://10by10.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/candidately.json",
     "app_answers": null,
     "app_video_public": false,
@@ -806,7 +806,7 @@
     "website": "https://www.keyvalues.com"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/elpha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -890,6 +890,53 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cspa",
     "website": "https://cspa.io"
+  },
+  {
+    "all_locations": "Boston, MA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/ascen.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2019",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ascen",
+      "Modern Labor"
+    ],
+    "id": 11967,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1541124185,
+    "long_description": "Ascen is a back office platform and employer of record for staffing firms.",
+    "name": "Ascen",
+    "nonprofit": false,
+    "one_liner": "EOR for the staffing industry",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "ascen",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0353e108ae308c49b23a266bca88c2a6888d05e.png",
+    "stage": "Growth",
+    "status": "Acquired",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [
+      "B2B",
+      "Recruiting",
+      "Compliance",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 30,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ascen",
+    "website": "https://ascen.com"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -1042,11 +1089,11 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1543948525,
-    "long_description": "AccioJob is an ed-tech startup run by IIT Delhi Alumni that provides a comprehensive state-of-the-art learning platform for Full Stack Web Development and Data Analytics.\r\n\r\nOur industry-relevant curriculum is taught by top tech instructors and mentors, and our students have gone on to work at leading tech companies like Amazon, Salesforce, and Walmart, among others. With job placement opportunities at 300+ top tech partner companies, we have placed 1000+ students in 2022 itself at an average salary of 8.3 LPA",
+    "long_description": "AccioJob is an offline-first tech skilling and placement institute. We run\r\nphysical skill centres in Noida, Pune, Hyderabad and Chennai alongside an\r\nonline programme, training graduates in Data Analytics, Data Science & AI and AI Engineering with Full Stack. 2,000+ students placed across 500+ hiring\r\npartners, with 50+ hiring drives run every month.",
     "name": "AccioJob",
     "nonprofit": false,
-    "one_liner": "Upskilling bootcamp for India",
-    "question_answers": false,
+    "one_liner": "Offline-first tech skilling and placement for India",
+    "question_answers": true,
     "regions": [
       "India",
       "South Asia"
@@ -1058,13 +1105,14 @@
     "subindustry": "Education",
     "tags": [
       "Education",
-      "Recruiting"
+      "Recruiting",
+      "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 250,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/acciojob",
-    "website": "http://www.acciojob.com"
+    "website": "https://acciojob.com"
   },
   {
     "all_locations": "Hyderabad, Telangana, India",
@@ -1162,7 +1210,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556761338,
     "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
     "name": "Outtalent",
@@ -1237,7 +1285,7 @@
     "website": "http://www.hatchways.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/directshifts.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1254,16 +1302,16 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1556764281,
-    "long_description": "We connect healthcare workers (physicians, advanced practitioners, nurses and allied health workers) to hospitals/clinics/telehealth companies for short/full time job opportunities. ",
+    "long_description": "DirectShifts helps telehealth and digital health companies build, launch, and scale nationwide clinical workforces.\r\n\r\nWe provide the workforce and operational infrastructure needed to expand into new states—from recruiting physicians, nurse practitioners, physician assistants, nurses, and other clinicians to managing multi-state licensing, credentialing, payer enrollment, collaborative physician supervision, telehealth scheduling, and ongoing workforce operations.\r\n\r\nFor companies expanding nationally, we help clinicians obtain and maintain licenses across multiple states, manage Medicare, Medicaid, and commercial payer enrollment, and provide collaborative physician and supervision solutions for advanced practice providers. We also help manage clinician availability and scheduling so organizations can align provider capacity with patient demand.\r\n\r\nInstead of building separate internal teams and systems for recruiting, licensing, credentialing, supervision, and scheduling, healthcare companies can use DirectShifts as a single platform to manage these functions.\r\n\r\nIn addition to telehealth and digital health companies, we work with hospitals, health systems, physician groups, and other healthcare organizations to recruit and deploy clinicians and manage the infrastructure required to support their clinical workforce.\r\n\r\nBy combining technology, automation, and healthcare workforce expertise, DirectShifts helps healthcare organizations launch in new states faster, reduce operational complexity, and scale their clinical workforce nationwide.\r\n",
     "name": "DirectShifts",
     "nonprofit": false,
-    "one_liner": "Helping healthcare workers find their next career opportunity ",
+    "one_liner": "Workforce platform to recruit, license, credential & manage clinicians",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "directshifts",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669185db4e1c72e8c0c2041d35950c4045986b7f.png",
@@ -1327,7 +1375,7 @@
     "website": "https://www.hiration.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/hiresweet.json",
     "app_answers": false,
     "app_video_public": false,
@@ -1348,7 +1396,9 @@
     "one_liner": "A talent acquisition software built for data-driven recruiting teams.",
     "question_answers": false,
     "regions": [
+      "France",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "slug": "hiresweet",
@@ -1420,7 +1470,7 @@
     "website": "https://runsyncro.com/"
   },
   {
-    "all_locations": "Bellevue, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/humanly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1601,7 +1651,7 @@
     "website": "https://www.howdy.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/modernloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1690,7 +1740,7 @@
     "website": "https://weekday.works"
   },
   {
-    "all_locations": "New York, NY, USA; Providence, RI, USA; Remote",
+    "all_locations": "New York City, NY, USA; Providence, RI, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pangea-app.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1926,10 +1976,10 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1624982871,
-    "long_description": "Healthcare workers use Adni’s AI career app to find jobs, buy gear, connect with peers, store credentials, review clinical info, and more. Healthcare employers, like Penn Medicine, Medical Solutions, and MedPro use Adni’s clinician network and AI sourcing and screening agents to hire healthcare talent faster and cheaper.\r\n\r\nBacked by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, the founders of CareRev, Clipboard Health, Papa, and more.",
+    "long_description": "Adni is the career community for 200,000+ nurses and allied health workers. Members use our app to chat with career coaches, apply for jobs, store and track credentials, shop for gear, connect with recruiters, and find meetups.\r\n\r\nOrganizations partner with Adni to reach, engage, and hire healthcare workers through our network, verified database of 2.4 million licensed clinicians, AI sourcing agent, and marketing tools. Customers acquire clinicians at 3x lower cost than legacy job boards and advertising platforms.\r\n\r\nOur customers include Massachusetts General Hospital, Penn Medicine, ChristianaCare, Medical Solutions, Medline, Jaanuu, and Proliability.\r\n\r\nFounded by two nurses. Backed by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, and the founders of CareRev, Clipboard Health, and Papa.",
     "name": "Adni",
     "nonprofit": false,
-    "one_liner": "AI career platform for healthcare workers",
+    "one_liner": "The career community for healthcare workers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1953,7 +2003,7 @@
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/adni",
-    "website": "https://www.adni.ai/"
+    "website": "https://www.adni.co/"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -2044,7 +2094,7 @@
     "website": "https://crew.work/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Atherton, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Atherton, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/talentdrop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2087,7 +2137,7 @@
     "website": "https://www.talentdrop.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/careerist.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2128,7 +2178,7 @@
     "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/careerist",
-    "website": "http://careerist.com/"
+    "website": "http://careerist.cc/"
   },
   {
     "all_locations": "Toronto, ON, Canada",
@@ -2265,20 +2315,20 @@
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/peoplebox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2302,10 +2352,8 @@
     "one_liner": "AI talent platform to hire, manage, and grow your people ",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "India",
+      "South Asia"
     ],
     "slug": "peoplebox",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png",
@@ -2313,11 +2361,11 @@
     "status": "Active",
     "subindustry": "B2B -> Human Resources",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "team_size": 35,
@@ -2392,7 +2440,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1691417670,
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
+    "long_description": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
     "name": "Bolto",
     "nonprofit": false,
     "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
@@ -2409,12 +2457,12 @@
     "status": "Active",
     "subindustry": "B2B -> Human Resources",
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bolto",
     "website": "https://www.bolto.com"
@@ -2479,26 +2527,26 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1703103445,
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex interviews, screens, and schedules every candidate – over voice, video, and text – so talent teams hire more great people, faster, without adding TA headcount. The recruiter stays in control: every shortlist is approved by a human, and every relationship and offer is owned by the customer's team.\r\n\r\nWe're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
     "name": "Alex",
     "nonprofit": false,
-    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
+    "one_liner": "Alex is the AI recruiter for hiring great people.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "alex-com",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b76c25c75fac04ce234cc570b0dd988698507a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
@@ -2554,7 +2602,7 @@
     "website": "https://deep24.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/astrix-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2658,10 +2706,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1740035301,
-    "long_description": "Contrario is on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "long_description": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
     "name": "Contrario",
     "nonprofit": false,
-    "one_liner": "AI recruiting platform powered by expert recruiters",
+    "one_liner": "AI hiring platform powered by expert recruiters",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2680,10 +2728,53 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/contrario",
     "website": "https://contrario.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/elip-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "TejasAI",
+      "Tejas AI"
+    ],
+    "id": 30226,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1740851644,
+    "long_description": "",
+    "name": "Elip AI",
+    "nonprofit": false,
+    "one_liner": "Cooking something sweet and salty! ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "elip-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54e4f055bff9db8e9f1d9ba01a05699d60abbf1b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Recruiting"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/elip-ai",
+    "website": "https://www.tryelip.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2733,88 +2824,45 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2025",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30796,
+    "id": 30862,
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Human Resources"
     ],
     "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1753159084,
-    "long_description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
-    "name": "Outrove",
+    "isHiring": true,
+    "launched_at": 1759034914,
+    "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
+    "name": "Sorce",
     "nonprofit": false,
-    "one_liner": "Ultra-realistic AI Recruiter",
+    "one_liner": "Tinder for jobs",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "outrove",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
+    "slug": "sorce",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Human Resources",
     "tags": [
+      "Marketplace",
+      "Consumer",
       "Recruiting",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/outrove",
-    "website": "https://www.outrove.ai/"
-  },
-  {
-    "all_locations": "London, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Grappl",
-      "HireGlide"
-    ],
-    "id": 30944,
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1762295048,
-    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
-    "name": "Prism",
-    "nonprofit": false,
-    "one_liner": "AI-native recruiting agency",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "slug": "tryprism",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "tags": [
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tryprism",
-    "website": "https://tryprism.com/"
+    "url": "https://www.ycombinator.com/companies/sorce",
+    "website": "https://sorce.jobs"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2832,25 +2880,26 @@
     "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1769729252,
-    "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "long_description": "Tsenta is an AI career agent that matches you with jobs, applies automatically, and gets you the best offers on the market.\r\n\r\nWe grew to ~$3M Annualized in three months. \r\n\r\nWe built it after manually applying to over 3,000 jobs ourselves, so that candidates would always have someone on their side.\r\n\r\nToday, more than 90,000+ job seekers trust Tsenta to automate their job search.",
     "name": "Tsenta",
     "nonprofit": false,
-    "one_liner": "We match you with jobs and apply automatically",
+    "one_liner": "AI career agent that finds matching jobs & applies on your behalf",
     "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "tsenta",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0363e9662e7db43e0292d57332e9650487ebdbb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Job and Career Services",
     "tags": [
-      "Artificial Intelligence",
+      "Marketplace",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -2859,44 +2908,134 @@
     "website": "https://tsenta.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/litmus-hiring.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31528,
+    "former_names": [
+      "Avert",
+      "Litmus",
+      "Avert"
+    ],
+    "id": 31304,
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1773592389,
-    "long_description": "Asendia AI builds AI recruiters for staffing agencies and enterprise companies. It clones their best recruiters into AI agents that match, screen, and submit candidates 10x faster.",
-    "name": "Asendia AI",
+    "isHiring": false,
+    "launched_at": 1783537104,
+    "long_description": "Litmus is building the most accurate framework for evaluating and benchmarking human capability, starting with software.\r\n\r\nAI will compound small differences in human capability into increasingly large differences in what people can accomplish, while making existing static benchmarks obsolete. Software is already there: AI can hill-climb any output-based evaluation, while the ability to direct it is becoming the defining advantage. \r\n\r\nLitmus applies the same approach we already use for model evals to humans – creating world-like environments, and inspecting trajectory instead of just output.\r\n\r\nEvery knowledge industry will soon face the same problem. We build Litmus to tell you what humans are capable of.\r\n\r\nWe're already helping build frontier technical teams at Mercor, Composio, Neo Scholars, and more.",
+    "name": "Litmus",
     "nonprofit": false,
-    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
+    "one_liner": "Evals for humans",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "asendia-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "slug": "litmus-hiring",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9f14022a002a449869ff376c950e1a9966d580.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
+      "Data Engineering",
       "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/asendia-ai",
-    "website": "https://asendia.ai/"
+    "url": "https://www.ycombinator.com/companies/litmus-hiring",
+    "website": "https://litmushiring.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/dreach.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Drip"
+    ],
+    "id": 31414,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1777049103,
+    "long_description": "dreach watches your ATS and your network. when someone starts hiring, you get the manager who owns the role and your warmest way in.",
+    "name": "Dreach",
+    "nonprofit": false,
+    "one_liner": "staffing firms with dreach grow revenue faster.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "dreach",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "B2B",
+      "Recruiting",
+      "Messaging",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dreach",
+    "website": "https://dreach.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lantern-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35190,
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1787030206,
+    "long_description": "Lantern learns what exceptional looks like for your team, pressure-tests the role against the real talent market, then runs the hiring loop: sourcing, inbound applications, interviews, assessments, candidate communication, and offers.",
+    "name": "Lantern AI",
+    "nonprofit": false,
+    "one_liner": "Turn Your Taste Into Hires",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lantern-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Human Resources",
+    "tags": [
+      "Artificial Intelligence",
+      "Human Resources",
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lantern-ai",
+    "website": "https://www.lantern.md"
   }
 ]

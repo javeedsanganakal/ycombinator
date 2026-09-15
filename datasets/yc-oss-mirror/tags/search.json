@@ -15,7 +15,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628280127,
     "long_description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
     "name": "Exa",
@@ -78,11 +78,11 @@
     "status": "Active",
     "subindustry": "Consumer -> Content",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "API",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -91,7 +91,52 @@
     "website": "https://AndiAI.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/capuchin.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "WorldQL"
+    ],
+    "id": 25306,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1648654841,
+    "long_description": "",
+    "name": "Capuchin",
+    "nonprofit": false,
+    "one_liner": "Search and automation for engineer-to-order companies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "capuchin",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea9d3b72b1fa93a8d4352fa71bae133957dcb7a7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Defense",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/capuchin",
+    "website": "https://capuchin.ai/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/shaped.json",
     "app_answers": null,
     "app_video_public": false,
@@ -106,7 +151,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1646119340,
     "long_description": "Connect your data. Train your models. Query text, user or session context and retrieve relevant results in milliseconds. Explore our case studies to see how we’ve helped leading brands drive significant engagement and revenue: https://www.shaped.ai/case-study. ",
     "name": "Shaped",
@@ -341,7 +386,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1686619959,
     "long_description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
     "name": "Structured Labs",
@@ -357,7 +402,7 @@
     "slug": "structured-labs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8dd08fd61491d9efffabb3dff787320791e2421.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Artificial Intelligence",
@@ -386,7 +431,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1704724705,
     "long_description": "Onyx is the open source chat UI connected to your company’s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
     "name": "Onyx",
@@ -400,7 +445,7 @@
     "slug": "onyx",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def9ae8f0c06685a28e8184b828d9de7e1232ad3.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Productivity",
     "tags": [
       "Open Source",
@@ -433,10 +478,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1704664395,
-    "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
+    "long_description": "Reducto is the agentic document platform for leading AI teams building systems to automate document workflows at enterprise scale.\r\n\r\nOur platform provides a comprehensive toolkit for working with documents the way a human would, combining custom in-house and leading frontier models to power efficient and accurate document workflows. Reducto is trusted by leading AI teams at companies like Harvey, Scale AI, and Vanta.\r\n\r\nWe are built for enterprise workloads with flexible deployment options from the cloud to fully air-gapped environments, SOC II and HIPAA compliance, and zero data retention.\r\n\r\nLearn more: https://reducto.ai/\r\nFind our YC deal: https://reducto.ai/yc",
     "name": "Reducto",
     "nonprofit": false,
-    "one_liner": "The most accurate API to parse documents",
+    "one_liner": "The complete agentic document platform",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -449,10 +494,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Data Engineering",
       "Enterprise Software",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
@@ -545,7 +590,7 @@
     "website": "https://trieve.ai"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/lumona.json",
     "app_answers": null,
     "app_video_public": false,
@@ -652,7 +697,7 @@
     "long_description": "Find & connect with your perfect leads by prompting in Origami.\r\n\r\norigami.chat has 100+ data sources - use it to find more of your perfect customers, enrich a CSV, or launch a sequence to connect with decision makers.\r\n\r\nTry it out and start connecting with your perfect leads in minutes, start free → origami.chat\r\n\r\nUsed by sales teams at CBRE, Clipboard Health, Remote.com, and more.",
     "name": "Origami",
     "nonprofit": false,
-    "one_liner": "Find your perfect leads with one prompt",
+    "one_liner": "Get your perfect customers with one prompt",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -694,7 +739,7 @@
     "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
     "name": "Serafis",
     "nonprofit": false,
-    "one_liner": "The AI knowledge graph for institutional investors",
+    "one_liner": "Narrative intelligence for investors",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -720,51 +765,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "DataBridge"
-    ],
-    "id": 30475,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1745265466,
-    "long_description": "Morphik is open-source multimodal search for AI apps. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
-    "name": "Morphik",
-    "nonprofit": false,
-    "one_liner": "Open-source multimodal search for AI apps",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "morphik",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Search",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/morphik",
-    "website": "https://morphik.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json",
     "app_answers": null,
     "app_video_public": false,
@@ -779,17 +779,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1750346506,
-    "long_description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat’s exactly what we’re building at Pally; a future where you never need to check another inbox again. ",
+    "long_description": "You text Pally like you’d text a friend, and it connects to everything else: your inboxes, calendar, files, tasks and the web",
     "name": "Pally",
     "nonprofit": false,
-    "one_liner": "Intelligent Unified Inbox + Personal CRM",
+    "one_liner": "Your personal AI Assistant",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "pally",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
@@ -801,7 +801,7 @@
       "Search"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pally",
     "website": "https://pally.com"

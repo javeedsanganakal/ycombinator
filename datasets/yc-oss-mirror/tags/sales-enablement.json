@@ -39,6 +39,51 @@
     "website": "http://stacklead.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2015",
+    "demo_day_video_public": true,
+    "former_names": [],
+    "id": 774,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1416220798,
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
+    "name": "Platzi",
+    "nonprofit": false,
+    "one_liner": "Turning company knowledge into expert teams",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "platzi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Sales Enablement",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 123,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/platzi",
+    "website": "https://platzi.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/workramp.json",
     "app_answers": null,
@@ -82,7 +127,7 @@
     "website": "https://www.workramp.com"
   },
   {
-    "all_locations": "Santa Fe, NM, USA",
+    "all_locations": "Boston, MA, USA; Santa Fe, NM, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/circa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -233,10 +278,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1594773565,
-    "long_description": "Step 1: We find you warm leads: contacts + companies that are showing interest on your website (via 6sense/Clearbit) and researching you around the web (via Bombora) but haven't converted yet.\r\n\r\nStep 2: We then auto follow up via chat, email or LinkedIn. Depends what workflows you want to set up - we can AI chat with them on your website, auto AI email them via your sequence provider of choice, and/or auto AI linkedin sequence them. Your humans can verify everything before being sent too. \r\n\r\nOutcome: 10x more outbound than a human SDR, 3x reply rates since they're warm and more booked meetings (results shown in ROI dashboard). \r\n\r\nP.S. if you want to use humans: you can send 1-click warm intro requests via your network or live chat/video call them too.\r\n\r\nThis is the power of an autonomous sales orchestration platform and we have 100+ paying customers who can back it up.\r\n ",
+    "long_description": "Acquired by HubSpot in 2026.\n\nStep 1: We find you warm leads: contacts + companies that are showing interest on your website (via 6sense/Clearbit) and researching you around the web (via Bombora) but haven't converted yet.\n\nStep 2: We then auto follow up via chat, email or LinkedIn. Depends what workflows you want to set up - we can AI chat with them on your website, auto AI email them via your sequence provider of choice, and/or auto AI linkedin sequence them. Your humans can verify everything before being sent too. \n\nOutcome: 10x more outbound than a human SDR, 3x reply rates since they're warm and more booked meetings (results shown in ROI dashboard). \n\nP.S. if you want to use humans: you can send 1-click warm intro requests via your network or live chat/video call them too.\n\nThis is the power of an autonomous sales orchestration platform and we have 100+ paying customers who can back it up.",
     "name": "Warmly,",
     "nonprofit": false,
-    "one_liner": "Autonomous sales platform to auto-email your warmest leads",
+    "one_liner": "[Acquired by HubSpot in 2026] Autonomous sales platform to auto-email…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -247,14 +292,14 @@
     "slug": "warmly",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/480be3f11921bc9ec24d0fe4b1f09548d6b9ec5c.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 60,
@@ -358,7 +403,7 @@
     "website": "https://firstquadrant.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/geostar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -405,7 +450,7 @@
     "website": "https://www.geostar.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/coast.json",
     "app_answers": null,
     "app_video_public": false,
@@ -508,7 +553,7 @@
       "Sales"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1657442843,
     "long_description": "SilkChart analyzes sales calls and measures how well playbooks are executed. It proactively surfaces coaching opportunities to managers, and provides reps with actionable feedback to close more deals.",
     "name": "SilkChart",
@@ -527,17 +572,68 @@
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/silkchart",
     "website": "https://www.silkchart.com"
+  },
+  {
+    "all_locations": "Seattle, WA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/sota2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PageOne Lab, Inc.",
+      "VacationHomeRents",
+      "Wizwand",
+      "AgentDiscuss",
+      "AgentRouter"
+    ],
+    "id": 25339,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1647541720,
+    "long_description": "Sota2 is Yelp for AI products. We help companies find and compare best AI solutions for their businesses using reviews, benchmarks, and compar tools. ",
+    "name": "Sota2",
+    "nonprofit": false,
+    "one_liner": "Help business find and discover AI solutions",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "sota2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cca75ae8585f526a195b8ac0a0dfb01f738ad7c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales Enablement",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sota2",
+    "website": "https://www.sota2.com"
   },
   {
     "all_locations": "Auckland, Auckland, New Zealand; Auckland, New Zealand",
@@ -620,10 +716,10 @@
     "status": "Inactive",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Sales Enablement",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -634,14 +730,15 @@
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/supersend.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/ranla.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
     "demo_day_video_public": false,
     "former_names": [
       "EXO Freight",
-      "Super Send"
+      "Super Send",
+      "SuperSend"
     ],
     "id": 25605,
     "industries": [
@@ -651,10 +748,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1642105352,
-    "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
-    "name": "SuperSend",
+    "long_description": "Ranla is an AI growth marketer for PLG SaaS teams. You instrument product events once; Ranla segments users, plans lifecycle campaigns, writes the email, sends it on infrastructure you control, and reports back in dollars — trials converted, upgrades, churn risk — not just opens and clicks.\r\n\r\nMost founders ship the product but never hire a lifecycle marketer. Ranla owns that loop: weekly plans, occasion-based sends, A/B tests, and approval flows so nothing goes out without you when you want a gate. Transactional and lifecycle email live on the same stack, so password resets and onboarding drips aren't split across Resend plus a separate ESP.\r\n\r\nWe're built for teams with signups and revenue data but no one running email full time — the gap between \"we have users\" and \"we have a growth motion.\"\r\n\r\n\r\n",
+    "name": "Ranla",
     "nonprofit": false,
-    "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
+    "one_liner": "The AI growth marketer that turns SaaS signups into revenue",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -662,8 +759,8 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "supersend",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
+    "slug": "ranla",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e77030a95d7d1d6848dce062a119a876a2676952.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -674,10 +771,10 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/supersend",
-    "website": "https://supersend.io/"
+    "url": "https://www.ycombinator.com/companies/ranla",
+    "website": "https://ranla.ai/"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -774,14 +871,15 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/boundo.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/impractical.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2022",
     "demo_day_video_public": false,
     "former_names": [
       "Openpod",
-      "Sail"
+      "Sail",
+      "Boundo"
     ],
     "id": 26722,
     "industries": [
@@ -791,17 +889,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1657127484,
-    "long_description": "Boundo uses generative AI to replace SDRs. Tell our platform who you're looking for, and it will find and contact high quality sales leads in a fully automated way! We’ve tuned our models to write near-human outbound sales emails with proven conversion. Best of all, we're using our own tool to do all of our sales. ",
-    "name": "Boundo",
+    "long_description": "Impractical is your team's autonomous motion designer - trained off of hours of motion design courses, examples - built to ship stunning videos while your team ships features. \r\n\r\nInstead of hiring an agency, getting a freelancer, or getting subpar results with claude code, Impractical can make superior videos faster, and for much less. \r\n\r\nSignup at motion.impractical.ai for free! \r\n\r\n",
+    "name": "Impractical",
     "nonprofit": false,
-    "one_liner": "Using generative AI to 10x outbound sales, all on autopilot!",
+    "one_liner": "Your autonomous motion designer that turns every feature into a…",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "boundo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89dea1f7b9b523f2d5faa5e446dc7f5bb813a850.png",
+    "slug": "impractical",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496a25e4233f08a9c98a89b4cb57a9e0a977427e.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -814,11 +912,11 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/boundo",
-    "website": "https://boundo.com"
+    "url": "https://www.ycombinator.com/companies/impractical",
+    "website": "https://impractical.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/capix.json",
     "app_answers": null,
     "app_video_public": false,
@@ -937,7 +1035,7 @@
     "slug": "gluetrail",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/655e9f2acbaad108c6e7539ecb81f7a1ce60e8cc.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Marketing",
     "tags": [
       "Artificial Intelligence",
@@ -953,7 +1051,7 @@
     "website": "https://www.gluetrail.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/hindsight.json",
     "app_answers": null,
     "app_video_public": false,
@@ -970,7 +1068,7 @@
       "Sales"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1673288585,
     "long_description": "Hindsight's AI helps teams understand why they win or lose deals - and use that insight to win more.\r\n\r\nOur platform is used by teams like Ironclad, LaunchDarkly, and Klaviyo to build workflows on top of their GTM data.\r\n\r\n1. Build battlecards, objection handling guides, and case studies that never go out of date\r\n2. Create AI roleplays based on real conversations your sales team is having\r\n3. Analyze 1000s of deals to create reports and alerts for your GTM, product, and strategy teams.",
     "name": "Hindsight",
@@ -1046,6 +1144,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hyperbound",
     "website": "https://hyperbound.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/twine.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29117,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1692063402,
+    "long_description": "Twine helps service businesses turn more leads into booked revenue. We capture every call, text, form, chat, Google, Yelp, and ad lead in one place, then use AI to respond instantly, qualify customers, follow up automatically, book jobs, and show which channels are actually making money.",
+    "name": "Twine",
+    "nonprofit": false,
+    "one_liner": "ai revenue engine for service businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "twine",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e6d9ef44b5a30957092f779906587404458335.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Sales Enablement",
+      "Marketing",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twine",
+    "website": "http://www.usetwine.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1185,7 +1328,7 @@
     "website": "https://www.crmcopilot.co?utm_source=yc"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/finny-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1210,7 +1353,7 @@
       "America / Canada"
     ],
     "slug": "finny-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ab4e3c33029c67ba8eae7cd2a3793a0cab52c70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2d0e659d5d03f52a35513c7fe53a3701c771832.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "Fintech -> Asset Management",
@@ -1222,52 +1365,10 @@
       "Automation"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/finny-ai",
     "website": "https://www.finny.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30033,
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1728361776,
-    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
-    "name": "OpenFunnel",
-    "nonprofit": false,
-    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "openfunnel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Sales",
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/openfunnel",
-    "website": "https://openfunnel.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1284,17 +1385,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740147387,
-    "long_description": "Research on autopilot. Discover, Qualify & Engage your market.",
+    "long_description": "We help startups reach prospective customers through email, LinkedIn, and cold calls, while keeping your team aligned on every conversation and response.",
     "name": "Verbiflow",
     "nonprofit": false,
-    "one_liner": "People search that works",
+    "one_liner": "Outbound Sequencing Infrastructure for Startups",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "verbiflow",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd29bf3ae78d877579bc04ed995435a51eec466.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61dac6c9c5fd565ee458bdaddc5acb67c824ccd3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -1354,6 +1455,50 @@
     "website": "https://www.usepeppr.ai/"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": true,
+    "former_names": [
+      "Paratus"
+    ],
+    "id": 30337,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1739954707,
+    "long_description": "Voice agents for outpatient facilities. ",
+    "name": "Paratus Health",
+    "nonprofit": false,
+    "one_liner": "healthcare AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "paratus-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "website": "https://paratushealth.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cedar.json",
     "app_answers": null,
@@ -1400,7 +1545,7 @@
     "website": "https://mail.cedarcopilot.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nomi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1421,8 +1566,8 @@
     "one_liner": "Realtime Sales Copilot",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -1458,7 +1603,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1753141974,
-    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 110,000 users, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
+    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 170,000 users as of July '26, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
     "name": "Golpo",
     "nonprofit": false,
     "one_liner": "Create Whiteboard Explainer Videos with AI from a Prompt or Document",
@@ -1480,19 +1625,21 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/golpo",
     "website": "https://video.golpoai.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryeden.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Eden"
+    ],
     "id": 30739,
     "industries": [
       "B2B",
@@ -1501,17 +1648,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1753907556,
-    "long_description": "Eden helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Eden creates realistic AI buyers they can speak with before the real meeting. After each practice call, Eden scores the rep and shows exactly what to improve.",
-    "name": "Eden",
+    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
+    "name": "Quotain",
     "nonprofit": false,
-    "one_liner": "AI sales practice using your real deals",
+    "one_liner": "AI sales simulations using your real deals",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "tryeden",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12c60f7c48d152e63842700acbb1bf22c973bd5a.png",
+    "slug": "quotain",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37a5e96e86c6ccc42f303588c30f27f31a1fad2d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Sales",
@@ -1523,63 +1670,19 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tryeden",
-    "website": "https://edenhq.com"
+    "url": "https://www.ycombinator.com/companies/quotain",
+    "website": "https://quotain.com"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/dreach.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "RegBase"
+      "Drip"
     ],
-    "id": 31279,
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1776112979,
-    "long_description": "",
-    "name": "Regbase",
-    "nonprofit": false,
-    "one_liner": "Tracking global laws, grants and consultations",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "regbase",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Legal",
-    "tags": [
-      "Legal",
-      "Sales Enablement",
-      "LegalTech",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/regbase",
-    "website": "https://regbase.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/drippay.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
     "id": 31414,
     "industries": [
       "B2B",
@@ -1588,30 +1691,75 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1777049103,
-    "long_description": "Drip is the operating system for enterprise contract operations. We unify communication, procurement, pricing, entitlements, and financial workflows into a single context layer so companies can execute deals, coordinate internally, and manage contracts without engineering bottlenecks.",
-    "name": "Drip",
+    "long_description": "dreach watches your ATS and your network. when someone starts hiring, you get the manager who owns the role and your warmest way in.",
+    "name": "Dreach",
     "nonprofit": false,
-    "one_liner": "The operating system for enterprise deal execution",
+    "one_liner": "staffing firms with dreach grow revenue faster.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "drippay",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
+    "slug": "dreach",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "B2B",
-      "Sales Enablement",
-      "Billing",
-      "Infrastructure"
+      "Recruiting",
+      "Messaging",
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/drippay",
-    "website": "https://usedrip.ai"
+    "url": "https://www.ycombinator.com/companies/dreach",
+    "website": "https://dreach.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "COΛCH"
+    ],
+    "id": 32220,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785353697,
+    "long_description": "85% of all sales still happen face-to-face. Coach is how those get closed.\r\nOur AI turns in-depth sales conversation analysis into company knowledge and personalized coaching to help reps close more deals.",
+    "name": "COACH",
+    "nonprofit": false,
+    "one_liner": "The AI Coach for in person sales reps.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ai-coach",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78b58d361b887533d84ef36e56f833ff7fd87c5c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ai-coach",
+    "website": "https://www.getcoach.com/"
   }
 ]

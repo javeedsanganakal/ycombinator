@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Pleasanton, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Pleasanton, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/sendhub.json",
     "app_answers": null,
     "app_video_public": false,
@@ -162,7 +162,7 @@
     "website": "http://localon.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/squire-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -507,7 +507,52 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/flexwash",
-    "website": "https://www.flexwashtech.com/"
+    "website": "https://www.flexwash.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/twine.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29117,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1692063402,
+    "long_description": "Twine helps service businesses turn more leads into booked revenue. We capture every call, text, form, chat, Google, Yelp, and ad lead in one place, then use AI to respond instantly, qualify customers, follow up automatically, book jobs, and show which channels are actually making money.",
+    "name": "Twine",
+    "nonprofit": false,
+    "one_liner": "ai revenue engine for service businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "twine",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e6d9ef44b5a30957092f779906587404458335.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Sales Enablement",
+      "Marketing",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twine",
+    "website": "http://www.usetwine.com"
   },
   {
     "all_locations": "Paris, IDF, France",
@@ -555,7 +600,7 @@
     "website": "https://www.malibou.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/offdeal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -686,5 +731,90 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/boom-ai",
     "website": "https://useboom.ai"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trynearby.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32815,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786488480,
+    "long_description": "TryNearby connects local businesses with creators who live nearby. Restaurants subscribe monthly and automatically get booked visits from local creators who film, edit, and post a review to the local algorithm. This creates a steady stream of content that compounds into discovery on TikTok, Instagram, and increasingly AI search. Over 100 restaurants and thousands of creators are on the platform across Southern California, with AI agents handling matching, booking, and every creator conversation.",
+    "name": "TryNearby",
+    "nonprofit": false,
+    "one_liner": "Local creators for local businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "trynearby",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/043d0df2ce658d03b7ad1d70bb0deaa3f2282ea5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Restaurant Tech",
+      "Marketing",
+      "Creator Economy",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/trynearby",
+    "website": "https://trynearby.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vyra.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36411,
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "industry": "Consumer",
+    "isHiring": true,
+    "launched_at": 1789166415,
+    "long_description": "Instead of making users learn a timeline, we let them upload footage, describe what they want, and get back a polished edit in minutes.",
+    "name": "Vyra",
+    "nonprofit": false,
+    "one_liner": "Autonomous video editing for non-editors.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "vyra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad073b0df3558383dd73b1125d5e326d63c3e12.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Content",
+    "tags": [
+      "Video",
+      "Automation",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vyra",
+    "website": "https://usevyra.com"
   }
 ]

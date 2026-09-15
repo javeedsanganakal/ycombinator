@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/arc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -80,7 +80,7 @@
     "website": "http://airware.com"
   },
   {
-    "all_locations": "San Leandro, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Leandro, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/terravion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -120,7 +120,7 @@
     "website": "http://terravion.com"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zeitview.json",
     "app_answers": null,
     "app_video_public": false,
@@ -207,7 +207,7 @@
     "website": "http://www.airmada.com"
   },
   {
-    "all_locations": "Reno, NV, USA",
+    "all_locations": "Blountville, TN, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/flirtey.json",
     "app_answers": null,
     "app_video_public": false,
@@ -432,7 +432,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525133083,
     "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
     "name": "Paladin",
@@ -462,7 +462,7 @@
     "website": "http://paladindrones.io"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/corvus-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -659,7 +659,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1583964166,
     "long_description": "Avion is a drone-based digital health platform, designed to bridge the gap between remote clinics and urban healthcare infrastructures. By connecting these isolated clinics with sophisticated labs and well-stocked pharmacies in cities, Avion brings a new era of remote diagnostics and prescription fulfilment.\r\n\r\nAvion ensures the rapid, safe, and efficient delivery of vital medical supplies and clinical samples, even to the most hard-to-reach locations. \r\n\r\nAvion's operation uniquely combines cutting-edge autonomous drone technology with digital health platforms. Our drones, built with advanced eVTOL capabilities, ensure seamless take-off and landing capabilities, even in challenging terrains.\r\n\r\nAvion's digital health platform serves as the connective tissue between urban health centers and remote clinics. The platform features an intuitive interface, making it easy for healthcare providers to order necessary supplies, track shipments, and even communicate with laboratory and pharmacy staff.",
     "name": "Avion",
@@ -702,15 +702,15 @@
     "id": 24039,
     "industries": [
       "Industrials",
-      "Drones"
+      "Aviation and Space"
     ],
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1625919461,
-    "long_description": "Kalam Labs has developed world's highest flying UAVs - deployable from high-altitude balloons they replace satellites to provide high-res EO/IR and hyperspectral reconnaissance.",
+    "long_description": "Kalam Labs has developed autonomous spaceplanes, capable of flying from 100,000+ ft altitude to conduct upper atmospheric sensing, currently limited to non-maneuverable balloons and expensive satellites.\r\nWe are one of the world's highest flying UAVs, and have $330 Mn+ contracts from global goverments to deploy the autonomous spaceplanes and replace traditional satellites and ground-borne UAVs",
     "name": "Kalam Labs",
     "nonprofit": false,
-    "one_liner": "Near Space Flying Machines",
+    "one_liner": "Autonomous Stratospheric UAVs",
     "question_answers": false,
     "regions": [
       "India",
@@ -720,11 +720,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Drones",
+    "subindustry": "Industrials -> Aviation and Space",
     "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
       "Drones",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -779,7 +781,54 @@
     "website": "https://www.buoyant.aero"
   },
   {
-    "all_locations": "Cincinnati, OH, USA",
+    "all_locations": "Raleigh, NC, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Rownd",
+      "LlamaFarm"
+    ],
+    "id": 25402,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1643295526,
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
+    "name": "Rownd",
+    "nonprofit": false,
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rownd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Artificial Intelligence",
+      "Drones",
+      "Open Source",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "website": "https://rownd.ai"
+  },
+  {
+    "all_locations": "Dayton, OH, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/velontra.json",
     "app_answers": null,
     "app_video_public": false,
@@ -929,7 +978,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1725406335,
     "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "name": "Theseus",
@@ -947,55 +996,14 @@
     "subindustry": "Industrials -> Drones",
     "tags": [
       "Robotics",
-      "Drones"
+      "Drones",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/theseus",
     "website": "https://theseus.us"
-  },
-  {
-    "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30409,
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1746979571,
-    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
-    "name": "Notus Autonomous Systems",
-    "nonprofit": false,
-    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "notus-autonomous-systems",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
-    "tags": [
-      "Robotics",
-      "Drones",
-      "3D Printing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
-    "website": "http://www.notussystems.com/"
   },
   {
     "all_locations": "Philadelphia, PA, USA",
@@ -1033,7 +1041,8 @@
     "subindustry": "Industrials -> Defense",
     "tags": [
       "Drones",
-      "Maritime"
+      "Maritime",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 18,
@@ -1083,7 +1092,7 @@
     "website": "https://tornyol.com/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/seeing-systems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1119,35 +1128,37 @@
     "status": "Active",
     "subindustry": "Industrials -> Defense",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Drones",
-      "Aerospace"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/seeing-systems",
     "website": "https://www.seeing-systems.com"
   },
   {
     "all_locations": "Sydney, NSW, Australia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/brumby.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "GrazeMate"
+    ],
     "id": 31285,
     "industries": [
       "Industrials",
       "Agriculture"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1768433444,
-    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
-    "name": "GrazeMate",
+    "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
+    "name": "Brumby (Formerly GrazeMate)",
     "nonprofit": false,
     "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
     "question_answers": false,
@@ -1157,8 +1168,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "grazemate",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
+    "slug": "brumby",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f64c3261f306e1859d503d40ad84601c127c82.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Agriculture",
@@ -1171,90 +1182,51 @@
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/grazemate",
-    "website": "https://grazemate.com"
+    "url": "https://www.ycombinator.com/companies/brumby",
+    "website": "https://brumby"
   },
   {
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json",
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31374,
+    "id": 31452,
     "industries": [
       "Industrials",
-      "Defense"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1775173231,
-    "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
-    "name": "Tenet Industries",
-    "nonprofit": false,
-    "one_liner": "Drones as ammunition. ",
-    "question_answers": false,
-    "regions": [
-      "Sweden",
-      "Europe"
-    ],
-    "slug": "tenet-industries",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Defense",
-    "tags": [
-      "Hardware",
-      "Drones",
-      "Manufacturing",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tenet-industries",
-    "website": "https://www.tenetindustries.com"
-  },
-  {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/aice-power.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31442,
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1775067317,
-    "long_description": "We are building the next generation of underwater defense systems: autonomous swarms of modular marine drones to secure naval assets and coastal infrastructure against evolving underwater threats.",
-    "name": "AICE Power",
-    "nonprofit": false,
-    "one_liner": "Submarine drones for defense",
-    "question_answers": false,
-    "regions": [
-      "Unspecified"
-    ],
-    "slug": "aice-power",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c821ac938388eef9bdac08cedddc97651fe77c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Defense",
-    "tags": [
-      "Swarm AI",
-      "Robotics",
       "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1775570807,
+    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "name": "Degla Inc",
+    "nonprofit": false,
+    "one_liner": "The fully autonomous intelligence layer in the sky.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "degla-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Drones",
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/aice-power",
-    "website": "https://aicepower.com"
+    "url": "https://www.ycombinator.com/companies/degla-inc",
+    "website": "https://degla.ai"
   },
   {
     "all_locations": "Los Angeles, CA, USA",
@@ -1290,41 +1262,87 @@
       "Hard Tech",
       "Robotics",
       "Drones",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ornadyne",
     "website": "https://ornadyne.com/"
   },
   {
-    "all_locations": "Elk Grove Village, IL, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json",
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mass-magnetics.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31561,
+    "former_names": [
+      "Mass Energy Company"
+    ],
+    "id": 32128,
     "industries": [
       "Industrials",
       "Defense"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1774490913,
-    "long_description": "",
-    "name": "Maquoketa Research",
+    "launched_at": 1786735839,
+    "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
+    "name": "Mass Magnetics",
     "nonprofit": false,
-    "one_liner": "Intelligent one-way attack drones",
+    "one_liner": "USA-made magnetics for robotics and defense. ",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "maquoketa-research",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
+    "slug": "mass-magnetics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26161cef0e683292e39a5da2d6258b38702473a0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Drones",
+      "Manufacturing",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mass-magnetics",
+    "website": "https://massmagnetics.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/impact-drones.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32188,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785702345,
+    "long_description": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+    "name": "IMPACT Drones",
+    "nonprofit": false,
+    "one_liner": "Air Defense as a Service for Civilian Infrastructure.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "impact-drones",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df3a5c9dfd6e7d9865e24f95f172c997a7183b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Defense",
@@ -1332,13 +1350,144 @@
       "Artificial Intelligence",
       "Hardware",
       "Drones",
-      "Computer Vision",
-      "Manufacturing"
+      "Swarm Robotics"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/maquoketa-research",
-    "website": "https://www.maquoketa.net"
+    "url": "https://www.ycombinator.com/companies/impact-drones",
+    "website": "https://www.impact-drones.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/greypoint-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32586,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782765221,
+    "long_description": "We build LEGION, a drone swarm that identifies, geolocates, and tracks every emitter on the battlefield using the enemy’s own radio signals. LEGION enables our warfighters to precisely track previously obscured targets like jammers, command posts, and drone operators so they can proactively respond to threats instead of reacting to them.",
+    "name": "Greypoint Industries",
+    "nonprofit": false,
+    "one_liner": "Building drone swarms that hunt hidden enemies.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "greypoint-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0d5898f7b8fc2ee6fc19f6de3dae045123c7608.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Drones",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/greypoint-industries",
+    "website": "https://greypointindustries.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/earendil-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Earendil Robotics Ltd"
+    ],
+    "id": 33281,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783628748,
+    "long_description": "Earendil Robotics builds cUAS solutions for the modern warfighter, enabling effective air defence at the small-unit level. We deliver spotting, engaging, and destroying capabilities through advanced sensors, autonomous interceptors, and integrated systems.\r\n\r\nOur product lineup covers every stage of the kill chain, complemented by the Drone Warfare Academy that trains soldiers to eliminate enemy drone threats in contested environments.\r\n\r\nBacked by worldwide frontline combat experience, we equip units with combat-proven tools to counter evolving aerial threats.",
+    "name": "Earendil Robotics",
+    "nonprofit": false,
+    "one_liner": "Drone swarm defence at a small-unit level",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "earendil-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ec6212427cdf833238bd48eca01f40904ba49f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Drones",
+      "Swarm Robotics",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/earendil-robotics",
+    "website": "https://earendil.io"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/vernius-systems-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33319,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786812946,
+    "long_description": "We make mass-deployable radars for unmanned systems. Our first product is Archimedes, a radar seeker that finds and locks onto targets, enabling autonomous intercept on any drone. We have over $580M in LOIs for Archimedes, across some of the largest defense primes in Ukraine, the EU, and the Middle East.\r\n\r\nSeekers are the most critical and costly component in every autonomous interceptor. Developing a radar seeker takes a 200+ person team at Raytheon and hundreds of millions of dollars. Archimedes is 100x cheaper than existing radar seekers on the market - and is the first product to make it feasible to deploy radars on every drone.",
+    "name": "Vernius Systems, Inc.",
+    "nonprofit": false,
+    "one_liner": "Mass-deployable radars for air defense",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "vernius-systems-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Radar",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vernius-systems-inc",
+    "website": "https://www.vernius.systems"
   }
 ]

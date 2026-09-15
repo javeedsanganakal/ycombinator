@@ -123,7 +123,7 @@
     "website": "http://bellabeat.com"
   },
   {
-    "all_locations": "Newport Beach, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Newport Beach, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/fightcamp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -169,7 +169,7 @@
     "website": "http://joinfightcamp.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/fitnessai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -260,7 +260,7 @@
     "website": "https://blok.fit"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/overfit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -305,7 +305,7 @@
     "website": "https://overfit.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/arketa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -380,7 +380,7 @@
     "slug": "quell",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133bcd99ce642360941054c47cfd64820d35818f.png",
     "stage": "Early",
-    "status": "Inactive",
+    "status": "Acquired",
     "subindustry": "Consumer -> Consumer Electronics",
     "tags": [
       "Hardware",
@@ -487,7 +487,7 @@
     "website": "https://eatblueprint.com"
   },
   {
-    "all_locations": "New York, NY, USA; Washington, DC, USA",
+    "all_locations": "New York City, NY, USA; Washington, DC, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/snapcalorie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -531,7 +531,7 @@
     "website": "https://www.snapcalorie.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Lima, Lima Province, Peru",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/fitia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -552,8 +552,8 @@
     "one_liner": "Automated Meal Planner & Nutrition Tracking",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Peru",
+      "Latin America",
       "Remote",
       "Partly Remote"
     ],
@@ -615,7 +615,7 @@
     "website": "https://www.breakaway.app/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/overlord.json",
     "app_answers": null,
     "app_video_public": false,
@@ -842,49 +842,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hybrd",
     "website": "https://www.hybrd.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Paper Star"
-    ],
-    "id": 31427,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1775700750,
-    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
-    "name": "Napkin Math",
-    "nonprofit": false,
-    "one_liner": "Building Napkin Math, hyper-personalized AI food journal",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "napkin-math",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Fitness",
-      "Digital Health",
-      "Food"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/napkin-math",
-    "website": "https://napkinmath.club"
   }
 ]

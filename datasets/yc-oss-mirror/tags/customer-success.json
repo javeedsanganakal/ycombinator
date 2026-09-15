@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/natero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -84,7 +84,7 @@
     "website": "https://www.workramp.com"
   },
   {
-    "all_locations": "Dublin, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Dublin, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/herald.json",
     "app_answers": null,
     "app_video_public": false,
@@ -174,7 +174,7 @@
     "website": "https://www.chatwoot.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Pleasanton, CA, USA",
+    "all_locations": "Houston, TX, USA; Pleasanton, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/floweq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -453,7 +453,7 @@
     "website": "https://onboard.io"
   },
   {
-    "all_locations": "New York, NY, USA; Mountain View, CA, USA",
+    "all_locations": "New York City, NY, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/zoltar-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -720,7 +720,7 @@
     "website": "https://clueso.io"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bridgeton, MO, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pylon-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -735,10 +735,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1676268747,
-    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
+    "long_description": "Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters.\r\n\r\nUnlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Retool, Hightouch, and Deel use Pylon to manage their customers.\r\n\r\nLearn more at usepylon.com",
     "name": "Pylon",
     "nonprofit": false,
-    "one_liner": "The only customer support platform built for B2B.",
+    "one_liner": "The Agentic Support Platform purpose-built for B2B.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -756,7 +756,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 90,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pylon-2",
     "website": "https://usepylon.com/?utm_source=bookface&utm_medium=referral&utm_campaign=pylon-profile"
@@ -851,6 +851,51 @@
     "website": "https://wavelength.cx/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/parahelp.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Sam"
+    ],
+    "id": 29684,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1720219864,
+    "long_description": "Build and run an AI support agent that resolves even your most complex tickets end-to-end.\r\n\r\nIf a tool has an API, you can securely connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "name": "Parahelp",
+    "nonprofit": false,
+    "one_liner": "Build an AI support agent that securely uses all your tools",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "parahelp",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 11,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/parahelp",
+    "website": "https://parahelp.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/intryc.json",
     "app_answers": null,
@@ -897,7 +942,7 @@
     "website": "https://intryc.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/rulebase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -912,16 +957,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1728494886,
-    "long_description": "Rulebase builds AI coworkers that help banks and fintechs review 100% of customer interactions in real time. Our agents flag compliance breaches, high-risk issues, and quality gaps across calls, chats, and emails — then route them to the right teammates. The result: up to 30% fewer escalations and QA cycles reduced from hours to minutes.\r\n",
+    "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
     "name": "Rulebase",
     "nonprofit": false,
-    "one_liner": "AI agents for financial services.",
+    "one_liner": "AI customer operations for regulated industries.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "rulebase",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbe1673896b690961165f8406e0d96d1d646c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Operations",
@@ -931,53 +977,50 @@
       "Customer Support"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rulebase",
     "website": "https://rulebase.co"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/outlit.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2025",
+    "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30487,
+    "id": 30291,
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1746417759,
-    "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
-    "name": "Lyra",
+    "launched_at": 1736658447,
+    "long_description": "Outlit helps B2B SaaS companies improve GRR and NRR by keeping more customers and finding more expansion revenue.\r\n\r\nOutlit creates a real-time view of every customer using product usage, support, calls, email, Slack, billing, CRM, and external signals. It assesses whether each account is likely to renew, expand, contract, or churn, then provides the evidence and next action.\r\n\r\nThe result: stronger adoption, higher retention, and more expansion revenue from signals your team would never catch in a health score or any single tool.",
+    "name": "Outlit",
     "nonprofit": false,
-    "one_liner": "AI native meeting platform",
+    "one_liner": "Retain and Grow Every Customer",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "lyrahq",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a65f33dd3f6dc3e215ba91c4ce53cbf6671a44ca.png",
+    "slug": "outlit",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a8c8e06204be0874b7eb6c471380893195adbb.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Customer Success",
-      "Sales",
-      "Telecommunications",
-      "AI"
+      "Customer Success"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lyrahq",
-    "website": "https://lyra.so/"
+    "url": "https://www.ycombinator.com/companies/outlit",
+    "website": "https://outlit.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1000,10 +1043,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1759337800,
-    "long_description": "Every product ever sold needs support at some point. That support falls into one of two buckets.\r\n\r\nBucket 1: Simple stuff. T-shirts, screen protectors, keyboards. You buy it, it shows up, maybe you ask “where's my order?” once. This is solved. Zendesk and a hundred other horizontal companies solved it.\r\n\r\nBucket 2: Hard stuff. $20,000 industrial heaters. HVAC systems. CNC machines. Car parts. Products where buying wrong means your building doesn't have heat or your manufacturing line is down. Support for these products can only be performed by highly trained domain specialists and there aren't enough of them.\r\n\r\nIf you're selling EV charging stations, your support person needs to be a certified electrician who understands local power grids, installation codes, and compatibility matrices. You can't hire this off the street. You can't outsource it overseas.\r\n\r\nYou'd think LLMs would have solved this by now. They haven't. Three years into the LLM era, penetration in this industry is very low & the reason is twofold.\r\n\r\nFirst, off-the-shelf models don't actually understand these products. The knowledge lives in 48-page technical manuals buried on some manufacturer's website in terrible formatting — wiring schematics, compatibility matrices, installation diagrams that can only make sense visually. A general-purpose LLM can't draw you the diagram showing how to connect terminal A to terminal B. It doesn't have the spatial understanding or the product-specific reasoning to be a real technical advisor. So companies still rely entirely on human experts.\r\n\r\nSecond, even if the models were good enough, there are no harnesses to make them useful in the business.\r\n\r\nNo engine to capture deep technical knowledge about complex physical products and keep it updated. No way for a company to offload tribal knowledge from their senior technicians into a system. No way to see what questions customers are actually asking and feed that back into the knowledge base. No generative multimodal presentation and no expressive voice support.\r\n\r\nProx is building the best technical product expert for extremely complicated physical products.\r\n\r\nA multimodal agent that can draw wiring schemes, share CAD models, process incoming videos from a technician in the field, and support people over the phone with voice that can pass the Turing test. To get there, we're solving multimodal knowledge graph building at a very deep level. A huge portion of your work will be developing SOTA knowledge engines that can truly understand complex physical products.\r\n",
+    "long_description": "Prox turns product expertise into revenue for equipment manufacturers.\r\n\r\nEquipment buyers rarely begin with a model number. They begin with a job, an installed system, a constraint, or a problem. The knowledge needed to qualify, recommend, configure, quote, repair, replace, or upgrade the product is scattered across manuals, catalogs, spreadsheets, calculators, product managers, applications engineers, dealer processes, support teams, and legacy systems. The result is abandoned demand, slow qualification, wrong-fit recommendations, quote delays, weak dealer follow-up, missed parts and service revenue, and dependence on a few experienced people.\r\n\r\nProx builds AI product specialists for equipment manufacturers. A product specialist uses the manufacturer's approved product knowledge, expert rules, calculators, and connected systems to move customers and frontline teams from a complex product question to the right purchase, quote, dealer, parts, service, replacement, or upgrade path.\r\n\r\nHow it works:\r\n\r\n1. Understand what the person is trying to accomplish.\r\n2. Resolve the product, application, and operating context already available.\r\n3. Ask only for the missing information that changes the result.\r\n4. Apply approved sources, expert rules, and deterministic tools (calculators, selectors, configurators, comparisons).\r\n5. Produce a supported, cited recommendation, configuration, procedure, or decision artifact.\r\n6. Move the person into the correct cart, quote, RFQ, BOM, dealer, sales, parts, service, replacement, upgrade, or expert action with the context preserved.\r\n\r\nOne product specialist, many governed skills: product discovery and comparison, sizing and configuration, competitive defense, quote preparation, dealer enablement, installation and commissioning, troubleshooting, parts identification, and approved service, replacement, and upgrade paths. Manufacturers deploy those skills to customers, dealers, sales teams, applications engineers, support teams, or field service. Existing CRM, CPQ, commerce, and support systems stay in place.\r\n\r\nSupport and service are revenue-bearing surfaces. The specialist resolves the customer's problem first, then surfaces the approved part, service, replacement, or upgrade path only when the evidence supports it.",
     "name": "Prox",
     "nonprofit": false,
-    "one_liner": "AI technical support for complex physical products",
+    "one_liner": "AI product specialists for equipment manufacturers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1012,106 +1055,145 @@
       "Partly Remote"
     ],
     "slug": "prox",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f30fc74152325f6e0cd4158a192d0c292aefd1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "E-commerce",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/prox",
     "website": "https://useprox.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2025",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "Salesmith"
+      "Iris"
     ],
-    "id": 30807,
+    "id": 30874,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1762405247,
+    "long_description": "Minro helps companies stay close to their users as they scale.\r\n\r\nToday, most startups have thousands of product events flowing through tools like PostHog, but still have no real understanding of who their users actually are, which users are quietly about to churn, or what outreach actually brings them back. Founders care deeply about their users, but staying close to them becomes operationally impossible very quickly.\r\n\r\nMinro plugs directly into a company’s analytics stack and turns product activity into living customer intelligence. We enrich every user with context like their company, role, LinkedIn/GitHub/Twitter, background, and likely use case, currently matching users to the correct online identity with ~80% accuracy starting from just name + email.\r\n\r\nWe then identify which users are most likely to churn based on behavioral patterns, persona similarity, and historical retention signals, and help founders proactively reach out before those users disappear. Minro drafts highly contextual founder-style outreach, tracks which conversations actually convert into retention, and continuously improves the system over time.\r\n\r\nThe result is a customer intelligence and retention layer that helps companies understand their users better, build stronger relationships, and reduce churn before it happens.",
+    "name": "Minro",
+    "nonprofit": false,
+    "one_liner": "Identify churn risk and stay close to users at scale",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "minro",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "B2B",
+      "Customer Success"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/minro",
+    "website": "https://minro.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clad-labs.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Clad Labs AI"
+    ],
+    "id": 30957,
     "industries": [
       "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1754546482,
-    "long_description": "We unify your contracts, service consumption, and customer relationship context so that your revenue, success and sales teams can operate from the same ground truth. With everything centralized, you can proactively react to customer signals for upsell and churn while billing is seamlessly handled in the background.",
-    "name": "Paloma",
+    "launched_at": 1761263170,
+    "long_description": "Clad turns Slack, Teams, and email into one organized support queue. Agents investigate and resolve hard tickets the way a dedicated hire would, and every resolved conversation becomes knowledge, written up automatically.",
+    "name": "Clad Labs",
     "nonprofit": false,
-    "one_liner": "AI-native CRM for putting post-sales operations on autopilot",
+    "one_liner": "AI support done right",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "paloma",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
+    "slug": "clad-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d89c2eb858334a18c6c6eadb2a012e14e7400c4.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
       "Customer Success",
-      "Sales",
-      "Billing"
+      "Customer Support"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/paloma",
-    "website": "https://getpaloma.ai/"
+    "url": "https://www.ycombinator.com/companies/clad-labs",
+    "website": "https://useclad.ai"
   },
   {
-    "all_locations": "Helsinki, Finland",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/vendo.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31404,
+    "id": 32620,
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1775157268,
-    "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "name": "Userlens",
+    "launched_at": 1784444284,
+    "long_description": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code.\r\n\r\nEverything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
+    "name": "Vendo",
     "nonprofit": false,
-    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "one_liner": "Let your users build their own features on top of your product",
     "question_answers": false,
     "regions": [
-      "Finland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
-    "slug": "userlens",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
+    "slug": "vendo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "SaaS",
+      "Artificial Intelligence",
+      "B2B",
       "Customer Success",
-      "Enterprise Software",
-      "AI Assistant"
+      "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/userlens",
-    "website": "https://userlens.io"
+    "url": "https://www.ycombinator.com/companies/vendo",
+    "website": "https://vendo.run/"
   }
 ]

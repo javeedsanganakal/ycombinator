@@ -43,7 +43,7 @@
     "website": "https://www.constructvr.io"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/seerslab.json",
     "app_answers": null,
     "app_video_public": false,
@@ -232,7 +232,7 @@
       "Virtual and Augmented Reality"
     ],
     "industry": "Consumer",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1738358223,
     "long_description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
     "name": "Mentra",
@@ -260,5 +260,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "website": "https://mentra.glass"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/earendil-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Earendil Robotics Ltd"
+    ],
+    "id": 33281,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783628748,
+    "long_description": "Earendil Robotics builds cUAS solutions for the modern warfighter, enabling effective air defence at the small-unit level. We deliver spotting, engaging, and destroying capabilities through advanced sensors, autonomous interceptors, and integrated systems.\r\n\r\nOur product lineup covers every stage of the kill chain, complemented by the Drone Warfare Academy that trains soldiers to eliminate enemy drone threats in contested environments.\r\n\r\nBacked by worldwide frontline combat experience, we equip units with combat-proven tools to counter evolving aerial threats.",
+    "name": "Earendil Robotics",
+    "nonprofit": false,
+    "one_liner": "Drone swarm defence at a small-unit level",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "earendil-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ec6212427cdf833238bd48eca01f40904ba49f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Drones",
+      "Swarm Robotics",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/earendil-robotics",
+    "website": "https://earendil.io"
   }
 ]

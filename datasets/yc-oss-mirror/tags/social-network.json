@@ -42,7 +42,7 @@
     "website": "http://familyleaf.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/everyme.json",
     "app_answers": null,
     "app_video_public": false,
@@ -341,7 +341,7 @@
     "website": "http://9gag.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/mednet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -431,7 +431,7 @@
     "website": "https://muzz.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/basement.json",
     "app_answers": null,
     "app_video_public": false,
@@ -514,7 +514,7 @@
     "website": "https://souffle.club"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/lineleap.json",
     "app_answers": null,
     "app_video_public": false,
@@ -555,7 +555,7 @@
     "website": "https://www.lineleap.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Minsk, Minsk Region, Belarus; Remote",
+    "all_locations": "Lisbon, Lisbon, Portugal; Minsk, Minsk Region, Belarus; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/giveaway.json",
     "app_answers": null,
     "app_video_public": false,
@@ -576,9 +576,8 @@
     "one_liner": "Community driven marketplace for used things ",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Portugal",
       "Belarus",
-      "America / Canada",
       "Europe",
       "Remote",
       "Fully Remote"
@@ -599,14 +598,15 @@
     "website": "http://giveaway.mobi"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/dumps.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/here.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2020",
     "demo_day_video_public": false,
     "former_names": [
-      "Here"
+      "Here",
+      "Dumps"
     ],
     "id": 22184,
     "industries": [
@@ -614,12 +614,12 @@
       "Social"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1598328674,
-    "long_description": "Dumps is where friends connect through photos and chaotic messaging.  Our users crave an expressive, low-stakes place to share their lives and interact.\r\n",
-    "name": "Dumps",
+    "long_description": "Here is where friends feel close even if they're worlds away.  We do this by providing an infinite and interactive canvas where friends watch, play, decorate, draw and hang together, all powered by our own real-time video and voice technology.\r\n",
+    "name": "Here",
     "nonprofit": false,
-    "one_liner": "Where friends connect through photos and chaotic messaging",
+    "one_liner": "Where friends watch, play and hang together in digital rooms",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -627,10 +627,10 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "dumps",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee8fa4e8cdd13c8d6bae87e084b05e8ca82a9be.png",
-    "stage": "Early",
-    "status": "Active",
+    "slug": "here",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4051bac362928f79cd906235f06326723eacc875.png",
+    "stage": "Growth",
+    "status": "Inactive",
     "subindustry": "Consumer -> Social",
     "tags": [
       "Consumer",
@@ -641,8 +641,8 @@
     "tags_highlighted": [],
     "team_size": 9,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dumps",
-    "website": "https://dumps.app"
+    "url": "https://www.ycombinator.com/companies/here",
+    "website": "https://here.fm"
   },
   {
     "all_locations": "Bengaluru, KA, India; Remote",
@@ -747,7 +747,7 @@
       "Social"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1708013970,
     "long_description": "Whip is a mobile app where you can create and discover interactive mini apps and games, we call them \"whips\". \r\n\r\nScroll a social feed of playable posts like trivia games, quizzes, polls, party games, and more. Build your own whip in the app and publish it on the feed in minutes. Discover, remix, like, and comment on whips built by others on the platform.\r\n\r\nwhip is built by the team behind tensorfuse",
     "name": "Whip",
@@ -824,7 +824,7 @@
     "website": "https://deep24.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/crowdvolt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -862,7 +862,7 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/crowdvolt",
     "website": "https://crowdvolt.com/"
@@ -914,50 +914,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/text-ai",
     "website": "https://www.text.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "RealRoots Inc."
-    ],
-    "id": 30805,
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1750729944,
-    "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-    "name": "RealRoots",
-    "nonprofit": false,
-    "one_liner": "AI social app for women",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "realroots",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Social",
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Social Network",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/realroots",
-    "website": "http://www.therealroots.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

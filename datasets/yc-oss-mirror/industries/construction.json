@@ -39,7 +39,7 @@
     "website": "http://plangrid.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/resolve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -55,7 +55,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416222759,
     "long_description": "At Resolve we’re accelerating construction to build as fast as the future demands. Construction projects are all slowed down by rework that arises after humans spot issues in real life that slipped through all the hours of design reviews and coordination. Resolve enables construction teams to detect these issues in 3D BIM as early as possible so that we can close the gap between design and reality.\r\n\r\nBy combining realtime collaboration in the web, immersive VR reviews, and AI-driven spatial navigation into the most easy to use platform for BIM reviews, Resolve empowers construction teams to identify risks earlier, coordinate faster, and deliver higher-quality assets across mission-critical infrastructure.\r\n\r\nResolve has been used to deliver over 6GW of data center capacity and on projects across pharma, water treatment, healthcare, and other critical assets.\r\n",
     "name": "Resolve",
@@ -130,7 +130,7 @@
     "website": "https://www.equipmentshare.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/vernox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -294,7 +294,7 @@
     "website": "https://www.bulldozair.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/x3-builders.json",
     "app_answers": null,
     "app_video_public": false,
@@ -383,49 +383,6 @@
     "website": "https://up.codes/"
   },
   {
-    "all_locations": "Austin, TX, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/rabbet.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2017",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Contract Simply"
-    ],
-    "id": 1636,
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "industry": "Real Estate and Construction",
-    "isHiring": false,
-    "launched_at": 1493404227,
-    "long_description": "Rabbet brings efficiency, accuracy and transparency to the complex construction finance industry. The platform uses machine learning to parse documents and connect information for reduced administrative burden, verifiable compliance, and faster decision-making for real estate lenders and developers.\r\n\r\nFormerly Contract Simply. ",
-    "name": "Rabbet",
-    "nonprofit": false,
-    "one_liner": "Bringing efficiency, accuracy and transparency to construction finance",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "rabbet",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71a94018030f7d7d85f1b0d093981745b4c3715c.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "tags": [
-      "Real Estate"
-    ],
-    "tags_highlighted": [],
-    "team_size": 23,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/rabbet",
-    "website": "http://rabbet.com"
-  },
-  {
     "all_locations": "Kitchener, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/osimple.json",
     "app_answers": null,
@@ -469,13 +426,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/handle-com.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/handle.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2019",
     "demo_day_video_public": false,
     "former_names": [
-      "Handle"
+      "Handle",
+      "Handle.com"
     ],
     "id": 12043,
     "industries": [
@@ -483,10 +441,10 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1541563431,
     "long_description": "Handle builds software that helps simplify construction financial management by automating manual and repetitive tasks throughout the life cycle of construction payments.",
-    "name": "Handle.com",
+    "name": "Handle",
     "nonprofit": false,
     "one_liner": "Simplifying Payments and Compliance for Construction Suppliers",
     "question_answers": false,
@@ -496,7 +454,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "handle-com",
+    "slug": "handle",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e635e21a9de56891c70f767bf4b79d54351abc4.png",
     "stage": "Early",
     "status": "Active",
@@ -508,7 +466,7 @@
     "tags_highlighted": [],
     "team_size": 55,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/handle-com",
+    "url": "https://www.ycombinator.com/companies/handle",
     "website": "https://www.handle.com"
   },
   {
@@ -591,7 +549,7 @@
     "slug": "downtobid",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63589ab125b18c4f235fe17ab462bfbde2b02ec.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
       "Construction"
@@ -919,7 +877,55 @@
     "website": "https://www.machine26.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/humance.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Angkm",
+      "Blushh",
+      "blushh",
+      "Blushh",
+      "R.care"
+    ],
+    "id": 23636,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1614638320,
+    "long_description": "Humance is building an AI-powered project management tool for the construction industry, where work is highly coordinated and delays are costly.\r\n\r\nLarge projects involve dozens of interdependent workstreams where a single setback can cascade unpredictably through the entire timeline. Today, most project managers track this manually — tracing dependencies by hand, updating schedules, and notifying stakeholders one by one. It's slow, error-prone, and pulls focus away from the higher-order decisions that demand real expertise.\r\n\r\nExperienced project managers carry deep knowledge — of sequencing, trade-offs, site realities, and stakeholder dynamics — that no tool can replicate. Humance is built around that expertise. By handling the mechanical work of dependency tracking and schedule coordination, it frees project managers to do what they're actually skilled at: exercising judgment, managing complexity, and keeping the big picture in view.",
+    "name": "Humance",
+    "nonprofit": false,
+    "one_liner": "AI that keeps complex construction projects on schedule.",
+    "question_answers": false,
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "humance",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/987667192d91a0ec07b29e6a9afb25d541d6a722.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "B2B",
+      "Scheduling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/humance",
+    "website": "https://www.humance.tech/"
+  },
+  {
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/concord-materials.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1142,7 +1148,7 @@
     "website": "http://tigereye.com/"
   },
   {
-    "all_locations": "Newport Beach, CA, USA",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1155,7 +1161,12 @@
       "Inc",
       "WeReno",
       "WeReno (Vidcall",
-      "Inc.)"
+      "Inc.)",
+      "WeReno",
+      "Scope3D (fka WeReno)",
+      "Scope3D",
+      "Built OS",
+      "BuiltOS"
     ],
     "id": 25318,
     "industries": [
@@ -1165,37 +1176,36 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1647622736,
-    "long_description": "WeReno is an AI-powered platform unifying construction, renovation, and property maintenance through intelligent automation. Our ecosystem includes Renobot.ai for renovation and build planning, Handyman.ai for on-demand residential and SMB repairs, and Repaired.ai for commercial maintenance via QR-based reporting.\r\n\r\nWe connect property owners, developers, and businesses with 2,000+ vetted contractors to scope, price, and execute projects end-to-end — from small repairs to $50M builds. WeReno manages over $500M in property value and partners with brands like Hilton, Holiday Inn, Starbucks, Staples, and CVS to deliver projects with precision, transparency, and speed.",
+    "long_description": "WeReno is an AI owner's representative that helps building owners plan and manage renovations, capital projects, and property improvements. It automatically analyzes drawings, generates scopes of work, estimates costs, prepares RFQs, coordinates vendors, and tracks project execution, giving owners the capabilities of an experienced owner's rep through software.",
     "name": "WeReno",
     "nonprofit": false,
-    "one_liner": "AI platform for construction, renovation, and property maintenance.",
+    "one_liner": "AI owner's representative for commercial construction and renovations.",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "slug": "wereno",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c78986b23d9ab7c1e3cc7f8e34b14ae56a86fcaf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "Real Estate",
       "Construction",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wereno",
-    "website": "https://wereno.com"
+    "website": "https://WeReno.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/permitflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1281,52 +1291,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vobi",
     "website": "https://www.vobi.com.br"
-  },
-  {
-    "all_locations": "Toronto, ON, Canada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/korrai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "KorrAI Technologies Ltd."
-    ],
-    "id": 26138,
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "industry": "Real Estate and Construction",
-    "isHiring": true,
-    "launched_at": 1643659113,
-    "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
-    "name": "KorrAI",
-    "nonprofit": false,
-    "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "question_answers": false,
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "korrai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "tags": [
-      "Artificial Intelligence",
-      "Construction",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 24,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/korrai",
-    "website": "https://www.korrai.com"
   },
   {
     "all_locations": "Bogotá, Bogota, Colombia; Remote",
@@ -1415,7 +1379,7 @@
     "website": "https://www.albiware.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/clad.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1644,7 +1608,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1705128056,
     "long_description": "An AI agent that catches issues in construction drawings before they become costly rework and project delays",
     "name": "InspectMind AI",
@@ -1668,7 +1632,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inspectmind-ai",
     "website": "https://www.inspectmind.ai"
@@ -1763,10 +1727,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": true,
     "launched_at": 1732038457,
-    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
+    "long_description": "ArchiLabs is building the data center project OS.",
     "name": "ArchiLabs",
     "nonprofit": false,
-    "one_liner": "AI Copilot for Architects",
+    "one_liner": "AI Data Center Design",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1780,14 +1744,14 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/archilabs",
     "website": "https://archilabs.ai"
@@ -1811,10 +1775,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": true,
     "launched_at": 1738874630,
-    "long_description": "Bild AI reads construction blueprints and extracts material and cost data for builders. Our software automates the $50B/year spent on manual blueprint processing and material cost estimation.",
+    "long_description": "Bild AI automates Division 8 estimating — doors, frames, and hardware — end to end. Bild AI reads blueprints and specs, generates opening (door) schedules automatically, prices the bid, and exports it directly into the ERPs Division 8 shops already run on, including Comsense, Avaware, and ProTech.\r\n\r\nDivision 8 estimating is the brutal trifecta of nitty-gritty details, where typos cost hundreds of thousands, and timelines are tight. Thousands of pages of specs, hardware sets cross-referenced by hand, and a single missed opening that can sink a bid's margin. Bild  AI collapses days of takeoff into hours, and clients have bid 50% more with smaller estimating teams.\r\n\r\nBacked by Khosla Ventures (YC W25).",
     "name": "Bild AI",
     "nonprofit": false,
-    "one_liner": "AI that understands construction blueprints",
+    "one_liner": "AI estimating & detailing for Division 8 doors, frames & hardware",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1827,13 +1791,13 @@
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bild-ai",
     "website": "https://www.bild.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "Salt Lake City, UT, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/permitify.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1854,7 +1818,8 @@
     "one_liner": "AI co-pilot for building plan review and building code compliance",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "permitify",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0fb1e449f45c8f9ca33c6947992cac6af3e8c0f.png",
@@ -1874,7 +1839,7 @@
     "website": "https://permitify.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/opusense-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1898,18 +1863,15 @@
     "one_liner": "AI for Field Inspection Reports",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "slug": "opusense-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
-    "tags": [
-      "SaaS",
-      "Construction",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -1917,7 +1879,7 @@
     "website": "https://www.opusense.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1935,10 +1897,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1754285936,
-    "long_description": "We use AI to help electrical contractors submit more competitive bids to construction projects. We do this by speeding up the estimating part of bidding, which is the most tedious part of the job. Specifically, we're building models that can understand floor plans and count electrical devices to generate the estimate. Bidflow is the future of electrical pre-construction.",
+    "long_description": "We use AI to help electricians speed up the time it takes to submit a competitive bid to a job. We do this by scanning complex CAD drawings and 10X-ing the time it takes to estimate a job. This involves using vision models to read and count complex symbols in large PDFs, which typically take hours (sometimes days) to do precisely. Every missed symbol can cost thousands, and our AI can count to 99% accuracy.",
     "name": "Bidflow",
     "nonprofit": false,
-    "one_liner": "AI Electrical Estimator",
+    "one_liner": "AI Takeoffs for Electrical",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1962,7 +1924,7 @@
     "website": "https://usebidflow.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1977,10 +1939,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": true,
     "launched_at": 1759212406,
-    "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
+    "long_description": "Structured AI is the most advanced AI-powered QA/QC platform for drawing packages, working across both PDF drawings and native Revit models. Architects and engineers use our platform to make every drawing set leave the office with certainty. \r\n\r\nOur AI agents learn your firm's standards, apply the relevant codes, and read every page of a set, then return a clear list of what's wrong, where it sits, and how to fix it. Run compliance reviews across thousands of pages in minutes, chat with your drawings for sourced answers, build custom checks in plain English, compare versions, overlay disciplines, and close out comments - all within a single platform, with a full audit trail on every finding.\r\n\r\nFor decades, the last line of defense on a drawing set has been a red pen at the end of a deadline week. But buildings have outgrown the red pen. A modern set runs thousands of drawings, and the errors hiding between them threaten quality and safety, not just cost. What manual review misses resurfaces as RFIs, change orders, and field rework, paid for in time, margin, and reputation.\r\n\r\nStructured AI catches those errors before they leave the office, capturing the judgment of your best reviewer once and applying it everywhere.\r\n\r\nBetter drawings build a better world. #GetStructured",
     "name": "Structured AI",
     "nonprofit": false,
-    "one_liner": "AI workforce for Construction Engineering",
+    "one_liner": "The AI drawing review platform for architects and engineers.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1992,13 +1954,13 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/structured-ai",
     "website": "https://www.getstructured.ai/"
@@ -2021,11 +1983,11 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1760131149,
-    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
+    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@helonic.com",
     "name": "Helonic",
     "nonprofit": false,
     "one_liner": "Automatic Construction Drawing Clash Detection ",
-    "question_answers": true,
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
@@ -2036,11 +1998,11 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "B2B",
       "Workflow Automation",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -2064,12 +2026,12 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1777879888,
-    "long_description": "Rudus is an AI-powered takeoff and estimation platform built for concrete contractors. We cut takeoff time by 70% and help estimators bid 2-5× more projects without adding headcount. From plan upload to bid package, every part of the workflow gets faster. ",
+    "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
     "name": "Rudus",
     "nonprofit": false,
-    "one_liner": "AI Takeoffs Built for Concrete",
+    "one_liner": "AI Takeoffs for Concrete",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2080,16 +2042,178 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Construction",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rudus",
     "website": "http://rudus.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/centralcoms.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31543,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1779989306,
+    "long_description": "Home services companies lose money on missed calls and idle techs. When the phone rings during a job and nobody picks up, that lead goes to a competitor and the trucks already on the road sit half-booked because dispatch can't keep the schedule tight.\r\n\r\nCentralComs fixes this with AI agents that answer every call, route each job to the right technician, and keep the calendar full. They handle intake, dispatch, and customer updates end to end working inside ServiceTitan, Housecall Pro, and Jobber so no lead slips through and no truck runs empty.\r\n\r\nCapture every call. Book every tech. Never miss a job.",
+    "name": "CentralComs",
+    "nonprofit": false,
+    "one_liner": "AI agent platform for home services companies.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "centralcoms",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f6099883faaacd376e6491fdd0920b4de8a2c3c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "Home Services"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/centralcoms",
+    "website": "https://centralcoms.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/alloovium.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32204,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1783581007,
+    "long_description": "Alloovium is the document intelligence layer for construction 🏗️ It reads every document and piece of data on a project (contracts, specs, drawings, compliance records, conversations), turning them into answers you can trust and actions with real value: every answer cites its exact source sentence, paperwork is checked clause by clause against the builder's own Integrated Management System, and nothing AI-drafted moves without a human sign-off, with it all compliant by default.",
+    "name": "Alloovium",
+    "nonprofit": false,
+    "one_liner": "The company brain for construction companies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "alloovium",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a18b2e1de19ebc106cb340305f6e055da094e03b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "Construction",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/alloovium",
+    "website": "https://www.alloovium.com/en"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/flowmanual.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "ProManual"
+    ],
+    "id": 32525,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1782366913,
+    "long_description": "FlowManual is the all-in-one AI estimating, bidding, and purchasing platform for both general and MEP construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
+    "name": "FlowManual",
+    "nonprofit": false,
+    "one_liner": "AI for Construction's Back Office",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "flowmanual",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ea500c797163e99dad11a205953572d46a0034.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "SaaS",
+      "Construction",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/flowmanual",
+    "website": "https://flowmanual.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "SubVysion, Inc."
+    ],
+    "id": 33313,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1783960374,
+    "long_description": "We build centimeter-accurate 3D maps of underground utilities to help construction contractors dig safer and faster. With underground intelligence, contractors can avoid dangerous utility strikes and costly project delays.",
+    "name": "SubVysion",
+    "nonprofit": false,
+    "one_liner": "Autonomous rovers to make the ‘Google Maps’ of underground utilities",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "subvysion",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0df819d609df4c8e15ebdc21bbc1f518d56e52d8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "Hard Tech",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/subvysion",
+    "website": "https://subvysion.com"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2008/co2stats.json",
     "app_answers": null,
     "app_video_public": false,
@@ -175,7 +175,7 @@
     "website": "http://helionenergy.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA; Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/oklo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -220,7 +220,7 @@
     "website": "http://oklo.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
+    "all_locations": "New York City, NY, USA; Mexico City, CDMX, Mexico; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bright.json",
     "app_answers": null,
     "app_video_public": false,
@@ -241,7 +241,9 @@
     "one_liner": "Sunrun for the developing world",
     "question_answers": false,
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Fully Remote"
@@ -263,7 +265,7 @@
     "website": "https://www.thinkbright.mx"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zeitview.json",
     "app_answers": null,
     "app_video_public": false,
@@ -310,7 +312,7 @@
     "website": "https://www.zeitview.com/"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Alameda, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/industrial-microbes.json",
     "app_answers": null,
     "app_video_public": false,
@@ -393,7 +395,7 @@
     "website": "http://sunfarmer.org"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/reach.json",
     "app_answers": null,
     "app_video_public": false,
@@ -522,7 +524,7 @@
     "website": "http://nebia.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/inevitable-tech.json",
     "app_answers": null,
     "app_video_public": false,
@@ -686,7 +688,7 @@
     "website": "http://www.primelightworks.com"
   },
   {
-    "all_locations": "Somerville, MA, USA; Remote",
+    "all_locations": "Boston, MA, USA; Somerville, MA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/raptor-maps.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1080,7 +1082,7 @@
     "website": "http://www.advano.io"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/pyka.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1257,7 +1259,7 @@
     "website": "http://www.aerones.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/c16-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1300,7 +1302,7 @@
     "website": "https://www.c16bio.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/spero-foods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1688,7 +1690,7 @@
     "website": "https://traverse.ai"
   },
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/ampup.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1816,7 +1818,7 @@
     "website": "http://www.prometheusfuels.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/eclipse-foods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2221,7 +2223,7 @@
     "website": "http://atmo.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/powerx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2816,7 +2818,7 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Carbon Capture and Removal",
+      "Hard Tech",
       "Climate",
       "ClimateTech"
     ],
@@ -2844,10 +2846,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1616508622,
-    "long_description": "Enode’s APIs enable you to instantly connect users’ energy devices — including EVs, solar inverters, home batteries and thermostats — to your app. ",
+    "long_description": "Device connectivity, home energy coordination, and grid orchestration in a single platform.",
     "name": "Enode",
     "nonprofit": false,
-    "one_liner": "An API for electric vehicles and other energy hardware (DERs)",
+    "one_liner": "Energy Orchestration Platform",
     "question_answers": false,
     "regions": [
       "Norway",
@@ -2863,10 +2865,11 @@
     "tags": [
       "Climate",
       "API",
-      "Electric Vehicles"
+      "Energy",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 70,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/enode",
     "website": "http://www.enode.com"
@@ -2916,7 +2919,7 @@
     "website": "https://juicymarbles.com"
   },
   {
-    "all_locations": "Richmond, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Richmond, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/moxion-power-co.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3002,10 +3005,10 @@
       "Home Services"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 45,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/homebreeze",
-    "website": "https://www.homebreeze.com/"
+    "website": "https://www.homebreeze.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA; Cambridge, MA, USA; Remote",
@@ -3243,7 +3246,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1626882180,
     "long_description": "The first apparel & footwear Carbon Management Platform.",
     "name": "Carbonfact",
@@ -3258,7 +3261,7 @@
     ],
     "slug": "carbonfact",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83845e91476e0ba520c9781b05ad6af948e7eeed.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
@@ -3801,13 +3804,13 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 80,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/waterplan",
     "website": "http://waterplan.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/ferveret-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3819,15 +3822,15 @@
     "id": 24598,
     "industries": [
       "Industrials",
-      "Climate"
+      "Energy"
     ],
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1628701179,
-    "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
+    "long_description": "Ferveret is developing Adaptive Phase Cooling, a next-generation thermal solution for AI data centers inspired by heat transfer principles used in nuclear reactor systems. Our rack-integrated design delivers 35% more usable compute from the same power envelope, with a PUE of 1.03 (vs. the 1.2 industry standard), zero water consumption, and 45°C inlet temperatures that eliminate the need for chillers. Compatible with NVIDIA MGX and HGX architectures, Ferveret's solution uses a proprietary dielectric fluid that is not part of any regulated PFAS category, giving AI infrastructure operators a scalable, water-free path to higher compute density without redesigning their facilities.",
     "name": "Ferveret",
     "nonprofit": false,
-    "one_liner": "Liquid cooling solutions inspired by nuclear reactor cooling",
+    "one_liner": "Nuclear-inspired cooling that turns wasted power into more AI compute",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3839,14 +3842,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "Industrials -> Energy",
     "tags": [
       "Hardware",
       "Climate",
       "Energy"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ferveret-inc",
     "website": "http://www.ferveret.com"
@@ -4028,7 +4031,7 @@
     "website": "https://canopi.cash"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/charge-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4158,7 +4161,7 @@
     "website": "https://www.pelm.com"
   },
   {
-    "all_locations": "Austin, TX, USA; Remote",
+    "all_locations": "Sydney, NSW, Australia; Austin, TX, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/perl-street.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4179,7 +4182,9 @@
     "one_liner": "Financing the next-generation of infrastructure projects",
     "question_answers": false,
     "regions": [
+      "Australia",
       "United States of America",
+      "Oceania",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -4241,46 +4246,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/brown-foods",
     "website": "https://unrealmilk.com/"
-  },
-  {
-    "all_locations": "Houston, TX, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/fleetzero.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "fleetzero"
-    ],
-    "id": 25361,
-    "industries": [
-      "Industrials"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1643126180,
-    "long_description": "Fleetzero builds electric and hybrid propulsion systems for large ships and is developing unmanned cargo vessels. ",
-    "name": "Fleetzero",
-    "nonprofit": false,
-    "one_liner": "Making all ships robots. ",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "fleetzero",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72afaac30b2857360fd2c20810a8d2c00083b39a.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "Industrials",
-    "tags": [
-      "Climate"
-    ],
-    "tags_highlighted": [],
-    "team_size": 40,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/fleetzero",
-    "website": "https://www.fleetzero.com"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -4368,7 +4333,7 @@
     "website": "https://www.phasebiolabs.com/"
   },
   {
-    "all_locations": "Berkeley, CA, USA; San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/alga-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4579,7 +4544,7 @@
     "website": "http://unravelcarbon.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4670,7 +4635,7 @@
     "website": "https://www.offbeast.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/airmyne.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4756,7 +4721,7 @@
     "website": "https://pina.earth/en"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/revoy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4801,7 +4766,7 @@
     "website": "https://www.revoy.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/phoenix-hydrogen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4891,7 +4856,7 @@
     "website": "https://www.remihq.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/paces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4923,14 +4888,14 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Artificial Intelligence",
       "Proptech",
       "Climate",
       "Energy",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 48,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paces",
     "website": "https://paces.com"
@@ -5024,7 +4989,7 @@
     "website": "https://thealttex.com/"
   },
   {
-    "all_locations": "Carson, CA, USA; Torrance, CA, USA",
+    "all_locations": "Sydney, NSW, Australia; Torrance, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/seaflight-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5045,7 +5010,9 @@
     "one_liner": "We make the world's most efficient aircraft",
     "question_answers": true,
     "regions": [
+      "Australia",
       "United States of America",
+      "Oceania",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -5128,7 +5095,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1659119457,
     "long_description": "Hedgehog builds robotic mushroom farms. Our robots eliminate labor and our AI optimizes grow conditions to increase yield. We’ll soon grow mushrooms and fungi for <1/3rd the cost of leading growers. \r\n\r\nFungi may address our food system’s biggest problems: they transform agricultural waste into protein-rich foods with near-zero environmental impact. Hedgehog’s technology is unleashing fungi as our next major food source.",
     "name": "Hedgehog",
@@ -5154,7 +5121,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 18,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hedgehog-2",
     "website": "http://hedgehogfoods.com"
@@ -5375,7 +5342,7 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 23,
+    "team_size": 60,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ruuf",
     "website": "https://www.ruuf.cl"
@@ -5428,7 +5395,7 @@
     "website": "http://www.eatchoppy.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/outsail-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5554,7 +5521,7 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/atmeto",
     "website": "https://www.atmeto.com"
@@ -5575,17 +5542,17 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1687803555,
-    "long_description": "HyLight builds and operates autonomous airships for long range monitoring. We focus on detecting methane leaks on pipelines and defects on power lines.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have developed 5 different flying aircrafts and signed 5 pilots programs with major energy infrastructure operators. We also have LOIs worth over $3.5M.",
+    "long_description": "HyLight builds and operates the HyLighters. Our autonomous airships for long range monitoring. We focus on critical infrastructure inspections:\r\n- detecting methane leaks on pipelines.\r\n- defects & vegetation risks on power lines.\r\n- defects & vegetation risks on railways.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have manufactured 20 HyLighter and are deploying across Europe.",
     "name": "HyLight",
     "nonprofit": false,
-    "one_liner": "Small unmanned hydrogen airships for long range monitoring",
+    "one_liner": "Unmanned airships for inspecting our critical assets",
     "question_answers": false,
     "regions": [
       "France",
       "Europe"
     ],
     "slug": "hylight",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e115f6387d31c268302079d59ab1981c37d8ca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bcbb9e93eb3ebbc3a622b3826ec8c2df9b276d7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
@@ -5597,13 +5564,13 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 22,
+    "team_size": 37,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hylight",
     "website": "https://www.hylight.aero/"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5646,7 +5613,7 @@
     "website": "https://ohmicbiosciences.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/guac.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5682,7 +5649,7 @@
       "Supply Chain"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/guac",
     "website": "https://www.guac.com/"
@@ -5745,7 +5712,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1687128394,
     "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
     "name": "Orbio Earth",
@@ -5775,7 +5742,7 @@
     "website": "https://www.orbio.earth/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Ann Arbor, MI, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/precip.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5795,6 +5762,8 @@
     "one_liner": "High precision AI weather models",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5947,7 +5916,7 @@
     "website": "https://sorcerer.earth"
   },
   {
-    "all_locations": "Kirkland, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/silurian.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5992,7 +5961,7 @@
     "website": "https://silurian.ai/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ontra-mobility.json",
     "app_answers": null,
     "app_video_public": true,
@@ -6078,7 +6047,7 @@
     "website": "https://www.1849.bio"
   },
   {
-    "all_locations": "Redmond, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/starcloud.json",
     "app_answers": null,
     "app_video_public": true,
@@ -6125,92 +6094,46 @@
     "website": "https://www.starcloud.com/"
   },
   {
-    "all_locations": "Berlin, Berlin, Germany",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/autarc.json",
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/molagri.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "autarc GmbH"
-    ],
-    "id": 29823,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1720714870,
-    "long_description": "With autarc we are building the OS for Europe's One-Stop Energy Installers.\r\n\r\nThe problem: Energy installers are eager to expand their deployment of heat pump and photovoltaic systems, yet they are constrained by inefficient sales, planning, and installation processes.\r\n\r\nThe solution: Our B2B software integrates CRM, planning, and design tools into a unified platform. This enables SMB installers to drastically cut down the pre-installation phase of home energy projects—from several weeks to just minutes. By leveraging LiDAR for spatial analysis, computer vision for automated assessment, and AI for system recommendations, we streamline the entire workflow. This results in a time reduction of up to 90%, enabling installers to confidently transition to and scale up sustainable home energy solutions.",
-    "name": "autarc",
-    "nonprofit": false,
-    "one_liner": "autarc is the OS for Europe's One-Stop Energy Installers",
-    "question_answers": false,
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "autarc",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6f422aa332e520cce9d631b8dfbcdfb14375c6e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Lidar",
-      "Computer Vision",
-      "B2B",
-      "Climate",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 30,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/autarc",
-    "website": "https://www.autarc.energy/en"
-  },
-  {
-    "all_locations": "Mountain View, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/madrone.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31399,
+    "id": 32521,
     "industries": [
       "Industrials",
-      "Energy"
+      "Agriculture"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1778520435,
-    "long_description": "Madrone builds cooling systems for data centers. In Texas, where most new sites are, Madrone can cool using 30% less power and water, thanks to novel dew-point cooling technology. ",
-    "name": "Madrone",
+    "launched_at": 1782770010,
+    "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
+    "name": "Molagri",
     "nonprofit": false,
-    "one_liner": "Maximizing compute via hyper-efficient cooling",
+    "one_liner": "Resistance free pesticides.",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada"
     ],
-    "slug": "madrone",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e3bc19e9055d8345250c7f097d06dc514f21674.png",
+    "slug": "molagri",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials -> Agriculture",
     "tags": [
-      "Hardware",
+      "Synthetic Biology",
+      "Biotech",
+      "Sustainability",
       "Climate",
-      "Advanced Materials",
-      "AI",
-      "Industrial"
+      "Agriculture"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/madrone",
-    "website": "https://madrone.cool/"
+    "url": "https://www.ycombinator.com/companies/molagri",
+    "website": "https://molagri.com"
   }
 ]

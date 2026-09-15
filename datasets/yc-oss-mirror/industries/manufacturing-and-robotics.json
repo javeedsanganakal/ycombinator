@@ -45,7 +45,7 @@
     "website": "https://circuithub.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2007/octopart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -195,6 +195,7 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Advanced Materials",
+      "Defense",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -204,7 +205,7 @@
     "website": "http://www.alchemynano.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/rigetti-computing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -409,7 +410,7 @@
     "website": "http://multiplylabs.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/robby-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -449,7 +450,7 @@
     "website": "http://robby.io"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/sinovia-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -577,7 +578,7 @@
     "website": "https://www.aon3d.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/voodoo-manufacturing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -662,7 +663,7 @@
     "website": "http://skyscrape.us"
   },
   {
-    "all_locations": "Montreal, QC, Canada",
+    "all_locations": "Toronto, ON, Canada; Montreal, QC, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/srtx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -877,7 +878,7 @@
     "website": "http://www.jitx.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/rain-neuromorphics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1369,7 +1370,7 @@
     "website": "https://www.blockstampsf.com/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vorticity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1411,7 +1412,7 @@
     "website": "http://vorticity.xyz/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/teleo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1495,7 +1496,7 @@
     "website": "https://pashi.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/daedalus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1518,6 +1519,8 @@
     "one_liner": "AWS for precision manufacturing",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1537,7 +1540,7 @@
     "website": "https://daedalus.de"
   },
   {
-    "all_locations": "",
+    "all_locations": "Miami Beach, FL, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/somatic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1558,7 +1561,8 @@
     "one_liner": "Bathroom cleaning robots for office buildings. ",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "somatic",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f23007b7bbf72d015d806b6e02a0a3432a5c5266.png",
@@ -1576,7 +1580,7 @@
   },
   {
     "all_locations": "Boston, MA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics-didgeai.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2020",
@@ -1584,7 +1588,8 @@
     "former_names": [
       "RCML",
       "NeXtera Robotics",
-      "NextEra Robotics"
+      "NextEra Robotics",
+      "Nextera Robotics"
     ],
     "id": 21969,
     "industries": [
@@ -1594,8 +1599,8 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1599762606,
-    "long_description": "Nextera Robotics is an AI-native Robotics and Industrial Automation company founded at MIT.",
-    "name": "Nextera Robotics",
+    "long_description": "AI-native Robotics and Industrial Automation.",
+    "name": "Nextera Robotics | DIDGE.ai",
     "nonprofit": false,
     "one_liner": "AI-native Robotics",
     "question_answers": false,
@@ -1603,22 +1608,22 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "nextera-robotics",
+    "slug": "nextera-robotics-didgeai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98038d3f6de4865c9f869822e2af32391f49256e.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Autonomous Delivery",
       "Deep Learning",
       "Robotics",
-      "Construction"
+      "Construction",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 20,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/nextera-robotics",
+    "url": "https://www.ycombinator.com/companies/nextera-robotics-didgeai",
     "website": "https://nexterarobotics.com"
   },
   {
@@ -1637,7 +1642,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1732044079,
     "long_description": "Mobius is the safe spot market for electronic components like microcontrollers and capacitors. We help electronics manufacturers buy and sell chips quickly, safely & at market prices. ",
     "name": "Mobius Materials",
@@ -1668,7 +1673,7 @@
     "website": "https://www.mobiusmaterials.com"
   },
   {
-    "all_locations": "Detroit, MI, USA",
+    "all_locations": "Cleveland, OH, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/atomic-industries.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1711,7 +1716,7 @@
     "website": "http://atomic.industries"
   },
   {
-    "all_locations": "Bengaluru, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flux-auto.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1726,10 +1731,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1647888445,
-    "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in controlled spaces. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
+    "long_description": "Flux is building physical AI to automate material movement in warehouses and factories on legacy vehicle fleets. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying with customers like Walmart, Daimler, Bajaj, Cummins, Mahindra Logistics across warehouses, fulfillment centers and factories.",
     "name": "Flux Auto",
     "nonprofit": false,
-    "one_liner": "General Autonomy for Controlled Spaces",
+    "one_liner": "Physical AI for Warehouses and Factories",
     "question_answers": false,
     "regions": [
       "India",
@@ -1738,15 +1743,15 @@
       "Partly Remote"
     ],
     "slug": "flux-auto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3216297669f8a2cef1d4cb56c1dbc1ec4a127187.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1782782e9f339f3d5ae2b7213cb07b675c29d2f7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Autonomous Trucking",
       "Hard Tech",
       "Robotics",
-      "Logistics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1797,7 +1802,7 @@
     "website": "https://rointech.com"
   },
   {
-    "all_locations": "Durham, NC, USA",
+    "all_locations": "Southern Pines, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/botbuilt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1916,7 +1921,7 @@
       "America / Canada"
     ],
     "slug": "rmfg",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da6c23e37cd7338b2276dfacd444e9175c6c2b9c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6481e53fac19208ab930fa400c6e6efc6e1d7b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1932,7 +1937,7 @@
     "website": "https://www.rmfg.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/charge-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1974,7 +1979,7 @@
     "website": "https://chargerobotics.com/"
   },
   {
-    "all_locations": "Huntington Beach, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Huntington Beach, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/astroforge.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2018,7 +2023,7 @@
     "website": "https://www.astroforge.io/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/industrial-next.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2033,16 +2038,14 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1648273643,
-    "long_description": "We bring Tesla autonomous manufacturing to every automaker and other producers. At Tesla, we were the core autonomous factory team and we’re now building the smart cameras and robotic guidance tools that provided the main advantages at Tesla",
+    "long_description": "We're building the brain for the factory floor, developing AI-driven robotic systems powered by a proprietary foundation model for the difficult, contact-rich manufacturing tasks where conventional automation falls short.\r\n\r\nFounded by veterans of Tesla, Waymo, Ford, and GM who built the systems that brought modern autonomy into manufacturing, IndustrialNext is bringing that same intelligence to the factory floor: autonomous factories that are cost-competitive at any scale, anywhere.\r\n\r\nBacked by Y Combinator, Khosla Ventures, Lenovo, AlphaX Partners, and Plug and Play.",
     "name": "Industrial Next",
     "nonprofit": false,
-    "one_liner": "Tesla autonomous manufacturing for everyone",
+    "one_liner": "IndustrialNext builds the AI brain for manufacturing –…",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "slug": "industrial-next",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77b3fae4e9032c53ab1dabf92d2dde1c13be9a0.png",
@@ -2050,10 +2053,10 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "team_size": 9,
@@ -2121,7 +2124,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1659119457,
     "long_description": "Hedgehog builds robotic mushroom farms. Our robots eliminate labor and our AI optimizes grow conditions to increase yield. We’ll soon grow mushrooms and fungi for <1/3rd the cost of leading growers. \r\n\r\nFungi may address our food system’s biggest problems: they transform agricultural waste into protein-rich foods with near-zero environmental impact. Hedgehog’s technology is unleashing fungi as our next major food source.",
     "name": "Hedgehog",
@@ -2147,7 +2150,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 18,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hedgehog-2",
     "website": "http://hedgehogfoods.com"
@@ -2190,20 +2193,60 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/polymath-robotics",
     "website": "http://www.polymathrobotics.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/relari.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29185,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1709879960,
+    "long_description": "Relari is a robotics research company developing new ways for robots to learn dexterous manipulation from humans. We combine video with rich, scalable biomechanical data—including electromyography (EMG), motion, force, and touch—to train robotics foundation models for more capable, human-like manipulation.",
+    "name": "Relari",
+    "nonprofit": false,
+    "one_liner": "Building dexterous robots that learn from human biomechanics",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "relari",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8724ca6da40d81a8aadbd3cf9cf5fbaa58ac997.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/relari",
+    "website": "https://www.relari.ai/"
+  },
+  {
     "all_locations": "London, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/maihem.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tekton-dynamics.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "MAIHEM"
+      "MAIHEM",
+      "Maihem"
     ],
     "id": 29241,
     "industries": [
@@ -2214,29 +2257,30 @@
     "isHiring": true,
     "launched_at": 1706234384,
     "long_description": "Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent robots.\r\n\r\nToday’s industrial robots are fast but \"blind\". They struggle with any task that isn't perfectly repetitive. We are building the eyes and brain (a proprietary vision system and AI model) that allow industrial robots to see, reason, and perform complex work with sub-millimeter accuracy and the adaptability of a human expert.\r\n\r\nWe are witnessing the start of a new industrial revolution: an era of advanced manufacturing powered by AI and robotics. We aim to lead this shift by putting these tools into the hands of every manufacturer, ensuring the power to invent and build at scale isn’t a privilege of the few.",
-    "name": "Maihem",
+    "name": "Tekton Dynamics",
     "nonprofit": false,
-    "one_liner": "Adaptive AI welding robots for manufacturers of any scale",
+    "one_liner": "AI control layer for welding robots",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
-    "slug": "maihem",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9018f799ff13c1605703fd892a9f431331770d3.png",
+    "slug": "tekton-dynamics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88f8c82a6ce22ef99621a0f594acb23ef6aa48f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Manufacturing",
-      "AI"
+      "Industrial"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/maihem",
-    "website": "https://www.maihem.com"
+    "url": "https://www.ycombinator.com/companies/tekton-dynamics",
+    "website": "https://www.tekton-dynamics.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2325,7 +2369,7 @@
     "website": "https://yondu.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ultra.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2351,7 +2395,7 @@
     ],
     "slug": "ultra",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e0a45197c7d56b15f0976e431a519c2b35929c0.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
@@ -2367,7 +2411,7 @@
     "website": "https://ultra.tech"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/azalea-robotics-corporation.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2400,13 +2444,13 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": null,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
     "website": "https://azalearobotics.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/atum-works.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2425,7 +2469,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1745346268,
-    "long_description": "Atum Works is building 3D ASML.\r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
+    "long_description": "",
     "name": "Atum Works",
     "nonprofit": false,
     "one_liner": "Gigascale Nanomanufacturing",
@@ -2469,23 +2513,23 @@
     "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
     "name": "Weave Robotics",
     "nonprofit": false,
-    "one_liner": "Personal robots for the home--that ship in 2025",
+    "one_liner": "Practical and delightful home robots",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "weave-robotics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/656bbbf27cb99ea496ba946f90963d0806212dab.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 26,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/weave-robotics",
-    "website": "https://www.weaverobots.com"
+    "website": "https://www.weaverobotics.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2578,7 +2622,7 @@
     "website": "https://www.autumnlabs.io/"
   },
   {
-    "all_locations": "",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/piggy-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2601,6 +2645,8 @@
     "one_liner": "Humanoid robots that do your chores for the price of an iPhone!",
     "question_answers": false,
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -2610,13 +2656,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Smart Home Assistants",
       "Robotics",
+      "AI",
       "Home Automation"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/piggy-robotics",
     "website": "https://piggyrobotics.com"
@@ -2665,7 +2711,7 @@
     "website": "https://www.emberrobotics.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/sensei.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2711,6 +2757,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/vendra.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29814,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1724084407,
+    "long_description": "Vendra makes it faster and easier to get custom parts manufactured in America. \r\n\r\nSubmit one RFQ and Vendra turns your technical requirements into custom manufactured parts - routing work through qualified US suppliers, gathering competitive quotes, and managing production through delivery.\r\n\r\nWe're ITAR registered and manufacture parts for American aerospace and defense leaders. Customers include Anduril, Mach Industries, Relativity Space, Castelion, and Planet Labs.\r\n\r\nSubmit an RFQ at www.vendra.io to get started today!",
+    "name": "Vendra",
+    "nonprofit": false,
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "vendra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Supply Chain",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/vendra",
+    "website": "https://vendra.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bucket-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2746,13 +2835,13 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "website": "https://bucket.bot"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/loombotic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2768,7 +2857,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1731992228,
     "long_description": "Loombotic is automating wire harness manufacturing.",
     "name": "Loombotic",
@@ -2776,7 +2865,8 @@
     "one_liner": "Wire Harnesses in as little as 7 days",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "slug": "loombotic",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03e05dcd715014e7e3ce539d4aef2abf9ef621e2.png",
@@ -2872,7 +2962,7 @@
       "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
     "website": "https://www.inversionsemi.com"
@@ -2968,7 +3058,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1736647566,
     "long_description": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
     "name": "Forge Automation",
@@ -2992,7 +3082,7 @@
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 21,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/forge-automation",
     "website": "https://www.forgeautomation.ca"
@@ -3039,6 +3129,48 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/axal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30353,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1736891737,
+    "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
+    "name": "Axal",
+    "nonprofit": false,
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "axal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/axal",
+    "website": "https://www.axal.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/almond-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3051,12 +3183,12 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1745432874,
-    "long_description": "We build humanoid robot arms for AI researchers and AI-first robotic companies.",
+    "long_description": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
     "name": "Almond",
     "nonprofit": false,
-    "one_liner": "Robot hardware for AI",
+    "one_liner": "A dual-arm robot built for physical AI.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3075,13 +3207,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/almond-2",
     "website": "https://almond.bot/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/the-robot-learning-company.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3101,11 +3233,11 @@
     "long_description": "",
     "name": "The Robot Learning Company",
     "nonprofit": false,
-    "one_liner": "The infrastructure that robot intelligence is built and deployed on.",
+    "one_liner": "Tools for the next era of physical automation.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
     "slug": "the-robot-learning-company",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png",
@@ -3167,7 +3299,7 @@
     "website": "https://www.zeonsystems.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mbodi-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3253,7 +3385,7 @@
     "website": "https://www.boostrobotics.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3296,7 +3428,7 @@
     "website": "https://morpho.ai/"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3315,10 +3447,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1747846039,
-    "long_description": "We manufacturing instruments and reagents that are purpose built for AI, automated labs, and personalized medicines.",
+    "long_description": "We make reagents and software that are purpose built for AI, automated labs, and personalized medicines.",
     "name": "Bramante",
     "nonprofit": false,
-    "one_liner": "Life sciences instrument and reagent manufacturing",
+    "one_liner": "Life sciences reagents and software",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3330,9 +3462,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -3375,13 +3507,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Manufacturing",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vision-lab",
     "website": "https://thevisionlab.ai/"
@@ -3404,7 +3536,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1754696414,
-    "long_description": "Parametric builds autonomous physical businesses.\r\n\r\nWe're starting with a laundromat, designed from the ground up for autonomy. Dirty laundry in, folded clean laundry out.\r\n\r\nRather than retrofit human workflows with robots, we redesign processes with robots as first class citizens.",
+    "long_description": "Parametric builds autonomous physical businesses.",
     "name": "Parametric",
     "nonprofit": false,
     "one_liner": "Physical businesses that run themselves",
@@ -3459,19 +3591,21 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/verne-robotics",
     "website": "https://vernerobotics.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai-robotics-center-of-silicon-valley.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "DeepAware AI"
+    ],
     "id": 30662,
     "industries": [
       "Industrials",
@@ -3480,10 +3614,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1753029704,
-    "long_description": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
-    "name": "DeepAware AI",
+    "long_description": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+    "name": "DeepAware AI (Robotics Center of Silicon Valley)",
     "nonprofit": false,
-    "one_liner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
+    "one_liner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3491,8 +3625,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "deepaware-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
+    "slug": "deepaware-ai-robotics-center-of-silicon-valley",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b55e7c4492211c3d35247562da291230d55e6cdb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3504,10 +3638,135 @@
       "Data Engineering"
     ],
     "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
+    "website": "https://roboticscenter.ai/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/physical-turing.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Riff",
+      "GoRiff"
+    ],
+    "id": 30703,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1752283172,
+    "long_description": "Physical Turing rolls out humanoids in the real world and captures failures for benchmarking and post-training.\r\n\r\nWe procure, staff, and operate a wide range of target environments for real-world rollouts, helping robot makers, model companies, and enterprises continuously evaluate where humanoids succeed, where they fail, and what needs to improve before each deployment.",
+    "name": "Physical Turing",
+    "nonprofit": false,
+    "one_liner": "Evaluating humanoids in the real world",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "physical-turing",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/deepaware-ai",
-    "website": "https://roboticscenter.ai/"
+    "url": "https://www.ycombinator.com/companies/physical-turing",
+    "website": "https://physicalturing.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30717,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1754064844,
+    "long_description": "",
+    "name": "Iron Grid",
+    "nonprofit": false,
+    "one_liner": "Foundation models for physical systems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "iron-grid",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/iron-grid",
+    "website": "https://getirongrid.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/os3.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Observee"
+    ],
+    "id": 30728,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1753297896,
+    "long_description": "OS3 is building the platform that makes intelligent robots accessible to every business.\r\n\r\nToday, robotics is constrained by two fundamental bottlenecks: hardware is too expensive to deploy at scale, and robots are difficult to train because high-quality robotics data is scarce and costly to collect. \r\n\r\nWe built OS3 to solve both.\r\n\r\nOur two-person team designed and a US-made mobile humanoid robot for a fraction of the cost of commercial alternatives. On the intelligence side, instead of relying on expensive robot-generated training data, we trained our own video-action model on 150,000 hours of real-world video spanning more than 2,000 tasks. Every deployed robot feeds new experience into our reinforcement learning pipeline, self improving robot fleet over time.\r\n\r\nThis creates a robot that can be deployed across industries to automate repetitive, physical work without requiring a new robot or training pipeline for every task. Our robots are already deployed in hotels, with customers now expanding the platform into biotech, hospitals, and data centers, including a wet lab at Stanford.\r\n\r\nOur mission is to do for robotics what Apple did for personal computing: take technology that was once expensive, specialized, and inaccessible and make it powerful and usable at massive scale. We’re building toward a world with billions of intelligent robots, and OS3 is the platform that makes that possible.",
+    "name": "OS3",
+    "nonprofit": false,
+    "one_liner": "Affordable, intelligent humanoid robots built to deploy at scale",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "os3",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/os3",
+    "website": "https://os3robotics.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3564,7 +3823,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1757191317,
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "name": "Duranium",
@@ -3586,7 +3845,7 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/duranium",
     "website": "https://www.duranium.co/"
@@ -3620,7 +3879,7 @@
       "America / Canada"
     ],
     "slug": "nox-metals",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/466d7bdd89d6183b6dae5d76321288d79743d24f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f724f217879daf89f5fc2ea9279d9cf723f6300.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3628,7 +3887,7 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "website": "https://noxmetals.co/"
@@ -3670,7 +3929,7 @@
       "Computer Vision"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/efference",
     "website": "https://efference.ai"
@@ -3700,7 +3959,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "allus-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e556d72ba8162e6d77731f52ccea802c98b54fa3.png",
@@ -3708,24 +3969,24 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/allus-ai",
     "website": "https://allus.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/tensr.json",
+    "all_locations": "Emeryville, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tensr.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Core",
@@ -3740,10 +4001,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1763065446,
-    "long_description": "Tensr is building fully autonomous robotic factories that make scaling hardware as effortless as scaling on AWS. We’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
+    "long_description": "Robotic factories that build robotics in the US. Currently operating a 12,000 sqft factory in the Bay Area and actively manufacturing customer orders for some of the largest robotics companies in the US and the International Space Station.\r\n\r\nWe’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
     "name": "Tensr",
     "nonprofit": false,
-    "one_liner": "Fully autonomous robotic factories",
+    "one_liner": "Robotic factories that build robots",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3762,10 +4023,54 @@
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tensr",
     "website": "https://tensr.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "id": 30928,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1762476616,
+    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
+    "name": "Thesis",
+    "nonprofit": false,
+    "one_liner": "Humanoid robots",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "thesis",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "website": "https://thesislabs.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3812,6 +4117,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/philon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Philon",
+      "Spatial AI"
+    ],
+    "id": 30947,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1761067885,
+    "long_description": "Building open-source general-purpose robots capable of performing unsafe, repetitive or boring tasks.",
+    "name": "Philon",
+    "nonprofit": false,
+    "one_liner": "General Purpose Robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "philon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55c56d8a17e50d5a5504f506e783c2b8c9f8a61.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/philon",
+    "website": "https://philon.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lightberry.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3829,14 +4177,14 @@
     "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
     "name": "Lightberry",
     "nonprofit": false,
-    "one_liner": "The social brain for robots.",
+    "one_liner": "Robots with soul",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "lightberry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e293e7e459ca366271fd5317cd8af37ed2cd6625.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3895,6 +4243,50 @@
     "website": "https://forge-robotics.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Axial Composites Industries",
+      "Nerviom"
+    ],
+    "id": 30996,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1757132336,
+    "long_description": "Axial develops accelerated software for geometric computation, physical simulation, and manufacturing.\r\n\r\nOur GPU-native kernels provide programmable building blocks for the computational engineering cycle. They make existing workflows faster and less expensive while enabling engineering teams to explore substantially larger design spaces.",
+    "name": "Axial",
+    "nonprofit": false,
+    "one_liner": "Accelerated Physics Kernels for Computational Engineering",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "axial",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50b2530edbf5348c3c01f68b90374b1e76cd4dd6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/axial",
+    "website": "https://axialcompute.com"
+  },
+  {
     "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/advanced-metal-research.json",
     "app_answers": null,
@@ -3936,6 +4328,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/advanced-metal-research",
     "website": "https://advancedmetalresearch.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Waddle"
+    ],
+    "id": 31047,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784890498,
+    "long_description": "",
+    "name": "Waddle Labs",
+    "nonprofit": false,
+    "one_liner": "LLMs that control robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "waddle-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/waddle-labs",
+    "website": "https://www.waddlelabs.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4041,7 +4477,7 @@
     "slug": "kyten-technologies",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
@@ -4066,10 +4502,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1767518366,
-    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
+    "long_description": "Human Archive (YC W26) is building the data and deployments infrastructure for physical AI.\r\n\r\nWe design hardware, deploy cameras and sensors globally, and train models that help AI better understand how humans interact with the physical world.\r\n\r\nLeading frontier AI labs trust us for their video, sensor, robot deployment, image, and audio datasets.\r\n\r\nWe have offices in SF, China, and India and are researchers from NYU GRAIL, UPenn GRASP, UC Berkeley, Stanford, Johns Hopkins Robotics, and national robotics champions.\r\n\r\nTo get data, please reach out to raj@humanarchive.ai",
     "name": "Human Archive",
     "nonprofit": false,
-    "one_liner": "Multimodal data provider for robotics and world modeling",
+    "one_liner": "Physical AI data lab",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4082,13 +4518,13 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/human-archive",
     "website": "https://www.humanarchive.ai/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Amsterdam, NH, Netherlands",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4101,27 +4537,76 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1769385653,
-    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
+    "long_description": "We deploy robots in warehouses to automate the most demanding job in logistics: unloading loose-loaded containers.\r\n\r\nOur customers include 3PLs (CEVA, Stord), distributors (DHL, PostNL) and many more logistics companies.",
     "name": "Servo7",
     "nonprofit": false,
-    "one_liner": "Robots that 10x manual industry work",
+    "one_liner": "Container unloading robots for warehouses",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Netherlands",
+      "Europe"
     ],
     "slug": "servo7",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Logistics",
+      "Automation"
+    ],
     "tags_highlighted": [],
-    "team_size": null,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/servo7",
     "website": "https://servo7.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31226,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783647531,
+    "long_description": "We’re building collaborative robotic crews for large-scale infrastructure projects, including solar farms and data centers.\r\n\r\n002C: “002A, 5.3 mm left.”\r\n002B: “002A, you’re running low. Next pallet is on the way.”\r\n002C: “Am I clear to come in?”\r\n002A: “Aligned. Panel released. You’re clear.”\r\n002C: “Fastening.”\r\n002B: “Next load arriving now.”\r\n\r\nThis isn’t a human crew talking. It’s three robots building a utility-scale solar farm together. \r\n\r\nOur AI control system enables specialized robots to collaborate, learn reusable construction skills, like alignment, fastening, and manipulation, and transfer them across workflows, from solar farms to data centers. 🚧 🦺 ",
+    "name": "Libra Robotics",
+    "nonprofit": false,
+    "one_liner": "Robotic crews for large-scale infrastructure construction",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "libra-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/libra-robotics",
+    "website": "https://www.librabots.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4141,10 +4626,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1770934019,
-    "long_description": "Warehousing is a $500B industry in the US, and 90% of its operators already have security cameras installed. Yet fewer than 10% use them for anything beyond security. Meanwhile decision-makers sit in their offices all day frustrated with their inability to know what is actually happening on the ground, benchmarking operations across different sites, identifying bottlenecks, and holding managers on the ground accountable.\r\n\r\nRemy AI is the intelligence layer that plugs into your existing camera infrastructure to track the metrics that matter. We combine AI models, analytical dashboards, and hardware where required to deliver a turnkey solution that adapts to your infrastructure and specific needs.\r\n\r\nRecent projects\r\n- Trunk fill and dwell times: auto-measuring inbound and outbound trunk fill percentages and tracking how long trailers are sitting empty on a bay before loading or full before departure, helping tighten bay allocation and alerting managers when trailers have been sat for too long\r\n- Workforce productivity by zone: measuring hourly scan rates, headcount and hours logged in key areas, and wave completion times, giving managers an objective view of where teams are hitting targets and where performance is slipping\r\n- Advanced security detection: flagging segregation zone breaches, out-of-hours activity, unauthorized entries, and backlog build-up in designated areas, turning passive CCTV into an active loss-prevention layer\r\n\r\nOur privacy-first architecture guarantees anonymization, with end-to-end encryption in transit and at rest.",
+    "long_description": "Building robots and training models for automating manipulation in warehouse, starting with e-commerce 3PLs",
     "name": "Remy AI",
     "nonprofit": false,
-    "one_liner": "Computer vision for smarter & safer warehouses",
+    "one_liner": "Automating dexterous tasks in warehouses with AI-powered robots",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4155,12 +4640,141 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [],
+    "tags": [
+      "Robotics",
+      "Logistics"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/remy-ai",
     "website": "https://www.tryremy.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Gikl, Inc",
+      "PerfectBit"
+    ],
+    "id": 31333,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1773359306,
+    "long_description": "PerfectBit builds learned policies for robots that do real work. We train manipulation and control policies that hold up outside the lab, in the unstructured environments where real tasks actually happen. Founded by two alumni of Meta's Superintelligence org: Péter Vajda led Media GenAI foundation-model R&D (Emu, Movie Gen, image and video editing), and Seiji Yamamoto led teams in the Core Llama group across LLM pre-training and post-training, inference optimization, and computer vision. We're early, deliberately quiet about the details, and hiring the first researchers who will shape what this becomes. San Francisco, on-site.",
+    "name": "PerfectBit, Inc.",
+    "nonprofit": false,
+    "one_liner": "Robotics",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "perfectbit-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/perfectbit-inc",
+    "website": "https://perfectbit.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/most-robotic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Instance"
+    ],
+    "id": 31341,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782761102,
+    "long_description": "We're a robotics research lab pushing what's possible with physical AI.\r\n\r\nWe're MIT computer scientists & friends since middle school, with robotics research backgrounds and industry experience at NASA JPL, SpaceX, and AWS.",
+    "name": "Most Robotic",
+    "nonprofit": false,
+    "one_liner": "Research lab building the most robotic household in the world",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "most-robotic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16ccadcbd2ec474ed470efbc872763f4a7984ec0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/most-robotic",
+    "website": "https://mostrobotic.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31359,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1779755220,
+    "long_description": "We build modular humanoid robots and the software platform that allows anyone to train, deploy, and scale robots for real-world tasks.\r\n\r\nToday, teaching a robot a new skill requires robotics engineers, machine learning engineers, training infrastructure, and significant compute resources. We reduce that process to:\r\nRecord → Upload → Train → Deploy.\r\n\r\nOur robots are modular and configurable, with interchangeable end effectors, configurable sensors, and multiple deployment configurations. \r\n\r\nWe believe current humanoid embodiments are often overfit for specific use cases, so we're building a platform that adapts to different environments and applications.\r\n\r\nLong term, we want robotics to be as accessible as software development. Our goal is to become the default platform for training and deploying autonomous robots.",
+    "name": "Twolabs",
+    "nonprofit": false,
+    "one_liner": "Humanoid robot platform for builders.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "twolabs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twolabs",
+    "website": "https://www.twolabs.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4176,12 +4790,12 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1775260036,
-    "long_description": "",
+    "long_description": "Nine Fives produces modern radio frequency test equipment and solutions to disrupt the $130B test equipment industry. By combining modern electronics, AI ready test automation, and strategic supply chains, we’re equipping our customers to cut their time to market in half.",
     "name": "Nine Fives",
     "nonprofit": false,
-    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "one_liner": "RF test equipment for next-gen spacecraft, drones, and cellphones",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4193,9 +4807,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Radar",
-      "Telecommunications",
-      "Electronics"
+      "Hard Tech",
+      "Aerospace",
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -4207,7 +4821,7 @@
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
@@ -4222,7 +4836,7 @@
     "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
     "name": "InLoop Robotics",
     "nonprofit": false,
-    "one_liner": "Deploying robots that ask for help!",
+    "one_liner": "Robotic arms that pick and pack your orders.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4233,12 +4847,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Robotics",
-      "Logistics"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
@@ -4246,7 +4855,87 @@
     "website": "https://inloop-robotics.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31374,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1775173231,
+    "long_description": "Tenet Industries is building AI-automated factories for manufacturing of PCBAs.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCBA manufacturing and electronic manufacturing services.",
+    "name": "Tenet Industries",
+    "nonprofit": false,
+    "one_liner": "AI-automated PCB assembly factories",
+    "question_answers": false,
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "slug": "tenet-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Automation",
+      "Electronics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tenet-industries",
+    "website": "https://www.tenetindustries.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/shotwellai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31400,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1780340127,
+    "long_description": "Shotwell AI is building the data QA layer for dexterous robotics. We work with teams collecting teleoperation and egocentric data to provide dense semantic annotation and validate task adherence. This lets teams compress feedback loops from weeks to hours and iterate on models much faster.",
+    "name": "shotwell.ai",
+    "nonprofit": false,
+    "one_liner": "Annotations for robotics data",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shotwellai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31e129a3b1f344b0b01705a950c37b68af60a957.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shotwellai",
+    "website": "http://shotwell.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4259,7 +4948,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1778272380,
     "long_description": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions.\r\n\r\nSynphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. \r\n\r\nSynphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users. ",
     "name": "Synphony",
@@ -4275,12 +4964,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Food Service Robots & Machines",
-      "SaaS",
-      "Robotics",
-      "Agriculture"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 10,
     "top_company": false,
@@ -4288,7 +4972,47 @@
     "website": "https://www.synphony.co/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31419,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1774843315,
+    "long_description": "",
+    "name": "StableBrowse",
+    "nonprofit": false,
+    "one_liner": "Building the Data Infrastructure layer for Physical AI. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "stablebrowse",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/stablebrowse",
+    "website": "https://stablebrowse.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4317,12 +5041,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Manufacturing",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -4330,7 +5049,46 @@
     "website": "https://www.prototyping.io"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-instinct.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": true,
+    "former_names": [
+      "Bitstream"
+    ],
+    "id": 31456,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1779088548,
+    "long_description": "",
+    "name": "General Instinct",
+    "nonprofit": false,
+    "one_liner": "Inference Infrastructure for Physical AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "general-instinct",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e506831e9805799a19c0fa94ac85f0578ee4374e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/general-instinct",
+    "website": "https://general-instinct.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/aseon-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4345,7 +5103,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1778523485,
-    "long_description": "Aseon Labs builds robotic pitstops for self-driving cars. A depot in a box for charging, cleaning & inspecting autonomous fleets directly in operating zones.\r\n\r\nAutonomous driving is working. The operational layer around it is not. Today, fleets lose significant time and money traveling to centralized depots for charging, cleaning and servicing, creating dead miles, lower uptime and operational bottlenecks that limit fleet scale.\r\n\r\nAseon Pods are modular, rapidly deployable robotic pitstops that keep autonomous fleets operating near demand. By bringing charging, cleaning and inspection directly into operating zones, we help fleet operators increase uptime, reduce operational overhead and scale markets more efficiently without relying on large centralized depots.\r\n\r\nWe’re second-time founders and mobility infrastructure operators. Previously, we built and scaled Pushme to 5,000 stations across 40 cities before its acquisition by TIER–Dott ($600M raised). Aseon Labs is backed by Y Combinator and headquartered in Redwood City.",
+    "long_description": "Aseon Labs builds robotic pitstops for self-driving cars.\r\n\r\nAutonomous vehicles can drive themselves, but they still rely on humans and centralized depots for charging, cleaning and servicing multiple times per day. As fleets scale, the operational layer makes up 70% of the cost of the service and is of the largest barrier to uptime, profitability and market expansion.\r\n\r\nAseon Pods are robotic micro-depots that can be deployed directly within operating zones, bringing fleet servicing to where demand exists. By eliminating unnecessary depot trips and automating routine operations, Aseon helps autonomous fleet operators increase uptime, reduce reset cost by 50% and unlock scale.\r\n\r\nFounded by the team behind Pushme, which deployed 5,000 mobility infrastructure locations across 40 cities before its acquisition by TIER-Dott, Aseon is funded and building product in Redwood City for pilot deployment with major autonomous vehicle operators.",
     "name": "Aseon Labs",
     "nonprofit": false,
     "one_liner": "Robotic pitstops for self-driving cars",
@@ -4361,13 +5119,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Machine Learning",
-      "Robotics",
-      "Self-Driving Vehicles"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
@@ -4403,16 +5155,11 @@
       "America / Canada"
     ],
     "slug": "eden-robotics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d14a9f773f254e36c45b6a27e9f082f69047340.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "Robotics",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
@@ -4421,6 +5168,43 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/avea-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31530,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1779165169,
+    "long_description": "We built the fastest software to control robots from anywhere in the world. We make it possible for robotics companies to keep their robots at 100% uptime, and intervene instantly when a failure occurs. ",
+    "name": "Avea Robotics",
+    "nonprofit": false,
+    "one_liner": "The human-in-the-loop system for robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "avea-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc0f67672c28c5bc0d90aef4a3427383e238ac.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/avea-robotics",
+    "website": "https://www.avearobotics.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/intelligence-factory.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4449,14 +5233,1151 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/intelligence-factory",
+    "website": "https://intelligence-factory.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/proprio-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Proprio"
+    ],
+    "id": 31569,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784630562,
+    "long_description": "Proprio Robotics is building state-of-the-art physical intelligence to automate the entire data center lifecycle—from buildout to maintenance to decommissioning. There are currently 400,000 unstaffed data center technicians positions in the United States alone, which means the massive compute needs of AI are being bottlenecked by labor constraints. Proprio is solving this by building robots that do it instead, and is deploying data center maintenance robots starting Q1 2027. ",
+    "name": "Proprio Robotics",
+    "nonprofit": false,
+    "one_liner": "Robots to maintain and assemble data centers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "proprio-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aeac99898de10d679342b3768b7bc6047f56469.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Robotics",
       "AI"
     ],
     "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/proprio-robotics",
+    "website": "https://www.propriorobotics.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/enact.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32156,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786311090,
+    "long_description": "Enact creates the physical environments to benchmark and hill climb robotics models on high-value tasks. We find where robots fail, and fix them with our in-house training loop.",
+    "name": "Enact",
+    "nonprofit": false,
+    "one_liner": "Real-world RL environments for robotics models",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "enact",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f79f9bbc22f20d6e3465ca66081c4a646834064.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Reinforcement Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/enact",
+    "website": "https://enact.company"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/manifold-2.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32260,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784541343,
+    "long_description": "The US Warehouse industry spends $75bn on labor each year. Yet, only 10% of US warehouses have any form of automation, because existing robotics are too expensive and hard to integrate. \r\n\r\nManifold deploys autonomous robots that handle picking, loading / unloading, and palletizing — priced by pick. Integration in hours. No upfront costs. No retrofitting. No need to rebuild the operation around the robot. \r\n\r\nOur mission is to make it easy for any warehouse to adopt robotics.",
+    "name": "Manifold",
+    "nonprofit": false,
+    "one_liner": "Drop-in robotic labor that works on Day 1",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "manifold-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f03122e41743439cec57f8152eac9cd506d714.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Warehouse Management Tech",
+      "Robotics",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/manifold-2",
+    "website": "https://www.manifoldindustries.ai/"
+  },
+  {
+    "all_locations": "Denver, CO, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agency-tool-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32518,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784914207,
+    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.\r\n\r\nLearn more at https://agencytool.com",
+    "name": "Agency Tool Company",
+    "nonprofit": false,
+    "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "agency-tool-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Developer Tools",
+      "Robotics",
+      "Automation",
+      "Infrastructure",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/agency-tool-company",
+    "website": "https://agencytool.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32552,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782449364,
+    "long_description": "",
+    "name": "6thSense",
+    "nonprofit": false,
+    "one_liner": "Nervous System for Physical AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "6thsense",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24cb943ce2196a35afe2b7d03f61eab2d4ec937a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/6thsense",
+    "website": "https://6thsense.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/noril1.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32553,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783099451,
+    "long_description": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have over $440k+ in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
+    "name": "Nori",
+    "nonprofit": false,
+    "one_liner": "The most capable American-made humanoid robot for $1,688",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "noril1",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/intelligence-factory",
-    "website": "https://intelligence-factory.com"
+    "url": "https://www.ycombinator.com/companies/noril1",
+    "website": "http://norirobotics.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hilstart.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "HILStart",
+      "HILstart"
+    ],
+    "id": 32585,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1787080990,
+    "long_description": "We build physical agent harnesses to enable AI to debug, validate, and ship functional hardware and software.",
+    "name": "Hilstart",
+    "nonprofit": false,
+    "one_liner": "Autonomous Hardware Testing",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hilstart",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51bcabfa16bc955e9ce96986bcffa07d33aea4b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Developer Tools",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hilstart",
+    "website": "https://hilstart.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/aktoria-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Phi Robotics"
+    ],
+    "id": 32621,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1784175637,
+    "long_description": "Operate any robot, anywhere in the world.",
+    "name": "Aktoria Robotics",
+    "nonprofit": false,
+    "one_liner": "Human as API for robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "aktoria-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87a10d62adb927072657a9be3281af92a78ab9c6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aktoria-robotics",
+    "website": "https://aktoria.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/neuromorphic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32716,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786056544,
+    "long_description": "We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee, and to accelerate scientific research!",
+    "name": "Neuromorphic",
+    "nonprofit": false,
+    "one_liner": "Building robots to automate wetlabs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "neuromorphic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/470f3b57cd018aad9c127e64e5b952d32a64d435.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "B2B",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/neuromorphic",
+    "website": "https://www.neuromorphic.vision/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32717,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784835700,
+    "long_description": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours. ",
+    "name": "Neuron Industries",
+    "nonprofit": false,
+    "one_liner": "Industrial Controllers built for AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "neuron-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12fc3438894b5a05c8d3d1997a329d2c5053c9b8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotic Process Automation",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "website": "https://neuronindustries.com"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ultrasonium.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32750,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785870310,
+    "long_description": "The technologies that define this century, including data centers, rockets, satellites, and robots, are built from complex metal parts. As these systems advance, the parts get harder to make. Past a certain complexity, casting and machining stop working, and the advanced methods that remain are slow, expensive, and hazardous.\r\n\r\nUltrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes. \r\n\r\nThe systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.\r\n\r\nOur founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods. ",
+    "name": "Ultrasonium",
+    "nonprofit": false,
+    "one_liner": "Metal manufacturing, faster, cheaper, and more versatile.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ultrasonium",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734dc12d12265ba8890bf4ef5e7e564bdb629a87.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "website": "https://ultrasonium.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "id": 32752,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786481200,
+    "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
+    "name": "Moving Atoms",
+    "nonprofit": false,
+    "one_liner": "Virtual Reality for Training Robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "moving-atoms",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Virtual Reality",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "website": "https://movingatoms.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/provenmetal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Syncra"
+    ],
+    "id": 33017,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1783632830,
+    "long_description": "ProvenMetal manufactures the fastest circuit boards in the United States.\r\n\r\nDomestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet.\r\n\r\nWe automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.\r\n",
+    "name": "ProvenMetal",
+    "nonprofit": false,
+    "one_liner": "AI-native electronics manufacturing for the American industrial base",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "provenmetal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/450cf955a0b5a1e301afe718484dd30ffb22fb67.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/provenmetal",
+    "website": "https://provenmetal.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33053,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786517990,
+    "long_description": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over.\r\n\r\nOur founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "name": "Shiraz AI",
+    "nonprofit": false,
+    "one_liner": "Robots that learn on the job",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shiraz-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d2ffb0a884b8a3781f59266189d89f4b30d975.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Generative AI",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "website": "https://shiraz.ai"
+  },
+  {
+    "all_locations": "Zürich, ZH, Switzerland",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/grip.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33144,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785254669,
+    "long_description": "Grip is a robotics company building intelligent robotic systems for waste and recycling. We are starting with organic waste, where removing contaminants from messy, constantly changing streams remains difficult and highly manual. Our technology combines learning-based manipulation and custom hardware to identify and pick objects, learning from real-world operating data, including every successful and failed grasp, to become more reliable and adaptable over time. This helps waste operators reduce manual sorting, recover more valuable material, lower contamination, and deploy automation flexibly across facilities. Over time, Grip aims to expand beyond organics and build the intelligent manipulation layer for trash in general, making waste processing and the circular economy more efficient and scalable.",
+    "name": "Grip",
+    "nonprofit": false,
+    "one_liner": "Robots for waste manipulation",
+    "question_answers": false,
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "slug": "grip",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6be2671c5d4e3adfe916a4a59aad4680c7cc9d3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotic Process Automation",
+      "Sustainability"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/grip",
+    "website": "https://www.griprobotics.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hebbian-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Vanda Labs"
+    ],
+    "id": 33279,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786123276,
+    "long_description": "Hebbian Robotics builds APIs for robotics data teams to verify data quality for model training.  \r\n\r\nOur customers use us to build quality control pipelines in just a few lines of code, with custom models 10x faster and 8x cheaper than general foundation models. \r\n\r\nhttps://hebbianrobotics.com/\r\nhttps://github.com/Hebbian-Robotics/hflow",
+    "name": "Hebbian Robotics",
+    "nonprofit": false,
+    "one_liner": "APIs for robotics data teams to verify data quality for model training",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hebbian-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hebbian-robotics",
+    "website": "https://hebbianrobotics.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dawn-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33344,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786150873,
+    "long_description": "VIM connects to the entire cell: PLCs, robots, CNC machines, sensors. When a cell faults, VIM finds the cause, stages the fix, and the operator approves with one click. When a part drifts, VIM catches it seconds after the cut, inside the machine, and recommends the correction. Recovery drops from 30 minutes to under two, saving more than $15,000 per fault in large factories.",
+    "name": "Dawn Industries",
+    "nonprofit": false,
+    "one_liner": "Automatic Diagnosis & Fix for Industrial Automation Cells",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "dawn-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be237324cf82c0125a34763f99ffb0cf35ca384d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dawn-industries",
+    "website": "https://www.dawnxr.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Telos",
+      "Robocurve PBC"
+    ],
+    "id": 33349,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783378088,
+    "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
+    "name": "Robocurve",
+    "nonprofit": false,
+    "one_liner": "Evals for robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "robocurve",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cfdafb2f71eef92d986496e842d5218b330742b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/robocurve",
+    "website": "https://robocurve.org"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/salem-robotics-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33408,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1783052221,
+    "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of mandatory manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we started in nuclear and are already expanding to other hazardous industries.",
+    "name": "Salem Robotics Inc",
+    "nonprofit": false,
+    "one_liner": "Deploying robots to replace workers in hazardous spaces",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "salem-robotics-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbf386dc8fa91340ed1cce1b80613f66e88ee12d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Energy",
+      "Defense",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/salem-robotics-inc",
+    "website": "https://salemroboticsinc.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34365,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1785385611,
+    "long_description": "Lambda Robotics builds and deploys robots for the infrastructure powering frontier AI.",
+    "name": "Lambda Robotics",
+    "nonprofit": false,
+    "one_liner": "Robotics for AI Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lambda-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751b6f5898f8cb0549b80d5a13c551d0c7c0e12f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lambda-robotics",
+    "website": "https://lambdarobotics.ai"
+  },
+  {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35290,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786284917,
+    "long_description": "",
+    "name": "Antropi Robotics",
+    "nonprofit": false,
+    "one_liner": "Autonomous CNC factories for faster hardware",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "antropi-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/antropi-robotics",
+    "website": "https://www.antropi.world/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35454,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789000982,
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "name": "Shepherd Robotics",
+    "nonprofit": false,
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shepherd-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "website": "https://shepherdrobotics.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/deploy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35455,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789089952,
+    "long_description": "Deploy's core belief is that robots should be useful. Getting a generalist robot to do real work is fundamentally the same problem across industries. We build everything between the model and the task to bring generalist robots to the businesses that actually need them.",
+    "name": "Deploy",
+    "nonprofit": false,
+    "one_liner": "The generalist robot deployment company.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "deploy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9baf9dee045cc202f815dc0769d662dbd53ad269.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/deploy",
+    "website": "https://deployrobotics.co/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35522,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1786491305,
+    "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
+    "name": "Hemlock",
+    "nonprofit": false,
+    "one_liner": "Force-sensing wristband for training robotic AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hemlock",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hemlock",
+    "website": "https://hemlock.info"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35652,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788918386,
+    "long_description": "Every instance of intelligence occurring in nature is embodied. Scientific intelligence is no different. We are building general-purpose robotic experimentalists: systems that unite scientific reasoning and physical action to iterate toward discovery by observing, hypothesizing and experimenting.",
+    "name": "SuperRadiant",
+    "nonprofit": false,
+    "one_liner": "Embodied Scientific Intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "superradiant",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Energy",
+      "Advanced Materials",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/superradiant",
+    "website": "https://superradiant.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35850,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788577910,
+    "long_description": "Dreamscale Labs is building the fastest cloud inference platform for robotics. As complex physical AI models become difficult to fit on expensive on-robot GPUs, we let users offload inference to the cloud and serve them with real-time latency. So far, we've hit 40-50% lower latency than existing neoclouds.\r\n",
+    "name": "Dreamscale Labs",
+    "nonprofit": false,
+    "one_liner": "Running robot brains in the cloud",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "dreamscale-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dreamscale-labs",
+    "website": "https://dreamscalelabs.com"
+  },
+  {
+    "all_locations": "El Segundo, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sinter-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36708,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788569774,
+    "long_description": "Sinter is creating a faster and radically more affordable American plastics pipeline, helping iteration heavy hardware teams evolve from additive prototypes to production parts on week-scale timelines.",
+    "name": "Sinter",
+    "nonprofit": false,
+    "one_liner": "Accelerating scaled plastics with additive technologies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sinter-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "3D Printing",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sinter-systems",
+    "website": "https://sinter.systems"
   }
 ]

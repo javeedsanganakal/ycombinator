@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/hireart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -254,7 +254,7 @@
     "website": "http://higherme.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Lima, Callao Region, Peru; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -263,44 +263,37 @@
     "former_names": [],
     "id": 774,
     "industries": [
-      "Education"
+      "B2B",
+      "Productivity"
     ],
-    "industry": "Education",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1416220798,
-    "long_description": "Platzi cracked online education. It teaches courses on design, marketing and programming with a 70% completion rate, to over one million students worldwide.\r\n\r\nThe classes include real-time collaboration among students and industry leaders as teachers. It aims to be the professional home for lifelong learning of advanced skills.",
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
     "name": "Platzi",
     "nonprofit": false,
-    "one_liner": "Latin America's School of Technology",
+    "one_liner": "Turning company knowledge into expert teams",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "Chile",
-      "Mexico",
-      "Spain",
-      "Argentina",
-      "Colombia",
-      "Peru",
       "America / Canada",
-      "Latin America",
-      "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "platzi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "Education",
+    "subindustry": "B2B -> Productivity",
     "tags": [
+      "AI-Enhanced Learning",
       "Education",
       "eLearning",
-      "Video",
-      "HR Tech",
-      "Subscriptions"
+      "Sales Enablement",
+      "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 300,
+    "team_size": 123,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/platzi",
     "website": "https://platzi.com"
@@ -354,7 +347,7 @@
     "website": "https://www.edenworkplace.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Seoul, Seoul, South Korea; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/fountain.json",
     "app_answers": null,
     "app_video_public": false,
@@ -377,7 +370,9 @@
     "one_liner": "High volume hiring made simple",
     "question_answers": false,
     "regions": [
+      "South Korea",
       "United States of America",
+      "East Asia",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -663,7 +658,7 @@
     "website": "https://livelyme.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/candidately.json",
     "app_answers": null,
     "app_video_public": false,
@@ -713,7 +708,7 @@
     "website": "https://www.candidately.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/tequitable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -756,7 +751,7 @@
     "website": "https://www.tEQuitable.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Ottawa, ON, Canada",
+    "all_locations": "Ottawa, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/tall-poppy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -777,7 +772,6 @@
     "one_liner": "Protecting your employees against online harassment",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "Canada",
       "America / Canada",
       "Remote",
@@ -799,7 +793,7 @@
     "website": "https://tallpoppy.com"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/nestor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -880,13 +874,13 @@
     "status": "Acquired",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "SaaS",
       "B2B",
+      "Recruiting",
       "Compliance",
       "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 17,
+    "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ascen",
     "website": "https://ascen.com"
@@ -1033,7 +1027,7 @@
     "website": "http://www.hatchways.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/benepass.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1077,7 +1071,7 @@
     "website": "http://www.getbenepass.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/hiresweet.json",
     "app_answers": false,
     "app_video_public": false,
@@ -1098,7 +1092,9 @@
     "one_liner": "A talent acquisition software built for data-driven recruiting teams.",
     "question_answers": false,
     "regions": [
+      "France",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "slug": "hiresweet",
@@ -1117,7 +1113,7 @@
     "website": "http://www.hiresweet.com"
   },
   {
-    "all_locations": "Bellevue, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/humanly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1162,7 +1158,7 @@
     "website": "https://humanly.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Dubai, Dubai, United Arab Emirates; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/infeedo-ai.json",
     "app_answers": true,
     "app_video_public": true,
@@ -1186,7 +1182,9 @@
     "one_liner": "AI to engage employees, predict attrition and automate HR/IT support",
     "question_answers": false,
     "regions": [
+      "United Arab Emirates",
       "United States of America",
+      "Middle East and North Africa",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -1342,7 +1340,7 @@
     "website": "https://tryfinch.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1390,7 +1388,7 @@
     "website": "https://www.DegreesOfFreedom.org"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/modernloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1454,7 +1452,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1614618716,
-    "long_description": "Ontop allows companies to hire international workers and gives those workers access to USD accounts.",
+    "long_description": "Ontop allows companies to hire global workers and gives those workers access to a Global Financial Account.",
     "name": "Ontop",
     "nonprofit": false,
     "one_liner": "Simplifying hiring and payments for the global workforce",
@@ -1477,7 +1475,7 @@
       "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 192,
+    "team_size": 186,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ontop",
     "website": "https://www.getontop.com/"
@@ -1572,14 +1570,15 @@
   },
   {
     "all_locations": "São Paulo, SP, Brazil",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/zaz-os.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/zazos.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2021",
     "demo_day_video_public": false,
     "former_names": [
       "Rio",
-      "Zazos"
+      "Zazos",
+      "Zaz OS"
     ],
     "id": 24080,
     "industries": [
@@ -1588,10 +1587,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1627047912,
-    "long_description": "Zaz OS is a “Lovable for internal products”: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company’s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes — the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
-    "name": "Zaz OS",
+    "long_description": "Software is now cheap to build. Every company will have its own custom all-in-one OS. zaz⚡️os is how they build it, without rebuilding everything from scratch.\r\n\r\nzaz⚡️os is a customizable all-in-one OS for running a company. Instead of stitching together point solutions, each company gets its own single-tenant workspace with 26+ ready apps (performance, feedback, hiring, time off, payments) and an AI Studio to adapt any of them, or build new ones, to how the company actually works. ",
+    "name": "zaz⚡️os",
     "nonprofit": false,
-    "one_liner": "Lovable for internal products",
+    "one_liner": "The custom all-in-one OS for each company.",
     "question_answers": false,
     "regions": [
       "Brazil",
@@ -1599,8 +1598,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "zaz-os",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png",
+    "slug": "zazos",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/653ea1e7b58157e2161d1a1bf03c54b117a41c37.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -1612,9 +1611,9 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zaz-os",
+    "url": "https://www.ycombinator.com/companies/zazos",
     "website": "https://www.zazos.com/"
   },
   {
@@ -1707,7 +1706,7 @@
       "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/brite",
     "website": "https://britebenefits.com/"
@@ -2296,20 +2295,20 @@
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 65,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/peoplebox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2333,10 +2332,8 @@
     "one_liner": "AI talent platform to hire, manage, and grow your people ",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "India",
+      "South Asia"
     ],
     "slug": "peoplebox",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png",
@@ -2344,11 +2341,11 @@
     "status": "Active",
     "subindustry": "B2B -> Human Resources",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "team_size": 35,
@@ -2402,7 +2399,7 @@
     "website": "https://www.compup.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/flexdesk.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2534,7 +2531,7 @@
     "website": "https://www.veratainsight.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/warp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2550,11 +2547,11 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1677261125,
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $25M from Sound Ventures (Ashton Kutcher), A-Star, Abstract, Drew Houston & Arash Ferdowsi (Dropbox), Balaji Srinivasan, Amjad Masad (Replit), Kyle Vogt (Cruise), SV Angel & Homebrew Capital.",
+    "long_description": "Warp is the AI-native employee management platform for high-growth companies. We run payroll, HR, compliance, benefits, and IT on a single platform for companies from 5 to 10,000 employees, using AI agents to complete the work that legacy systems leave to people.\r\n\r\nWe've raised $85M from Battery Ventures, Peak XV, Sound Ventures (Ashton Kutcher), Sapphire, A-Star, SV Angel, and Homebrew Capital.\r\n\r\nSome of the fastest growing companies of today trust Warp to reduce HR and admin overhead so they build faster. We're proud to serve top startups like Serval, Bland, Greptile, Reducto, Corgi, Campfire, alongside our mid-size and enterprise customers.\r\n\r\nWe're humbled to have the backing of people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, former Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, former Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, former Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "name": "Warp",
     "nonprofit": false,
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
-    "question_answers": true,
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
@@ -2568,16 +2565,17 @@
       "B2B",
       "HR Tech",
       "Payroll",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/warp",
     "website": "https://www.warp.co/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Dubai, Dubai, United Arab Emirates",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cercli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2597,6 +2595,8 @@
     "one_liner": "AI powered HR and Recruitment for people teams",
     "question_answers": false,
     "regions": [
+      "United Arab Emirates",
+      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -2683,7 +2683,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1691417670,
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
+    "long_description": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
     "name": "Bolto",
     "nonprofit": false,
     "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
@@ -2700,18 +2700,18 @@
     "status": "Active",
     "subindustry": "B2B -> Human Resources",
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bolto",
     "website": "https://www.bolto.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/affinity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2817,26 +2817,26 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1703103445,
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex interviews, screens, and schedules every candidate – over voice, video, and text – so talent teams hire more great people, faster, without adding TA headcount. The recruiter stays in control: every shortlist is approved by a human, and every relationship and offer is owned by the customer's team.\r\n\r\nWe're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
     "name": "Alex",
     "nonprofit": false,
-    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
+    "one_liner": "Alex is the AI recruiter for hiring great people.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "alex-com",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b76c25c75fac04ce234cc570b0dd988698507a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 30,
@@ -2922,20 +2922,20 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/superunit",
-    "website": "http://superunit.ai"
+    "website": "http://superunit.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Austin, TX, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/modus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2955,6 +2955,8 @@
     "one_liner": "Unlock revenue per employee with AI-powered headcount management",
     "question_answers": true,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2977,7 +2979,7 @@
     "website": "https://himodus.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3022,7 +3024,7 @@
     "website": "https://www.you-shift.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/symphony.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3063,7 +3065,7 @@
     "website": "https://getsymphony.co"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Vancouver, BC, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gale.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3076,7 +3078,7 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1737265835,
     "long_description": "Gale is an immigration tech platform that makes immigration simple for US companies. We've simplified the visa application process, streamlined compliance, and can integrate with HR systems - saving teams time, money and headaches. Through automation, we enable the independent attorneys we coordinate with to maintain quality whilst being more efficient.",
     "name": "Gale",
@@ -3084,7 +3086,7 @@
     "one_liner": "Fast and Data-Driven Immigration Platform",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada"
     ],
     "slug": "gale",
@@ -3106,7 +3108,7 @@
     "website": "https://galevisa.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Leuven, Flanders, Belgium",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/spott.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3127,7 +3129,8 @@
     "one_liner": "AI-native ATS/CRM for recruiting firms",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Belgium",
+      "Europe"
     ],
     "slug": "spott",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
@@ -3142,145 +3145,10 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/spott",
     "website": "https://spott.io"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Kesher Link",
-      "ShorPay"
-    ],
-    "id": 30619,
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1753916245,
-    "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
-    "name": "Shor",
-    "nonprofit": false,
-    "one_liner": "The fastest, most affordable payroll for global teams",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "shor",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Payments",
-    "tags": [
-      "Fintech",
-      "B2B",
-      "HR Tech",
-      "Payroll",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/shor",
-    "website": "https://www.tryshor.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30862,
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1759034914,
-    "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
-    "name": "Sorce",
-    "nonprofit": false,
-    "one_liner": "Tinder for jobs",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "sorce",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Human Resources",
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sorce",
-    "website": "https://sorce.jobs"
-  },
-  {
-    "all_locations": "London, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Grappl",
-      "HireGlide"
-    ],
-    "id": 30944,
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1762295048,
-    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
-    "name": "Prism",
-    "nonprofit": false,
-    "one_liner": "AI-native recruiting agency",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "slug": "tryprism",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "tags": [
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/tryprism",
-    "website": "https://tryprism.com/"
   },
   {
     "all_locations": "Stockholm, Stockholm County, Sweden",
@@ -3342,25 +3210,26 @@
     "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1769729252,
-    "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "long_description": "Tsenta is an AI career agent that matches you with jobs, applies automatically, and gets you the best offers on the market.\r\n\r\nWe grew to ~$3M Annualized in three months. \r\n\r\nWe built it after manually applying to over 3,000 jobs ourselves, so that candidates would always have someone on their side.\r\n\r\nToday, more than 90,000+ job seekers trust Tsenta to automate their job search.",
     "name": "Tsenta",
     "nonprofit": false,
-    "one_liner": "We match you with jobs and apply automatically",
+    "one_liner": "AI career agent that finds matching jobs & applies on your behalf",
     "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "tsenta",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0363e9662e7db43e0292d57332e9650487ebdbb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Job and Career Services",
     "tags": [
-      "Artificial Intelligence",
+      "Marketplace",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -3410,5 +3279,89 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/saffron",
     "website": "https://www.trysaffron.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lantern-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35190,
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1787030206,
+    "long_description": "Lantern learns what exceptional looks like for your team, pressure-tests the role against the real talent market, then runs the hiring loop: sourcing, inbound applications, interviews, assessments, candidate communication, and offers.",
+    "name": "Lantern AI",
+    "nonprofit": false,
+    "one_liner": "Turn Your Taste Into Hires",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lantern-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Human Resources",
+    "tags": [
+      "Artificial Intelligence",
+      "Human Resources",
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lantern-ai",
+    "website": "https://www.lantern.md"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36777,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788994017,
+    "long_description": "Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.\r\n\r\nDuring the implementation, the agent goes back to the employees involved after each initiative and asks whether it was implemented and what changed. The result is a project management office that has talked to every employee. Today consulting firms buy it for the stakeholder interviews at the start of an engagement. Transformation and corporate development teams buy it to run the implementation of a change program.\r\n\r\nOver time this becomes the way a company knows how it runs. Sona8 reads the systems the company already uses, connects them to what employees said, and keeps the picture current by asking again. Before a decision, you ask what it would do across sites and teams and get an answer from the whole company. A small team steers a company-wide program that used to need a large one. And AI agents inside the company come here first to learn how the work is done before they change anything.",
+    "name": "Sona8",
+    "nonprofit": false,
+    "one_liner": "Voice agents that talk to employees enabling transformations ",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sona8",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "HR Tech",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sona8",
+    "website": "https://sona8.com"
   }
 ]

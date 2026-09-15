@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/zinc-platform.json",
     "app_answers": null,
     "app_video_public": false,
@@ -83,7 +83,7 @@
     "website": "https://www.elph.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/alpaca.json",
     "app_answers": null,
     "app_video_public": false,
@@ -146,7 +146,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1599762607,
     "long_description": "https://github.com/adenhq/hive",
     "name": "Aden",
@@ -219,7 +219,7 @@
     "website": "https://fly.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -302,11 +302,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 150,
@@ -315,8 +315,8 @@
     "website": "https://encord.com"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d-labs.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
@@ -330,7 +330,9 @@
       "TutorAI.me",
       "QuickVid.ai",
       "QuickVid",
-      "True3D"
+      "True3D",
+      "True3D Labs",
+      "Outpaint.com"
     ],
     "id": 22880,
     "industries": [
@@ -338,33 +340,79 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614739771,
-    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
-    "name": "True3D Labs",
+    "long_description": "We're a research lab building foundation models and products for what comes after flat video.",
+    "name": "True3D",
     "nonprofit": false,
-    "one_liner": "AI that expands any video to fit any screen.",
+    "one_liner": "Building the next generation of visual media",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "true3d-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
+    "slug": "true3d",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a242a0c2ce6b1ca1518d1744187f98a3bf8eade9.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Media",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "website": "https://true3d.com/"
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "website": "https://www.true3d.com/"
+  },
+  {
+    "all_locations": "Oslo, Oslo, Norway; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/enode.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Enode AS"
+    ],
+    "id": 22953,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1616508622,
+    "long_description": "Device connectivity, home energy coordination, and grid orchestration in a single platform.",
+    "name": "Enode",
+    "nonprofit": false,
+    "one_liner": "Energy Orchestration Platform",
+    "question_answers": false,
+    "regions": [
+      "Norway",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "enode",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d173e80b5b8cf1006b5c3b5baa37e052acecc8c5.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Climate",
+      "API",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 70,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/enode",
+    "website": "http://www.enode.com"
   },
   {
     "all_locations": "Seattle, WA, USA",
@@ -412,7 +460,7 @@
     "website": "https://nimbus.dev"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Stockholm, Stockholm County, Sweden; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/camp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -439,7 +487,9 @@
     "one_liner": "A Nouns DAO governance client",
     "question_answers": false,
     "regions": [
+      "Sweden",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -542,14 +592,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Video",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 75,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tavus",
     "website": "https://www.tavus.io"
@@ -620,7 +670,7 @@
     "long_description": "Mach9 accelerates how teams model and understand the world with automated feature extraction technology. Founded in 2021 and headquartered in San Francisco, Mach9's flagship Digital Surveyor platform helps transportation agencies, utility companies, and engineering firms extract miles of road corridor projects in a fraction of traditional processing time. Built on decades of research from Carnegie Mellon University's Robotics Institute, Mach9 empowers the architecture, engineering, and construction industries to tackle large-scale infrastructure projects with unprecedented speed and accuracy. Leading survey and geospatial organizations, including Langan, Olsson, Woolpert, HDR, and major state DOTs trust Digital Surveyor to create engineering-grade maps for infrastructure design and operations.",
     "name": "Mach9",
     "nonprofit": false,
-    "one_liner": "AI-native CAD software for civil engineering",
+    "one_liner": "AI CAD Software for Civil Engineering",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -634,11 +684,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Design Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 25,
@@ -692,7 +742,7 @@
     "website": "https://www.wingback.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cerebrium.json",
     "app_answers": null,
     "app_video_public": false,
@@ -829,7 +879,7 @@
     "website": "https://Argo.LA"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Campinas, SP, Brazil; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/botcity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -850,8 +900,8 @@
     "one_liner": "Observability and Governance for AI-Generated Python scripts.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Brazil",
+      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -873,7 +923,7 @@
     "website": "https://botcity.dev"
   },
   {
-    "all_locations": "New York, NY, USA; Paris, Île-de-France, France; Remote",
+    "all_locations": "New York City, NY, USA; Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/brainboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -919,7 +969,57 @@
     "website": "https://www.brainboard.co"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/mspilot.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Personabo",
+      "EasyCode (Formerly Personabo)",
+      "EasyCode",
+      "OpenBuilder"
+    ],
+    "id": 26144,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1680284500,
+    "long_description": "Make AI your next recurring revenue line.\r\n\r\nMSPilot helps Managed Service Providers deploy, govern, and monetize AI agents across their entire client base. Author an agent once, roll it out to your whole book, and bill for every token - with markup.",
+    "name": "MSPilot",
+    "nonprofit": false,
+    "one_liner": "Turn AI adoption into a recurring revenue line.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "mspilot",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6da8314f45312f4d972daa5d200eefd67b2ec8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "No-code",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mspilot",
+    "website": "https://mspilot.io"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/hyperdx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1191,7 +1291,7 @@
     "website": "https://www.cakework.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/omnistrate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1292,12 +1392,12 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1675129787,
-    "long_description": "Easily build & scale AI agents, functions, stateful services, and more. Open-source & self-hostable.",
+    "long_description": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
     "name": "Rivet",
     "nonprofit": false,
-    "one_liner": "Open-Source alternative to Durable Objects",
+    "one_liner": "Rivet Actors are the primitive for stateful workloads",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1363,7 +1463,7 @@
     "website": "https://www.trycardinal.ai/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1376,7 +1476,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1689189501,
     "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
     "name": "Cedana",
@@ -1443,13 +1543,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sid",
     "website": "https://www.sid.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/hiro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1470,14 +1570,14 @@
     "long_description": "",
     "name": "Hiro",
     "nonprofit": false,
-    "one_liner": "Your first security hire",
+    "one_liner": "Agents that handle security work",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "hiro",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/808b74ee6688cd6849f4540a000059ba7714ff1f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1d128fbe59c627f74405a0637c6a9692cc736f0.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Security",
@@ -1490,10 +1590,10 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hiro",
-    "website": "https://hiro.is"
+    "website": "https://hirosecure.com"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/epsilla.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1582,7 +1682,7 @@
     "website": "https://trainy.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/converge.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1666,49 +1766,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/automorphic",
     "website": "https://automorphic.ai/"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/vectorshift.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29001,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1690889498,
-    "long_description": "VectorShift is an AI automations platform. Teams leverage AI through VectorShift’s no-code or SDK interfaces to search through knowledge bases, generate documents, and deploy chatbots and assistants.\r\n\r\nThe no-code platform gives end-users an interface to access pre-built workflows for end use cases (e.g., responding to RFPs, writing proposals, writing account plans) while letting them customize and build new ones with drag and drop components. \r\n\r\n",
-    "name": "VectorShift",
-    "nonprofit": false,
-    "one_liner": "No-Code Generative AI Automations Platform",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "vectorshift",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a28987b3e1b3effc2a33ce770fc25f4424fc775.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "No-code",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 16,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/vectorshift",
-    "website": "https://www.vectorshift.ai"
   },
   {
     "all_locations": "",
@@ -1818,10 +1875,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689280457,
-    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
+    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
     "name": "ParadeDB",
     "nonprofit": false,
-    "one_liner": "Simple, Elastic-quality search for Postgres",
+    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1842,13 +1899,13 @@
       "Databases"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/paradedb",
     "website": "https://paradedb.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glide-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1879,7 +1936,7 @@
     "slug": "glide-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1c76d50e7b1ba3c361d312f4e312c3e5f8f54b3.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Developer Tools",
@@ -1897,7 +1954,7 @@
     "website": "https://buildwithglide.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1918,6 +1975,8 @@
     "one_liner": "Open source alternative to AWS",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1955,10 +2014,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1709255809,
-    "long_description": "Trellis helps healthcare providers treat more patients, faster—while eliminating pre-service paperwork. We automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending—delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
+    "long_description": "",
     "name": "Trellis AI",
     "nonprofit": false,
-    "one_liner": "AI for streamlining healthcare paperwork",
+    "one_liner": "Accelerate Medication Access with AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1977,54 +2036,10 @@
       "Databases"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trellis-ai",
     "website": "https://runtrellis.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/engines.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Parasale"
-    ],
-    "id": 29311,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1709590695,
-    "long_description": "Engines is an AI platform engineer that containerizes codebases, debugs Terraform code, and helps you get complex monorepos setup.",
-    "name": "Engines",
-    "nonprofit": false,
-    "one_liner": "Setup any repo with one command",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "engines",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f746cab4c1fdc6ea404f1bbe73e27c8e7bf34caf.png",
-    "stage": "Early",
-    "status": "Inactive",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/engines",
-    "website": "https://engines.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2073,51 +2088,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Markprompt"
-    ],
-    "id": 29341,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1700867535,
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "name": "14.ai",
-    "nonprofit": false,
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "14-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ecdeb51e1b2a618115abfd5f0aefe2b01ed8e6a.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "E-commerce",
-      "Customer Service",
-      "Infrastructure",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/14-ai",
-    "website": "https://14.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2151,20 +2121,20 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
+      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zep-ai",
     "website": "https://www.getzep.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/hatchet-run.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2180,7 +2150,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1709312849,
     "long_description": "Hatchet is an orchestration platform for managing and observing AI agents, background tasks, and mission-critical workflows. Our mission is to provide developers with a simple, powerful, and reliable orchestration layer, enabling them to focus on building great applications.",
     "name": "Hatchet",
@@ -2254,7 +2224,7 @@
     "website": "https://www.openfoundry.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/crowdvolt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2292,52 +2262,10 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/crowdvolt",
     "website": "https://crowdvolt.com/"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/nowhouse.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29515,
-    "industries": [
-      "Fintech"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1709826722,
-    "long_description": "NowHouse helps stock brokerages settle trades instantly.",
-    "name": "NowHouse",
-    "nonprofit": false,
-    "one_liner": "NowHouse helps stock brokerages settle trades instantly.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "nowhouse",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a46937fb560137c8e2a3bbcfcaf475423a4d2fc.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech",
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Enterprise",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 0,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/nowhouse",
-    "website": "https://www.nowhouse.io"
   },
   {
     "all_locations": "Remote",
@@ -2403,29 +2331,31 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1716511817,
-    "long_description": "Mem0 provides a memory layer for LLM applications, enabling them to remember and learn from user interactions over time.\r\n",
+    "long_description": "Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time - ideal for customer support chatbots, AI assistants, and autonomous systems.",
     "name": "Mem0",
     "nonprofit": false,
-    "one_liner": "The Memory layer for your AI apps",
+    "one_liner": "The Memory layer for AI Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "mem0",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3ec5ae83019ddb5d6898272fd3b9d1089c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d1e9679b389145f8635f2a0ae631bb24eba7cf8.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mem0",
     "website": "https://mem0.ai"
@@ -2483,13 +2413,12 @@
     "former_names": [],
     "id": 29649,
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer"
     ],
-    "industry": "B2B",
+    "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1715713232,
-    "long_description": "AI Agents have arrived. They are powerful enough to read, plan, and act across your everyday life and work. The question is no longer whether they can run canned demos to check the weather, it’s whether real teams can rely on them for critical work. We optimize for adoption over spectacle: useful, accountable systems that help top professional complete real tasks.\r\n\r\nWordware is backed by Spark Capital, Felicis, and Y Combinator, with a $30M seed round. Our beautiful, historic San Francisco office sits in the shadow of the Golden Gate Bridge, it’s full of plants and radiates innovation and calm. We genuinely love working together. At lunch we talk about alignment and AI consciousness, we have surfboards in the office ready to use, we take walking meetings on the beach and hang out after work at the bar or climbing wall. We work really hard because we care deeply about what we do.\r\n\r\nSauna is Wordware’s AI workspace for professionals. Think ‘Cursor for Knowledge Work’ and you’re halfway there. With explicit permission, it connects to tools like Gmail, Calendar, Slack, and thousands more, to gather the right context to move your work forward. It learns who you are, drafts and refines your documents, presentations, and datasets, researches across the web and your org’s internal knowledge, summarizes long threads to cut through the noise, proposes next steps, even acts on your behalf when enabled. You can work with Sauna live, side-by-side, or schedule jobs to run automatically in the background, with clear permissions and easy off-switches. Sauna brings the power of AI Agents to all professionals.",
+    "long_description": "Most AI products hand you a coworker on day one and hope you trust it. Sauna is the coworker you raise: it starts by learning how you work, earns autonomy task by task, and ends up running hours of work on its own while you keep taste, review, and the final say. Wordware is the ~20-person team behind it, backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC history. We build from a San Francisco office in the shadow of the Golden Gate Bridge, and we work absurdly hard because we can see and feel the outcome every day.",
     "name": "Wordware",
     "nonprofit": false,
     "one_liner": "AI agents you can rely on",
@@ -2502,12 +2431,12 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Consumer",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -2663,10 +2592,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1723245936,
-    "long_description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
+    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
     "name": "Thunder Compute",
     "nonprofit": false,
-    "one_liner": "The world's cheapest GPU cloud",
+    "one_liner": "VMware for GPUs",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -2678,17 +2607,61 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/thunder-compute",
     "website": "https://www.thundercompute.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Exa Labs",
+      "Exa Laboratories"
+    ],
+    "id": 29777,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1722631140,
+    "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
+    "name": "Zettascale",
+    "nonprofit": false,
+    "one_liner": "Energy efficient chips for AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "zettascale",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hard Tech",
+      "Semiconductors",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/zettascale",
+    "website": "https://zscc.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2706,12 +2679,12 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1717601253,
-    "long_description": "Oway is an AI-driven freight platform that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
+    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
     "name": "Oway",
     "nonprofit": false,
-    "one_liner": "AI Infrastructure for America’s Empty Truck Space",
+    "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2725,13 +2698,14 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Logistics",
-      "Infrastructure"
+      "API",
+      "Supply Chain",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/oway",
     "website": "https://www.shipoway.com"
@@ -2758,11 +2732,13 @@
     "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
     "name": "Pipeshift",
     "nonprofit": false,
-    "one_liner": "Inference for real-time agents",
+    "one_liner": "Ultra-low latency inference cloud for real-time workloads",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "pipeshift",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
@@ -2798,10 +2774,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1729643205,
-    "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
+    "long_description": "Revyl is the mobile development platform for agents, developers, product, and design. It brings development, build infrastructure, verification, and application intelligence together in one platform, giving teams and agents a shared source of truth for every mobile application.\r\n\r\nTeams can build and run mobile applications in the cloud, understand how their applications work, collaborate across functions, and verify changes against the running app. AI agents gain the context and runtime they need to move beyond simply generating code and understand whether their work actually works.\r\n\r\nBy connecting the people and agents building software to the application itself, Revyl helps teams move faster, collaborate more effectively, and build mobile with confidence.",
     "name": "Revyl",
     "nonprofit": false,
-    "one_liner": "AI-Native Mobile Testing",
+    "one_liner": "The Mobile Development Platform",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2813,13 +2789,13 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/revyl",
     "website": "https://www.revyl.com"
@@ -2853,7 +2829,7 @@
       "America / Canada"
     ],
     "slug": "archil",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0695554aaa43f831a6d970c73486aad8f7a9101f.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
@@ -2961,7 +2937,7 @@
     "website": "https://surge.app"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ryvn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3005,53 +2981,50 @@
     "website": "https://ryvn.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/sre-ai.json",
+    "all_locations": "Paris, Île-de-France, France",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dotwave.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2024",
+    "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "SRE.ai",
-      "sre.ai"
+      "Dollyglot"
     ],
-    "id": 30115,
+    "id": 30198,
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1731196685,
-    "long_description": "Reliability on autopilot. Free you team to build what's next.",
-    "name": "SRE.ai",
+    "launched_at": 1741300119,
+    "long_description": ".Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition.   \r\n\r\nCustomers bring their models; we integrate and run them, managing execution, session state, and scheduling to reduce end-to-end latency and serving cost per live session.  \r\n\r\nWe use cadenced inference to support more concurrent sessions per GPU while keeping latency low and consistent.",
+    "name": ".Wave",
     "nonprofit": false,
-    "one_liner": "AI DevOps Agents",
+    "one_liner": "Continuous inference for streaming AI models",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
-    "slug": "sre-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
+    "slug": "dotwave",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16adbb8c4442e6124b56566c82ed680beaba21a.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
+      "Generative AI",
       "B2B",
-      "DevOps",
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sre-ai",
-    "website": "https://sre.ai"
+    "url": "https://www.ycombinator.com/companies/dotwave",
+    "website": "https://dotwave.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3072,8 +3045,8 @@
     "one_liner": "AWS for AI Agents",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -3155,7 +3128,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1737656598,
-    "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
+    "long_description": "Osmosis is a post-training platform that helps companies fine-tune language models using reinforcement learning. We work with fast-growing AI companies to train task/domain-specific models that beat foundation models on performance, cost, and latency. Our platform handles compute orchestration, reward modeling, and training run observability as a CLI-based product usable by developers and agents. ",
     "name": "Osmosis",
     "nonprofit": false,
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
@@ -3182,15 +3155,16 @@
     "website": "https://osmosis.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/liquid-compute.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [
       "PowerPlay",
-      "Strike"
+      "Strike",
+      "Pluto"
     ],
     "id": 30269,
     "industries": [
@@ -3200,31 +3174,31 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1740523068,
-    "long_description": "First regulated exchange for compute",
-    "name": "Pluto",
+    "long_description": "",
+    "name": "Liquid Compute",
     "nonprofit": false,
-    "one_liner": "Regulated derivatives exchange",
+    "one_liner": "Pending CFTC regulation to be the first cash and physically settled…",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "pluto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "slug": "liquid-compute",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddb1c0f50037d9c24b823a5a568655e0a2d1980d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pluto",
-    "website": "https://www.pluto.trade"
+    "url": "https://www.ycombinator.com/companies/liquid-compute",
+    "website": "https://www.liquidcompute.com"
   },
   {
     "all_locations": "Amsterdam, NH, Netherlands",
@@ -3270,54 +3244,54 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/outlit.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/exla.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30291,
+    "id": 30284,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1736658447,
-    "long_description": "Outlit turns every customer-facing tool in your stack, like Stripe, Granola, PostHog, Slack, Gmail, Pylon, and more, into one complete, queryable customer profile.\r\n\r\nWe resolve fragmented identity across mismatched records, extract structured facts and signals from unstructured interactions, and expose the result through CLI, MCP, and API. \r\n\r\nSo every person and agent in your company has the full context on every customer to work from.",
-    "name": "Outlit",
+    "launched_at": 1740012412,
+    "long_description": "Exla is your 24/7 AI SRE agent. It reads your production logs, traces, and deploys, and holds full context on your codebase. It establishes a live baseline of normal behavior, so when something silently regresses, it catches the deviation immediately, pins it to the exact commit that caused it, and opens a fix PR. No paging a human at 3am, no digging through dashboards to find what changed.\r\n\r\nhttps://cal.com/exla-ai/schedule",
+    "name": "Exla",
     "nonprofit": false,
-    "one_liner": "Customer Context for Agents",
+    "one_liner": "Building agents that reads logs and fixes issues on your behalf.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "outlit",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
+    "slug": "exla",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "API",
       "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/outlit",
-    "website": "https://outlit.ai/"
+    "url": "https://www.ycombinator.com/companies/exla",
+    "website": "https://exla.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Fluidize"
+    ],
     "id": 30352,
     "industries": [
       "B2B",
@@ -3326,32 +3300,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1753994250,
-    "long_description": "Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",
-    "name": "Fluidize",
+    "long_description": "Monte is an applied research lab building products for continual learning and recursive self-improvement for AI agents.",
+    "name": "Monte",
     "nonprofit": false,
-    "one_liner": "Helping scientists and engineers run experiments with AI. ",
+    "one_liner": "Continual Learning for Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "fluidize",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png",
+    "slug": "monte",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/213b59f051867cd51ae0008db2962b11e76fd9f3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Developer Tools",
+      "Reinforcement Learning",
       "B2B",
-      "Open Source",
       "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/fluidize",
-    "website": "https://fluidize.ai"
+    "url": "https://www.ycombinator.com/companies/monte",
+    "website": "https://trymonte.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3370,17 +3343,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1745276338,
-    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
+    "long_description": "Blaxel is the infrastructure foundation for autonomous agents.\r\n\r\nEngineered for the way agents actually run, Blaxel gives builders deep control over compute (sandboxes), storage (shared filesystem), and networking as built-in infra primitives.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.",
     "name": "Blaxel",
     "nonprofit": false,
-    "one_liner": "The perpetual sandbox platform",
+    "one_liner": "The infrastructure for autonomous agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "blaxel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daedc1e66e212180bb678c683cd4595f1c7cd149.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -3391,13 +3364,13 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/blaxel",
     "website": "https://blaxel.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/golf.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3423,7 +3396,8 @@
     "one_liner": "Agentic AI Security and Governance",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "golf",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb627188af8a389c044d02fc9024aae3ea05cdd3.png",
@@ -3437,7 +3411,7 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 1,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/golf",
     "website": "https://golf.dev/"
@@ -3561,19 +3535,61 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sixtyfour",
     "website": "https://www.sixtyfour.ai/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/prism.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Prism AI"
+    ],
+    "id": 30492,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1745261196,
+    "long_description": "We sell tokens",
+    "name": "Prism",
+    "nonprofit": false,
+    "one_liner": "Abundant Intelligence for Everyone",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "prism",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/prism",
+    "website": "https://prisminference.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3678,12 +3694,13 @@
     ],
     "id": 30522,
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1747424808,
-    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
+    "long_description": "Naïve is an AI research lab building autonomous companies.\r\n\r\nWe develop the systems, environments, and agent infrastructure required for AI to operate real businesses end-to-end, then release increasingly capable autonomous companies into the world.",
     "name": "Naïve",
     "nonprofit": false,
     "one_liner": "Autonomous Company Infrastructure",
@@ -3693,10 +3710,10 @@
       "America / Canada"
     ],
     "slug": "naive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed09e878f16f40414804fdb218d878e11639bd1e.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Artificial Intelligence",
       "Infrastructure"
@@ -3708,7 +3725,50 @@
     "website": "https://usenaive.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "TraceRoot.ai"
+    ],
+    "id": 30610,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1753318246,
+    "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
+    "name": "TraceRoot.AI",
+    "nonprofit": false,
+    "one_liner": "Open source self-improving layer for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "traceroot-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/traceroot-ai",
+    "website": "https://traceroot.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3726,10 +3786,10 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1754285936,
-    "long_description": "We use AI to help electrical contractors submit more competitive bids to construction projects. We do this by speeding up the estimating part of bidding, which is the most tedious part of the job. Specifically, we're building models that can understand floor plans and count electrical devices to generate the estimate. Bidflow is the future of electrical pre-construction.",
+    "long_description": "We use AI to help electricians speed up the time it takes to submit a competitive bid to a job. We do this by scanning complex CAD drawings and 10X-ing the time it takes to estimate a job. This involves using vision models to read and count complex symbols in large PDFs, which typically take hours (sometimes days) to do precisely. Every missed symbol can cost thousands, and our AI can count to 99% accuracy.",
     "name": "Bidflow",
     "nonprofit": false,
-    "one_liner": "AI Electrical Estimator",
+    "one_liner": "AI Takeoffs for Electrical",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3796,7 +3856,7 @@
     "website": "https://useplaygent.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/llm-stats.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3844,7 +3904,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "former_names": [],
     "id": 30649,
     "industries": [
@@ -3853,10 +3913,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754345371,
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper inference while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+    "long_description": "Lilac sells flexible GPU contracts and runs the software layer on top: monitoring, bare-metal provisioning, and managed Kubernetes and Slurm. We also run this layer for GPU cloud providers as their named operations and support partner.",
     "name": "Lilac",
     "nonprofit": false,
-    "one_liner": "We automatically monetize idle GPUs",
+    "one_liner": "We sell GPUs.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3901,10 +3961,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1751905744,
-    "long_description": "Magnitude is an open source coding agent that follows intent more reliably, stays effective on longer tasks, and produces higher-quality code. Install: npm i -g @magnitudedev/cli",
+    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
     "name": "Magnitude",
     "nonprofit": false,
-    "one_liner": "Open source coding agent",
+    "one_liner": "Open source inference server for local models",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3943,27 +4003,27 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1753389326,
     "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
     "name": "Panoptive",
     "nonprofit": false,
-    "one_liner": "The oversight engine for clinical trials",
+    "one_liner": "The continuous oversight engine for clinical trials",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "panoptive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Biotech",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -3972,14 +4032,15 @@
     "website": "https://www.panoptive.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "mcp-use"
+      "mcp-use",
+      "Manufact (formerly mcp-use)"
     ],
     "id": 30710,
     "industries": [
@@ -3989,13 +4050,14 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1752861544,
-    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
-    "name": "Manufact (formerly mcp-use)",
+    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
+    "name": "Manufact",
     "nonprofit": false,
-    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
+    "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "manufact",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
@@ -4003,14 +4065,14 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/manufact",
     "website": "https://manufact.com"
@@ -4050,13 +4112,13 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 22,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kernel",
     "website": "https://www.kernel.sh"
@@ -4077,10 +4139,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1752778004,
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "long_description": "You built your product in a weekend and deployed to Vercel, Supabase, Railway or AWS. Now you need to figure out how to pick the right region, scale to multiple instances, add monitoring and alerts, and who to ping when something breaks… and you don't have a cloud engineer.\r\n\r\nWe spent a decade at our previous startup (CodeSignal), building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are operated in production, so developers can build reliable production apps without becoming cloud infrastructure experts.\r\n\r\nModelence is a production cloud that's designed for enterprise-grade apps, abstracting away the infrastructure layer:\r\n- Deployments & hosting\r\n- Background jobs and persistence\r\n- File storage, real-time data and networking\r\n- Monitoring and alerts\r\n\r\nPlatforms like Vercel and Supabase are easy to start with, but most companies that start getting real customers eventually need a persistent backend where processes can run beyond just a few minutes at a time, unlike pure serverless. And low-level cloud platforms like AWS are meant to be operated by cloud engineers and are too complicated for engineers who want to focus on product rather than infra. Modelence is your managed backend infrastructure, built on decades of our experience operating web apps in the cloud.",
     "name": "Modelence",
     "nonprofit": false,
-    "one_liner": "The full-stack platform for agentic development",
+    "one_liner": "Production infrastructure on autopilot",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4095,6 +4157,7 @@
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4203,10 +4266,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1761187283,
-    "long_description": "Kestrel is an AI-native cloud incident response platform that brings self-healing to cloud infrastructure. It monitors cloud and kubernetes infrastructure 24/7, finds root causes, and generates exact fixes - so incidents get resolved in seconds instead of hours.",
+    "long_description": "Kestrel is the AI automation layer for platform engineering teams.\r\n\r\nPlatform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack.\r\n\r\nKestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions.\r\n\r\nDeveloper-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
     "name": "Kestrel AI",
     "nonprofit": false,
-    "one_liner": "AI-Native Cloud Incident Response Platform",
+    "one_liner": "AI Agents for Platform Engineering",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4219,9 +4282,8 @@
     "subindustry": "B2B -> Security",
     "tags": [
       "AIOps",
-      "Security",
-      "Kubernetes",
-      "Cloud Computing",
+      "Developer Tools",
+      "DevOps",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4246,10 +4308,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1762492786,
-    "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
+    "long_description": "Captain syncs complex, multimodal files and cloud storage from sources like S3, SharePoint, and Google Drive, and makes that knowledge searchable for your agents.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, Captain self-tunes the retrieval pipeline to your data and workloads.\r\n\r\nOn benchmarks, this improves accuracy from roughly 78% with standard RAG to over 97% by tuning retrieval to the unique structure and content of your data.\r\n\r\nCaptain is purpose-built for complex, regulated, and high-stakes file search workloads.\r\n\r\nLearn more at https://captain.dev",
     "name": "Captain",
     "nonprofit": false,
-    "one_liner": "Give AI agents accurate knowledge search that scales",
+    "one_liner": "Self-tuning file search for AI agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4270,7 +4332,7 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/captain",
-    "website": "https://runcaptain.com"
+    "website": "https://captain.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4306,6 +4368,7 @@
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Developer Tools",
+      "Open Source",
       "API",
       "Infrastructure",
       "Databases"
@@ -4330,28 +4393,28 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1761703288,
     "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
     "name": "Lemma",
     "nonprofit": false,
-    "one_liner": "Reliability platform for AI agents",
+    "one_liner": "Production Monitoring for AI agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "uselemma",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/335dca5772b36d447d2e1c9b0f730539813d1846.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
+      "Analytics",
       "Infrastructure",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -4360,7 +4423,7 @@
     "website": "https://www.uselemma.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4392,16 +4455,106 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/amika",
     "website": "https://www.amika.dev/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/onetriangle.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "EvalAI",
+      "TrustAI Labs",
+      "TrustAI"
+    ],
+    "id": 31074,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1783378352,
+    "long_description": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, OneTriangle has cut inference costs by 20% and time by 40% compared to present standards.",
+    "name": "OneTriangle",
+    "nonprofit": false,
+    "one_liner": "The cheapest, fastest inference cloud",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "onetriangle",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75197a50573558e4b8c16932b7db7c7c11f235a4.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/onetriangle",
+    "website": "https://onetriangle.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Piris Inc.",
+      "Pirislabs"
+    ],
+    "id": 31114,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1770857008,
+    "long_description": "Up to 80% of the most advance AI compute chips sits idle because of slow networking. Piris Labs builds photonic based networking solutions to enable fast, scalable, and low cost AI workload execution infrastructure.",
+    "name": "Piris Labs",
+    "nonprofit": false,
+    "one_liner": "The Networking Layer of AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "pirislabs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pirislabs",
+    "website": "https://pirislabs.io/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4417,9 +4570,9 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1770354850,
-    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. ",
     "name": "Salus",
     "nonprofit": false,
     "one_liner": "Guardrails to validate your agent's actions before they execute",
@@ -4434,11 +4587,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -4466,11 +4619,11 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1768297786,
-    "long_description": "Enabling physical AI at scale.",
+    "long_description": "Fern provides RL environments for robotics companies powered by a foundational world model. Companies can plug and play their robot policies completely in software with varying starting scenes of their production environment, and we'll produce RL heads on top of your existing policies to improve speed and success rate. Our customers get a continual learning flywheel where their production robots improve every week.",
     "name": "Fern",
     "nonprofit": false,
-    "one_liner": "Enabling physical AI at scale.",
-    "question_answers": true,
+    "one_liner": "RL environments for robotics companies",
+    "question_answers": false,
     "regions": [
       "Unspecified"
     ],
@@ -4490,7 +4643,7 @@
     "website": "https://fern.bot"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4514,7 +4667,7 @@
     "one_liner": "Your software should build itself.",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada"
     ],
     "slug": "approxima",
@@ -4551,10 +4704,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1776709029,
-    "long_description": "Archal lets you test agents and code that touch third-party APIs without hitting the real services. We build working clones of popular SaaS platforms that hold state across requests and behave like the originals, so you catch bugs before your agent does something irreversible in production.",
+    "long_description": "Archal provisions sandboxes with the API environments your CI, tests, and evals need. Your coding agent can start the sandbox & environments, connect to your API integrations, run tests, and inspect state changes. Sandboxes and environments are startable within seconds and take milliseconds to reset.",
     "name": "Archal",
     "nonprofit": false,
-    "one_liner": "The eval platform for autonomous software",
+    "one_liner": "API sandboxes, built for AI agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4566,60 +4719,16 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/archal",
     "website": "https://www.archal.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Librar"
-    ],
-    "id": 31283,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1769303203,
-    "long_description": "Backed by top engineers from OpenAI, Scale AI, and Palantir to build AI that understands human culture.\r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It the AI-native OS for libraries, that speed up all of the manual and boring work for librarians.\r\n\r\nFastest growing library tech company in history.\r\n",
-    "name": "Librar Labs",
-    "nonprofit": false,
-    "one_liner": "AI that understands human culture",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "librar-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Machine Learning",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "website": "https://www.librarlabs.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4664,319 +4773,73 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/openvector.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "TeleOps",
+      "BotZero",
+      "Foveal"
+    ],
+    "id": 31301,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785369468,
+    "long_description": "OpenVector transforms any existing camera into an automated 24/7 workforce without requiring new hardware. We've built the world's fastest vision-language model inference engine that allows users to simply describe a task in plain English and automatically build a custom AI vision model to monitor their feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems, makes calls, sends emails, updates a POS/CRM, or triggers webhooks in real time. OpenVector enables any camera to do real work.",
+    "name": "OpenVector",
+    "nonprofit": false,
+    "one_liner": "AI that turns any camera to an autonomous worker with real-time vision",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "openvector",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54df715903ce304e2b9e3b2fe1f375caf7811ea6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Robotics",
+      "Computer Vision",
+      "Infrastructure",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/openvector",
+    "website": "https://openvector.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "MyMX"
+      "Hub",
+      "Hub.xyz"
     ],
-    "id": 31329,
+    "id": 31375,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": true,
-    "launched_at": 1773121787,
-    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
-    "name": "primitive",
+    "launched_at": 1773429014,
+    "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
+    "name": "Hub",
     "nonprofit": false,
-    "one_liner": "Communication for agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "primitive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Automation",
-      "Email",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/primitive",
-    "website": "https://primitive.dev"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Gikl, Inc"
-    ],
-    "id": 31333,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773359306,
-    "long_description": "We create a new kind of data for training AI models. Most LLMs are pre-trained on noisy web-scraped text, but they hallucinate and still fail on tasks that humans find trivial.  PerfectBit creates high-quality training data that's correct by construction. We verify against physics simulators, scientific databases, formal proof systems. LLMs, robotics, AI for Science, and more.",
-    "name": "PerfectBit",
-    "nonprofit": false,
-    "one_liner": "Training data for frontier AI labs",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "perfectbit",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/perfectbit",
-    "website": "https://perfectbit.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31413,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1771902214,
-    "long_description": "We build environments to test your app and agents against the real world.\r\n\r\nDeploy your code/agent into a sandbox that runs against replicas of external services (Stripe, Slack, Google Drive, etc.). Twins support the same APIs, MCP tool calls & SDKs as the real software, and you can spin up thousands of instances in parallel and seed them using natural language. Run real workflows, surface edge cases, and observe how your code/agents actually behave before hitting production.",
-    "name": "Arga Labs",
-    "nonprofit": false,
-    "one_liner": "The validation infrastructure for AI agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "arga-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/arga-labs",
-    "website": "https://www.argalabs.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/drippay.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31414,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1777049103,
-    "long_description": "Drip is the operating system for enterprise contract operations. We unify communication, procurement, pricing, entitlements, and financial workflows into a single context layer so companies can execute deals, coordinate internally, and manage contracts without engineering bottlenecks.",
-    "name": "Drip",
-    "nonprofit": false,
-    "one_liner": "The operating system for enterprise deal execution",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "drippay",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "B2B",
-      "Sales Enablement",
-      "Billing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 0,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/drippay",
-    "website": "https://usedrip.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/smol-machines.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Smol Machines"
-    ],
-    "id": 31448,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1775148410,
-    "long_description": "Smol machines solve the problem of \"but app works on my machine\" by shipping the machine.\r\n\r\nSmol machine enables devs to ship a lightweight virtual machine with any software, similar to how Electron ships an entire browser with the web app. ",
-    "name": "smol machines",
-    "nonprofit": false,
-    "one_liner": "Ship software faster with portable, self contained virtual machines.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "smol-machines",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9db625bd34a051e8617673268bb5d9659339ed.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/smol-machines",
-    "website": "https://smolmachines.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zibra-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "TBD. We don't have a name yet."
-    ],
-    "id": 31459,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1777682633,
-    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
-    "name": "Zibra Labs",
-    "nonprofit": false,
-    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "zibra-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zibra-labs",
-    "website": "https://zibralabs.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ardent.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31475,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1775685642,
-    "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
-    "name": "Ardent",
-    "nonprofit": false,
-    "one_liner": "Database sandboxes for Agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "ardent",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Data Engineering",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ardent",
-    "website": "https://tryardent.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31507,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773453080,
-    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. runs on the browser of any device..",
-    "name": "ProjectX",
-    "nonprofit": false,
-    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "one_liner": "Real-world training data for frontier AI labs and robotics.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4984,23 +4847,23 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "projectx",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "slug": "hub",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Marketplace",
-      "DevOps",
-      "Cloud Computing",
+      "Robotics",
+      "Crowdsourcing",
+      "Big Data",
       "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/projectx",
-    "website": "https://www.projectx.cloud/"
+    "url": "https://www.ycombinator.com/companies/hub",
+    "website": "https://hub.xyz"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -5028,15 +4891,15 @@
       "America / Canada"
     ],
     "slug": "expanse",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Enterprise Software",
-      "Infrastructure"
+      "Deep Learning",
+      "B2B",
+      "Infrastructure",
+      "ML"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -5046,43 +4909,1016 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31547,
+    "id": 31526,
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1779834493,
+    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+    "name": "Uno Wallet",
+    "nonprofit": false,
+    "one_liner": "The AI mobile wallet that replaces Apple Pay",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "uno-wallet",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Payments",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "website": "https://myunowallet.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31570,
     "industries": [
       "B2B",
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1776234676,
-    "long_description": "InsForge is the backend platform designed for coding agents. Database, auth, storage, compute, hosting, and AI gateway in one place, built for agents to configure and manage end to end.",
-    "name": "InsForge",
+    "launched_at": 1783408799,
+    "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
+    "name": "Rindler",
     "nonprofit": false,
-    "one_liner": "The backend platform for AI-native developers",
+    "one_liner": "The IDE for Tokenmaxxers",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "insforge",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "slug": "rindler",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
+      "SaaS",
       "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rindler",
+    "website": "https://maxxwell.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32131,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784606823,
+    "long_description": "Shielded connects companies’ internal and external data to map market shifts, tariffs, and disruptions directly to suppliers, products, and margins. We turn those impacts into real-time decisions that grow and protect the business. ",
+    "name": "Shielded",
+    "nonprofit": false,
+    "one_liner": "We help Fortune 500 companies hedge their supply chain risk",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shielded",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Fintech",
+      "Supply Chain",
+      "Agriculture",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shielded",
+    "website": "https://www.shieldedglobal.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32198,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785872995,
+    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "name": "Riften",
+    "nonprofit": false,
+    "one_liner": "Earned intelligence for every company",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "riften",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/riften",
+    "website": "https://riften.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/stoa.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32225,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1785367811,
+    "long_description": "Stoa provides pricing and trading infrastructure for AI hardware, live with an RFQ marketplace where companies buy and sell GPUs through vetted dealers real-time.",
+    "name": "Stoa",
+    "nonprofit": false,
+    "one_liner": "The market behind AI hardware.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "stoa",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf71f2bfca9f3f554d22c43f0dfd7b1a38171535.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Fintech",
+      "Hardware",
+      "Marketplace",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/stoa",
+    "website": "https://www.stoaexchange.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32253,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1781312801,
+    "long_description": "Buy tokens over a time window from the provider of your choice at a price fixed today - 10-30% off the on-demand price. If your plans change - resell your reserved capacity to another buyer.",
+    "name": "Touchmark",
+    "nonprofit": false,
+    "one_liner": "Market for future inference capacity",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "touchmark",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fac4fb7e32c7424e6eea88690415f386be2f5832.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/touchmark",
+    "website": "https://touchmark.ai"
+  },
+  {
+    "all_locations": "Denver, CO, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agency-tool-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32518,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784914207,
+    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.\r\n\r\nLearn more at https://agencytool.com",
+    "name": "Agency Tool Company",
+    "nonprofit": false,
+    "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "agency-tool-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Developer Tools",
+      "Robotics",
+      "Automation",
+      "Infrastructure",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/agency-tool-company",
+    "website": "https://agencytool.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32618,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785963586,
+    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
+    "name": "Click",
+    "nonprofit": false,
+    "one_liner": "Research services for ChatGPT and Claude",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "click",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Artificial Intelligence",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/click",
+    "website": "https://www.useclick.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32848,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1785364349,
+    "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
+    "name": "Luca IQ",
+    "nonprofit": false,
+    "one_liner": "API-first tax engine for CPA firms and developers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "luca-iq",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05718bc482e46fde4208c29e7eef28f2f4b686e7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "B2B",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/luca-iq",
+    "website": "https://lucaiq.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Inkbox (Vectorly Inc)"
+    ],
+    "id": 33014,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782881612,
+    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
+    "name": "Inkbox",
+    "nonprofit": false,
+    "one_liner": "The identity and communication layer for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "inkbox",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/inkbox",
+    "website": "https://inkbox.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33047,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785265630,
+    "long_description": "An agent’s access should depend on the task it is doing. The same action can be appropriate for one task and wrong for another. Access decisions need to adapt in real time as the agent works, but companies can’t turn every business judgment into a fixed rules or have people manually approve every step.\r\n\r\nWe train small, company-specific models that approve AI actions in real time. They consider the company’s policies and interests, the agent’s current task, and its past actions to decide whether each proposed action should be allowed. Access is specific to the task at hand and reassessed as the agent works.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models to power their agents. They’ll own the models that keep their entire AI workforce acting in their interests. Decawork is building those models.",
+    "name": "Decawork",
+    "nonprofit": false,
+    "one_liner": "Training company-specific models that approve AI actions.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "decawork",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/decawork",
+    "website": "https://decawork.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "SubVysion, Inc."
+    ],
+    "id": 33313,
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1783960374,
+    "long_description": "We build centimeter-accurate 3D maps of underground utilities to help construction contractors dig safer and faster. With underground intelligence, contractors can avoid dangerous utility strikes and costly project delays.",
+    "name": "SubVysion",
+    "nonprofit": false,
+    "one_liner": "Autonomous rovers to make the ‘Google Maps’ of underground utilities",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "subvysion",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0df819d609df4c8e15ebdc21bbc1f518d56e52d8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "tags": [
+      "Hard Tech",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/subvysion",
+    "website": "https://subvysion.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33348,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785348094,
+    "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
+    "name": "hiloop",
+    "nonprofit": false,
+    "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hiloop",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hiloop",
+    "website": "https://hiloop.ai"
+  },
+  {
+    "all_locations": "George Town, George Town, Cayman Islands",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/caution.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Caution SEZC"
+    ],
+    "id": 33673,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785719703,
+    "long_description": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin.\r\n\r\nConfidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running.\r\n\r\nWe built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production.\r\n\r\nAs AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
+    "name": "Caution",
+    "nonprofit": false,
+    "one_liner": "Hosting platform for software you can't afford to have hacked",
+    "question_answers": false,
+    "regions": [
+      "Cayman Islands",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "caution",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0571039e7dc6cc20c7a181c0b7ffa967bc5c6d3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Cybersecurity",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/caution",
+    "website": "https://caution.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Resolute Labs"
+    ],
+    "id": 33806,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782607347,
+    "long_description": "We are building an open source gateway for AI budget holders to control model access and turn their traffic into better models that they own. We're a team that has earned an ML PhD at Georgia Tech, scaled AutoGPT to 160k GitHub stars, and led a self-driving simulation team at Waabi.",
+    "name": "Experiential Labs",
+    "nonprofit": false,
+    "one_liner": "Open source AI gateway that turns your traffic into better models",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "experiential-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/experiential-labs",
+    "website": "https://experientiallabs.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34365,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1785385611,
+    "long_description": "Lambda Robotics builds and deploys robots for the infrastructure powering frontier AI.",
+    "name": "Lambda Robotics",
+    "nonprofit": false,
+    "one_liner": "Robotics for AI Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lambda-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751b6f5898f8cb0549b80d5a13c551d0c7c0e12f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/insforge",
-    "website": "https://insforge.dev/"
+    "url": "https://www.ycombinator.com/companies/lambda-robotics",
+    "website": "https://lambdarobotics.ai"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35093,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789408162,
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "name": "Aviern",
+    "nonprofit": false,
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aviern",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "website": "https://aviern.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nodus-compute.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Nodus"
+    ],
+    "id": 35257,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788063210,
+    "long_description": "Intelligent execution layer for AI workloads",
+    "name": "Nodus Compute",
+    "nonprofit": false,
+    "one_liner": "Intelligent execution layer for AI workloads",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "nodus-compute",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/nodus-compute",
+    "website": "https://www.nodus-compute.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35265,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788561875,
+    "long_description": "Our customers use Hopper today for two things: replacing GPT-4.1 with Gemma-4 (6x faster), and replacing Elevenlabs with qwen3-tts (8x cheaper).",
+    "name": "Hopper",
+    "nonprofit": false,
+    "one_liner": "Fast inference for voice",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hopper",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hopper",
+    "website": "https://withhopper.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35395,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1787942068,
+    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the software properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "name": "Workers IO",
+    "nonprofit": false,
+    "one_liner": "Simulation Environments for Verifying Mission Critical Software",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "workers-io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/workers-io",
+    "website": "https://workers.io"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35850,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788577910,
+    "long_description": "Dreamscale Labs is building the fastest cloud inference platform for robotics. As complex physical AI models become difficult to fit on expensive on-robot GPUs, we let users offload inference to the cloud and serve them with real-time latency. So far, we've hit 40-50% lower latency than existing neoclouds.\r\n",
+    "name": "Dreamscale Labs",
+    "nonprofit": false,
+    "one_liner": "Running robot brains in the cloud",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "dreamscale-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dreamscale-labs",
+    "website": "https://dreamscalelabs.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36643,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789407516,
+    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 10%+ quality improvement on the first workflow analysis.",
+    "name": "Papaya",
+    "nonprofit": false,
+    "one_liner": "Continuous optimization for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "papaya",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/papaya",
+    "website": "https://papaya.fyi/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tilion.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37105,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789207215,
+    "long_description": "we build self-healing browser infrastructure that runs millions of agent operations a day without supervision. \r\n\r\nteams use it for large-scale data collection, agentic workflows, continuous monitoring, and anything else that requires acting on the web at volume.\r\n",
+    "name": "Tilion",
+    "nonprofit": false,
+    "one_liner": "Super fast, unblockable browser infra for agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tilion",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119cb04a763e823c00332f94249a1f95dc277724.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tilion",
+    "website": "https://tilion.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/maritime.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 38061,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788209179,
+    "long_description": "Maritime is cloud infrastructure for AI agents. We help companies give every customer an agent running in its own isolated, persistent computer, starting at $1 per agent per month. Maritime handles hosting, scaling, and sleep/wake automatically, so developers can run thousands of agents without managing the infrastructure.",
+    "name": "Maritime",
+    "nonprofit": false,
+    "one_liner": "The managed cloud for AI agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "maritime",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8ff801ef7e9094077a292c8bed3e86ce7e01f00.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/maritime",
+    "website": "https://maritime.sh/"
   }
 ]

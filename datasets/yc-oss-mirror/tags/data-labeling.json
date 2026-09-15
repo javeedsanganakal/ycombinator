@@ -15,7 +15,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1541050478,
     "long_description": "The best AI models aren’t just trained and evaluated with human data; they’re built with superhuman data. The strongest datasets emerge through collective intelligence, where humans and machines work together to outperform either one alone. At Centaur, we create superior quality data by turning annotation into an arena where experts and AI compete.",
     "name": "Centaur",
@@ -103,10 +103,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1643510053,
-    "long_description": "Sieve is the only AI research lab exclusively focused on video data.\r\n\r\nVideo already makes up 80% of internet traffic and has become the dominant medium driving creativity, communication, gaming, AR/VR, and robotics. Unlocking the ability to truly model video is the key to breakthroughs across all of these domains but progress has been bottlenecked by one thing: high-quality training data. That’s where Sieve comes in.\r\n\r\nWe bring together exabyte-scale video infrastructure, novel video understanding techniques, and dozens of diverse data sources to create datasets that push the frontier of video modeling. This unique combination allows us to deliver data with unmatched precision, quality, and speed which has earned the trust of frontier AI labs, Fortune 100 companies, and fast-growing generative AI startups.",
+    "long_description": "Sieve builds the data and environments frontier AI labs use to train the next generation of multimodal systems.\r\n\r\nAI is moving beyond chatbots into video, audio, images, software, robotics, and interactive worlds. The next generation of models will need to understand how the world looks, sounds, moves, responds, and changes over time. Progress is bottlenecked by one thing: high-quality data.\r\n\r\nSieve brings together exabyte-scale infrastructure, novel multimodal understanding techniques, large-scale sourcing, and deep research partnerships to create datasets and environments with unmatched precision, quality, and speed. This has earned the trust of frontier AI labs, Fortune 100 companies, and fast-growing AI startups working on generative media, robotics, computer use, world models, and agentic systems.",
     "name": "Sieve",
     "nonprofit": false,
-    "one_liner": "Video datasets for frontier AI",
+    "one_liner": "The multimodal data lab",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -125,13 +125,13 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 18,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sieve",
     "website": "https://sievedata.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/jumpwire.json",
     "app_answers": null,
     "app_video_public": false,
@@ -174,7 +174,7 @@
     "website": "https://jumpwire.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -186,12 +186,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1641512856,
-    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
+    "long_description": "We take messy transaction data and turn it into structured, verified records — with a platform, models, and tooling that help our customers use it everywhere it matters.",
     "name": "Spade",
     "nonprofit": false,
-    "one_liner": "Enriched transaction data you can build on",
+    "one_liner": "Spade is the data and AI platform for modern finance.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -205,14 +205,14 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Machine Learning",
       "Payments",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/spade",
     "website": "https://www.spade.com"
@@ -397,7 +397,7 @@
     "website": "https://afterquery.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -430,11 +430,11 @@
     "subindustry": "B2B",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/besimple-ai",
     "website": "https://besimple.ai"
@@ -472,19 +472,19 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Data Labeling",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cartpole",
     "website": "https://cartpole.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sureform.json",
     "app_answers": null,
     "app_video_public": false,
@@ -501,10 +501,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1744274885,
-    "long_description": "We collect high-quality human data, across diverse interactions and environments, to help advance the next generation of multimodal AI and robotics models.",
+    "long_description": "We build post-training datasets and RL environments grounded in real enterprise workflows to advance frontier agents.",
     "name": "Sureform",
     "nonprofit": false,
-    "one_liner": "Real-world data for multimodal and embodied AI",
+    "one_liner": "Real-world data and RL environments for frontier AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -516,10 +516,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Robotics",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -543,9 +543,9 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1753401226,
-    "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
+    "long_description": "Helping to build more socially intelligent AI, starting with voice.",
     "name": "Liva AI",
     "nonprofit": false,
     "one_liner": "Audio & Video Data",
@@ -569,51 +569,10 @@
       "Big Data"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/liva-ai",
     "website": "https://www.theliva.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30645,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1755625983,
-    "long_description": "Panels is an audio data platform that delivers high-quality speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
-    "name": "Panels",
-    "nonprofit": false,
-    "one_liner": "Audio Data for AI Labs",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "panels",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6701ac45e2897f58f58412507e74dbdbfa60235.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/panels",
-    "website": "https://www.usepanels.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -648,23 +607,23 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sciloop",
     "website": "https://sciloop.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/datoric.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/datoric.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Winter 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Flow AI",
@@ -677,10 +636,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1767154035,
-    "long_description": "",
+    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations and model failures into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, we scale it up as a solution to the model failure and it also becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. ",
     "name": "Datoric",
     "nonprofit": false,
-    "one_liner": "Responsibly sourced data for multimodal AI",
+    "one_liner": "The secure training data R&D engine for physical AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -692,9 +651,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Data Labeling",
-      "AI",
-      "ML"
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -744,48 +704,139 @@
     "website": "https://shofo.ai/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Hub"
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
     ],
-    "id": 31375,
+    "id": 32752,
     "industries": [
-      "B2B"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
-    "industry": "B2B",
+    "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1773429014,
-    "long_description": " ",
-    "name": "Hub.xyz",
+    "launched_at": 1786481200,
+    "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
+    "name": "Moving Atoms",
     "nonprofit": false,
-    "one_liner": "API for real-world training data.",
+    "one_liner": "Virtual Reality for Training Robots",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "slug": "hubxyz",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
+    "slug": "moving-atoms",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Artificial Intelligence",
-      "Data Labeling",
-      "Big Data",
-      "AI"
+      "Hard Tech",
+      "Robotics",
+      "Virtual Reality",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/hubxyz",
-    "website": "http://hub.xyz"
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "website": "https://movingatoms.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32988,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782277833,
+    "long_description": "Markov sells expert computer-use data to frontier labs. We’ve sold more than 33k+ hours and our open-source datasets have got over 200k+ downloads on hugging face.",
+    "name": "Markov",
+    "nonprofit": false,
+    "one_liner": "Expert computer-use data for frontier AI labs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "markov",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/markov",
+    "website": "https://www.markovstudios.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/coarena.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Coasty"
+    ],
+    "id": 33738,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782294083,
+    "long_description": "CoArena is a live arena where anyone can use the world's top computer-use models racing two of them on the same real computer task and judging which one did it better. Every battle becomes something the AI labs can't build themselves, an honest test of their agents on real work, and the data to make them better.",
+    "name": "CoArena",
+    "nonprofit": false,
+    "one_liner": "The biggest crowdsourced benchmark for Computer-Use",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "coarena",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543623e6506eaf893b1c43e614688a6b2a32bda.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/coarena",
+    "website": "http://coarena.ai"
   }
 ]

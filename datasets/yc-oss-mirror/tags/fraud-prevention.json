@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/cyberfend.json",
     "app_answers": null,
     "app_video_public": false,
@@ -82,7 +82,7 @@
     "website": "https://www.truora.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/overwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -185,7 +185,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1708029636,
     "long_description": "We are building a safer supply chain. Cargo Theft has been increasing yearly, and the supply chain industry is urgently looking for ways to solve this. Using experience fighting fraud at the largest delivery marketplaces and logistics tech companies, we are building solutions to stop Cargo Theft and improve profit margins and revenue for warehouses and freight brokers.",
     "name": "Indemni",
@@ -215,50 +215,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/indemni",
     "website": "http://www.indemni.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31080,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1764601102,
-    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
-    "name": "Didit",
-    "nonprofit": false,
-    "one_liner": "Infrastructure for identity and fraud.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "didit",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Biometrics",
-      "Identity",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 12,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "website": "https://didit.me/"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Santa Clara, CA, USA; Campbell, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Campbell, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/listia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -86,7 +86,7 @@
     "website": "http://stripe.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/highlightcam.json",
     "app_answers": null,
     "app_video_public": false,
@@ -162,7 +162,7 @@
     "website": "http://dailybooth.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/bump.json",
     "app_answers": null,
     "app_video_public": false,
@@ -199,7 +199,7 @@
     "website": "http://bumptechnologies.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/wepay.json",
     "app_answers": false,
     "app_video_public": false,
@@ -400,7 +400,7 @@
     "website": "http://mixpanel.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Ann Arbor, MI, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/olark.json",
     "app_answers": null,
     "app_video_public": false,
@@ -415,33 +415,37 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1326790657,
-    "long_description": "Olark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nClick here to sign up for a demo:\r\nhttps://hello.olark.com/sales",
+    "long_description": "Built for the marketer doing five jobs at once. Easily install an Olark AI agent to answer questions, qualify visitors, and know exactly when to bring in a human.\r\n\r\nOlark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nUse our previewer on https://olark.com to try it on your website in less than 60 seconds.",
     "name": "Olark",
     "nonprofit": false,
-    "one_liner": "The best live chat software on the planet.  We help you build…",
+    "one_liner": "Olark gives you an AI agent that works your marketing funnel 24/7",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "slug": "olark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff33564bb52577d5950335e7ae4c2e1fab8f9fa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2971ba804a1fb214a567b3c22e4e6fd1b271fdf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
       "Sales",
+      "Marketing",
       "Customer Service",
-      "Chat"
+      "Chat",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/olark",
     "website": "http://olark.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/lockitron.json",
     "app_answers": null,
     "app_video_public": false,
@@ -483,7 +487,7 @@
     "website": "http://lockitron.com"
   },
   {
-    "all_locations": "Burlingame, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Burlingame, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/carwoo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -523,7 +527,7 @@
     "website": "http://carwoo.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "London, England, United Kingdom; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/tuxebo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -544,28 +548,31 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1326790690,
-    "long_description": "A Ω",
+    "long_description": "Tuxebo was a platform for renting things.",
     "name": "Tuxebo",
     "nonprofit": false,
-    "one_liner": "Tuxebo was a platform for renting things",
+    "one_liner": "Online marketplace for equipment rental",
     "question_answers": false,
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
     "slug": "tuxebo",
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d586677ac0517071a56ffd560b3ab8a6c93c5ef.png",
     "stage": "Early",
     "status": "Inactive",
     "subindustry": "Real Estate and Construction",
     "tags": [
-      "Marketplace"
+      "Marketplace",
+      "Construction"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tuxebo",
-    "website": ""
+    "website": "https://www.tuxebo.com"
   },
   {
     "all_locations": "Minneapolis, MN, USA",
@@ -645,7 +652,7 @@
     "website": "http://plurchase.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/graffitigeo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -760,7 +767,7 @@
     "website": "http://azure.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/renthop.json",
     "app_answers": null,
     "app_video_public": false,

@@ -2,7 +2,7 @@
   "all_locations": "San Francisco, CA, USA",
   "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json",
   "app_answers": null,
-  "app_video_public": true,
+  "app_video_public": false,
   "batch": "Winter 2026",
   "demo_day_video_public": false,
   "former_names": [
@@ -15,10 +15,10 @@
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1772517831,
-  "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
+  "long_description": "The problem: \r\nAI has quietly become one of the largest and fastest-growing line items for companies. Spend is scattered across a dozen provider consoles that each show one number at the end of the month and nothing about why it moved. There's no unified view, and no way to trace a dollar back to the customer, feature, team, or even the pull request that caused it.\r\n\r\nWhich customers are unprofitable once you subtract their AI costs? Which feature is quietly burning your Anthropic budget? Is this week's spike a runaway loop or real growth? How much did that AI-written PR actually cost to ship?\r\nToday teams reverse-engineer answers by exporting CSVs from each provider and stitching them together in a spreadsheet, and by the time they do, the money is already spent.\r\n\r\nWhat SuperPenguin does: SuperPenguin tracks AI spend across 14 providers (OpenAI, Anthropic, Google Gemini, Deepgram, ElevenLabs, AWS Bedrock, Azure, Modal, Cursor, OpenRouter, and more).\r\n\r\n* Zero-code setup: connect an API key and costs sync automatically with model-level breakdowns, trends, and forecasts\r\n* Per-request attribution: add two lines with our Python or TypeScript SDK to tag every AI call by customer, feature, team, or environment (or any other metadata).\r\n* AI coding cost per PR: connect Cursor to see engineering spend attributed to each pull request, repo, and developer, so you know what it actually costs to ship.\r\n* Alerts on budget thresholds and spend anomalies, delivered to Slack, email, or Discord.\r\n\r\nMost teams are set up in under five minutes. We help companies see where their AI money goes and whether it's worth it.",
   "name": "Carrot Labs",
   "nonprofit": false,
-  "one_liner": "Continuous Fine-Tuning for AI Models",
+  "one_liner": "AI Cost Management: Track and attribute AI spend across every provider",
   "question_answers": false,
   "regions": [
     "United States of America",
@@ -30,13 +30,15 @@
   "status": "Active",
   "subindustry": "B2B",
   "tags": [
+    "AIOps",
     "Artificial Intelligence",
-    "Reinforcement Learning",
-    "Automation"
+    "FinOps",
+    "B2B",
+    "AI"
   ],
   "tags_highlighted": [],
   "team_size": 2,
   "top_company": false,
   "url": "https://www.ycombinator.com/companies/carrot-labs",
-  "website": "https://carrotlabs.ai/"
+  "website": "https://superpenguin.ai/"
 }

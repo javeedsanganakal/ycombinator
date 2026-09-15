@@ -65,7 +65,7 @@
       "America / Canada"
     ],
     "slug": "zenbox",
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44083b67fef2161f2a65963962a2e9aa86f80e50.png",
     "stage": "Early",
     "status": "Inactive",
     "subindustry": "B2B -> Productivity",
@@ -535,7 +535,7 @@
     "website": "http://slik.ai"
   },
   {
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "Dubai, Dubai, United Arab Emirates",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/mailwarm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -556,8 +556,8 @@
     "one_liner": "Prevents your emails from landing in spam.",
     "question_answers": false,
     "regions": [
-      "France",
-      "Europe",
+      "United Arab Emirates",
+      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -626,7 +626,7 @@
     "website": "https://www.usewaypoint.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/compose-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -671,7 +671,7 @@
     "website": "https://compose.ai"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/forage-mail.json",
     "app_answers": null,
     "app_video_public": false,
@@ -718,7 +718,7 @@
     "website": "https://foragemail.com"
   },
   {
-    "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
+    "all_locations": "Washington, DC, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/loops.json",
     "app_answers": null,
     "app_video_public": false,
@@ -736,7 +736,7 @@
     "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
     "name": "Loops",
     "nonprofit": false,
-    "one_liner": "Email sending for startups",
+    "one_liner": "Email sending for software companies",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -753,13 +753,13 @@
       "Email"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/loops",
     "website": "https://loops.so"
   },
   {
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "Berlin, Berlin, Germany; London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/lightmeter.json",
     "app_answers": null,
     "app_video_public": false,
@@ -780,6 +780,7 @@
     "one_liner": "Managed Sales Email Delivery For Cold Outreach",
     "question_answers": false,
     "regions": [
+      "Germany",
       "United Kingdom",
       "Europe",
       "Remote",
@@ -890,53 +891,6 @@
     "website": "https://www.proxis.ai/"
   },
   {
-    "all_locations": "London, United Kingdom; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zuni.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Letterhead",
-      "Solarflare"
-    ],
-    "id": 29670,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1721689611,
-    "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
-    "name": "Zuni",
-    "nonprofit": false,
-    "one_liner": "AI Assistant that works alongside you in your Chrome browser",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "zuni",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "Generative AI",
-      "Productivity",
-      "Email",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zuni",
-    "website": "https://zuni.app"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/odo.json",
     "app_answers": null,
@@ -983,13 +937,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/friday.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freestyle-ai.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2024",
     "demo_day_video_public": true,
     "former_names": [
-      "Jarvis Mail"
+      "Jarvis Mail",
+      "Friday"
     ],
     "id": 30116,
     "industries": [
@@ -998,8 +953,8 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1731106672,
-    "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Friday completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFriday is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFriday gets this right, bringing the elite experience of having a professional assistant to the entire world.",
-    "name": "Friday",
+    "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Freestyle completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFreestyle is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFreestyle gets this right, bringing the elite experience of having a professional assistant to the entire world.",
+    "name": "Freestyle",
     "nonprofit": false,
     "one_liner": "The AI Assistant for Gmail",
     "question_answers": false,
@@ -1007,22 +962,22 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "friday",
+    "slug": "freestyle-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f9e9b4d414566a4e2636d95776ad36cc0bd894c.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
+      "Artificial Intelligence",
       "Productivity",
       "Email",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/friday",
-    "website": "https://www.friday.so"
+    "url": "https://www.ycombinator.com/companies/freestyle-ai",
+    "website": "https://www.freestyle.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1106,7 +1061,7 @@
       "Email"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/agentmail",
     "website": "https://agentmail.to"
@@ -1139,108 +1094,21 @@
       "America / Canada"
     ],
     "slug": "slashy",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6667cfdd83f59c43fda8940767ec6748fe44b96.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "Artificial Intelligence",
-      "Email"
+      "Productivity",
+      "Enterprise Software",
+      "Automation",
+      "Email",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/slashy",
     "website": "https://www.slashy.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/supafax.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Veriad"
-    ],
-    "id": 31263,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1767420715,
-    "long_description": "Supafax is an AI agent that lives in your inbox and proactively manages your email and calendar. ",
-    "name": "Supafax",
-    "nonprofit": false,
-    "one_liner": "AI assistant for your email and calendar",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "supafax",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed0534c8bce6c87322e3910aa0bb1bf9c099782f.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "B2B",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/supafax",
-    "website": "https://supafax.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "MyMX"
-    ],
-    "id": 31329,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1773121787,
-    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
-    "name": "primitive",
-    "nonprofit": false,
-    "one_liner": "Communication for agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "primitive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Automation",
-      "Email",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/primitive",
-    "website": "https://primitive.dev"
   }
 ]

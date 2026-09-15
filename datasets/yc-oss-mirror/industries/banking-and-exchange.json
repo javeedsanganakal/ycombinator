@@ -123,7 +123,7 @@
     "website": "http://buttercoin.com"
   },
   {
-    "all_locations": "New York, NY, USA; Mexico City, CDMX, Mexico; Miami, FL, USA",
+    "all_locations": "New York City, NY, USA; Mexico City, CDMX, Mexico; Miami, FL, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/arcus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -171,7 +171,7 @@
     "website": "http://arcusfi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/axoni.json",
     "app_answers": null,
     "app_video_public": false,
@@ -357,7 +357,7 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416220006,
     "long_description": "Bankjoy provides a full suite of modern digital banking software, including mobile banking, online banking, online account opening, loan applications, and conversational AI to banks and credit unions.",
     "name": "Bankjoy",
@@ -507,7 +507,7 @@
     "website": "https://www.emburse.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/direct-match.json",
     "app_answers": null,
     "app_video_public": false,
@@ -544,7 +544,7 @@
     "website": "http://directmatchx.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/onechronos.json",
     "app_answers": null,
     "app_video_public": false,
@@ -559,7 +559,7 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1461210619,
-    "long_description": "OneChronos is a U.S. equities ATS designed bottom-up to fundamentally address the growing gap between how trading venues match orders and how traders need to execute.",
+    "long_description": "OneChronos builds the markets where humans and AI agents transact more efficiently. We started in capital markets, where our U.S. Equity ATS is one of the fastest growing ATSs and handles a growing share of U.S. equity notional volume. But that's just the start: our mission is to build the bazaar for agentic systems, and grow the global economy along the way.",
     "name": "OneChronos",
     "nonprofit": false,
     "one_liner": "The Smart Market for Institutional Investors",
@@ -576,18 +576,18 @@
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Marketplace",
-      "AI"
+      "Marketplace"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 75,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/onechronos",
     "website": "https://www.onechronos.com/"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/lendsnap.json",
     "app_answers": null,
     "app_video_public": false,
@@ -704,7 +704,7 @@
     "slug": "brex",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72237ca3782563f0b12ffe1fe9869d878c153ab6.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
       "Fintech"
@@ -934,7 +934,7 @@
     "website": "https://www.alphavantage.co/"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
+    "all_locations": "London, England, United Kingdom; LA, Nigeria",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/helicarrier-prev-buycoins.json",
     "app_answers": null,
     "app_video_public": false,
@@ -960,7 +960,9 @@
     "one_liner": "Cryptocurrency infrastructure for Africa.",
     "question_answers": false,
     "regions": [
+      "United Kingdom",
       "Nigeria",
+      "Europe",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -998,7 +1000,7 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1622755385,
     "long_description": "Parker is a digital bank.",
     "name": "Parker",
@@ -1014,7 +1016,7 @@
     "slug": "parker",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9461ed7e5093ac18bab6ae2cb43de29136be3a7.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
       "Banking as a Service",
@@ -1027,7 +1029,7 @@
     "website": "https://www.getparker.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/alpaca.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1072,7 +1074,7 @@
     "website": "https://alpaca.markets/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/nala.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1085,7 +1087,7 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1543948489,
     "long_description": "Story here: https://www.youtube.com/watch?v=FZfKgoseJ5E&t=1s\r\n\r\nWe have two products: \r\n1. Consumer Cross Border payments to Emerging Markets : nala.com\r\n2. Stablecoin Payment Rails for emerging markets: rafiki.com",
     "name": "NALA",
@@ -1114,7 +1116,7 @@
     "website": "http://nala.com"
   },
   {
-    "all_locations": "London, United Kingdom; Seychelles; Remote",
+    "all_locations": "London, England, United Kingdom; Seychelles; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/globe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1161,7 +1163,7 @@
     "website": "https://globe.exchange"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/proof-trading.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1425,7 +1427,7 @@
     "website": "https://fondeadora.com/"
   },
   {
-    "all_locations": "São Paulo, SP, Brazil",
+    "all_locations": "San Francisco, CA, USA; São Paulo, SP, Brazil",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/stark-bank.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1448,7 +1450,9 @@
     "one_liner": "Challenger bank for enterprises",
     "question_answers": false,
     "regions": [
+      "United States of America",
       "Brazil",
+      "America / Canada",
       "Latin America"
     ],
     "slug": "stark-bank",
@@ -1548,7 +1552,7 @@
     "website": "https://belvo.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Bend, OR, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/increase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1566,13 +1570,14 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1658856872,
-    "long_description": "Modern banking infrastructure that enables technology companies to programmatically store, move, and reconcile money.",
+    "long_description": "",
     "name": "Increase",
     "nonprofit": false,
-    "one_liner": "Enterprise-grade banking APIs",
+    "one_liner": "API-first banking for ambitious technology companies.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "increase",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d403cfce97e130a6633ec6be329d8e61bf9e9230.png",
@@ -1969,7 +1974,7 @@
     "website": "https://mono.co"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/prospa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2166,14 +2171,14 @@
     "slug": "tag",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dbba25a74200259e0d969df993848635b9e309.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
       "FinOps",
       "Fintech"
     ],
     "tags_highlighted": [],
-    "team_size": 36,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tag",
     "website": "https://tagme.pk/"
@@ -2378,10 +2383,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1641821942,
-    "long_description": "The goal of Vantedge AI, formerly known as 8vdx, is to provide an Agent Marketplace of curated agents to enable investors to get an investing edge to generate alpha by leveraging AI. Our insight to build this marketplace comes from our experience from running a credit hedge fund for 15 years and as a Y Combinator backed startup, we understand the complexities of AI and are here to offer a complete infrastructure to funds and startups alike.\r\nOur platform is built to serve the investment community with the highest security, compliance, and infrastructure tailored for institutional investors.",
+    "long_description": "FundOS is the agentic operating system for fund managers. It replaces the manual \"human glue\" between a fund's systems with audit-logged AI agents — covenant monitoring, capital calls, diligence, recon, and reporting — running on the data funds already have, via MCP, with no migration. Dogfooded at Eight Capital, where FundOS runs a 270+ company YC portfolio off a single spine of data, auto-generating NAVs and K-1s. Clients include Semper Capital (London) and a New York asset manager. SOC 2, role-based access, LP-scoped data, and a full audit trail. Built by a team that ran a credit fund for 15 years.",
     "name": "VantedgeAI",
     "nonprofit": false,
-    "one_liner": "Scaling investing workflows with AI",
+    "one_liner": "FundOS — AI operations for fund managers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2395,11 +2400,11 @@
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Workflow Automation",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 11,
@@ -2408,7 +2413,7 @@
     "website": "https://www.vantedgeai.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/emigre.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2451,13 +2456,15 @@
     "website": "http://www.emigre.us/"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/lenco.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/glep.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Lenco"
+    ],
     "id": 25717,
     "industries": [
       "Fintech",
@@ -2466,31 +2473,32 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1646228155,
-    "long_description": "Lenco is a multi-currency digital bank for businesses in Africa. With Lenco, retail outlets, hospitality businesses and startups can easily pay vendors, suppliers and perform cross-border payment while having access to growth capital.",
-    "name": "Lenco",
+    "long_description": "Glep is America's AI-native financial operating system built for real estate businesses.\r\nOur AI-native platform combines virtual and physical cards, banking, bill pay, expense management, and accounting automation into a single operating system designed specifically for how real estate businesses operate.\r\n\r\nGlep puts more time in the hands of operators to grow their portfolio.",
+    "name": "Glep",
     "nonprofit": false,
-    "one_liner": "Pan-African digital bank for Africa's 50m businesses",
+    "one_liner": "AI-Native Spend platform built for Real Estate businesses",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
-    "slug": "lenco",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53d4fde8908330833eed6ce703f14e2c329fe0aa.png",
+    "slug": "glep",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43385de74ef544ad440b821a7f4f5e3436bdc1a2.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
-      "Banking as a Service",
-      "Fintech"
+      "Fintech",
+      "Enterprise Software",
+      "Neobank"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 30,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lenco",
-    "website": "https://lenco.co"
+    "url": "https://www.ycombinator.com/companies/glep",
+    "website": "https://glep.com"
   },
   {
     "all_locations": "Miami, FL, USA; Remote",
@@ -2621,6 +2629,46 @@
     "website": "https://moneco.app/"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/fluid-markets.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Fluid Markets",
+      "Pointwise"
+    ],
+    "id": 27946,
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1671463381,
+    "long_description": "Fluid Markets was the first company to attempt to build futures markets on public company KPIs with the legal structure now known as prediction markets.",
+    "name": "Fluid Markets",
+    "nonprofit": false,
+    "one_liner": "Invest in public companies KPIs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "fluid-markets",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b64061c291b764a8c38c8d8455f8d2aeeabbb5a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/fluid-markets",
+    "website": "https://fluidinvesting.com"
+  },
+  {
     "all_locations": "Buenos Aires, CABA, Argentina",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/wallbit.json",
     "app_answers": null,
@@ -2700,7 +2748,7 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/givefront",
     "website": "https://givefront.com"
@@ -2745,7 +2793,7 @@
     "website": "https://kontigo.lat/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pax-markets.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2784,15 +2832,16 @@
     "website": "https://pax.markets/"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/liquid-compute.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [
       "PowerPlay",
-      "Strike"
+      "Strike",
+      "Pluto"
     ],
     "id": 30269,
     "industries": [
@@ -2802,31 +2851,31 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1740523068,
-    "long_description": "First regulated exchange for compute",
-    "name": "Pluto",
+    "long_description": "",
+    "name": "Liquid Compute",
     "nonprofit": false,
-    "one_liner": "Regulated derivatives exchange",
+    "one_liner": "Pending CFTC regulation to be the first cash and physically settled…",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "pluto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "slug": "liquid-compute",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddb1c0f50037d9c24b823a5a568655e0a2d1980d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pluto",
-    "website": "https://www.pluto.trade"
+    "url": "https://www.ycombinator.com/companies/liquid-compute",
+    "website": "https://www.liquidcompute.com"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -2870,10 +2919,54 @@
       "Trading"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 14,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/qfex",
     "website": "https://qfex.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/irbc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Lyra"
+    ],
+    "id": 30487,
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1746417759,
+    "long_description": "IRBC is a financial technology company building an AI-native financial institution for global businesses and their AI agents. We believe stablecoins are to finance what AI is to software. IRBC enables businesses across 160 countries to bank, earn yield, spend with Visa credit cards, make instant global payments, and process payments like a local. All powered by programmable money and accessible through chat interfaces and a CLI.",
+    "name": "IRBC",
+    "nonprofit": false,
+    "one_liner": "AI-native financial institution for global businesses + agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "irbc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7d307e10d74fa01d4fd34d5f8ea0755540c4046.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/irbc",
+    "website": "https://irbc.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2894,12 +2987,12 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1769406704,
-    "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
+    "long_description": "We're building the Legora for traditional financial services, working closely with US bank CEOs to transform their businesses.",
     "name": "Fenrock AI",
     "nonprofit": false,
-    "one_liner": "AI agents for banking back office",
+    "one_liner": "AI agents for banks",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2910,7 +3003,11 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "AI"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -2933,10 +3030,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1770247865,
-    "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
+    "long_description": "Maywood is the first finance-compliant proactive AI that runs 24/7, working across your network, pipeline, and active processes, running constantly in the background and surfacing things you'd otherwise miss. It tracks relationships and sector context to flag when a target is gearing up for a process (and drafts the outreach in your voice), watches network activity across LinkedIn, news, and conference follow-ups, and surfaces where active processes stand, including what's at risk since you last looked.\r\n\r\nIt also auto-updates CRMs and trackers and creates meeting briefs that includes relationship history, recent activity, deal context, external research, talking points that can pull from internal and external data sources. Dealmakers interact with it over email, Teams, or the platform itself. ",
     "name": "Maywood",
     "nonprofit": false,
-    "one_liner": "Automating the entire IB deal workflow",
+    "one_liner": "The first finance-compliant proactive AI that runs 24/7",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2951,9 +3048,88 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/maywood",
     "website": "https://maywoodai.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/valctrl.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31457,
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1779922059,
+    "long_description": "ValCtrl is building the intelligent prediction market: users type any public, resolvable belief about the future, ValCtrl structures it, prices it, and lets them trade it. Today’s prediction markets only support pre-listed questions, leaving user beliefs fragmented across venues, contract wording, rules, and proxy markets. ValCtrl’s world model maps typed beliefs to relevant market signals, evaluates basis risk, prices the claim, and moves toward model-priced liquidity where ValCtrl can take the other side with risk and compliance controls. We are starting from hard belief-to-market queries and building toward a market where anything that can be resolved can be priced.",
+    "name": "ValCtrl",
+    "nonprofit": false,
+    "one_liner": "ValCtrl is building the only intelligent prediction market",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "valctrl",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1765dfae476622be6f06883ebedd8aeed86f8664.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/valctrl",
+    "website": "https://valctrl.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tovenai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33178,
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1786560317,
+    "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+    "name": "TovenAI",
+    "nonprofit": false,
+    "one_liner": "AI agents for compliance at institutional trading firms",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tovenai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b832a1e965bc59dfbc18a9817802870d7264332.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tovenai",
+    "website": "https://toven.ai"
   }
 ]

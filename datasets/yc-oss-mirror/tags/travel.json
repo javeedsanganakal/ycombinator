@@ -241,7 +241,7 @@
     "website": "http://flightfox.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/getgoing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -365,7 +365,7 @@
     "website": "http://reebee.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/rocketrip.json",
     "app_answers": null,
     "app_video_public": false,
@@ -450,7 +450,7 @@
     "website": "http://www.guesty.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "Prague, Prague, Czechia; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/roomstorm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -473,7 +473,9 @@
     "one_liner": "Real time B2B hotel room marketplace for various industries…",
     "question_answers": false,
     "regions": [
+      "Czechia",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "slug": "roomstorm",
@@ -493,7 +495,7 @@
     "website": "http://roomstorm.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bluesmart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -914,13 +916,15 @@
     "website": "http://adventurous.co"
   },
   {
-    "all_locations": "Bellevue, WA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/gordian-software.json",
+    "all_locations": "Seattle, WA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/axel-travel.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2019",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Gordian Software"
+    ],
     "id": 12065,
     "industries": [
       "Consumer",
@@ -929,10 +933,10 @@
     "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1541644473,
-    "long_description": "Gordian is pioneering seamless, personalized travel powered by world-class software.\r\n\r\nWe don’t remodel legacy platforms — we invent what's next.\r\n\r\nBuilt on the values of freedom, impact, and ownership, we emphasize in-person collaboration, deep thinking, and bold execution.\r\n\r\nWe believe in a high-talent, low-ego team with the energy to build something extraordinary.",
-    "name": "Gordian Software",
+    "long_description": "Axel finds you the best travel deals, has negotiated rates and gets you money back if the price drops after booking.\r\n\r\nFKA - Gordian Software: API for online travel companies to sell airline ancillaries",
+    "name": "Axel Travel",
     "nonprofit": false,
-    "one_liner": "Building software to remove friction in travel",
+    "one_liner": "AI agent that saves you money on travel",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -940,8 +944,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "gordian-software",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bba37502ba38f42df1df621e97c2d5fffd434c73.png",
+    "slug": "axel-travel",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33c2f464dad2729b9186b0a075e4c083d2478569.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
@@ -949,10 +953,10 @@
       "Travel"
     ],
     "tags_highlighted": [],
-    "team_size": 30,
+    "team_size": 20,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/gordian-software",
-    "website": "https://www.gordiansoftware.com/"
+    "url": "https://www.ycombinator.com/companies/axel-travel",
+    "website": "https://helloaxel.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1158,7 +1162,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1597677447,
-    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes—with zero claims filing. Live on IndiGo today, processing ~49,000 policies/day via UPI. We operate as an MGA (licensed under IRDAI) with 25–30% commission economics and no balance sheet risk.",
+    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes; with zero claims filing.",
     "name": "MedPiper Technologies, Inc",
     "nonprofit": false,
     "one_liner": "Instant cash payouts for delayed flights",
@@ -1187,7 +1191,7 @@
     "website": "https://www.medpiper.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flok.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1372,10 +1376,10 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1624984593,
-    "long_description": "With Ancana, you can own a 1/4 or 1/8 share of the home and split expenses with the other co-owners. If you buy a 1/4 share of a home, you have access to it for 3 months of the year. For each property we set up the investment trust, find qualified co-owners, and handle the entire real estate purchase transaction. Costs are split amongst the co-owners, and we take care of the furnishing and ongoing property management.\r\n\r\nWe accomplish this by creating an investment trust for each property and dividing it into individual, purchasable shares that represent ownership in the property. We furnish each home and find and vet the co-owners. Once all of the shares of the property are sold, we retain no ownership stake in the property and transition into the role of property manager, ensuring the home is well maintained and handling any issues that arise. Unlike a timeshare, Ancana owners own a real asset (the property) versus a block of time. If you decide you want to sell your share, you are free to do so at any time, either through us or on the open market, and capture any appreciation the property has accrued.",
+    "long_description": "Ancana is a marketplace for fully managed, co-owned vacation homes. Owners buy a real share of a property alongside a small group of vetted co-owners, each with guaranteed usage time every year. Unused weeks can be rented out or swapped for stays at other Ancana properties, so the ownership stays useful even as plans change. Ancana handles everything behind the purchase — setting up the ownership structure, vetting and matching co-owners, and managing the transaction — then runs the property year-round, from furnishing to bookings and maintenance. We operate in Mexico, the US, and Spain, each with different legal and regulatory requirements for ownership, and solving that structuring problem market by market is what makes the model hold up as we expand.",
     "name": "Ancana",
     "nonprofit": false,
-    "one_liner": "Marketplace to buy managed vacation homes through fractional ownership",
+    "one_liner": "Marketplace for vacation home co-ownership, fully managed",
     "question_answers": false,
     "regions": [
       "Mexico",
@@ -1390,14 +1394,15 @@
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "tags": [
       "Marketplace",
+      "Real Estate",
       "Travel",
       "Proptech"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ancana",
-    "website": "https://www.ancana.co"
+    "website": "https://ancanaliving.com/"
   },
   {
     "all_locations": "Denver, CO, USA; Ottawa Hills, OH, USA",
@@ -1535,7 +1540,7 @@
     "website": "https://book.shuttlecentral.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/skylink.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1568,11 +1573,11 @@
     "status": "Acquired",
     "subindustry": "B2B",
     "tags": [
-      "Travel",
-      "AI"
+      "Artificial Intelligence",
+      "Travel"
     ],
     "tags_highlighted": [],
-    "team_size": 22,
+    "team_size": 53,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/skylink",
     "website": "http://www.tryskylink.com"
@@ -1665,6 +1670,51 @@
     "website": "https://roame.travel/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "HostAI"
+    ],
+    "id": 29380,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1707775068,
+    "long_description": "Conduit is the leading AI agent platform for hospitality operations.\r\n\r\nOperators can create, test, and run AI agents on Conduit's harness purpose built for hospitality. On-brand agents handles the full guest journey, converting inquiries into bookings and driving upsell revenue, then runs internal operations and surfaces insights for leadership. All connected to the systems operators already use. \r\n\r\nTrusted by over 1000+ global hospitality brands across 120+ countries.",
+    "name": "Conduit",
+    "nonprofit": false,
+    "one_liner": "AI Agents for Hospitality",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "conduit-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Travel",
+      "Sales",
+      "Customer Service",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/conduit-ai",
+    "website": "https://conduit.ai/"
+  },
+  {
     "all_locations": "Nairobi, Nairobi County, Kenya",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/triply.json",
     "app_answers": null,
@@ -1709,7 +1759,7 @@
     "website": "https://business.triply.co/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/rove.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1882,53 +1932,6 @@
     "website": "https://moretapay.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/blaze-2.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29840,
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "industry": "Fintech",
-    "isHiring": true,
-    "launched_at": 1724981206,
-    "long_description": "Blaze (YC S24) is global Venmo for cross border payments. It's a peer to peer payments app that uses USDC to make payments fast and cheap between any two people anywhere in the world. The founders scaled their last startup to $1M in ARR, studied mathematics and engineering at Duke, NYU, and Cornell, and have led teams at Spotify, Artsy, and Bitpanda. They're live in the US and Mexico, available for download on iOS and Android: https://blaze.money",
-    "name": "Blaze",
-    "nonprofit": false,
-    "one_liner": "Global Venmo for cross border payments",
-    "question_answers": false,
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "blaze-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4e9eaaae054562a704e2fa2c79cd662fa1de1a6.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Payments",
-    "tags": [
-      "Fintech",
-      "Crypto / Web3",
-      "Payments",
-      "Finance",
-      "Travel"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/blaze-2",
-    "website": "https://blaze.money"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/vaya.json",
     "app_answers": null,
@@ -2042,19 +2045,61 @@
       "America / Canada"
     ],
     "slug": "humoniq",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd360d85931a0845b568ab55a8dd586fb4c3941c.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Travel",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/humoniq",
     "website": "https://humoniq.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/axelrod.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Axelrod Labs Inc",
+      "Axelrod Labs"
+    ],
+    "id": 33045,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784236014,
+    "long_description": "Autonomous software for hotels that takes over all front-of-house and back-of-house tasks with zero integrations, running operations better than your staff would. Axelrod is trusted by Michelin Key awarded and Marriott hotels and is live across 3 continents.",
+    "name": "Axelrod",
+    "nonprofit": false,
+    "one_liner": "Hotels that run themselves",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "axelrod",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbd96bca4da9de9db65dd46c8e36b9fdaa3e168.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Travel",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/axelrod",
+    "website": "https://axelrod.live/"
   }
 ]

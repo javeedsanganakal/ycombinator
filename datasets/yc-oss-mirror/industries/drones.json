@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/arc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -80,7 +80,7 @@
     "website": "http://airware.com"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zeitview.json",
     "app_answers": null,
     "app_video_public": false,
@@ -167,7 +167,7 @@
     "website": "http://www.airmada.com"
   },
   {
-    "all_locations": "Reno, NV, USA",
+    "all_locations": "Blountville, TN, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/flirtey.json",
     "app_answers": null,
     "app_video_public": false,
@@ -433,7 +433,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525133083,
     "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
     "name": "Paladin",
@@ -463,7 +463,7 @@
     "website": "http://paladindrones.io"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/corvus-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -526,7 +526,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1583964166,
     "long_description": "Avion is a drone-based digital health platform, designed to bridge the gap between remote clinics and urban healthcare infrastructures. By connecting these isolated clinics with sophisticated labs and well-stocked pharmacies in cities, Avion brings a new era of remote diagnostics and prescription fulfilment.\r\n\r\nAvion ensures the rapid, safe, and efficient delivery of vital medical supplies and clinical samples, even to the most hard-to-reach locations. \r\n\r\nAvion's operation uniquely combines cutting-edge autonomous drone technology with digital health platforms. Our drones, built with advanced eVTOL capabilities, ensure seamless take-off and landing capabilities, even in challenging terrains.\r\n\r\nAvion's digital health platform serves as the connective tissue between urban health centers and remote clinics. The platform features an intuitive interface, making it easy for healthcare providers to order necessary supplies, track shipments, and even communicate with laboratory and pharmacy staff.",
     "name": "Avion",
@@ -551,53 +551,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/avion",
     "website": "http://www.avion.health"
-  },
-  {
-    "all_locations": "India",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/kalam-labs.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Kalam Labs",
-      "Kiddernet (prev. Kalam Labs)",
-      "AskPenny",
-      "Kiddernet (prev Kalam Labs)",
-      "AskPenny"
-    ],
-    "id": 24039,
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "industry": "Industrials",
-    "isHiring": true,
-    "launched_at": 1625919461,
-    "long_description": "Kalam Labs has developed world's highest flying UAVs - deployable from high-altitude balloons they replace satellites to provide high-res EO/IR and hyperspectral reconnaissance.",
-    "name": "Kalam Labs",
-    "nonprofit": false,
-    "one_liner": "Near Space Flying Machines",
-    "question_answers": false,
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "slug": "kalam-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Drones",
-    "tags": [
-      "Drones",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 10,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kalam-labs",
-    "website": "http://www.kalamlabs.in"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -646,6 +599,53 @@
     "website": "https://www.buoyant.aero"
   },
   {
+    "all_locations": "Raleigh, NC, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Rownd",
+      "LlamaFarm"
+    ],
+    "id": 25402,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1643295526,
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
+    "name": "Rownd",
+    "nonprofit": false,
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rownd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Artificial Intelligence",
+      "Drones",
+      "Open Source",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "website": "https://rownd.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/theseus.json",
     "app_answers": null,
@@ -659,7 +659,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1725406335,
     "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "name": "Theseus",
@@ -677,16 +677,17 @@
     "subindustry": "Industrials -> Drones",
     "tags": [
       "Robotics",
-      "Drones"
+      "Drones",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/theseus",
     "website": "https://theseus.us"
   },
   {
-    "all_locations": "",
+    "all_locations": "Washington, DC, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/guardian-rf.json",
     "app_answers": null,
     "app_video_public": false,
@@ -707,7 +708,8 @@
     "one_liner": "Drone detection for US defense and national security  ",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "guardian-rf",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec6cf435222465cfd6d7908d7b853c7edb7ab66d.png",
@@ -722,7 +724,7 @@
     "website": "https://guardianrf.com/"
   },
   {
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/splash-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -800,7 +802,7 @@
     "website": "https://voltairlabs.com/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/milliray.json",
     "app_answers": null,
     "app_video_public": false,
@@ -841,6 +843,49 @@
     "website": "https://milliray.com/"
   },
   {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31452,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1775570807,
+    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "name": "Degla Inc",
+    "nonprofit": false,
+    "one_liner": "The fully autonomous intelligence layer in the sky.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "degla-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Drones",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/degla-inc",
+    "website": "https://degla.ai"
+  },
+  {
     "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ornadyne.json",
     "app_answers": null,
@@ -874,12 +919,57 @@
       "Hard Tech",
       "Robotics",
       "Drones",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ornadyne",
     "website": "https://ornadyne.com/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35093,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789408162,
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "name": "Aviern",
+    "nonprofit": false,
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aviern",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "website": "https://aviern.com/"
   }
 ]

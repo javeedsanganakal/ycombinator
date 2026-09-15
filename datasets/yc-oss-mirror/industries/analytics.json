@@ -166,7 +166,7 @@
     "website": "http://pagelever.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/custora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -406,7 +406,7 @@
     "website": "http://infogami.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/canopy-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -773,7 +773,7 @@
     "website": "http://smarking.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/second-measure.json",
     "app_answers": null,
     "app_video_public": false,
@@ -958,10 +958,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1496779967,
-    "long_description": "Thematic is a Customer Feedback Analysis platform. We pull feedback from sources you already use for surveying or talking to customers. We automatically discover themes in feedback and provide visualizations and reports that help improve customer satisfaction, prioritize product roadmap and track trends in customer feedback over time.",
+    "long_description": "Thematic is the customer intelligence layer for enterprise CX. Trustworthy and traceable reporting your teams can stake decisions on, and the grounded data foundation your AI agents need to scale safely. Customers see NPS gains of 5 to 35 points and have attributed $4.8M in revenue from a 6-month pilot. Forrester measured 543% three-year ROI. Trusted by DoorDash, Woolworths, BNY, and Mitsubishi.",
     "name": "Thematic",
     "nonprofit": false,
-    "one_liner": "We analyze feedback to help companies improve customer experience",
+    "one_liner": "Customer intelligence for Enterprise CX teams. The grounded…",
     "question_answers": false,
     "regions": [
       "New Zealand",
@@ -975,12 +975,12 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/thematic",
     "website": "http://www.getthematic.com"
@@ -1069,7 +1069,7 @@
     "website": "https://dataform.co"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Frisco, CO, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/college-pulse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1111,7 +1111,7 @@
     "website": "https://collegepulse.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Reykjavík, Iceland",
+    "all_locations": "Reykjavík, Iceland",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/avo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1132,9 +1132,7 @@
     "one_liner": "Fixing data quality in product analytics.",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "Iceland",
-      "America / Canada",
       "Europe",
       "Remote",
       "Partly Remote"
@@ -1289,7 +1287,7 @@
     "website": "https://www.lantern.so"
   },
   {
-    "all_locations": "Bengaluru, India; San Francisco, CA, USA; Remote",
+    "all_locations": "Bengaluru, KA, India; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/chaos-genius.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1412,17 +1410,17 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/meridian-industries",
-    "website": "https://index.app"
+    "website": "https://mora.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1559,7 +1557,7 @@
     "website": "http://www.getorbiter.com"
   },
   {
-    "all_locations": "Montreal, QC, Canada; Remote",
+    "all_locations": "Toronto, ON, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/basedash.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1698,7 +1696,7 @@
     "website": "https://www.posthog.com"
   },
   {
-    "all_locations": "New York City, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/jitsu.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1718,7 +1716,7 @@
     "long_description": "Jitsu is the fastest, most durable way to collect event data from every source - web, app, email, chatbot, CRM - into your data warehouse. 100% open-source. Purpose built, secure and ready in minutes.",
     "name": "Jitsu",
     "nonprofit": false,
-    "one_liner": "Capture Event Data into Your Stack",
+    "one_liner": "Open-Source CDP (acquired by Helium Ventures)",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1729,7 +1727,7 @@
     "slug": "jitsu",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a6bc92874bce104c70f6971a040465116e2321.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Analytics",
     "tags": [
       "SaaS",
@@ -1744,7 +1742,7 @@
     "website": "https://jitsu.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/datafold.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1883,7 +1881,7 @@
     "website": "https://www.tydo.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/mito.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1972,7 +1970,7 @@
     "website": "https://usebluelight.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/prequel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2191,6 +2189,49 @@
     "website": "http://varos.com"
   },
   {
+    "all_locations": "Austin, TX, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2021",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 24141,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1625292827,
+    "long_description": "Anakin is building web data infrastructure for AI agents and data teams. We help them get clean, structured and deterministic data from any website with one API call, at up to 10,000x lower cost than driving a browser.\r\n\r\nWe do that by collecting data and turning websites into documented, self-healing APIs that adapt when sites change. Our engine automatically delivers real-time data from thousands of websites and apps, including the world's hardest, across 100+ countries.",
+    "name": "Anakin",
+    "nonprofit": false,
+    "one_liner": "One API to get clean data from any website for your AI agents at scale",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "anakin",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02c14cb72f132c0009e52ca2645a3fb3851846ce.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "team_size": 70,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/anakin",
+    "website": "https://anakin.io"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/patterns.json",
     "app_answers": null,
@@ -2372,8 +2413,8 @@
     "website": "https://cloudthread.io"
   },
   {
-    "all_locations": "Berlin, Berlin, Germany; Heidelberg, BW, Germany; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/dot.json",
+    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/getdot.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2021",
@@ -2382,7 +2423,8 @@
       "Snowboard Software GmbH",
       "Snowboard Software",
       "Seld",
-      "Sled"
+      "Sled",
+      "Dot"
     ],
     "id": 24390,
     "industries": [
@@ -2393,9 +2435,9 @@
     "isHiring": false,
     "launched_at": 1624988056,
     "long_description": "Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. \r\n\r\n**Chat with your Data Warehouse**\r\n\r\nAnswer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards.\r\n\r\nDot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material.\r\n\r\nUsers can interact via Slack, Teams or our native web app.\r\n\r\n➡️  https://getdot.ai/",
-    "name": "Dot",
+    "name": "GetDot",
     "nonprofit": false,
-    "one_liner": "Chat with your Data Warehouse",
+    "one_liner": "Your AI Data Analyst",
     "question_answers": false,
     "regions": [
       "Germany",
@@ -2403,22 +2445,22 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "dot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79ef295205dc596b1088df70c4fc35f3b6300bd.png",
+    "slug": "getdot",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a36b7c96b74a0599b17814e9f0a758e676fd706a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dot",
+    "url": "https://www.ycombinator.com/companies/getdot",
     "website": "https://getdot.ai"
   },
   {
@@ -2461,7 +2503,7 @@
     "website": "https://whaly.io"
   },
   {
-    "all_locations": "London, United Kingdom; San Francisco, CA, USA; Remote",
+    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/evidently-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2647,7 +2689,7 @@
     "website": "https://www.datlo.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/growthbook.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2693,7 +2735,7 @@
     "website": "https://www.growthbook.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/redbird.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2822,7 +2864,7 @@
     "website": "https://www.sarus.tech"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/hypahub.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2909,48 +2951,6 @@
     "website": "http://elementary-data.com/"
   },
   {
-    "all_locations": "Toronto, ON, Canada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/armilla-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2022",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 25585,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1642131883,
-    "long_description": "Using industry-leading AI/LLM evaluation technology, Armilla AI provides third-party AI assessment and warranty solutions, backed by leading reinsurers Swiss Re, Greenlight Re and Chaucer. Vendors of AI-powered products leverage Armilla’s assessment to anticipate customer questions, respond to enterprise RFPs, meet regulatory requirements, build trust in the reliability of their solutions - and ultimately, to accelerate sales. \r\n\r\nArmilla’s clients include enterprises along with AI-first start ups & scale ups in Fintech, Insurtech, Healthtech, Legaltech, HRtech & more.",
-    "name": "Armilla AI",
-    "nonprofit": false,
-    "one_liner": "AI/LLM Assessment & Warranty Solutions",
-    "question_answers": false,
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "armilla-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0397658ae6c0ba5a9499d3b6844bdb898f09c38.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "team_size": 14,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/armilla-ai",
-    "website": "http://www.armilla.ai"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/siftly.json",
     "app_answers": null,
@@ -2997,7 +2997,7 @@
     "website": "https://siftly.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cotera.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3055,7 +3055,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1645977565,
     "long_description": "Mix Python, SQL, charts, and dynamic text in a fast, shareable, collaborative medium. Build and share data-rich docs and apps your team will love",
     "name": "Livedocs",
@@ -3071,7 +3071,7 @@
     "slug": "livedocs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c55378b1978172dcaae2ec40f66f80a955ff6.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Analytics",
     "tags": [
       "SaaS",
@@ -3262,53 +3262,6 @@
     "website": "https://newscatcherapi.com/"
   },
   {
-    "all_locations": "London, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/findly.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2022",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Conversion Pattern"
-    ],
-    "id": 27097,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1660122078,
-    "long_description": "Findly.ai is the co-pilot for Business Intelligence that revolutionizes how businesses understand and interact with their data. By creating an engaging chat environment, it empowers decision-makers to gain insights, request reports, and generate visualizations based on their company's metrics. This seamless interaction is made possible by integrating a metric layer that comprehends all your company's metrics. The chat-based exploration simplifies complex data analysis, allowing users to generate comprehensive summaries with a single click, which can be exported to various formats. Furthermore, with the introduction of scheduled chats and action-triggered automations, Findly.ai enhances the autonomy and efficiency of decision-makers. It's more than a tool; it's a decision-making operational system aiming to facilitate decision-makers in achieving their KPIs while spending less time waiting for data.",
-    "name": "Findly",
-    "nonprofit": false,
-    "one_liner": "Co-pilot for Business Intelligence",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "findly",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb66cc9915337d3770b18b75f9fd9abe54a3e901.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Chatbot",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "team_size": 11,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/findly",
-    "website": "https://www.findly.ai/join"
-  },
-  {
     "all_locations": "London, England, United Kingdom; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/vizzly.json",
     "app_answers": null,
@@ -3356,7 +3309,7 @@
     "website": "https://vizzly.co/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rollstack-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3400,7 +3353,7 @@
     "website": "https://www.rollstack.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/brewit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3447,7 +3400,7 @@
     "website": "https://brewit.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/creatorml.json",
     "app_answers": null,
     "app_video_public": true,
@@ -3534,52 +3487,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/helicone",
     "website": "https://www.helicone.ai/"
-  },
-  {
-    "all_locations": "Singapore, Singapore",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/factiq.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Data Narratives",
-      "Defog.ai"
-    ],
-    "id": 27939,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1672890387,
-    "long_description": "FactIQ helps economic analysts find and visualize the right data, across 7.4M+ official time series. \r\n\r\nIt interprets users' questions, identifies the most relevant datasets, analyzes them and reports back with interactive charts and tables. Every answer is fully transparent: users can inspect the underlying sources and methods, so they can verify and trust every insight.",
-    "name": "FactIQ",
-    "nonprofit": false,
-    "one_liner": "Data Explorer for the US Economy",
-    "question_answers": false,
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "factiq",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04b6da87ca00762c86e5351c8876d9837f0e18.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Analytics",
-      "Data Visualization",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/factiq",
-    "website": "https://factiq.com/"
   },
   {
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
@@ -3669,50 +3576,6 @@
     "website": "https://honeydew.ai"
   },
   {
-    "all_locations": "Bengaluru, KA, India",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/mantys.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 28006,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1674394820,
-    "long_description": "Mantys helps SaaS companies calculate and forecast their ARR accurately in real time without using multiple spreadsheets. For example, NextBillion uses Mantys to pull data from HubSpot and Chargebee and create real-time views of their Contracted ARR, Billed ARR, Churn, and forecasted ARR",
-    "name": "Mantys",
-    "nonprofit": false,
-    "one_liner": "ARR Reporting and Forecasting for SaaS companies",
-    "question_answers": false,
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "mantys",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab148653f771ae83b42b2726259e7e2be8e1e60a.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "SaaS",
-      "Finance",
-      "B2B",
-      "India"
-    ],
-    "tags_highlighted": [],
-    "team_size": 12,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mantys",
-    "website": "https://www.mantys.io/"
-  },
-  {
     "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/muffin-data.json",
     "app_answers": null,
@@ -3751,7 +3614,7 @@
     "website": "http://www.muffindata.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/turntable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4011,7 +3874,7 @@
     "website": "https://outset.ai/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4108,7 +3971,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1687128394,
     "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
     "name": "Orbio Earth",
@@ -4243,17 +4106,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1698776495,
-    "long_description": "Keystroke is the best way to build AI agents & automations with coding agents. \r\n\r\nIt's code-based, open source, and built for coding agents like Cursor, Claude Code, etc.",
+    "long_description": "Keystroke is an all-in-one platform for building internal agents and workflows. \r\n\r\nIt's built from the ground up with coding agents in mind. Build agents and workflows as TypeScript in your own repo, then deploy them to a web app where your whole team can use them.",
     "name": "Keystroke",
     "nonprofit": false,
-    "one_liner": "n8n for coding agents",
+    "one_liner": "An all-in-one platform for building internal agents & workflows",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "keystroke",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c0833ad7adb5b1872106acf314503b0cb7c32a7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf87214e16d20d148922c10192f5ccf83e32f1f8.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -4332,17 +4195,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1702567792,
-    "long_description": "Measure precisely what real people think about your product, brand, or any other topic.",
+    "long_description": "We help teams evaluate products with real people.\r\n\r\nNew features. AI experiences. Websites. Apps. Ads. Messaging.\r\n\r\nEvery evaluation builds confidence in what to build, what to launch, and what to improve next.",
     "name": "Voicepanel",
     "nonprofit": false,
-    "one_liner": "AI agents for customer research",
+    "one_liner": "Evals for products",
     "question_answers": false,
     "regions": [
       "Remote",
       "Partly Remote"
     ],
     "slug": "voicepanel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8778b22211636a64dbe5a5a1808ef49e63ed7613.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3c9f350427485d59a19cdcf2c5773c321148f67.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -4506,10 +4369,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1722024736,
-    "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
+    "long_description": "MinusX is a state-of-the-art data agent that can build the best dashboards for your data, and notify you when something's up. You can interrogate all your data on our open source BI platform via Slack or MCP. Connect your data, and put agents to work.",
     "name": "MinusX",
     "nonprofit": false,
-    "one_liner": "AI Data Scientist for Jupyter and Metabase",
+    "one_liner": "Open source agentic BI for founders",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4521,10 +4384,10 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Analytics",
       "Data Science",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4550,7 +4413,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1724369845,
     "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
     "name": "Overstand Labs",
@@ -4600,7 +4463,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1722638950,
-    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure. Sharpe helped a top 5 quant firm find $10m+ of profit within a few hours of deployment.",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure.",
     "name": "Sharpe",
     "nonprofit": false,
     "one_liner": "Agents for quantitative research and financial data science.",
@@ -4615,11 +4478,11 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "Analytics",
       "Big Data",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -4628,7 +4491,7 @@
     "website": "https://sharpe.sh"
   },
   {
-    "all_locations": "",
+    "all_locations": "Munich, BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4645,12 +4508,14 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1722311835,
-    "long_description": "Zeit AI transforms your data bases and systems so that they can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
+    "long_description": "Ask a question in plain English and ZeitMind connects SAP, your ERP, CRM, HR systems and 600+ other sources, prepares the messy data, and turns it into the live applications your teams actually make decisions with.\r\n\r\nIt is built for the finance, controlling, procurement, supply chain and sales teams at companies that run enterprise systems without an enterprise data team.",
     "name": "Zeit AI",
     "nonprofit": false,
-    "one_liner": "From data to enterprise insights in just a few words.",
+    "one_liner": "The autonomous data engineer for the mid-market",
     "question_answers": true,
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -4659,9 +4524,15 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering"
+    ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zeit-ai",
     "website": "https://zeit-ai.com/"
@@ -4688,7 +4559,7 @@
     "long_description": "Pointing an AI at all your data is a recipe for disaster - it will confidently lie, hallucinate, and drive your business into the ground.\r\n\r\nWhat if you could trust your AI the way you trust a calculator?\r\n\r\nThat's Lopus.\r\n\r\nWe build a self-healing semantic layer that captures your business logic.\r\nIncluding every metric, every definition, every edge case.\r\nDefined once, and trusted everywhere.\r\n\r\nNo SQL. No dashboards. No waiting on the data team.",
     "name": "Lopus",
     "nonprofit": false,
-    "one_liner": "Growth Operations Data Platform",
+    "one_liner": "Headless Data Team",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4700,58 +4571,15 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lopus",
     "website": "https://lopus.ai"
-  },
-  {
-    "all_locations": "London, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30298,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1739843143,
-    "long_description": "Artificial Societies simulates how large groups of people respond to opinion surveys and react to information. We help global F100 enterprises anticipate how their most important stakeholders react to their most important decisions: from how investors and opinion-leaders react to comms messaging, to how high-value customers react to marketing strategies.\r\n\r\nWe are experts in human behaviour. James, our Founder and CEO, is a Cambridge psychologist and data scientist who led the seminal paper that studied how 33,000 AI chatbots interact. Patrick, our Founder and Chief Product Officer, is an Applied Behavioural Scientist with years of experience helping F500 enterprises conduct market research. They are joined by a team of behavioural scientists, social scientists, and political scientists, all with a passion for uniting technology and an understanding of humanity.\r\n\r\nWe know that every public-facing enterprise decision has million-dollar consequences. From how to position towards opinion-leaders, industry peers, and policymakers, to which marketing content to invest in, knowing how stakeholders would react matters. But traditional market research methods are too slow, too expensive, and often just fail to\r\nreach the stakeholders that truly matter.\r\n\r\nWe spend our lives solving this problem. Our offering is that we build bespoke AI\r\nsimulations of high-value audiences, for insights on questions no one else can answer. We’ve built up over 2.5 million AI personas that are all grounded in real human behaviour – not just what people say, but also what they do. \r\n\r\nBut our enterprise partners choose us not just because we have achieved 95% accuracy in simulating human opinions compared to human self-replication - more importantly, they choose us because of our ability to deliver impossible research projects. Such as having insights in under 24 hours, such as being able to test sensitive strategies on high-value audiences with 100% security, without human risk.\r\n\r\nAs a result, we’ve delivered over 18 million responses to global Fortune 100 enterprises, that helped shape over 100 million dollars’ worth of decisions ranging from global expansion strategies, product positioning, advertising, and strategic communications.\r\n\r\nOur vision of Artificial Societies is a Societal World Model that enables infinite experimentation, so that every organisation can have awareness of outcomes, before making a decision. No planes fly without a wind-tunnel; no medicines are approved without clinical trials; and yet, the biggest decision societies face today are taken as bets. We see Artificial Societies as a historically inevitable technology, and see it as our lives' mission to bring it to life.",
-    "name": "Artificial Societies",
-    "nonprofit": false,
-    "one_liner": "We build networks of AI personas that simulate stakeholder opinions",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "slug": "artificial-societies",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/artificial-societies",
-    "website": "https://societies.io"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4781,7 +4609,7 @@
       "America / Canada"
     ],
     "slug": "roark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f767546eea69824b40dd475b83ae01dafa05b12.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -4797,7 +4625,7 @@
     "website": "https://roark.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nao-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4818,8 +4646,8 @@
     "one_liner": "Open Source Analytics Agent",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "nao-labs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
@@ -4895,7 +4723,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1747086610,
     "long_description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it—so researchers can actually use AI to accelerate discovery.",
     "name": "Labric",
@@ -4913,7 +4741,7 @@
     "subindustry": "B2B -> Analytics",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/labric",
     "website": "https://labric.co"
@@ -4950,7 +4778,7 @@
       "America / Canada"
     ],
     "slug": "preseen",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f865392a561957ea87a2b63d31fc9ba6611e6d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -4965,7 +4793,7 @@
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
     "former_names": [],
@@ -4977,10 +4805,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754374450,
-    "long_description": "For our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+    "long_description": "Quantitative trading",
     "name": "Lotas",
     "nonprofit": false,
-    "one_liner": "AI for Data Science and 3D",
+    "one_liner": "AI for quantitative trading",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5019,7 +4847,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1755488960,
-    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
     "name": "OnDeck AI",
     "nonprofit": false,
     "one_liner": "Analyze any footage, without training a model",
@@ -5041,7 +4869,7 @@
       "Video"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ondeck-ai",
     "website": "https://www.ondeckai.com"
@@ -5067,10 +4895,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754166755,
-    "long_description": "Ensuring every approved drug reaches patients who need it.\r\n\r\nAuditable AI to satisfy regulators and payors 10x faster. We Synthesize fragmented pharma and device data to prove safety, optimize market access, and anticipate regulatory response.\r\n\r\nMembers of our team worked in software engineering at Apple and AI at NVIDIA, helped start a large-cap pharma clinical trial, and trained at Harvard Medical School.\r\n\r\n",
+    "long_description": "Datasets and environments to help healthcare agents succeed at complex tasks.",
     "name": "Theora",
     "nonprofit": false,
-    "one_liner": "OpenEvidence for Pharmaceutical Evidence",
+    "one_liner": "Building medical school for AI Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5092,7 +4920,7 @@
     "website": "https://www.theorahq.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5113,7 +4941,8 @@
     "one_liner": "The agentic debugger for AI systems",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "fulcrum",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c56987ac351304ba02872fb865e4cb5eebbc22.png",
@@ -5129,10 +4958,10 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/foresight.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/foresight.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Fluentive AI",
@@ -5149,7 +4978,7 @@
     "long_description": "Foresight builds AI-powered simulations of human behavior to help companies predict how people will think, react, and choose before making real-world decisions. It lets organizations test countless possible moves in advance, see how each one is likely to play out, and choose the strongest path forward.",
     "name": "Foresight",
     "nonprofit": false,
-    "one_liner": "On-demand consumer insights",
+    "one_liner": "Consumer simulations for CPG market research",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5160,12 +4989,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Market Research",
-      "Consumer Products"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -5173,7 +4997,7 @@
     "website": "https://foresight.tt/"
   },
   {
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5194,7 +5018,8 @@
     "one_liner": "Agentic Business Intelligence",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "pleom",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
@@ -5213,53 +5038,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "website": "https://pleom.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/bron.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "PlayVision AI",
-      "PlayVision",
-      "PlayVision AI",
-      "PlayVision"
-    ],
-    "id": 30871,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1761579619,
-    "long_description": "Bron is the ChatGPT for sports betting. Find +EV bets across 150+ sportsbooks and prediction markets, build parlays automatically, and surface the best bets of the day — in seconds.\r\n\r\nDownload Bron on the App Store here: https://apps.apple.com/us/app/bron-ai-sports-analysis/id6761323087",
-    "name": "Bron",
-    "nonprofit": false,
-    "one_liner": "ChatGPT for Sports Betting",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "bron",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Analytics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/bron",
-    "website": "https://askbron.ai/"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -5318,19 +5096,19 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1767919574,
     "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
     "name": "Laurence",
     "nonprofit": false,
-    "one_liner": "Hedge fund for ads",
+    "one_liner": "Quantitative research for autonomous e-commerce growth",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "laurence",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/853a7c6c871be155796217e789ab83fe95978b02.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -5357,7 +5135,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1766273553,
     "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
     "name": "Constellation Space",
@@ -5381,7 +5159,7 @@
     "website": "https://constellation.space/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/netter.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5398,26 +5176,21 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1778028550,
-    "long_description": "Netter centralizes and structures traditional mid-market data to deploy analytics, workflows and ML pipelines.\r\n- A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.\r\n- A logistics operator had trucks running empty. Netter connected their TMS, ERP and fleet data, and automated route and load optimization. Less fuel, better margins.\r\n- A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.\r\n",
+    "long_description": "Netter (YC P26) helps companies regain control over their data, so teams can pilot their activities with high precision.\r\n\r\nMost companies are sitting on years of valuable data, spread across different formats and disconnected tools that don't talk to each other.\r\n\r\nNetter brings technical capacity to companies that don't have an army of data engineers, and tackles their most complex data challenges.\r\n\r\n- A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.\r\n- A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.\r\n",
     "name": "Netter",
     "nonprofit": false,
-    "one_liner": "Data Science Autopilot for the real economy. ",
+    "one_liner": "AI native Palantir for mid market.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "netter",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2e86ec70fa3e3c6a1b8dc9f39e6aa2b5b7b5952.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Workflow Automation",
-      "Big Data",
-      "AI",
-      "ML"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
@@ -5426,43 +5199,214 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/studio.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31454,
+    "id": 32162,
     "industries": [
       "B2B",
       "Analytics"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1772488469,
-    "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",
-    "name": "Datost",
+    "launched_at": 1787114400,
+    "long_description": "Studio is a simulation lab studying how humans and societies respond to new ideas, and is building the first software models that can accurately predict that response. Instead of creating digital twins of survey respondents, Studio builds live market models of interconnected audience segments from real, traceable consumer-behavior data. Our simulations match live KPI outcomes like revenue and purchase behavior with over 97% accuracy for consumer-facing enterprises, higher than any synthetic panel, simulation lab, or traditional market research.",
+    "name": "Studio",
     "nonprofit": false,
-    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "one_liner": "Accurately simulate market response at scale",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "datost",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7847f34ece1088e5a00b8771f63e4d68d53fb8.png",
+    "slug": "studio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be382958698206c30f9e2a1996b85d6729c8ed0b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "AI Assistant"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/datost",
-    "website": "https://www.datost.com"
+    "url": "https://www.ycombinator.com/companies/studio",
+    "website": "https://trystudio.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lyon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Lyon (Branding TBD)"
+    ],
+    "id": 32191,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786694987,
+    "long_description": "Lyon builds private foundation models for banks, insurance companies, and fintechs. Each model learns from the company’s proprietary transactions, payments, clicks, and customer interactions to predict credit, fraud, collections, income, churn, and lifetime value; and runs inside the company’s cloud, so its data and intelligence remain under its control. Lyon is already working with a major insurer and trained a model on 28B transactions for a fintech serving tens of millions of active users, identifying premium-card converters 4x more precisely than its existing rules; the model is now being deployed for credit.",
+    "name": "Lyon",
+    "nonprofit": false,
+    "one_liner": "Foundation models on enterprise transaction data.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lyon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Machine Learning",
+      "Finance",
+      "Data Science",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lyon",
+    "website": "https://lyon.so"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/buildbox.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32197,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785235599,
+    "long_description": "Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",
+    "name": "Buildbox",
+    "nonprofit": false,
+    "one_liner": "Agent analytics for real user outcomes",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "buildbox",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/buildbox",
+    "website": "https://heybuildbox.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32618,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785963586,
+    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
+    "name": "Click",
+    "nonprofit": false,
+    "one_liner": "Research services for ChatGPT and Claude",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "click",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Artificial Intelligence",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/click",
+    "website": "https://www.useclick.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33019,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1783481375,
+    "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better, faster & cheaper than frontier models.",
+    "name": "Agnost AI",
+    "nonprofit": false,
+    "one_liner": "We find where AI agents fail, then train better models to run them.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "agnost-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Analytics",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "website": "https://agnost.ai"
   }
 ]

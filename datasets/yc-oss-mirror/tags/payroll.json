@@ -364,7 +364,7 @@
     "website": "https://myeazipay.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/thera.json",
     "app_answers": null,
     "app_video_public": false,
@@ -452,7 +452,7 @@
     "website": "https://www.hammr.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/warp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -468,11 +468,11 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1677261125,
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $25M from Sound Ventures (Ashton Kutcher), A-Star, Abstract, Drew Houston & Arash Ferdowsi (Dropbox), Balaji Srinivasan, Amjad Masad (Replit), Kyle Vogt (Cruise), SV Angel & Homebrew Capital.",
+    "long_description": "Warp is the AI-native employee management platform for high-growth companies. We run payroll, HR, compliance, benefits, and IT on a single platform for companies from 5 to 10,000 employees, using AI agents to complete the work that legacy systems leave to people.\r\n\r\nWe've raised $85M from Battery Ventures, Peak XV, Sound Ventures (Ashton Kutcher), Sapphire, A-Star, SV Angel, and Homebrew Capital.\r\n\r\nSome of the fastest growing companies of today trust Warp to reduce HR and admin overhead so they build faster. We're proud to serve top startups like Serval, Bland, Greptile, Reducto, Corgi, Campfire, alongside our mid-size and enterprise customers.\r\n\r\nWe're humbled to have the backing of people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, former Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, former Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, former Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "name": "Warp",
     "nonprofit": false,
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
-    "question_answers": true,
+    "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
@@ -486,16 +486,17 @@
       "B2B",
       "HR Tech",
       "Payroll",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/warp",
     "website": "https://www.warp.co/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Dubai, Dubai, United Arab Emirates",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cercli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -515,6 +516,8 @@
     "one_liner": "AI powered HR and Recruitment for people teams",
     "question_answers": false,
     "regions": [
+      "United Arab Emirates",
+      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -535,7 +538,7 @@
     "website": "https://www.cercli.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/trayd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -553,10 +556,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689535318,
-    "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
+    "long_description": "Trayd is building the operating system for commercial construction: payroll, compliance, and back office workflows that actually work in the real world.\r\n\r\nConstruction is one of the biggest industries in North America (valued at $2T+), and it still runs on a messy mix of spreadsheets, legacy payroll providers, and manual processes that break the moment things get even slightly complex. The people doing the work are the hardest working people in the country, and the companies running crews are forced to spend hours every week fighting systems that were never built for them.\r\n\r\nWe’re changing that.\r\n\r\nTrayd started with a simple promise: construction workers should be able to access the money they already earned faster, and subcontractors should be able to run payroll without chaos. Today, we’re building deeper infrastructure across payroll, union rules, job costing, and accounting workflows so our customers can run their businesses with confidence.",
     "name": "Trayd",
     "nonprofit": false,
-    "one_liner": "A construction payroll platform designed for same-day pay.",
+    "one_liner": "A construction payroll and compliance platform built for specialty…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -575,7 +578,7 @@
       "Payroll"
     ],
     "tags_highlighted": [],
-    "team_size": 30,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trayd",
     "website": "https://www.buildtrayd.com/"
@@ -672,54 +675,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Kesher Link",
-      "ShorPay"
-    ],
-    "id": 30619,
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1753916245,
-    "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
-    "name": "Shor",
-    "nonprofit": false,
-    "one_liner": "The fastest, most affordable payroll for global teams",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "shor",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Payments",
-    "tags": [
-      "Fintech",
-      "B2B",
-      "HR Tech",
-      "Payroll",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/shor",
-    "website": "https://www.tryshor.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -750,10 +705,10 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
-      "Payroll"
+      "Payroll",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

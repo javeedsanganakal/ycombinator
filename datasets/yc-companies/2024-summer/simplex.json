@@ -17,7 +17,7 @@
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1723709594,
-  "long_description": "Simplex builds AI agents to handle provider enrollment end-to-end, including NPI verification, CAQH profile creation and re-attestation, payer portal enrollment, daily and weekly status checks, and appeals on denial.",
+  "long_description": "Simplex builds AI agents to handle provider enrollment end-to-end. We automate pulling provider data from CAQH, filling out enrollment forms + uploading licenses via payor portals/email/phone, updating applications when returned for corrections, and performing effective date follow-ups until a final determination is made, all autonomously.",
   "name": "Simplex",
   "nonprofit": false,
   "one_liner": "AI agents to enroll providers with payors",
@@ -32,10 +32,10 @@
   "status": "Active",
   "subindustry": "B2B -> Engineering, Product and Design",
   "tags": [
-    "Artificial Intelligence",
     "Machine Learning",
     "Robotic Process Automation",
-    "B2B"
+    "B2B",
+    "AI"
   ],
   "tags_highlighted": [],
   "team_size": 2,

@@ -394,7 +394,7 @@
   },
   {
     "all_locations": "Mexico City, CDMX, Mexico",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/amiloz.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/belozfi.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -405,7 +405,8 @@
       "amiloz",
       "Amiloz",
       "amiloz",
-      "Amiloz"
+      "Amiloz",
+      "amiloz"
     ],
     "id": 25973,
     "industries": [
@@ -415,10 +416,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1646585799,
-    "long_description": "We are a Y Combinator / Latitud backed micro-lending platform in Mexico led by talent from companies such as Capital One, Bain & Company, Konfio, DiDi, Clip, Klarna, etc. We are hyper focused on making sure that customers improve their financial lives significantly through their relationship with us. In a very short time, we have achieved significant traction with exceptional consumer outcomes and unit economics. We are also building and incorporating a significant amount of AI into our operations, so this is a great place to work for anybody who has ambitions to build real time applications of AI. Our goal is to build the biggest AI enabled consumer fintech platform in Mexico and eventually LatAm.",
-    "name": "amiloz",
+    "long_description": "We are a Y Combinator / Latitud backed financial health focused micro-lending platform in Mexico led by people from companies such as Capital One, Bain, Konfio, DiDi etc. We are hyper focused on making sure our users understand and improve their financial health through their relationship with us. In a very short time, we have achieved significant traction with very good consumer outcomes and unit economics. We have built a solid AI foundation in product development, data science and lending operations that powers our product. Our goal is to build the biggest AI enabled financial health platform in Mexico and eventually LatAm.",
+    "name": "BelozFi",
     "nonprofit": false,
-    "one_liner": "Micro-lender in Mexico",
+    "one_liner": "Financial health focused micro-lender in Mexico",
     "question_answers": false,
     "regions": [
       "Mexico",
@@ -426,8 +427,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "amiloz",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/979fcfdd0c4661a8729e2394fa1ade03b93f89bc.png",
+    "slug": "belozfi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b7064954b699944273829fa9f99e428be9bfa6f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Credit and Lending",
@@ -437,10 +438,10 @@
       "Consumer Finance"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 29,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/amiloz",
-    "website": "https://www.beloz.com.mx/"
+    "url": "https://www.ycombinator.com/companies/belozfi",
+    "website": "https://www.belozfi.com.mx/"
   },
   {
     "all_locations": "São Paulo, SP, Brazil",
@@ -633,7 +634,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1724891975,
     "long_description": "Today, onboarding, servicing, and collections still depend on large human teams — which means operations scale linearly with loan volume. PathPilot deploys specialized AI agents that handle 60–80% of high-volume operational workflows, turning human-heavy processes into scalable software. These agents operate alongside internal teams — embedded directly into existing systems. This allows lenders to grow loan volume and revenue without proportional headcount growth. ",
     "name": "PathPilot",
@@ -719,12 +720,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1767738733,
     "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "name": "Kita",
     "nonprofit": false,
-    "one_liner": "Automate credit review for lenders in emerging markets",
+    "one_liner": "Automate credit assessment for lenders in emerging markets",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -742,50 +743,9 @@
       "Emerging Markets"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kita",
-    "website": "https://www.usekita.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31385,
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1773364062,
-    "long_description": "Commercial lenders manage billions in assets but service their loans like it's 2005: spreadsheets, legacy software, and teams of people doing manual reconciliation all day. Zolvo replaces that entire back office with AI. We automate reconciliation, verification, collections, and reporting so lenders can scale their portfolios without scaling their teams. We're building the operating system for commercial lending",
-    "name": "Zolvo",
-    "nonprofit": false,
-    "one_liner": "AI that automates servicing for commercial lenders",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "zolvo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Credit and Lending",
-    "tags": [
-      "B2B",
-      "Lending",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zolvo",
-    "website": "https://zolvo.com/"
+    "website": "https://www.kita.ai/"
   }
 ]

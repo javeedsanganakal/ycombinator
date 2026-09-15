@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/makrwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -229,7 +229,7 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/plotdrive.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/figments.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2019",
@@ -237,7 +237,8 @@
     "former_names": [
       "Figments",
       "Wordloops",
-      "Heroic Story"
+      "Heroic Story",
+      "Plotdrive"
     ],
     "id": 12536,
     "industries": [
@@ -246,10 +247,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1556041719,
-    "long_description": "Plotdrive is the first continuous production system for narrative — infrastructure that transforms how long-form stories move from imagination to completion. Most books don’t fail for lack of talent; they fail when the workflow collapses somewhere between page 80 and page 300.\r\n\r\nFounded by brothers with backgrounds in high-stakes poker, VR, and narrative systems, we built what we couldn’t find: an engine that holds the entire shape of a story while authors work inside it. Writers see 5-10× gains in throughput without losing their voice. Manuscripts that sat untouched for years finally reach the finish line. Authors are using Plotdrive to break decade-long blocks. Publishers are using it to rethink how story pipelines should operate when continuity, context, and editorial craft can finally scale.\r\n\r\nThe printing press made distribution industrial. We’re making completion industrial — creating the foundational layer for how narrative gets made at scale.",
-    "name": "Plotdrive",
+    "long_description": "Figments explored what happens when technology rewrites the rules of storytelling.\r\nOver seven years we built narrative games, virtual influencers, AI characters, creative tools, and eventually Plotdrive, an AI writing engine for long form storytelling. Each product explored a different piece of how stories are imagined, created, and shared as technology transformed creative work.",
+    "name": "Figments",
     "nonprofit": false,
-    "one_liner": "AI that remembers your book and helps you finish it",
+    "one_liner": "Building worlds at technological inflection points",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -257,26 +258,26 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "plotdrive",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png",
+    "slug": "figments",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f35d52529ebe555a6a00fb848d9ce2166707cbd.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Media",
       "Creator Economy",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/plotdrive",
+    "url": "https://www.ycombinator.com/companies/figments",
     "website": "https://plotdrive.com"
   },
   {
-    "all_locations": "New York, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+    "all_locations": "New York City, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/kaiten.json",
     "app_answers": null,
     "app_video_public": false,
@@ -367,7 +368,7 @@
     "website": "https://globalbelly.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/mini-exhibitions.json",
     "app_answers": null,
     "app_video_public": false,
@@ -965,7 +966,7 @@
     "website": "http://finnix.id"
   },
   {
-    "all_locations": "Monterey, CA, USA; Remote",
+    "all_locations": "Springfield, MO, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/star.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1014,7 +1015,54 @@
     "website": "https://buildwithstar.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Paris, Île-de-France, France",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/ad-army.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Conversion Pattern",
+      "Findly"
+    ],
+    "id": 27097,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1660122078,
+    "long_description": "Ad Army is an AI creative tool for brands that need a constant supply of ad creative.\r\n\r\nYou build your brand's world once — characters, products, locations — each with locked descriptors and reference images. Then you generate against it: @-mention an entity in a prompt and its references are pulled into the model call, so the same product, the same face and the same location hold across images, video, and dozens of variants. Save any chain of steps as a recipe and replay it on the next campaign.\r\n\r\nWe're model-agnostic by design — video, image, text and audio providers sit behind one interface, and new models land as they ship. For a full narrative spot, the same world scripts, storyboards, animates, voices, captions and exports multi-scene ads in every aspect ratio.",
+    "name": "Ad Army",
+    "nonprofit": false,
+    "one_liner": "Generate, iterate, and ship AI ad creatives faster",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ad-army",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aba1aa30f9ea19c4283a2cbd34673bd680b92532.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Marketing",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ad-army",
+    "website": "https://ad.army/"
+  },
+  {
+    "all_locations": "São Paulo, SP, Brazil",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/jamble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1023,43 +1071,42 @@
     "former_names": [],
     "id": 27173,
     "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
+      "Consumer"
     ],
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1660193927,
-    "long_description": "Jamble is the new place to buy & sell secondhand fashion. We empower resellers with video & Live streaming tools to sell more effectively; and buyers with a unique compelling experience. Jamble is designed for the sustainable fashion community to engage, connect and inspire. We’re a mobile-first platform and launched on iOS! 👉 Check us out: https://apple.co/3Pfwran",
+    "long_description": "Jamble is a live shopping marketplace for collectibles in Brazil. Collectors discover products, meet sellers and buy together in interactive live shows, from Pokémon and other trading cards to Hot Wheels and diecast miniatures.\r\n\r\nBuyers see items live, ask questions and make offers in real time. Sellers turn their expertise and inventory into live storefronts, build an audience and grow a community of returning customers.\r\n\r\nJamble brings live video, chat, checkout, payments via PIX and cards, and tracked shipping into one app. Available on iOS and Android.\r\n\r\nExplore Jamble: https://www.jamble.com/",
     "name": "Jamble",
     "nonprofit": false,
-    "one_liner": "Fashion resale marketplace powered by live streaming and video",
-    "question_answers": false,
+    "one_liner": "Live shopping for collectibles in Brazil",
+    "question_answers": true,
     "regions": [
-      "United States of America",
-      "France",
-      "America / Canada",
-      "Europe"
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "jamble",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aafce3da646fb5bdc4a18a9ad09cd597e6540dba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8964c1f86d1269f9dbee0a1067368d0a96636bdc.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
+    "subindustry": "Consumer",
     "tags": [
       "Marketplace",
-      "Sustainable Fashion",
       "Consumer",
       "Social",
+      "E-commerce",
       "Creator Economy"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/jamble",
-    "website": "https://www.jambleapp.com/"
+    "website": "https://www.jamble.com/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/taro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1191,7 +1238,7 @@
     "website": "https://1stcollab.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/storyboarder.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1249,14 +1296,16 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1702093402,
-    "long_description": "Magic Hour is a professional video creation tool. \r\n\r\nIt takes the best AI video models, puts them in one workflow, and makes creating an amazing video as easy as selecting a template and customizing it.\r\n\r\nYou can use the product at https://magichour.ai",
+    "long_description": "Magic Hour is a browser-based creative platform and API for generating and editing video, images, and audio. Creators and teams use more than 100 tools, including face swap, lip sync, image-to-video, text-to-video, image editing, and voice generation. Developers integrate the same capabilities through our REST API, official SDKs, and hosted MCP server.",
     "name": "Magic Hour",
     "nonprofit": false,
-    "one_liner": "Platform for AI video generation.",
+    "one_liner": "AI media creation platform for creators and developers",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "magic-hour",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57875ffefcede579f19a1952d91ce8fd43305cc7.png",
@@ -1264,10 +1313,10 @@
     "status": "Active",
     "subindustry": "Consumer -> Content",
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
+      "Generative AI",
       "Video",
       "Media",
+      "API",
       "Creator Economy"
     ],
     "tags_highlighted": [],
@@ -1277,7 +1326,7 @@
     "website": "https://magichour.ai"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/awen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1297,6 +1346,8 @@
     "one_liner": "awen translates intent into exceptional visuals through conversation",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -1334,10 +1385,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1748129784,
-    "long_description": "Using our 6+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+    "long_description": "Using our 6+ years of creator marketing experience to help companies run their creator campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
     "name": "Beluga",
     "nonprofit": false,
-    "one_liner": "Influencer marketing that converts",
+    "one_liner": "Creator marketing that scales like paid ads",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1351,10 +1402,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "Marketing",
       "Advertising",
-      "Creator Economy"
+      "Creator Economy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1419,7 +1470,7 @@
       "Content"
     ],
     "industry": "Consumer",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1759263547,
     "long_description": "Koyal is an Agentic AI Filmmaking Platform that allows you to seamlessly convert script or audio into personalized, visually compelling stories. We’re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We’ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world’s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
     "name": "Koyal",
@@ -1452,24 +1503,24 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/youart.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/flick.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31517,
+    "id": 30884,
     "industries": [
       "Consumer",
       "Content"
     ],
     "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1777676428,
-    "long_description": "YouArt helps storytellers create AI originals using our industry-leading video agent, launch their original concepts, get funded directly by early fans, and earn from their audience.",
-    "name": "YouArt",
+    "isHiring": true,
+    "launched_at": 1759897034,
+    "long_description": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end.\r\n\r\nThere are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow.\r\n\r\nFounded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking.\r\n\r\nThere are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week.\r\n\r\nWe are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content.\r\n\r\nThe whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
+    "name": "Flick",
     "nonprofit": false,
-    "one_liner": "Patreon for AI originals",
+    "one_liner": "We Handle AI. You Direct Films.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1477,20 +1528,104 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "youart",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7bf5ef49531e304338226fa7947782386f95b91.png",
+    "slug": "flick",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Content",
     "tags": [
-      "Generative AI",
-      "Video",
+      "Artificial Intelligence",
       "Creator Economy"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/youart",
-    "website": "https://youart.ai"
+    "url": "https://www.ycombinator.com/companies/flick",
+    "website": "https://flick.art"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/grocalo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32221,
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1787022465,
+    "long_description": "Grocalo (S26) is an AI brain that runs content for creators. We understand their audiences, using video understanding and deep platform analytics to bottle up the taste behind each creator and personalize and distribute content to creator specific audiences.\r\n\r\nGrocalo generated 2B views and gained 4M followers for our creators in the last 2 months. Some of our clients include Jimmy O. Yang (Comedian, 11M followers), King Bach (72M followers), Leenda Dong (28M followers), Steven He (30M followers), Sheena Melwani (18M followers), and Jeannie Mai (TV host, 6M followers).\r\n\r\nContent should be personalized and data-driven. We’ve developed the most advanced AI brain replicating viral content for any given audience. \r\n",
+    "name": "Grocalo",
+    "nonprofit": false,
+    "one_liner": "AI brain for creators that runs their social content",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "grocalo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fdeca47d8a703741544113635c43a9f56c783f7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Content",
+    "tags": [
+      "Artificial Intelligence",
+      "Entertainment",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/grocalo",
+    "website": "https://grocalo.com/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trynearby.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32815,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786488480,
+    "long_description": "TryNearby connects local businesses with creators who live nearby. Restaurants subscribe monthly and automatically get booked visits from local creators who film, edit, and post a review to the local algorithm. This creates a steady stream of content that compounds into discovery on TikTok, Instagram, and increasingly AI search. Over 100 restaurants and thousands of creators are on the platform across Southern California, with AI agents handling matching, booking, and every creator conversation.",
+    "name": "TryNearby",
+    "nonprofit": false,
+    "one_liner": "Local creators for local businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "trynearby",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/043d0df2ce658d03b7ad1d70bb0deaa3f2282ea5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Restaurant Tech",
+      "Marketing",
+      "Creator Economy",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/trynearby",
+    "website": "https://trynearby.com"
   }
 ]

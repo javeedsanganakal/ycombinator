@@ -14,10 +14,10 @@
   "industry": "B2B",
   "isHiring": false,
   "launched_at": 1752778004,
-  "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+  "long_description": "You built your product in a weekend and deployed to Vercel, Supabase, Railway or AWS. Now you need to figure out how to pick the right region, scale to multiple instances, add monitoring and alerts, and who to ping when something breaks… and you don't have a cloud engineer.\r\n\r\nWe spent a decade at our previous startup (CodeSignal), building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are operated in production, so developers can build reliable production apps without becoming cloud infrastructure experts.\r\n\r\nModelence is a production cloud that's designed for enterprise-grade apps, abstracting away the infrastructure layer:\r\n- Deployments & hosting\r\n- Background jobs and persistence\r\n- File storage, real-time data and networking\r\n- Monitoring and alerts\r\n\r\nPlatforms like Vercel and Supabase are easy to start with, but most companies that start getting real customers eventually need a persistent backend where processes can run beyond just a few minutes at a time, unlike pure serverless. And low-level cloud platforms like AWS are meant to be operated by cloud engineers and are too complicated for engineers who want to focus on product rather than infra. Modelence is your managed backend infrastructure, built on decades of our experience operating web apps in the cloud.",
   "name": "Modelence",
   "nonprofit": false,
-  "one_liner": "The full-stack platform for agentic development",
+  "one_liner": "Production infrastructure on autopilot",
   "question_answers": false,
   "regions": [
     "United States of America",
@@ -32,6 +32,7 @@
   "subindustry": "B2B -> Infrastructure",
   "tags": [
     "Developer Tools",
+    "Open Source",
     "Infrastructure"
   ],
   "tags_highlighted": [],

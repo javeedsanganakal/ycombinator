@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -48,7 +48,7 @@
     "website": "https://www.DegreesOfFreedom.org"
   },
   {
-    "all_locations": "London, England, United Kingdom; Remote",
+    "all_locations": "Zagreb, Croatia; London, England, United Kingdom; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/webiny.json",
     "app_answers": null,
     "app_video_public": false,
@@ -69,6 +69,7 @@
     "one_liner": "Open-source framework for building serverless applications",
     "question_answers": false,
     "regions": [
+      "Croatia",
       "United Kingdom",
       "Europe",
       "Remote",
@@ -163,7 +164,7 @@
     "slug": "lovd",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4148be76dee7d12679686787183910a3a06745b.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Consumer",
     "tags": [],
     "tags_highlighted": [],
@@ -173,7 +174,7 @@
     "website": "http://www.lovd.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/abacum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -258,7 +259,7 @@
     "website": "https://www.atratopago.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/runway.json",
     "app_answers": null,
     "app_video_public": false,
@@ -563,7 +564,8 @@
     "batch": "Winter 2021",
     "demo_day_video_public": false,
     "former_names": [
-      "oxio"
+      "oxio",
+      "Gaiia"
     ],
     "id": 22625,
     "industries": [
@@ -574,7 +576,7 @@
     "isHiring": false,
     "launched_at": 1612041832,
     "long_description": "",
-    "name": "Gaiia",
+    "name": "gaiia",
     "nonprofit": false,
     "one_liner": "all-in-one operating system (OS) for telcos",
     "question_answers": false,
@@ -595,13 +597,13 @@
       "Telecommunications"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/gaiia",
     "website": "http://gaiia.com"
   },
   {
-    "all_locations": "Detroit, MI, USA",
+    "all_locations": "Cleveland, OH, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/atomic-industries.json",
     "app_answers": null,
     "app_video_public": false,
@@ -686,7 +688,7 @@
     "website": "https://www.albaorbital.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/authzed.json",
     "app_answers": null,
     "app_video_public": false,
@@ -707,7 +709,7 @@
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
     "name": "authzed",
     "nonprofit": false,
-    "one_liner": "Cloud Infrastructure for Authorization",
+    "one_liner": "Authorization Infrastructure securing AI at OpenAI, Zoom, & more",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -721,8 +723,8 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
       "Security",
       "Open Source",
       "Data Engineering"
@@ -865,7 +867,7 @@
     "website": "http://getplaymaker.app"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/dreamworld.json",
     "app_answers": null,
     "app_video_public": false,
@@ -881,7 +883,7 @@
       "Gaming"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614886260,
     "long_description": "DreamWorld is a next-gen Minecraft with generative AI building. A game and platform for 3D user generated content, DreamWorld is a digital world with one of the largest multiplayer capacities ever developed.\r\nOur players grew up on User Generated Content games, but are now 13-40 and have aged out Roblox / Minecraft. DreamWorld provides more powerful building tools, better graphics, and massive social multiplayer.",
     "name": "DreamWorld",
@@ -954,7 +956,7 @@
     "website": "https://www.howdy.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lygg.json",
     "app_answers": null,
     "app_video_public": false,
@@ -969,7 +971,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1648234214,
-    "long_description": "Up to 90% of skin aging is caused by UV light from the sun. Most of this is caused by UVA light and only one FDA-approved chemical ingredient protects against it. To address this, Lygg has developed a patented, photostable, and safe ingredient that triples current UVA protection.",
+    "long_description": "Up to 90% of skin aging is caused by UV light from the sun. Most of this is caused by UVA light and only two FDA-approved chemical ingredients protect against it, one of which is neither photostable nor GRASE. To address this, we have developed a patented, photostable, and safe ingredient that can dramatically increase current UVA protection.",
     "name": "Lygg",
     "nonprofit": false,
     "one_liner": "Building New Anti-Aging Ingredients for Skincare",
@@ -1082,7 +1084,7 @@
     "website": "https://quadranteye.com"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/taloflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1261,7 +1263,7 @@
     "website": "https://www.usewaypoint.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spokn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1564,7 +1566,7 @@
     "website": "https://pensil.in"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gigs-live.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1699,7 +1701,7 @@
     "website": "http://unfurlcuisine.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/modernloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2011,7 +2013,7 @@
     "website": "https://www.observa.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/nourish.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2148,7 +2150,7 @@
     "website": "https://queenly.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gerald-technologies-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2371,7 +2373,7 @@
     "website": "https://curvenote.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/wyndly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2417,7 +2419,7 @@
     "website": "https://www.wyndly.com"
   },
   {
-    "all_locations": "Bengaluru, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flux-auto.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2432,10 +2434,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1647888445,
-    "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in controlled spaces. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
+    "long_description": "Flux is building physical AI to automate material movement in warehouses and factories on legacy vehicle fleets. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying with customers like Walmart, Daimler, Bajaj, Cummins, Mahindra Logistics across warehouses, fulfillment centers and factories.",
     "name": "Flux Auto",
     "nonprofit": false,
-    "one_liner": "General Autonomy for Controlled Spaces",
+    "one_liner": "Physical AI for Warehouses and Factories",
     "question_answers": false,
     "regions": [
       "India",
@@ -2444,15 +2446,15 @@
       "Partly Remote"
     ],
     "slug": "flux-auto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3216297669f8a2cef1d4cb56c1dbc1ec4a127187.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1782782e9f339f3d5ae2b7213cb07b675c29d2f7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Autonomous Trucking",
       "Hard Tech",
       "Robotics",
-      "Logistics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2504,7 +2506,7 @@
     "website": "https://www.krab.in"
   },
   {
-    "all_locations": "Cambridge, MA, USA; Remote",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/coverified.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2585,7 +2587,7 @@
     "website": "https://clay3d.io"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gobuild-fka-brick.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2630,7 +2632,7 @@
     "website": "https://go.build"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2908,7 +2910,7 @@
     "website": "https://weekday.works"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/smartcuts.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3084,7 +3086,7 @@
     "website": "https://pragmaticleaders.io, https://ostronaut.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/laudspeaker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3102,7 +3104,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1611772724,
-    "long_description": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns.",
+    "long_description": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns. (acquired by PostHog)",
     "name": "Laudspeaker",
     "nonprofit": false,
     "one_liner": "Open source mobile marketing platform. Alternative to appcues /…",
@@ -3160,7 +3162,7 @@
       "Fully Remote"
     ],
     "slug": "axiom-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7f979252bd454e7ae030f5dcdeb3070726607a7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48ab4ee91faa4c6436804bf3d71a9e06873ff688.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Operations",
@@ -3251,11 +3253,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 150,
@@ -3264,7 +3266,7 @@
     "website": "https://encord.com"
   },
   {
-    "all_locations": "Bengaluru, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/cashbook.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3440,7 +3442,7 @@
     "website": "https://clipdrop.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/finary.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3529,7 +3531,7 @@
     "website": "https://www.valinktx.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/avenue.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3572,7 +3574,7 @@
     "website": "https://avenue.app/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/prequel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3615,7 +3617,7 @@
     "website": "https://prequel.co"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/nohq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3658,7 +3660,7 @@
     "website": "https://nohq.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flok.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3746,7 +3748,7 @@
     "website": "http://www.chargerunning.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Vancouver, BC, Canada; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/sivo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3767,6 +3769,7 @@
     "one_liner": "Debt as a service for companies to lend money to their users at scale.",
     "question_answers": false,
     "regions": [
+      "Canada",
       "United States of America",
       "America / Canada",
       "Remote",
@@ -3788,7 +3791,7 @@
     "website": "https://sivo.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gradia-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3917,7 +3920,7 @@
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 28,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/axle-health",
     "website": "https://www.axlehealth.com"
@@ -3997,12 +4000,12 @@
     "status": "Active",
     "subindustry": "B2B -> Security",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 200,
+    "team_size": 197,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cyble",
     "website": "https://cyble.com/"
@@ -4093,7 +4096,7 @@
     "website": "https://www.yourquote.in"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/huddlefire.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4141,7 +4144,7 @@
     "website": "https://www.huddlefire.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Toronto, ON, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/supadock.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4166,7 +4169,7 @@
     "one_liner": "AI workers for logistics operations",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -4188,7 +4191,7 @@
     "website": "https://getsupadock.com"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/faction.json",
     "app_answers": true,
     "app_video_public": false,
@@ -4236,7 +4239,7 @@
     "website": "http://www.faction.us"
   },
   {
-    "all_locations": "Fremont, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/expent-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4270,10 +4273,10 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -4372,13 +4375,15 @@
     "website": "https://www.gridware.io"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story-compare.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Version Story"
+    ],
     "id": 22790,
     "industries": [
       "B2B",
@@ -4387,31 +4392,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1616475139,
-    "long_description": "Version Story tackles the inefficient and risky process of managing legal document versions that plagues legal teams. Inspired by powerful software development tools like GitHub, Version Story's visual platform provides intuitive version control and redlining, freeing lawyers to focus on high-value work instead of file management.",
-    "name": "Version Story",
+    "long_description": "Version Story is Git for Lawyers, offering a suite of deterministic tools — compare, merge, rebase, etc. — via MCP and REST API. Easy to embed in Claude or in custom applications.",
+    "name": "Version Story Compare",
     "nonprofit": false,
-    "one_liner": "GitHub for lawyers",
+    "one_liner": "Git for Lawyers — now within Claude",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "version-story",
+    "slug": "version-story-compare",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 30,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/version-story",
+    "url": "https://www.ycombinator.com/companies/version-story-compare",
     "website": "https://versionstory.com/"
   },
   {
@@ -4502,7 +4507,7 @@
     "website": "https://www.bimaplan.co"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/firstbase-io.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4584,7 +4589,7 @@
     "website": "https://www.octifi.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/per-diem.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4599,7 +4604,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1614618932,
-    "long_description": "We deploy AI agents that act as a C-suite for cafés, bakeries, and restaurant franchises. Per Diem’s AI CTO automatically builds, deploys, and maintains branded mobile apps and web ordering, while our AI CMO and AI COO automate loyalty, marketing, and daily operations across first-party ordering and catering. Built on Square, 500+ brands including Oakberry, Shane's Rib Shack, and Crave Cookies use Per Diem to own their customers, increase lifetime value, and grow profitably.",
+    "long_description": "Restaurants today rely on dozens of disconnected tools to manage ordering, loyalty, marketing, and operations. Per Diem replaces that fragmented software stack with AI agents that build and maintain branded apps, run marketing campaigns, manage loyalty, automate operations, and help restaurants grow first-party sales. Built natively on Square, 800+ brands use Per Diem to power more than 500,000 monthly orders as their operating system for commerce, customer retention, and growth.",
     "name": "Per Diem",
     "nonprofit": false,
     "one_liner": "The AI operating system for restaurants",
@@ -4804,7 +4809,7 @@
     "website": "https://www.avironactive.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/camber-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4841,7 +4846,7 @@
       "Health Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 85,
+    "team_size": 101,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/camber-2",
     "website": "https://www.camber.health/"
@@ -4862,10 +4867,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1614447840,
-    "long_description": "Pry makes it simple for companies to manage their budget, hiring plan, financial models, and cash runway.\r\n\r\nToday, most people plan for their business once a quarter. It's done in Excel - buggy, boring, confusing, and really time-expensive. A lot of people have tried to solve this and only found moderate success or failed.\r\n\r\nWe're the team to do it right.",
+    "long_description": "Now working on prune.com\r\n\r\nPry makes it simple for companies to manage their budget, hiring plan, financial models, and cash runway.\r\n\r\nToday, most people plan for their business once a quarter. It's done in Excel - buggy, boring, confusing, and really time-expensive. A lot of people have tried to solve this and only found moderate success or failed.\r\n\r\nWe're the team to do it right.",
     "name": "Pry Financials",
     "nonprofit": false,
-    "one_liner": "Finance for Founders",
+    "one_liner": "Finance for Founders (now at prune.com)",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4889,7 +4894,7 @@
     "website": "https://www.pry.co"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/emerge-tools.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5024,7 +5029,7 @@
     "website": "https://lendflow.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5424,7 +5429,7 @@
     "website": "https://lalabox.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/quadrant-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5463,7 +5468,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/quadrant-health",
     "website": "https://quadrant.health"
@@ -5688,7 +5693,7 @@
     "website": "https://www.kredi.mx/"
   },
   {
-    "all_locations": "New York, NY, USA; Providence, RI, USA; Remote",
+    "all_locations": "New York City, NY, USA; Providence, RI, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pangea-app.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5984,7 +5989,8 @@
     "tags": [
       "Autonomous Trucking",
       "Hard Tech",
-      "Robotics"
+      "Robotics",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -5993,7 +5999,7 @@
     "website": "http://hermes-robotics.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/popl.json",
     "app_answers": null,
     "app_video_public": true,
@@ -6007,10 +6013,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1610523196,
-    "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
+    "long_description": "Popl is the AI GTM platform for in-person events — the data layer for everything that happens face-to-face. Powered by AI and its proprietary data engine, Popl helps companies worldwide turn events into a measurable, scalable growth channel: universal badge scanning, AI-powered conversation recording, real-time data enrichment, and automatic CRM sync.",
     "name": "Popl",
     "nonprofit": false,
-    "one_liner": "Your Complete In-Person GTM Platform",
+    "one_liner": "Your AI GTM platform for In-Person Events",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -6082,8 +6088,8 @@
     "website": "https://www.fathom.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d-labs.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
@@ -6097,7 +6103,9 @@
       "TutorAI.me",
       "QuickVid.ai",
       "QuickVid",
-      "True3D"
+      "True3D",
+      "True3D Labs",
+      "Outpaint.com"
     ],
     "id": 22880,
     "industries": [
@@ -6105,33 +6113,33 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614739771,
-    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
-    "name": "True3D Labs",
+    "long_description": "We're a research lab building foundation models and products for what comes after flat video.",
+    "name": "True3D",
     "nonprofit": false,
-    "one_liner": "AI that expands any video to fit any screen.",
+    "one_liner": "Building the next generation of visual media",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "true3d-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
+    "slug": "true3d",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a242a0c2ce6b1ca1518d1744187f98a3bf8eade9.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Media",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "website": "https://true3d.com/"
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "website": "https://www.true3d.com/"
   },
   {
     "all_locations": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
@@ -6268,7 +6276,7 @@
     "website": "https://www.purposefinance.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/rinsed.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6311,7 +6319,7 @@
     "website": "https://www.rinsed.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/measured.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6395,7 +6403,7 @@
       "B2B"
     ],
     "tags_highlighted": [],
-    "team_size": 75,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/r2",
     "website": "https://r2.co/"
@@ -6448,7 +6456,7 @@
   {
     "all_locations": "Singapore, Singapore; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/greywing.json",
-    "app_answers": true,
+    "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
     "demo_day_video_public": false,
@@ -6485,7 +6493,7 @@
       "Maritime"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/greywing",
     "website": "https://grey-wing.com/"
@@ -6535,7 +6543,7 @@
     "website": "https://www.zingbus.com/"
   },
   {
-    "all_locations": "Bengaluru, India; Navi Mumbai, MH, India",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/verak.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6656,7 +6664,7 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Carbon Capture and Removal",
+      "Hard Tech",
       "Climate",
       "ClimateTech"
     ],
@@ -6667,7 +6675,7 @@
     "website": "https://www.remoracarbon.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/liveflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6709,7 +6717,7 @@
     "website": "https://www.liveflow.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/auricle.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6722,7 +6730,7 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1680287454,
     "long_description": "Auricle is a medical device company building a breakthrough neurostimulation implant to restore hearing in millions of patients who no longer benefit from hearing aids, get less than 60% on a word recognition test, but aren't prepared to make the jump to a cochlear implant. \r\n\r\nOur approach preserves remaining natural hearing through a reversible and less invasive surgery, addressing the key concerns that hold most patients back from getting a cochlear implant (currently the only treatment option for these patients).\r\n\r\nThe company spun out of Stanford Biodesign having completed two acute human clinical studies demonstrating the approach will work. The team is now focused on developing their full implant system for their first clinical trial. \r\n\r\nAuricle addresses a currently unserved profile of hearing loss that affects a growing population of 3.5 million patients in the US and represents an immediately accessible $1.2B market opportunity with existing reimbursement.",
     "name": "Auricle",
@@ -6882,7 +6890,7 @@
     "website": "https://www.invoid.co/"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/great-question.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6919,7 +6927,7 @@
       "Design Tools"
     ],
     "tags_highlighted": [],
-    "team_size": 50,
+    "team_size": 41,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/great-question",
     "website": "https://greatquestion.co"
@@ -7073,10 +7081,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1616508622,
-    "long_description": "Enode’s APIs enable you to instantly connect users’ energy devices — including EVs, solar inverters, home batteries and thermostats — to your app. ",
+    "long_description": "Device connectivity, home energy coordination, and grid orchestration in a single platform.",
     "name": "Enode",
     "nonprofit": false,
-    "one_liner": "An API for electric vehicles and other energy hardware (DERs)",
+    "one_liner": "Energy Orchestration Platform",
     "question_answers": false,
     "regions": [
       "Norway",
@@ -7092,10 +7100,11 @@
     "tags": [
       "Climate",
       "API",
-      "Electric Vehicles"
+      "Energy",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 70,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/enode",
     "website": "http://www.enode.com"
@@ -7272,7 +7281,7 @@
     "website": "http://trendpop.com"
   },
   {
-    "all_locations": "Boulder, CO, USA; Remote",
+    "all_locations": "Denver, CO, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lighttwist.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7287,10 +7296,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1616254222,
-    "long_description": "LightTwist is your virtual studio in the cloud. Record and stream video in a customizable virtual studio that you control from your browser.",
+    "long_description": "LightTwist let you record and stream your show in a realistic virtual studio, even if your guests and co-hosts are remote. All you need is a camera, a browser, and LightTwist.",
     "name": "LightTwist",
     "nonprofit": false,
-    "one_liner": "Record video in a photorealistic virtual studio all from your browser",
+    "one_liner": "Realistic virtual video studio to record and stream from your browser",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -7299,7 +7308,7 @@
       "Fully Remote"
     ],
     "slug": "lighttwist",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69063ba25c16af04c5fdb92fd680138cd0eaea3b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8ec12fb14b1244b971c7c93d53e48145c568d22.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -7309,7 +7318,7 @@
       "Design Tools"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lighttwist",
     "website": "https://lighttwist.com"
@@ -7490,7 +7499,7 @@
     "website": "http://www.gethomebase.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/partnered-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7535,7 +7544,7 @@
   },
   {
     "all_locations": "Toronto, ON, Canada; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sst.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/opencode.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
@@ -7553,10 +7562,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1610830891,
-    "long_description": "Makers of sst.dev, opencode.ai, opennext.js.org, openauth.js.org, models.dev",
-    "name": "SST",
+    "long_description": "Built by Anomaly, makers of sst.dev, opennext.js.org, openauth.js.org, models.dev, and more.",
+    "name": "OpenCode",
     "nonprofit": false,
-    "one_liner": "For whatever you build.",
+    "one_liner": "The open source AI coding agent",
     "question_answers": false,
     "regions": [
       "Canada",
@@ -7564,8 +7573,8 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "sst",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4acd09521cfd92dc5dc54349811e3659f95a8c17.png",
+    "slug": "opencode",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12e9098cbcd6d2919062aedf0b50e9d7b6c11e3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
@@ -7574,10 +7583,10 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 24,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sst",
-    "website": "https://sst.dev"
+    "url": "https://www.ycombinator.com/companies/opencode",
+    "website": "https://opencode.ai"
   },
   {
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; New York, NY, USA",
@@ -7709,7 +7718,7 @@
     "website": "https://www.quotabook.com/en"
   },
   {
-    "all_locations": "New York, NY, USA; Boston, MA, USA",
+    "all_locations": "New York City, NY, USA; Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/topline-pro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7883,10 +7892,10 @@
       "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 60,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/codingal",
-    "website": "https://www.codingal.com"
+    "website": "https://www.codingal.com/?utm_source=yc"
   },
   {
     "all_locations": "Seattle, WA, USA",
@@ -8010,10 +8019,11 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B"
+      "B2B",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 530,
@@ -8295,7 +8305,7 @@
     "website": "https://www.stokespace.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/milk-video.json",
     "app_answers": null,
     "app_video_public": false,
@@ -8529,7 +8539,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1611246656,
     "long_description": "Every hospital hires clinical pharmacists to answer clinical questions from doctors. \r\n\r\nThey outsource this to us because we’re more efficient.",
     "name": "InpharmD",
@@ -8825,7 +8835,7 @@
     "website": "https://taofi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/taste.json",
     "app_answers": null,
     "app_video_public": false,
@@ -8979,15 +8989,15 @@
     "id": 23105,
     "industries": [
       "B2B",
-      "Retail"
+      "Recruiting and Talent"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1616635998,
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
+    "long_description": "Reclaim Protocol provides best in class conversion rates (45%+) on education, employment and retail loyalty verification. Global coverage, secure and privacy preserving.\r\n\r\n- Global coverage : Unlike most other vendors we are global by default. No matter where in the world the user is, we can verify.\r\n- It is 100% private : Neither you, nor us, see any private information about the user. So you carry no liabilities. No risk of your database getting hacked. \r\n- Best in class conversion : We have the highest conversion rates in the industry at 45%+ because users don't have to scramble for their documents to upload.\r\n- AI fraud resistant : All the verifications happen securely using cryptography that even the most advanced models cannot fake.\r\n\r\nTotal amount raised : $10M (Series A)",
     "name": "Reclaim Protocol",
     "nonprofit": false,
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
+    "one_liner": "Education, Employment, Loyalty verification. Global & Compliant.",
     "question_answers": false,
     "regions": [
       "India",
@@ -8999,19 +9009,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
-      "Artificial Intelligence",
-      "Identity"
+      "Identity",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 26,
+    "team_size": 17,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reclaim-protocol",
     "website": "https://reclaimprotocol.org"
   },
   {
-    "all_locations": "Durham, NC, USA",
+    "all_locations": "Southern Pines, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/botbuilt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9058,7 +9068,7 @@
     "website": "https://www.botbuilt.com"
   },
   {
-    "all_locations": "Los Altos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Los Altos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/rulebricks.json",
     "app_answers": true,
     "app_video_public": false,
@@ -9145,7 +9155,7 @@
     "website": "https://www.fithub.com.co"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/seer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9233,7 +9243,7 @@
     "website": "http://redcliffelabs.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/roger.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9498,7 +9508,7 @@
     "website": ""
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Stockholm, Stockholm County, Sweden; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/camp.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9525,7 +9535,9 @@
     "one_liner": "A Nouns DAO governance client",
     "question_answers": false,
     "regions": [
+      "Sweden",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -9549,7 +9561,7 @@
     "website": "https://nouns.camp"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/fable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9628,9 +9640,9 @@
     "status": "Active",
     "subindustry": "Healthcare -> Therapeutics",
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -9639,7 +9651,7 @@
     "website": "https://www.biodock.ai"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/venu-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9688,7 +9700,7 @@
     "website": "https://www.venu3d.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/manara.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9730,7 +9742,7 @@
     "website": "http://www.manara.tech"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/compose-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9775,7 +9787,7 @@
     "website": "https://compose.ai"
   },
   {
-    "all_locations": "Richmond, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Richmond, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/moxion-power-co.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9820,7 +9832,7 @@
     "website": "https://www.moxionpower.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lamar-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9881,10 +9893,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1627685643,
-    "long_description": "Soraban's building an intelligent tax workflow platform for accounting firms. Our AI is first automating the client data intake process, data entry into legacy accounting software, and final delivery of the return package.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants, since excel. ",
+    "long_description": "AI-native Tax workflow Platform for accounting firms from client request to delivery. We raised $18m from patient investors who are onboard to help us grow and serve tens of thousands of accounting firms. We're not in this market to grow fast and fail fast. We're in this to build something that'll last decades. ",
     "name": "Soraban",
     "nonprofit": false,
-    "one_liner": "AI Tax Workflow for accounting firms ",
+    "one_liner": "AI tax workflow platform for accounting firms ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -9909,7 +9921,7 @@
     "website": "https://www.soraban.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pyroscope.json",
     "app_answers": null,
     "app_video_public": false,
@@ -10012,7 +10024,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1614618716,
-    "long_description": "Ontop allows companies to hire international workers and gives those workers access to USD accounts.",
+    "long_description": "Ontop allows companies to hire global workers and gives those workers access to a Global Financial Account.",
     "name": "Ontop",
     "nonprofit": false,
     "one_liner": "Simplifying hiring and payments for the global workforce",
@@ -10035,7 +10047,7 @@
       "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 192,
+    "team_size": 186,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ontop",
     "website": "https://www.getontop.com/"
@@ -10166,10 +10178,10 @@
       "Home Services"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 45,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/homebreeze",
-    "website": "https://www.homebreeze.com/"
+    "website": "https://www.homebreeze.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -10856,7 +10868,7 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/infracost",
     "website": "https://infracost.io"
@@ -10948,7 +10960,7 @@
     "website": "https://www.agendapro.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flutterflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -10969,6 +10981,8 @@
     "one_liner": "Application Development Platform (Native Mobile + Web Apps)",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -11141,10 +11155,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1617697652,
-    "long_description": "Add leaderboards, clans, and more to any mobile game in minutes.",
+    "long_description": "",
     "name": "Galaxy",
     "nonprofit": false,
-    "one_liner": "Social SDK for games",
+    "one_liner": "",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -11163,7 +11177,7 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/galaxy",
-    "website": "https://galaxysdk.com"
+    "website": "https://launchpointhq.com"
   },
   {
     "all_locations": "Sunshine Coast, QLD, Australia",
@@ -11249,7 +11263,7 @@
     "website": "https://alpas.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Pleasanton, CA, USA",
+    "all_locations": "Houston, TX, USA; Pleasanton, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/floweq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -11298,7 +11312,7 @@
     "website": "https://www.floweq.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/rejoy-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -11318,16 +11332,16 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1614703106,
-    "long_description": "Our AI-powered healthcare information platform leverages  LLMs to deliver accurate, up-to-date medical knowledge",
+    "long_description": "Rejoy Health is the AI care team for clinics. AI workers for healthcare that run the day end to end, from the first call to the last note.\r\n\r\nEvery missed call is a patient you never see. Every hour after clinic is time you don’t get back. Phones go unanswered, the schedule has holes, and clinicians are still charting, coding, and looking things up while the next patient waits. Rejoy takes that work off the team’s plate.\r\n\r\nThe AI Receptionist answers around the clock, books and reschedules visits, and never puts a patient on hold, so the calendar stays full. In the room, the AI Scribe turns the conversation into structured notes, the AI Interpreter handles live language in English, Spanish, French, Chinese, Korean, and more, and RejoyGPT plus clinical decision support answer questions while the patient is still there. After the visit, the AI Coder suggests ICD-10 and CPT codes so billing goes out cleaner and faster. A medical search engine and study companion sit in the same suite for guidelines, journals, and exam prep.\r\n\r\nNot another chatbot. One system for doctors, nurses, MAs, and the front desk. More accurate than ChatGPT. HIPAA-compliant. Trusted by 40,000+ clinicians at leading US hospitals and health systems.\r\n\r\nYou stay in charge. Rejoy does the work. Book more patients. See more patients. Chart less.",
     "name": "Rejoy Health",
     "nonprofit": false,
-    "one_liner": "AI-powered healthcare information",
+    "one_liner": "AI workers that book, scribe, code, interpret, and answer clinicians",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "rejoy-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8915251968445e21f6c523ef791b6cee8e7d0c59.png",
@@ -11481,7 +11495,7 @@
     "website": "https://www.machine26.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/compound-writing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -11922,7 +11936,7 @@
     "website": "https://jetdocs.io"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/prospa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -11987,10 +12001,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1613662142,
-    "long_description": "Rethoric is a LinkedIn content agency built by founders, for founders. We run your entire content operation from strategy to publishing so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nYour content starts with a monthly interview led by people who understand the founder journey. We go deep on your ideas, decisions, and lessons learned so the content sounds like your best thinking, not a marketing team's version of it. \r\n\r\nFrom there, world-class ghostwriters and editors turn those conversations into a full content calendar.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. You approve directly from Slack notifications.",
+    "long_description": "Rethoric is a LinkedIn content consultancy service and scheduling platform used by companies like Checkr, ClickUp, Storylane, Checkly, and 100+ startups and enterprises. We run your entire content operation from strategy to publishing, so you stay visible and top of mind with your ICP without spending time on it.\r\n\r\nOur platform replaces the usual agency workflow of Google Docs, review threads, and scheduling tools. You connect your LinkedIn and Slack, and everything shows up already written, scheduled, and ready to publish. ",
     "name": "Rethoric",
     "nonprofit": false,
-    "one_liner": "LinkedIn ghostwriting for founders to busy to post consistently",
+    "one_liner": "LinkedIn content consultancy and scheduling platform for busy founders",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -12399,7 +12413,7 @@
     "website": "https://awari.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/upchieve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12411,7 +12425,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1613154543,
     "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
     "name": "UPchieve",
@@ -12440,7 +12454,7 @@
     "website": "https://www.upchieve.org"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Austin, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/mystic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12487,7 +12501,7 @@
     "website": "https://www.mystic.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/navattic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12514,7 +12528,7 @@
       "Partly Remote"
     ],
     "slug": "navattic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22212a19a00cdc48d8187c96a9935e78ca56ee79.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4a4ef6a3d05c5e0e6207e2f196eaafa06183e8.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -12522,7 +12536,8 @@
       "SaaS",
       "B2B",
       "Sales",
-      "Marketing"
+      "Marketing",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "team_size": 35,
@@ -12697,7 +12712,7 @@
     "website": "https://cheqout.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/mezli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12740,7 +12755,7 @@
     "website": "https://www.mezli.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/jiga.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12761,6 +12776,8 @@
     "one_liner": "Source better parts by partnering directly with vetted manufacturers",
     "question_answers": false,
     "regions": [
+      "Israel",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -13215,7 +13232,7 @@
     "website": "http://www.boitas.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/moonvalley.json",
     "app_answers": null,
     "app_video_public": false,
@@ -13242,6 +13259,8 @@
     "one_liner": "Building the next generation AI creative studio",
     "question_answers": false,
     "regions": [
+      "Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -13285,7 +13304,7 @@
     "slug": "forcyte-biotechnologies",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7b684971715c34dcf43972f00b40675ec273846.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
       "Drug discovery"
@@ -13469,14 +13488,15 @@
     "website": "http://www.nuntiustx.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev-ai.json",
+    "all_locations": "Bucharest, Romania; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
     "demo_day_video_public": false,
     "former_names": [
-      "Waydev"
+      "Waydev",
+      "Waydev AI"
     ],
     "id": 23530,
     "industries": [
@@ -13486,37 +13506,37 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1616455133,
-    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
-    "name": "Waydev AI",
+    "long_description": "Waydev maps AI velocity across the SDLC — built on DORA, SPACE, and DX — turning developer tool data into board-ready evidence of adoption, impact, and ROI.",
+    "name": "Waydev",
     "nonprofit": false,
-    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
+    "one_liner": "Engineering intelligence for AI transformation",
     "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Romania",
+      "Europe",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
-    "slug": "waydev-ai",
+    "slug": "waydev",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
     "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "AI-Enhanced Learning",
+      "AIOps",
       "Artificial Intelligence",
-      "Data Engineering",
+      "Analytics",
       "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "team_size": 13,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/waydev-ai",
+    "url": "https://www.ycombinator.com/companies/waydev",
     "website": "https://waydev.co/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/authologic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -13537,6 +13557,8 @@
     "one_liner": "Stripe for online identity verification",
     "question_answers": false,
     "regions": [
+      "Poland",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -13547,7 +13569,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 33,
+    "team_size": 44,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/authologic",
     "website": "https://authologic.com"
@@ -13596,7 +13618,7 @@
     "website": "https://arpio.io"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/triomics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -13904,7 +13926,7 @@
     "website": "https://www.kilobaser.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/swiftsku.json",
     "app_answers": null,
     "app_video_public": false,
@@ -14082,7 +14104,7 @@
     "website": "http://reshapebiotech.com/"
   },
   {
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/terra-api.json",
     "app_answers": null,
     "app_video_public": false,
@@ -14102,11 +14124,11 @@
     "long_description": "Terra makes it easy to transfer health data.\r\n\r\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
     "name": "Terra API",
     "nonprofit": false,
-    "one_liner": "API for developers to access health data ",
+    "one_liner": "API for developers and AIs to access health data ",
     "question_answers": false,
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "terra-api",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
@@ -14167,7 +14189,7 @@
     "website": "https://www.magicbell.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -14184,7 +14206,8 @@
       "AXAR AI",
       "Tackle",
       "AXAR AI",
-      "Tackle"
+      "Tackle",
+      "AXAR AI"
     ],
     "id": 23629,
     "industries": [
@@ -14205,17 +14228,17 @@
       "Partly Remote"
     ],
     "slug": "axar-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b95d154cb83a4708f9f0e1442a68b33e236a14bf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c6547ecb9fa107a828426f050dc9ff06b380355.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 41,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/axar-ai",
     "website": "https://www.axar.ai/"
@@ -14394,7 +14417,7 @@
     "website": "https://www.chorussleep.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/ollama.json",
     "app_answers": null,
     "app_video_public": false,
@@ -14423,7 +14446,7 @@
     ],
     "slug": "ollama",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1121bda8391be946b0390232fa3c953a095536e.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
@@ -14484,7 +14507,7 @@
   },
   {
     "all_locations": "Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/r-care.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/humance.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2021",
@@ -14493,40 +14516,42 @@
       "Angkm",
       "Blushh",
       "blushh",
-      "Blushh"
+      "Blushh",
+      "R.care"
     ],
     "id": 23636,
     "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
+      "Real Estate and Construction",
+      "Construction"
     ],
-    "industry": "Healthcare",
+    "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1614638320,
-    "long_description": "R.care is not just another diet program or calorie-counting app. It's a comprehensive, evidence-based solution designed to address the root causes of binge eating and provide lasting recovery. Say goodbye to waiting lists and hefty price tags, and take control of your relationship with food.",
-    "name": "R.care",
+    "long_description": "Humance is building an AI-powered project management tool for the construction industry, where work is highly coordinated and delays are costly.\r\n\r\nLarge projects involve dozens of interdependent workstreams where a single setback can cascade unpredictably through the entire timeline. Today, most project managers track this manually — tracing dependencies by hand, updating schedules, and notifying stakeholders one by one. It's slow, error-prone, and pulls focus away from the higher-order decisions that demand real expertise.\r\n\r\nExperienced project managers carry deep knowledge — of sequencing, trade-offs, site realities, and stakeholder dynamics — that no tool can replicate. Humance is built around that expertise. By handling the mechanical work of dependency tracking and schedule coordination, it frees project managers to do what they're actually skilled at: exercising judgment, managing complexity, and keeping the big picture in view.",
+    "name": "Humance",
     "nonprofit": false,
-    "one_liner": "#1 Science backed eating disorder recovery program.",
+    "one_liner": "AI that keeps complex construction projects on schedule.",
     "question_answers": false,
     "regions": [
       "Remote",
       "Fully Remote"
     ],
-    "slug": "r-care",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c67e972778de9f45e4a8ef08cebd295c38900aea.png",
+    "slug": "humance",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/987667192d91a0ec07b29e6a9afb25d541d6a722.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Consumer Health Services",
-      "Subscriptions",
-      "Mental Health"
+      "Artificial Intelligence",
+      "Construction",
+      "B2B",
+      "Scheduling"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/r-care",
-    "website": "https://www.recoverycare.app/"
+    "url": "https://www.ycombinator.com/companies/humance",
+    "website": "https://www.humance.tech/"
   },
   {
     "all_locations": "Remote",
@@ -14570,7 +14595,7 @@
     "website": "http://journey.io"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/eqtble.json",
     "app_answers": null,
     "app_video_public": false,

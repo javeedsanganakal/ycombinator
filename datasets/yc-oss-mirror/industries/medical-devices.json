@@ -85,7 +85,7 @@
     "website": "http://standardcyborg.com"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/zenflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -113,7 +113,7 @@
     ],
     "slug": "zenflow",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39dafe5a7c09ff15739f0bf0dfb5ef1902393913.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
@@ -169,7 +169,7 @@
     "website": "http://www.isonohealth.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/innovein.json",
     "app_answers": null,
     "app_video_public": false,
@@ -251,7 +251,7 @@
     "website": "https://www.urodevmedical.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/volt-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -369,7 +369,7 @@
     "website": "https://www.aesculatech.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/archform.json",
     "app_answers": null,
     "app_video_public": false,
@@ -537,7 +537,7 @@
     "website": "http://trexorobotics.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/voyage-biomedical.json",
     "app_answers": null,
     "app_video_public": false,
@@ -580,7 +580,7 @@
     "website": "https://voyage.bio"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/audiofocus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -607,7 +607,7 @@
     "slug": "audiofocus",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfd0e481274d2ce049ec8ba610428a947f18b71a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
       "Deep Learning",
@@ -684,9 +684,9 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556686578,
-    "long_description": "We develop surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible.",
+    "long_description": "ZETA SURGICAL is redefining the standard of care for image-guided surgery and targeted neuro-therapeutics. Its navigation and robotics platform applies advanced artificial intelligence and computer vision to enable high-accuracy image guidance across virtually any point of care in minutes, unlocking less invasive and more precise targeted therapies. The Zeta Navigation System and Zeta TMS Navigation System are cleared by the FDA and commercially available in the United States.",
     "name": "ZETA SURGICAL",
     "nonprofit": false,
     "one_liner": "Next-Generation Surgical Navigation and Robotics",
@@ -706,7 +706,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": null,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zeta-surgical",
     "website": "http://zetasurgical.com"
@@ -750,10 +750,10 @@
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Health Tech",
-      "Medical Devices",
-      "AI"
+      "Medical Devices"
     ],
     "tags_highlighted": [],
     "team_size": 25,
@@ -977,7 +977,7 @@
     "website": "https://quadranteye.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/auricle.json",
     "app_answers": null,
     "app_video_public": false,
@@ -990,7 +990,7 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1680287454,
     "long_description": "Auricle is a medical device company building a breakthrough neurostimulation implant to restore hearing in millions of patients who no longer benefit from hearing aids, get less than 60% on a word recognition test, but aren't prepared to make the jump to a cochlear implant. \r\n\r\nOur approach preserves remaining natural hearing through a reversible and less invasive surgery, addressing the key concerns that hold most patients back from getting a cochlear implant (currently the only treatment option for these patients).\r\n\r\nThe company spun out of Stanford Biodesign having completed two acute human clinical studies demonstrating the approach will work. The team is now focused on developing their full implant system for their first clinical trial. \r\n\r\nAuricle addresses a currently unserved profile of hearing loss that affects a growing population of 3.5 million patients in the US and represents an immediately accessible $1.2B market opportunity with existing reimbursement.",
     "name": "Auricle",
@@ -1104,7 +1104,7 @@
     "website": "https://www.ananya.health/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/zeit-medical.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1230,6 +1230,7 @@
     "tags": [
       "AI-Enhanced Learning",
       "Medical Devices",
+      "Digital Health",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -1239,7 +1240,7 @@
     "website": "https://safebeat.com"
   },
   {
-    "all_locations": "London, United Kingdom; San Francisco, CA, USA; Remote",
+    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1455,7 +1456,7 @@
     "website": "https://www.tybrhealth.com/"
   },
   {
-    "all_locations": "Cambridge, MA, USA; Mexico City, CDMX, Mexico",
+    "all_locations": "Mexico City, CDMX, Mexico",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/actipulse-neuroscience.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1476,9 +1477,7 @@
     "one_liner": "Bringing non-invasive brain stimulation from the hospital to the home",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "Mexico",
-      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -1634,7 +1633,7 @@
     "website": "https://www.torpedotherapeutics.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/bby.json",
     "app_answers": null,
     "app_video_public": true,
@@ -1679,7 +1678,7 @@
     "website": "http://www.bbymilk.com"
   },
   {
-    "all_locations": "Culver City, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/illuminant-surgical.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1692,7 +1691,7 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1660310230,
     "long_description": "Illuminant Surgical is building a new way of seeing inside the human body.\r\n\r\nOur breakthrough platform, Skylight™, is the first real-time anatomical projection system, displaying images directly on the patient to give doctors an x-ray vision view for safer interventions.",
     "name": "Illuminant Surgical",
@@ -1718,7 +1717,7 @@
       "Navigation"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/illuminant-surgical",
     "website": "https://www.illuminant.ai/"
@@ -1799,20 +1798,20 @@
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Medical Robotics",
-      "Medical Devices"
+      "Medical Devices",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/andromeda-surgical",
     "website": "http://www.andromedasurgical.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/selera-medical.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1867,12 +1866,12 @@
       "Medical Devices"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1775165077,
     "long_description": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much.\r\n\r\nLumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable.\r\n\r\nWe are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.\r\n",
     "name": "Lumius",
     "nonprofit": false,
-    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1883,11 +1882,7 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
-    "tags": [
-      "Hard Tech",
-      "Medical Devices",
-      "Digital Health"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,

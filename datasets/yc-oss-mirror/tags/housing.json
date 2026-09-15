@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Portland, OR, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/snapdocs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -186,7 +186,7 @@
       "Housing and Real Estate"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1575871649,
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "name": "Culdesac",
@@ -217,7 +217,7 @@
     "website": "http://culdesac.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/pippin-rent-the-backyard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -578,7 +578,7 @@
     "website": "https://www.buildatmos.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gobuild-fka-brick.json",
     "app_answers": null,
     "app_video_public": false,
@@ -623,7 +623,7 @@
     "website": "https://go.build"
   },
   {
-    "all_locations": "Durham, NC, USA",
+    "all_locations": "Southern Pines, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/botbuilt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -759,53 +759,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/propaya.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Zzyzzx",
-      "Zzyzzx Inc."
-    ],
-    "id": 29815,
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "industry": "Real Estate and Construction",
-    "isHiring": false,
-    "launched_at": 1722479842,
-    "long_description": "Propaya uses AI to instantly abstract and analyze commercial leases - delivering clause-cited insights, linked schedules, and export-ready data in minutes. Beyond lease reviews, we empower brokers, heads of real estate, and attorneys with market benchmarks and deal evaluation tools to negotiate more effectively and efficiently.",
-    "name": "Propaya",
-    "nonprofit": false,
-    "one_liner": "AI commercial lease abstractions and review",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "propaya",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25c55eb31d984b6e1d9f11620ead41083180bcf4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "tags": [
-      "Artificial Intelligence",
-      "Real Estate",
-      "Housing",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/propaya",
-    "website": "https://www.propaya.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/assembly-hoa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -852,11 +805,11 @@
     "website": "https://assemblyhoa.com"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/tire-swing.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tire-swing.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Winter 2025",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [],
     "id": 30290,
@@ -870,7 +823,7 @@
     "long_description": "Tire Swing uses AI to power resident and applicant eligibility evaluations for affordable housing.\r\n\r\nOur software manages the resident certification and recertification process end-to-end for public and private properties supported by Project Based Rental Assistance, Low Income Housing Tax Credit, and Housing Vouchers. It serves as a drop-in replacement for third-party consultants and auditors, and helps compliance staff complete their work faster and more accurately. ",
     "name": "Tire Swing",
     "nonprofit": false,
-    "one_liner": "AI Powered Affordable Housing Eligibility",
+    "one_liner": "AI Compliance for Affordable Housing",
     "question_answers": false,
     "regions": [
       "United States of America",

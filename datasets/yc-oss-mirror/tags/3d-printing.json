@@ -39,7 +39,7 @@
     "website": "http://dreamforge.me"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/layer-by-layer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -208,7 +208,7 @@
     "website": "https://www.aon3d.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/voodoo-manufacturing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -251,7 +251,7 @@
     "website": "http://www.voodoomfg.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/mighty-buildings.json",
     "app_answers": null,
     "app_video_public": false,
@@ -294,7 +294,7 @@
     "website": "https://www.mightybuildings.com"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/archform.json",
     "app_answers": null,
     "app_video_public": false,
@@ -378,7 +378,7 @@
     "website": "https://www.venostent.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/atum-works.json",
     "app_answers": null,
     "app_video_public": false,
@@ -397,7 +397,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1745346268,
-    "long_description": "Atum Works is building 3D ASML.\r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
+    "long_description": "",
     "name": "Atum Works",
     "nonprofit": false,
     "one_liner": "Gigascale Nanomanufacturing",
@@ -421,48 +421,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/atum-works",
     "website": "https://atum.works/"
-  },
-  {
-    "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30409,
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1746979571,
-    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
-    "name": "Notus Autonomous Systems",
-    "nonprofit": false,
-    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "notus-autonomous-systems",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
-    "tags": [
-      "Robotics",
-      "Drones",
-      "3D Printing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
-    "website": "http://www.notussystems.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -509,5 +467,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/topological",
     "website": "https://www.topological.com"
+  },
+  {
+    "all_locations": "El Segundo, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sinter-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36708,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788569774,
+    "long_description": "Sinter is creating a faster and radically more affordable American plastics pipeline, helping iteration heavy hardware teams evolve from additive prototypes to production parts on week-scale timelines.",
+    "name": "Sinter",
+    "nonprofit": false,
+    "one_liner": "Accelerating scaled plastics with additive technologies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sinter-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "3D Printing",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sinter-systems",
+    "website": "https://sinter.systems"
   }
 ]

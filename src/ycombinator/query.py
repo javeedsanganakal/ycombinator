@@ -70,12 +70,22 @@ class YCData:
     # ---------- search ----------
 
     def search(self, query: str) -> "YCData":
-        """Case-insensitive substring match on name + one_liner."""
+        """Case-insensitive substring match across public company text fields."""
         q = query.lower()
-        results = [
-            c for c in self.companies
-            if q in (c.name or "").lower() or q in (c.one_liner or "").lower()
-        ]
+        results = []
+        for c in self.companies:
+            haystack = "\n".join([
+                c.name or "",
+                c.one_liner or "",
+                c.long_description or "",
+                c.industry or "",
+                c.subindustry or "",
+                c.stage or "",
+                " ".join(c.tags or []),
+                " ".join(c.regions or []),
+            ]).lower()
+            if q in haystack:
+                results.append(c)
         return YCData(results)
 
     def get(self, slug: str) -> Company | None:

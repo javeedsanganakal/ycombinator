@@ -1,5 +1,5 @@
 {
-  "all_locations": "",
+  "all_locations": "San Francisco, CA, USA",
   "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json",
   "app_answers": null,
   "app_video_public": false,
@@ -17,23 +17,20 @@
   "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
   "name": "Replicas",
   "nonprofit": false,
-  "one_liner": "Background coding agents for engineering teams",
+  "one_liner": "Run any coding agent harness in the cloud",
   "question_answers": false,
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "slug": "replicas",
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
   "stage": "Early",
   "status": "Active",
   "subindustry": "B2B -> Engineering, Product and Design",
-  "tags": [
-    "Artificial Intelligence",
-    "Developer Tools",
-    "API"
-  ],
+  "tags": [],
   "tags_highlighted": [],
-  "team_size": 1,
+  "team_size": 2,
   "top_company": false,
   "url": "https://www.ycombinator.com/companies/replicas",
   "website": "https://replicas.dev"

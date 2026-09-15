@@ -238,7 +238,7 @@
     "website": "http://www.joinmilo.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Toronto, ON, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/supadock.json",
     "app_answers": null,
     "app_video_public": false,
@@ -263,7 +263,7 @@
     "one_liner": "AI workers for logistics operations",
     "question_answers": false,
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -285,7 +285,52 @@
     "website": "https://getsupadock.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/navattic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2021",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 23431,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1614276980,
+    "long_description": "Navattic helps sales and marketing teams instantly create interactive product demos.",
+    "name": "Navattic",
+    "nonprofit": false,
+    "one_liner": "Interactive product demos",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "navattic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4a4ef6a3d05c5e0e6207e2f196eaafa06183e8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Marketing",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 35,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/navattic",
+    "website": "https://www.navattic.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/opkit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -349,10 +394,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1644299294,
-    "long_description": "Cozmo AI is building the platform for regulated enterprises to deploy their own AI employees.\r\n\r\nCozmo is a system of work for complex enterprise operations. Companies use Cozmo to build and deploy AI employees, which are a collection of agents that own workflows end to end. They talk to customers, read documents, interpret videos, apply company policies and update systems like Guidewire, Temenos and Salesforce, pulling humans into the loop only when real judgment or escalation is needed.\r\n\r\nEvery decision the AI employee makes is logged, including its reasoning and policy reference, providing a complete audit trail for compliance and operations without additional manual effort. This is managed by our proprietary Agent Protocol Engine (APE), the control layer that keeps shared context, enforces policy and ensures every step is tracked for regulated industries.\r\n\r\nCozmo is live with 10+ enterprises, including Fortune Global 500s, like Nestlé, and has already handled over 1M production calls and 10M interactions; cutting costs by up to 70% and turning roughly 1 in 13 conversations into revenue.",
+    "long_description": "Cozmo AI helps restoration franchisors, TPAs and adjusters put agents to work on US property insurance claims. Agents are autonomous AI workers that answer intake across all channels, coordinate crews and write up losses. Putting them to work means deploying across the full claim, from first notice of loss to crew dispatch and damage estimate to supplement approval. Work that took human teams days to weeks closes in minutes.\r\n\r\nCozmo is an operating system for the whole claim, end to end, and it runs on top of the estimating software, CRM and phone system already in place. Nothing gets ripped out and nothing gets migrated.\r\n\r\nThis allows operators to run more jobs per adjuster and send estimates that clear review the first time. On the carrier side, the same work cuts cycle time to hours and leaves a line-item record of every loss, so risk can be priced by property instead of by ZIP code.\r\n\r\nCozmo's platform captures context from every claim it touches and gets sharper with each one.\r\n\r\nGo to hellocozmo.ai and book a demo to see the Cozmo AI agents in action.",
     "name": "Cozmo AI",
     "nonprofit": false,
-    "one_liner": "Multimodal AI Employees That See, Speak, Think and Do for Enterprises",
+    "one_liner": "End-to-end AI agents for property claims, from loss report to estimate",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -364,12 +409,13 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
+      "Insurance",
       "Enterprise",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cozmo-ai",
     "website": "https://www.hellocozmo.ai/"
@@ -472,6 +518,55 @@
     "website": "https://www.truva.ai/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/sigmamind-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PayO (Neo Trade",
+      "Inc.)",
+      "PayO",
+      "Sigma AI"
+    ],
+    "id": 26693,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1653235676,
+    "long_description": "SigmaMind AI is a platform for building voice AI agents purpose-built for call centers. Our agents make and answer calls for lead generation, appointment setting, follow-ups, collections, customer intake, and basic support. Instead of replacing the phone systems a center already uses, we connect on top of them. Because the AI handles many calls at once, a call center can reach far more people than a human team, lower its cost per lead, and stop wasting agent time on calls that go nowhere. Our customers are usually non-technical operators running centers with 25 or more agents, with the strongest traction in insurance, home services, solar, and lending.",
+    "name": "SigmaMind AI",
+    "nonprofit": false,
+    "one_liner": "Voice AI platform purpose-built for contact centers.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "sigmamind-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4857d95e94326dab2796fc4935e39cb912bd34e3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Call Center",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 12,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sigmamind-ai",
+    "website": "https://sigmamind.ai?utm_source=yc&utm_medium=web"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/berry.json",
     "app_answers": null,
@@ -547,7 +642,7 @@
     "slug": "vocode",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad057fc105425dc8b99aca0064ab8e6964e0c28.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B",
     "tags": [
       "Developer Tools",
@@ -577,7 +672,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1677585502,
     "long_description": "## What is Yuma AI?\r\n\r\nYuma is automating customer support by providing an AI Support Agent orchestration platform. Yuma provides autonomous AI agents dedicated to customer service and e-commerce.\r\n\r\nWe integrate directly with help desk software (Zendesk, Kustomer, Gorgias, etc.) and focus on helping large Shopify brands deal with their high volume of support requests.\r\n\r\nTop merchants using Yuma can automate up to 80% of their support tickets fully autonomously.\r\n\r\n## Why do Shopify merchants need Yuma?\r\n\r\nThere are thousands of large Shopify merchants around the world generating $10M+ a year. Most of them have taken over some niches and are great at what they do: selling their products.\r\n\r\nBut they all have one thing in common: they all hate customer support. It's a burden for them and a huge source of cost, as they receive hundreds of requests per day. Some of them have dozens of support agents on staff, usually offshore, and the overall quality is still often pretty poor while staff turnover remains high.\r\n\r\nThose merchants have been promised automation for years but have always been disappointed by the outcome. As customers, we have all had to live through a terrible support automation experience before, so this is no secret, and everyone knows that the current state of the technology is quite bad.\r\n\r\n## Yuma is solving this in a few ways:\r\n\r\nYuma isn't just another RAG chatbot. Our platform provides autonomous AI agents dedicated to support and ecommerce.\r\n\r\nThese agents are powered by knowledge, follow processes, and are managed by our in-house AI orchestration technology. This ensures safety, control, and quality at every step.\r\n\r\nWe believe that to truly automate customer support, we must develop a platform that mimics the actions of a human support agent. That's exactly what we've been doing.\r\n\r\nCurrently, our top merchants are automating 60% of their support tickets through Yuma. Yuma can fetch information from external services and take actions in other apps as needed to resolve each ticket.\r\n\r\nWe are laser-focused on building the best AI support agent platform and aim to achieve 80% true automation in the next few months.\r\n\r\n## Fun Fact\r\n\r\nYuma got started by accident. This is my third YC startup after Socialcam (W12) and Triplebyte (S15). I released Yuma as a prototype for fun in mid-December 2022 and was overwhelmed with demo requests. That's when I knew I was onto something and had to turn this into a real company, once again.",
     "name": "Yuma AI",
@@ -788,7 +883,7 @@
     "website": "https://egoai.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/onegrep.json",
     "app_answers": null,
     "app_video_public": false,
@@ -909,7 +1004,7 @@
     ],
     "slug": "toma",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
@@ -960,14 +1055,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
+      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zep-ai",
     "website": "https://www.getzep.com/"
@@ -1097,13 +1192,58 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dodo",
     "website": "https://www.dodo.ai/"
   },
   {
-    "all_locations": "Antwerp, Flanders, Belgium",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/parahelp.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Sam"
+    ],
+    "id": 29684,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1720219864,
+    "long_description": "Build and run an AI support agent that resolves even your most complex tickets end-to-end.\r\n\r\nIf a tool has an API, you can securely connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "name": "Parahelp",
+    "nonprofit": false,
+    "one_liner": "Build an AI support agent that securely uses all your tools",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "parahelp",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 11,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/parahelp",
+    "website": "https://parahelp.com/"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/conveo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1119,13 +1259,13 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1718889893,
-    "long_description": "Conveo powers your qualitative research from start to finish, all in one platform. Your AI co-worker designs expert research studies, interviews real people and instantly analyzes your videos. Get robust, actionable insights of consumers, users and audiences at scale. Tell powerful stories to your stakeholders within days.",
+    "long_description": "Conveo's AI-moderator interviews real people that compound into a queryable understanding layer: research-grade, available to every team.",
     "name": "Conveo",
     "nonprofit": false,
-    "one_liner": "Confident decisions in days with AI-led interviews.",
+    "one_liner": "Growth through always‑on consumer understanding",
     "question_answers": false,
     "regions": [
-      "Belgium",
+      "United Kingdom",
       "Europe"
     ],
     "slug": "conveo",
@@ -1141,7 +1281,7 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 24,
+    "team_size": 90,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conveo",
     "website": "https://conveo.ai/"
@@ -1163,7 +1303,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1724369845,
     "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
     "name": "Overstand Labs",
@@ -1193,7 +1333,7 @@
     "website": "https://overstandlabs.com"
   },
   {
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "São Paulo, SP, Brazil",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/praxos.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1204,29 +1344,30 @@
     ],
     "id": 29778,
     "industries": [
-      "Consumer"
+      "B2B"
     ],
-    "industry": "Consumer",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1723170275,
-    "long_description": "A personal AI that can act on direct commands and run persistent directives for you, via voice and text.",
+    "long_description": "Praxos is team messaging where customer conversations, product decisions and agent conversations stay in context.",
     "name": "Praxos",
     "nonprofit": false,
-    "one_liner": "Your personal AI companion",
+    "one_liner": "Team messaging with built-in memory",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Brazil",
+      "Latin America",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "praxos",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1c628c6820b04ec1a91900beaf008135319068a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133daa5976316fea8822213f5f71c6bc57c7cc88.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer",
+    "subindustry": "B2B",
     "tags": [
-      "Consumer",
+      "B2B",
+      "Messaging",
       "AI",
       "Conversational AI"
     ],
@@ -1234,54 +1375,7 @@
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/praxos",
-    "website": "https://mypraxos.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sterling-labs-inc.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Therapy Buddy",
-      "Sterling Labs",
-      "Focus Buddy"
-    ],
-    "id": 29828,
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1724988357,
-    "long_description": "DraftTheRecord Desktop helps court reporters record and transcribe proceedings.\r\n\r\nUse the app to capture local recording sessions, create enhanced transcripts from audio/video, and review transcript content in a focused workspace designed for court reporting.",
-    "name": "Sterling Labs, Inc",
-    "nonprofit": false,
-    "one_liner": "AI For Court Reporting",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "sterling-labs-inc",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c84a03d0d402a34192f801bf5c20f40407fa3c88.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Content",
-    "tags": [
-      "Consumer",
-      "Productivity",
-      "Mental Health",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sterling-labs-inc",
-    "website": "https://www.drafttherecord.com/"
+    "website": "https://praxos.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1296,12 +1390,12 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1736780951,
-    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
+    "long_description": "Leaping AI is the best platform to deploy voice and texting AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home remodeling, roofing, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and appointment scheduling calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nPain points that we solve: missed calls, insufficient speed to lead, not enough call center resources, call center inefficiencies, agents not sticking to the script, etc.\r\n\r\nAt its core, we have a multi-channel outreach campaign feature, whereby our customers can call and text potential leads over an arbitrary time period. If end customers call or text back, the Leaping voice or text AI agent can autonomously schedule appointments and resolve service requests.\r\n\r\nSome of our differentiating features: most-human like voice in the market, CRM integrations in place (Salesforce, Hubspot, MarketSharp, AccuLynx, JobNimbus, LeadPerfection, Google, etc.) and white-glove onboarding (in-person for larger accounts). Our AI agents can hold 100+ conversations at once, speak multiple languages and be equipped with company specific FAQ. Lastly, we have our own number health monitoring and DNC software.",
     "name": "Leaping AI",
     "nonprofit": false,
-    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
+    "one_liner": "AI voice and texting agents",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1320,96 +1414,10 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 11,
+    "team_size": 13,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/leaping-ai",
     "website": "https://www.leapingai.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dollyglot.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30198,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1741300119,
-    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
-    "name": "Dollyglot",
-    "nonprofit": false,
-    "one_liner": "Character.AI with real time video avatars",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "dollyglot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "Social",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dollyglot",
-    "website": "https://www.dollyglot.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/serno.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Melly AI",
-      "Ovlo"
-    ],
-    "id": 30214,
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1740586280,
-    "long_description": "Serno is the AI tool you reach for when one model isn't enough: pricing strategy, market entry, hiring trade-offs, anything you'd normally route to a team. Describe the question and Serno assembles 3–5 AI experts on Claude, GPT, and Gemini, each with a real role and research brief. \r\n\r\nThey debate contradictions and map the answer as a canvas you can navigate, share, or export.",
-    "name": "Serno",
-    "nonprofit": false,
-    "one_liner": "Custom AI experts that map what one AI can't",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "serno",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05a07f591188d21700a21e8d03d6cd5989e0a1fe.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "tags": [
-      "SaaS",
-      "Consumer Products",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/serno",
-    "website": "https://serno.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1459,7 +1467,7 @@
     "website": "https://www.toothy.ai/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/carecycle.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1528,7 +1536,7 @@
       "America / Canada"
     ],
     "slug": "roark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f767546eea69824b40dd475b83ae01dafa05b12.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
@@ -1656,17 +1664,17 @@
       "America / Canada"
     ],
     "slug": "humoniq",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd360d85931a0845b568ab55a8dd586fb4c3941c.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Travel",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/humoniq",
     "website": "https://humoniq.ai"
@@ -1688,7 +1696,7 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1752084453,
-    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage, leasing, property management, and acquisition advisory to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
+    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage and property management to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
     "name": "PARES AI",
     "nonprofit": false,
     "one_liner": "AI-native real estate services firm",
@@ -1703,9 +1711,9 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction",
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -1713,48 +1721,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pares-ai",
     "website": "https://www.pares.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30768,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1752707566,
-    "long_description": "Okibi is a web app that lets you create AI coworkers using natural language.\r\n\r\nIt's like Lovable for creating AI agents that talk to your internal software\r\n\r\nCorporate users lose 2 hours every day doing tasks that can be automated with agents\r\n\r\nBut existing agent builders have janky drag and drop UIs that don’t map to what they want exactiy.\r\n\r\nOkibi lets everyone use natural language to build the exact agent they want.",
-    "name": "Okibi",
-    "nonprofit": false,
-    "one_liner": "Build AI coworkers using natural language, it's Lovable for agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "okibi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2add42dcef83667e3ac21f0eabb0f202583f5d0c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "AIOps",
-      "B2B",
-      "Automation",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/okibi",
-    "website": "https://okibi.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1841,7 +1807,7 @@
     "website": "https://bolna.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/codyco.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1861,7 +1827,8 @@
     "one_liner": "The AI Reservation Team for Hotel Groups",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "slug": "codyco",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f6ef97ecdc81fb89e8dc020bc91142bcb83a908.png",
@@ -1897,14 +1864,14 @@
     "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
     "name": "Lightberry",
     "nonprofit": false,
-    "one_liner": "The social brain for robots.",
+    "one_liner": "Robots with soul",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "lightberry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e293e7e459ca366271fd5317cd8af37ed2cd6625.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1923,125 +1890,215 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/chert.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Fall 2025",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31364,
+    "former_names": [
+      "Inline",
+      "Lenscape"
+    ],
+    "id": 30995,
     "industries": [
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1777155515,
-    "long_description": "Chert provides the infrastructure for businesses to automate conversations over iMessage. We’re already working with B2C startups, customer experience teams, and sales teams to reach end users through trusted and conversational messaging. ",
-    "name": "Chert",
+    "isHiring": true,
+    "launched_at": 1761236237,
+    "long_description": "World model datasets and research",
+    "name": "Velvet",
     "nonprofit": false,
-    "one_liner": "iMessage infrastructure for trusted communication at scale",
+    "one_liner": "World model datasets and research",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "chert",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
+    "slug": "velvet",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "API",
-      "Customer Support",
+      "Generative AI",
+      "Data Engineering",
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/chert",
-    "website": "https://www.trychert.com/"
+    "url": "https://www.ycombinator.com/companies/velvet",
+    "website": "https://velvetlab.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kinect.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31520,
-    "industries": [
-      "B2B"
+    "former_names": [
+      "Speko Group, Inc."
     ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1776624849,
-    "long_description": "The product detail page is one of the last unchanged surfaces in commerce. Brands have spent years getting sophisticated at driving traffic there but nobody fixed what happens when shoppers arrive.\r\n\r\nKinect is the AI shopping assistant layer for e-commerce. We plug into ecommerce stores and give agents live access to your catalog, inventory, and policies. A brand’s online sales rep that can answer all a customer’s questions, help them find the right products, convince them. The website itself adapts to the shopper’s context: it considers the ads the user clicked on, their searches, filters, scrolling behavior, chat context to all show the shopper what they need to see.\r\n\r\nWe're building for human shoppers today and the AI agents that will shop for them tomorrow. Either way, the product page needs to get a lot smarter. That's Kinect – the product page finally does what it was supposed to do all along.",
-    "name": "Kinect",
-    "nonprofit": false,
-    "one_liner": "Personalized storefronts for every visitor",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "kinect",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13574e5b60275accf705e704a142fb091a82a4b0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "B2B",
-      "E-commerce",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kinect",
-    "website": "https://www.trykinect.ai/"
-  },
-  {
-    "all_locations": "Berlin, Berlin, Germany",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kugelaudio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31540,
+    "id": 32169,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1777590592,
-    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 25+ languages and low latency. ",
-    "name": "KugelAudio",
+    "launched_at": 1783393099,
+    "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s.",
+    "name": "Speko",
     "nonprofit": false,
-    "one_liner": "Kugel is an on-prem enterprise TTS supporting 25+ languages ",
+    "one_liner": "OpenRouter for Voice AI: one API, every call on the best speech model",
     "question_answers": false,
     "regions": [
-      "Germany",
-      "Europe"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "slug": "kugelaudio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
+    "slug": "speko",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Generative AI",
-      "API",
+      "Artificial Intelligence",
+      "Developer Tools",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kugelaudio",
-    "website": "https://kugelaudio.com/en"
+    "url": "https://www.ycombinator.com/companies/speko",
+    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Talentpluto"
+    ],
+    "id": 32526,
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782230867,
+    "long_description": "Resumes made careers readable. LinkedIn made them filterable. Pluto makes them searchable.\r\n\r\nProfessionals spend 10 minutes talking to Pluto's voice agent about what they've done, what they're great at, and what they want next. Pluto turns that into a structured picture of who someone actually is, capturing the competency and intent that resumes and LinkedIn don't.\r\n\r\nWhen companies and AI agents go looking to hire, Pluto makes the right people discoverable.\r\n\r\n27K+ professionals have shared their career context with Pluto, and 50+ companies, including Mercor, Warp, and Rho, use it to find and reach the right people. Long-term, we're building the LinkedIn for agents.\r\n",
+    "name": "Pluto",
+    "nonprofit": false,
+    "one_liner": "LinkedIn for agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "talentpluto",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "tags": [
+      "AI",
+      "Careers",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/talentpluto",
+    "website": "https://talentpluto.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36777,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788994017,
+    "long_description": "Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.\r\n\r\nDuring the implementation, the agent goes back to the employees involved after each initiative and asks whether it was implemented and what changed. The result is a project management office that has talked to every employee. Today consulting firms buy it for the stakeholder interviews at the start of an engagement. Transformation and corporate development teams buy it to run the implementation of a change program.\r\n\r\nOver time this becomes the way a company knows how it runs. Sona8 reads the systems the company already uses, connects them to what employees said, and keeps the picture current by asking again. Before a decision, you ask what it would do across sites and teams and get an answer from the whole company. A small team steers a company-wide program that used to need a large one. And AI agents inside the company come here first to learn how the work is done before they change anything.",
+    "name": "Sona8",
+    "nonprofit": false,
+    "one_liner": "Voice agents that talk to employees enabling transformations ",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sona8",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "HR Tech",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sona8",
+    "website": "https://sona8.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-agentic-data-co.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37566,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788964517,
+    "long_description": "We design and collect audio datasets for training speech models.",
+    "name": "The Agentic Data Co.",
+    "nonprofit": false,
+    "one_liner": "Training Data For Speech Models.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "the-agentic-data-co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ebbcacfd48c52bf6fc298c17ddf035a00bbc08.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Conversational AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/the-agentic-data-co",
+    "website": "https://theagenticdatacompany.com"
   }
 ]

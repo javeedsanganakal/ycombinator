@@ -119,7 +119,7 @@
     "slug": "vendr",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0a18a94193b88aba9845e4a0cd83768e08d5222.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Operations",
     "tags": [
       "SaaS",
@@ -309,7 +309,7 @@
     "website": "http://getmentum.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Sofia City Province, Bulgaria",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -336,6 +336,8 @@
     "one_liner": "AI Supply Chain Coordinator",
     "question_answers": false,
     "regions": [
+      "Bulgaria",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -358,7 +360,7 @@
     "website": "https://www.mandel.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/hazel-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -372,7 +374,7 @@
     "industry": "Government",
     "isHiring": false,
     "launched_at": 1705430466,
-    "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving mission delivery.",
+    "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving compliance.",
     "name": "Hazel",
     "nonprofit": false,
     "one_liner": "AI-enabled procurement for government",
@@ -394,10 +396,52 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hazel-2",
     "website": "https://hazelai.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ovation"
+    ],
+    "id": 29848,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1722921255,
+    "long_description": "Saldor is the AI-native procurement and accounts payable platform that takes every purchase from request to paid.",
+    "name": "Saldor",
+    "nonprofit": false,
+    "one_liner": "Making procurement easy",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "saldor",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/969e2ae0dfd7ddfac6d9c2979dffb8f5842af866.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "B2B",
+      "Procurement"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/saldor",
+    "website": "https://saldor.com/"
   },
   {
     "all_locations": "Berlin, Berlin, Germany",
@@ -413,7 +457,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1727913374,
     "long_description": "Dexter helps procurement teams understand exactly where money is being spent and where it can be saved. Dexter's AI agents mine supplier invoices and contracts for insights, surfacing consolidation opportunities, contract leakage, and off-contract spend. ",
     "name": "Dexter",
@@ -484,46 +528,89 @@
     "website": "http://alaradental.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json",
+    "all_locations": "Gurugram, HR, India",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waybill.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31367,
+    "id": 32948,
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1773916364,
-    "long_description": "We are an AI-native broker, solving sourcing of machines and intermediate goods. We take over finding suppliers and getting the best quotes for our customers (based on price, quality, lead time, etc.). Our customers have limited resources for procurement and we help them reduce purchase prices by 30% on average.",
-    "name": "Andustry",
+    "launched_at": 1786690936,
+    "long_description": "Hardware teams burn weeks on procurement. An engineer needs a part. Someone emails five distributors, chases quotes, gets an approval, wires the money, tracks a shipment across three carriers, clears customs, and then nobody knows where the box is or what's actually on the shelf.\r\n\r\nWaybill runs that entire loop. Send us a part, a spec, or a BOM. We source it, pull quotes, route approvals, pay the supplier, handle freight and customs, track it to your dock, and keep your stock count updated. \r\n\r\nTake your supply chain for granted.\r\n\r\nBuilt by a team that's seen it at LAT Aerospace and WareIQ (YC S20).",
+    "name": "Waybill",
     "nonprofit": false,
-    "one_liner": "We help manufacturers find suppliers for industrial goods.",
+    "one_liner": "Agentic procurement & inventory for deep tech teams.",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "waybill",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91adedb53afabc881281324143485f1dc3c6674.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Procurement"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/waybill",
+    "website": "https://www.waybill.to/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/derya.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Derya Maritime / Meridian Forwarding (forwarding office)"
+    ],
+    "id": 33050,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784839627,
+    "long_description": "Derya deploys supply chain automations for startups, SMEs, and enterprises that fulfil their entire supply chain function, from prospecting and procurement to distribution of goods.\r\n\r\nOur mission is to rebuild the supply chain from the ground up, turning one of the world’s hardest coordination problems into an AI native system that moves commodities by being integrated into both the supply chain infrastructure and the customer. We work across robotics, commodities, and food & beverages companies; procuring goods and managing various operation functions for them.",
+    "name": "Derya",
+    "nonprofit": false,
+    "one_liner": "AI Brokers for Industrial Trade",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "andustry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "slug": "derya",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Marketplace",
-      "Sales",
-      "Manufacturing",
+      "AIOps",
+      "Logistics",
+      "Supply Chain",
       "Procurement",
-      "Industrial"
+      "Automation"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/andustry",
-    "website": "http://andustry.com/"
+    "url": "https://www.ycombinator.com/companies/derya",
+    "website": "http://usederya.com"
   }
 ]

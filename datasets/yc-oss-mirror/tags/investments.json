@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/interprime.json",
     "app_answers": null,
     "app_video_public": false,
@@ -44,7 +44,7 @@
     "website": "https://www.interprime.co/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/aqua.json",
     "app_answers": null,
     "app_video_public": false,
@@ -81,7 +81,7 @@
       "Investments"
     ],
     "tags_highlighted": [],
-    "team_size": 34,
+    "team_size": 23,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aqua",
     "website": "https://www.investwithaqua.com"
@@ -136,7 +136,51 @@
     "website": "https://www.pursuit-properties.com/"
   },
   {
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "MH, India",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/inferedge.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Harmoney"
+    ],
+    "id": 25394,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1645537602,
+    "long_description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
+    "name": "InferEdge",
+    "nonprofit": false,
+    "one_liner": "Agentic AI for buy-side firms",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "inferedge",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Enterprise Software",
+      "Investments"
+    ],
+    "tags_highlighted": [],
+    "team_size": 20,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/inferedge",
+    "website": "https://www.inferedge.com"
+  },
+  {
+    "all_locations": "Lahore, Punjab, Pakistan",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/metal-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -153,14 +197,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1675845716,
-    "long_description": "Backed by a16z and YC, Metal offers super intelligence for fundraising. Our platform brings deep intelligence for core fundraising workflows (from identifying investors and researching / qualifying the \"most likely\" firms to relationship intelligence and managing the process).",
+    "long_description": "Backed by a16z and YC, Metal is building an AI-native operating system for founders raising venture rounds. Metal brings proprietary intelligence on the venture ecosystem, enabling founders to identify the \"most likely\" investors, research various firms, and identify who they know that can introduce them to specific investors.\r\n\r\nMore than 100 YC founders have signed as paying customers.",
     "name": "Metal",
     "nonprofit": false,
     "one_liner": "Metal is an AI-driven operating system for fundraising",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Pakistan",
+      "South Asia"
     ],
     "slug": "metal-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d405f124083ad95be24745d98de294a71b7cf71c.png",
@@ -181,7 +225,7 @@
     "website": "http://www.metal.so"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/prosights.json",
     "app_answers": null,
     "app_video_public": false,
@@ -194,7 +238,7 @@
     "id": 29398,
     "industries": [
       "B2B",
-      "Productivity"
+      "Operations"
     ],
     "industry": "B2B",
     "isHiring": true,
@@ -202,7 +246,7 @@
     "long_description": "",
     "name": "ProSights",
     "nonprofit": false,
-    "one_liner": "ProSights is an AI-native data extraction tool for financial…",
+    "one_liner": "ProSights is a data / AI transformation partner to PE-backed portcos.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -214,13 +258,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7af3ebc3d01b55f1bcbe3d6c0c7f7edbaae31b20.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Analytics",
       "Enterprise Software",
-      "Investments",
-      "AI"
+      "Investments"
     ],
     "tags_highlighted": [],
     "team_size": 14,
@@ -244,12 +288,12 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1762391689,
-    "long_description": "Zarna is private equity’s first AI associate class.\r\n\r\nOur agents plug directly into your firm’s data and work like a deal team that never sleeps. Zarna’s agents analyze CIMs, build LBOs, update CRMs, draft IC memos, & act based on decades of proprietary firm knowledge. \r\n\r\nThe result: investors spend less time buried in decks and spreadsheets, and more time on judgment, relationships, and winning deals. \r\n",
+    "long_description": "Zarna is private equity's first AI associate class. \r\n\r\nBuilt for BD teams at middle-market firms, our agents manage your CRM, source new opportunities, and prep you for every meeting. Runs natively in Outlook and Teams.",
     "name": "Zarna",
     "nonprofit": false,
-    "one_liner": "AI Associates for Private Capital ",
+    "one_liner": "AI Associates for Middle-Market Private Equity ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -269,5 +313,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/zarna",
     "website": "https://www.zarnaai.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Kimpton AI"
+    ],
+    "id": 31420,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1774039716,
+    "long_description": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it.\r\n\r\nKimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on.\r\n\r\nThe whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade.\r\n\r\nKimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss.\r\n\r\nThat same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule.\r\n\r\nWe're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack.\r\n\r\nWe're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
+    "name": "Kimpton",
+    "nonprofit": false,
+    "one_liner": "Live Evaluation Arenas for Financial Work",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "kimpton",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc55a7e4190cac127494553294ea19379fdf8fc3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Investments",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kimpton",
+    "website": "https://kimpton.ai"
   }
 ]

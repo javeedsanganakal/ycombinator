@@ -40,7 +40,7 @@
     "website": "http://www.weflywright.com"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/pyka.json",
     "app_answers": null,
     "app_video_public": false,
@@ -302,7 +302,7 @@
     "website": "https://www.odysaviation.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toulouse, Occitanie, France",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/beyond-aero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -323,6 +323,8 @@
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -345,7 +347,7 @@
     "website": "https://www.beyond-aero.com/"
   },
   {
-    "all_locations": "Carson, CA, USA; Torrance, CA, USA",
+    "all_locations": "Sydney, NSW, Australia; Torrance, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/seaflight-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -366,7 +368,9 @@
     "one_liner": "We make the world's most efficient aircraft",
     "question_answers": true,
     "regions": [
+      "Australia",
       "United States of America",
+      "Oceania",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -417,7 +421,7 @@
       "Partly Remote"
     ],
     "slug": "airhart-aeronautics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2c3077b0a260101b4efa34338d48f2bcb7a825.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8754b2c358df7ab9263e0a74ddf008cb7c8cee4d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
@@ -426,7 +430,7 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/airhart-aeronautics",
     "website": "https://www.airhartaero.com/"
@@ -475,5 +479,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/stralis-aircraft",
     "website": "https://stralis.aero/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35093,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789408162,
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "name": "Aviern",
+    "nonprofit": false,
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aviern",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "website": "https://aviern.com/"
   }
 ]

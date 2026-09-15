@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/vapor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -242,7 +242,7 @@
     "website": "http://heyzap.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/leanmarket.json",
     "app_answers": null,
     "app_video_public": false,
@@ -325,7 +325,7 @@
     "website": "https://www.omnivirt.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/mth-sense.json",
     "app_answers": null,
     "app_video_public": false,
@@ -604,7 +604,7 @@
     "website": "https://permutive.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/makrwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -694,7 +694,7 @@
     "website": "http://popularpays.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/automate-ads.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1012,7 +1012,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1584223249,
-    "long_description": "Taiv puts TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
+    "long_description": "Taiv puts business TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
     "name": "Taiv",
     "nonprofit": false,
     "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
@@ -1027,11 +1027,11 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Computer Vision",
       "B2B",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "team_size": 40,
@@ -1128,7 +1128,7 @@
     "website": "https://www.plai.io/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Ho Chi Minh City, Vietnam",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1151,8 +1151,8 @@
     "one_liner": "Turn intuition into insights, in minutes",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Vietnam",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -1210,11 +1210,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
       "Advertising",
-      "SEO"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -1223,7 +1222,7 @@
     "website": "https://sprites.ai/"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/vimmerse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1374,14 +1373,16 @@
     "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1666397912,
-    "long_description": "Rubbrband is a creative agency producing high quality video advertisements for a new generation of brands. Built by a team of creatives from Hollywood, we bring that level of production to fast growing companies.",
+    "long_description": "Rubbrband is a creative company making commercials for some of the world's top brands.",
     "name": "Rubbrband",
     "nonprofit": false,
-    "one_liner": "The creative agency",
+    "one_liner": "A new kind of creative company.",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "rubbrband",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
@@ -1394,10 +1395,62 @@
       "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rubbrband",
     "website": "https://rubbrband.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/gooseworks.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Magik Labs",
+      "Magik Labs - Fast Web3 Checkout",
+      "Magik Labs - Fast NFT Checkout",
+      "Magik Labs",
+      "Magik",
+      "Athina AI"
+    ],
+    "id": 27843,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1667592357,
+    "long_description": "Goose is an AI creative engine that turns your brand into a continuous stream of on-brand ads. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer, then generate short-form creative for Meta and TikTok at the volume performance marketing actually requires.\r\n\r\nThe engine compounds: the agent learns from ad performance, competitors, trends, and human feedback, so your creative gets better every month. Run as a human-guided, done-for-you service.",
+    "name": "Gooseworks",
+    "nonprofit": false,
+    "one_liner": "Self-Improving Ad Creative Engines",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "gooseworks",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/gooseworks",
+    "website": "https://gooseworks.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1583,7 +1636,7 @@
     "website": "https://polished.ad"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/stewdio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1644,10 +1697,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1748129784,
-    "long_description": "Using our 6+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+    "long_description": "Using our 6+ years of creator marketing experience to help companies run their creator campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
     "name": "Beluga",
     "nonprofit": false,
-    "one_liner": "Influencer marketing that converts",
+    "one_liner": "Creator marketing that scales like paid ads",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1661,10 +1714,10 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "Marketing",
       "Advertising",
-      "Creator Economy"
+      "Creator Economy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1688,7 +1741,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760555997,
-    "long_description": "Lapis gives businesses the ability to generate on-brand advertising creatives using AI, and run end-end ads on ChatGPT. It uses existing assets like logos, colors, fonts, and product images, and automatically creates image ads that match a company's visual identity and voice across ChatGPT, Meta, and Google.\r\n\r\nWith Lapis, businesses can rapidly iterate on creatives and A/B test at scale without being bottlenecked by design and creative capacity.\r\n\r\nLapis is used by 1,000+ marketing teams, from big businesses like Hyundai and Tata to small businesses around the world, and supports 15+ languages including English, Spanish, and Italian.",
+    "long_description": "Lapis builds, launches, and scales paid ad campaigns for DTC and SaaS businesses.\r\n\r\nLapis agents handle every step of the paid ads journey: writing ad copy (headlines and descriptions), generating the static images used in ads, deploying campaigns across paid channels, creating a custom landing page for each ad, and feeding real user interaction data back into a self-improving ads engine that gets better every day.\r\n\r\nWith Lapis, businesses can rapidly iterate on ads and A/B test at scale, free from the human design and creative bottlenecks that slow teams down. Using Lapis, companies can quantitatively improve their paid ads performance by up to 20x.\r\n\r\nLapis is used by 1,500+ marketing teams and 30+ enterprises, from Fortune 500 businesses to fast growing DTC businesses, and supports 10 languages including English, Spanish, and Italian.",
     "name": "Lapis",
     "nonprofit": false,
     "one_liner": "AI that creates and runs ads, end-end",
@@ -1698,7 +1751,7 @@
       "America / Canada"
     ],
     "slug": "lapis",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c3bc6a804835cf4e60592673af66342d45aa417.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9bacd59e8691b297a03e4d95b6d05915aa8b7f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -1710,7 +1763,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lapis",
     "website": "https://www.trylapis.com/"
@@ -1741,25 +1794,74 @@
       "America / Canada"
     ],
     "slug": "uplane",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f996a4ae5a6f6c50880fc529dd16c13be2500bd.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 22,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/uplane",
     "website": "https://uplane.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Austin, TX, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Pando Technologies",
+      "Tellif",
+      "Tellif AI",
+      "Tell if AI",
+      "Land.dev"
+    ],
+    "id": 30873,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1760060442,
+    "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+    "name": "Tell if AI",
+    "nonprofit": false,
+    "one_liner": "AI agents on real phones, growing brands across every platform.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tell-if-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Artificial Intelligence",
+      "Telehealth",
+      "Social Media",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "website": "https://tellif.ai"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/absurd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1776,10 +1878,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760446134,
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
+    "long_description": "Absurd is an online whiteboard for filmmakers working with AI.\r\n\r\nWe use it for our own work: our Kalshi spot \"Election Day\" did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nTry it at absurd.com",
     "name": "Absurd",
     "nonprofit": false,
-    "one_liner": "AI Videos",
+    "one_liner": "The Creative OS for AI video",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1845,5 +1947,130 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "website": "https://www.getbluma.com"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Veriad",
+      "Supafax"
+    ],
+    "id": 31263,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1767420715,
+    "long_description": "Veriad is building marketing agents for enterprises.",
+    "name": "Veriad",
+    "nonprofit": false,
+    "one_liner": "Enterprise marketing agents",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "veriad",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a84742c8558c6378997c9b19b54dd6ad334ce0c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/veriad",
+    "website": "https://veriad.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/instaagent.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31409,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1778187883,
+    "long_description": "InstaAgent helps B2C companies scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M Ann. Run Rate in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
+    "name": "InstaAgent",
+    "nonprofit": false,
+    "one_liner": "Scale marketing campaigns across hundreds of personas",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "instaagent",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1efbbb9a75fe89206f180f9f9d1afb75dba57ca0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/instaagent",
+    "website": "https://instaagent.com"
+  },
+  {
+    "all_locations": "Manchester, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31527,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1776869663,
+    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
+    "name": "Revnu",
+    "nonprofit": false,
+    "one_liner": "The growth infrastructure for the autonomous business",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "revnu",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "B2B",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/revnu",
+    "website": "https://revnu.com"
   }
 ]

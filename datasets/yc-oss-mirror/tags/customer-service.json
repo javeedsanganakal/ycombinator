@@ -39,7 +39,7 @@
     "website": "http://hipmob.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/talkbin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -79,7 +79,7 @@
     "website": "http://talkbin.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Ann Arbor, MI, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/olark.json",
     "app_answers": null,
     "app_video_public": false,
@@ -94,33 +94,37 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1326790657,
-    "long_description": "Olark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nClick here to sign up for a demo:\r\nhttps://hello.olark.com/sales",
+    "long_description": "Built for the marketer doing five jobs at once. Easily install an Olark AI agent to answer questions, qualify visitors, and know exactly when to bring in a human.\r\n\r\nOlark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nUse our previewer on https://olark.com to try it on your website in less than 60 seconds.",
     "name": "Olark",
     "nonprofit": false,
-    "one_liner": "The best live chat software on the planet.  We help you build…",
+    "one_liner": "Olark gives you an AI agent that works your marketing funnel 24/7",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "slug": "olark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff33564bb52577d5950335e7ae4c2e1fab8f9fa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2971ba804a1fb214a567b3c22e4e6fd1b271fdf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
       "Sales",
+      "Marketing",
       "Customer Service",
-      "Chat"
+      "Chat",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/olark",
     "website": "http://olark.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/netomi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -165,7 +169,7 @@
     "website": "https://netomi.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Dallas, TX, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/hioperator.json",
     "app_answers": null,
     "app_video_public": false,
@@ -286,7 +290,7 @@
     "website": "https://usesixty.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/percept-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -710,9 +714,10 @@
     ],
     "id": 29160,
     "industries": [
-      "Consumer"
+      "B2B",
+      "Operations"
     ],
-    "industry": "Consumer",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1689104591,
     "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help companies manage and resolve customer support tickets across email, in-app feedback, and website forms. Our AI will triage your tickets, write replies, and build your knowledge base.",
@@ -728,62 +733,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6c57e5c710ca16dd9d6aada5b18cbe7dbed8be8.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Operations",
     "tags": [
-      "Artificial Intelligence",
       "Customer Service",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/letterbook",
     "website": "https://www.letterbook.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Markprompt"
-    ],
-    "id": 29341,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1700867535,
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "name": "14.ai",
-    "nonprofit": false,
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "14-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ecdeb51e1b2a618115abfd5f0aefe2b01ed8e6a.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "E-commerce",
-      "Customer Service",
-      "Infrastructure",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/14-ai",
-    "website": "https://14.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -851,10 +811,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1707775068,
-    "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
+    "long_description": "Conduit is the leading AI agent platform for hospitality operations.\r\n\r\nOperators can create, test, and run AI agents on Conduit's harness purpose built for hospitality. On-brand agents handles the full guest journey, converting inquiries into bookings and driving upsell revenue, then runs internal operations and surfaces insights for leadership. All connected to the systems operators already use. \r\n\r\nTrusted by over 1000+ global hospitality brands across 120+ countries.",
     "name": "Conduit",
     "nonprofit": false,
-    "one_liner": "Conversational AI agents for Customer Service.",
+    "one_liner": "AI Agents for Hospitality",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -863,25 +823,117 @@
       "Partly Remote"
     ],
     "slug": "conduit-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
-      "Messaging",
+      "Travel",
       "Sales",
       "Customer Service",
-      "Customer Support"
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 18,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conduit-ai",
-    "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator"
+    "website": "https://conduit.ai/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/parahelp.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Sam"
+    ],
+    "id": 29684,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1720219864,
+    "long_description": "Build and run an AI support agent that resolves even your most complex tickets end-to-end.\r\n\r\nIf a tool has an API, you can securely connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "name": "Parahelp",
+    "nonprofit": false,
+    "one_liner": "Build an AI support agent that securely uses all your tools",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "parahelp",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 11,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/parahelp",
+    "website": "https://parahelp.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stormy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "1nterface.ai",
+      "stormy.ai",
+      "Stormy AI – Autonomous marketing agent",
+      "Stormy AI – Vibe marketing agent",
+      "Stormy AI"
+    ],
+    "id": 29697,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1723238839,
+    "long_description": "Stormy runs the office so your crew can run the work. Every call answered, day or night. Every quote followed up until it is a yes or a no. Jobs booked, crews scheduled, parts tracked, invoices sent and collected. Marketing that brings the work in, and an AI agent for every person on your team — all working from the same job record. Built for the shops that keep physical things running: forklift and heavy equipment service, HVAC, electrical, plumbing, roofing, logistics and yards.",
+    "name": "Stormy",
+    "nonprofit": false,
+    "one_liner": " Stormy runs the office so your crew can run the work.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "stormy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443169b74492fcaea01517438d00bb486fea6b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Customer Service"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/stormy",
+    "website": "https://stormy.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/rulebase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -896,16 +948,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1728494886,
-    "long_description": "Rulebase builds AI coworkers that help banks and fintechs review 100% of customer interactions in real time. Our agents flag compliance breaches, high-risk issues, and quality gaps across calls, chats, and emails — then route them to the right teammates. The result: up to 30% fewer escalations and QA cycles reduced from hours to minutes.\r\n",
+    "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
     "name": "Rulebase",
     "nonprofit": false,
-    "one_liner": "AI agents for financial services.",
+    "one_liner": "AI customer operations for regulated industries.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "rulebase",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbe1673896b690961165f8406e0d96d1d646c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Operations",
@@ -915,7 +968,7 @@
       "Customer Support"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rulebase",
     "website": "https://rulebase.co"

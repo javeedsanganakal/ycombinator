@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bagaveev-corporation.json",
     "app_answers": null,
     "app_video_public": false,
@@ -169,7 +169,7 @@
     "website": "http://tesseract.space"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/momentus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -408,7 +408,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1625061327,
     "long_description": "Epsilon3 is the AI-Powered ERP, MES, and Test Management Software for Complex Engineering, Manufacturing, & Operations. We are a growing team of engineers from SpaceX, NASA, Google, and Stanford with unique experience planning and executing over 100 space missions. We are applying what we learned to develop web-based solutions that make building and operating advanced systems as efficient, error-free, and enjoyable as possible. Want to join a fully remote, US-based SaaS startup on a mission to solve complex problems in aerospace, energy, defense, maritime, and biotech? Apply today!",
     "name": "Epsilon3",
@@ -554,7 +554,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
       "Space Exploration",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -563,7 +564,7 @@
     "website": "https://www.heo-robotics.com/"
   },
   {
-    "all_locations": "Huntington Beach, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Huntington Beach, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/astroforge.json",
     "app_answers": null,
     "app_video_public": false,
@@ -650,7 +651,7 @@
     "website": "https://www.quindar.space"
   },
   {
-    "all_locations": "",
+    "all_locations": "Ottawa, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/spaceium-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -671,7 +672,8 @@
     "one_liner": "In-Space Refueling",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "slug": "spaceium-inc",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0afea0e3a81a3c4895401d9a1e4f5620a04a076b.png",
@@ -689,5 +691,176 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/spaceium-inc",
     "website": "https://spaceium.com"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/instinct-space.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Instinct"
+    ],
+    "id": 30347,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1739754908,
+    "long_description": "Instinct is making the Moon the new LEO. Our small lunar lander is designed to be launched as a regular LEO rideshare, enabling higher mission cadence at a lower cost.",
+    "name": "Instinct Space",
+    "nonprofit": false,
+    "one_liner": "Building lunar landers",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "instinct-space",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bb840258f778d8499065a3377b1461a88ad66ed.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Space Exploration"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/instinct-space",
+    "website": "https://www.instinct-space.com/"
+  },
+  {
+    "all_locations": "Singapore, Singapore",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/exosat.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32233,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786056981,
+    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
+    "name": "Exosat",
+    "nonprofit": false,
+    "one_liner": "Building a neutral, sovereign alternative to Starlink",
+    "question_answers": false,
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "slug": "exosat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Space Exploration",
+      "Satellites",
+      "Aerospace",
+      "Telecommunications",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/exosat",
+    "website": "https://www.exosat.com"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32913,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786300632,
+    "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
+    "name": "Pacific",
+    "nonprofit": false,
+    "one_liner": "Mass-producing and financing micro data center incredibly quickly.",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "pacific",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Fintech",
+      "Robotics",
+      "Space Exploration",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pacific",
+    "website": "https://gopacific.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Otter Aerospace Inc.",
+      "Orca Aerospace Inc."
+    ],
+    "id": 35525,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1788312802,
+    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing LLMs to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
+    "name": "Orca Aerospace",
+    "nonprofit": false,
+    "one_liner": "AI spacecraft operators that lives onboard the vehicle",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "orca-aerospace",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afa6ce6fe3345bb9e7b6296e9877371ada8e2155.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "AIOps",
+      "Space Exploration",
+      "Satellites"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/orca-aerospace",
+    "website": "https://orcaaerospace.com/"
   }
 ]

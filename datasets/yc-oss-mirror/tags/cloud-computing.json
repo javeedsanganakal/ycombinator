@@ -418,7 +418,7 @@
     "website": "https://sixa.io"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/fastjvm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -505,7 +505,7 @@
     "website": "http://www.terark.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vorticity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -547,7 +547,7 @@
     "website": "http://vorticity.xyz/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/porter.json",
     "app_answers": null,
     "app_video_public": false,
@@ -731,12 +731,14 @@
   },
   {
     "all_locations": "Dayton, OH, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/flightcontrol.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/ravion.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Flightcontrol"
+    ],
     "id": 25312,
     "industries": [
       "B2B",
@@ -745,10 +747,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1646146960,
-    "long_description": "The most reliable, powerful, and flexible PaaS, because we deploy to your AWS. No black box, lock-in, or AWS markups.",
-    "name": "Flightcontrol",
+    "long_description": "Ravion is the easiest way to use AWS for agents and humans. Get a Vercel-like experience in your own AWS account, with one place to manage and monitor Terraform resources, builds, and deploys.\r\n\r\nUse your existing Terraform or start with our standard library of modules. Build and deploy applications, inspect logs and metrics, and customize modules and pipelines as your needs grow.\r\n\r\nYour agents get structured configuration, complete CLI and API access, and connected context across infrastructure and deployments. Reviewable plans, permissions, approval gates, and audit history keep your team in control.\r\n\r\nYou get a production-grade AWS system without assembling every DevOps capability from scratch.",
+    "name": "Ravion",
     "nonprofit": false,
-    "one_liner": "Deploy apps with utmost reliability, flexibility, and performance",
+    "one_liner": "The easiest way to use AWS for agents and humans",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -756,8 +758,8 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "flightcontrol",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c08c2c544b7e1021c8a59aa36916c4d83802610.png",
+    "slug": "ravion",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37e14c5170610d3f3a08f942bf5e63e5d48ced34.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
@@ -765,13 +767,13 @@
       "Cloud Computing"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/flightcontrol",
-    "website": "https://www.flightcontrol.dev?ref=bookface"
+    "url": "https://www.ycombinator.com/companies/ravion",
+    "website": "https://www.ravion.com?ref=bookface"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/beam.json",
     "app_answers": null,
     "app_video_public": false,
@@ -859,7 +861,7 @@
     "website": "https://strongcompute.com"
   },
   {
-    "all_locations": "New York, NY, USA; Paris, Île-de-France, France; Remote",
+    "all_locations": "New York City, NY, USA; Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/brainboard.json",
     "app_answers": null,
     "app_video_public": false,
@@ -905,7 +907,7 @@
     "website": "https://www.brainboard.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/jamsocket.json",
     "app_answers": null,
     "app_video_public": false,
@@ -994,7 +996,7 @@
     "website": "https://airtrain.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1015,8 +1017,8 @@
     "one_liner": "A scalable, cloud-native Perforce and Git alternative",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Israel",
+      "Middle East and North Africa"
     ],
     "slug": "diversion",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cca9dfc5d45583f86876ecd0b8110e7412ab6cd.png",
@@ -1080,7 +1082,7 @@
     "website": "https://www.cakework.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/omnistrate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1174,7 +1176,7 @@
     "website": "https://infra.new"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/arroyo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1216,7 +1218,7 @@
     "website": "https://www.arroyo.dev"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1229,7 +1231,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1689189501,
     "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
     "name": "Cedana",
@@ -1261,7 +1263,7 @@
     "website": "https://cedana.ai"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1282,6 +1284,8 @@
     "one_liner": "Open source alternative to AWS",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1438,6 +1442,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/rewbi.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29667,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1724874761,
+    "long_description": "A stealth mode startup.",
+    "name": "Rewbi",
+    "nonprofit": false,
+    "one_liner": "A stealth mode startup.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rewbi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "B2B",
+      "Energy",
+      "Renewable Energy",
+      "Cloud Computing",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rewbi",
+    "website": "https://www.rewbi.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/thunder-compute.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1454,10 +1501,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1723245936,
-    "long_description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
+    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
     "name": "Thunder Compute",
     "nonprofit": false,
-    "one_liner": "The world's cheapest GPU cloud",
+    "one_liner": "VMware for GPUs",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1469,20 +1516,20 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/thunder-compute",
     "website": "https://www.thundercompute.com"
   },
   {
-    "all_locations": "Redmond, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/starcloud.json",
     "app_answers": null,
     "app_video_public": true,
@@ -1547,21 +1594,20 @@
     "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
     "name": "Freestyle",
     "nonprofit": false,
-    "one_liner": "We run and deploy code your AI wrote",
+    "one_liner": "The most powerful sandboxes for AI Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "freestyle",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c248db416a898fa7c553e48dd6ec3f458817e5.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "Web Development",
       "Cloud Computing"
     ],
     "tags_highlighted": [],
@@ -1641,7 +1687,7 @@
     "slug": "tensorpool",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "AIOps",
@@ -1673,17 +1719,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1745276338,
-    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
+    "long_description": "Blaxel is the infrastructure foundation for autonomous agents.\r\n\r\nEngineered for the way agents actually run, Blaxel gives builders deep control over compute (sandboxes), storage (shared filesystem), and networking as built-in infra primitives.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.",
     "name": "Blaxel",
     "nonprofit": false,
-    "one_liner": "The perpetual sandbox platform",
+    "one_liner": "The infrastructure for autonomous agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "blaxel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daedc1e66e212180bb678c683cd4595f1c7cd149.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -1694,7 +1740,7 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/blaxel",
     "website": "https://blaxel.ai"
@@ -1791,7 +1837,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "former_names": [],
     "id": 30649,
     "industries": [
@@ -1800,10 +1846,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754345371,
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper inference while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+    "long_description": "Lilac sells flexible GPU contracts and runs the software layer on top: monitoring, bare-metal provisioning, and managed Kubernetes and Slurm. We also run this layer for GPU cloud providers as their named operations and support partner.",
     "name": "Lilac",
     "nonprofit": false,
-    "one_liner": "We automatically monetize idle GPUs",
+    "one_liner": "We sell GPUs.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1863,13 +1909,13 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 22,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kernel",
     "website": "https://www.kernel.sh"
@@ -1911,183 +1957,312 @@
       "Cloud Computing"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/luminal",
     "website": "https://luminal.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30903,
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1761187283,
-    "long_description": "Kestrel is an AI-native cloud incident response platform that brings self-healing to cloud infrastructure. It monitors cloud and kubernetes infrastructure 24/7, finds root causes, and generates exact fixes - so incidents get resolved in seconds instead of hours.",
-    "name": "Kestrel AI",
-    "nonprofit": false,
-    "one_liner": "AI-Native Cloud Incident Response Platform",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "kestrel-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Security",
-    "tags": [
-      "AIOps",
-      "Security",
-      "Kubernetes",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kestrel-ai",
-    "website": "https://usekestrel.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/smol-machines.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/reason-machines.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Smol Machines"
+      "EasyClaw",
+      "Ara"
     ],
-    "id": 31448,
+    "id": 31458,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1775160352,
+    "long_description": "Billions of machines are left untouched by agents and work individually. We connect them to unlock multiplayer cloud coding agents for work like engineering, math and research.\r\n\r\n",
+    "name": "Reason Machines",
+    "nonprofit": false,
+    "one_liner": "The coding agent that can access and reason across any machine. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "reason-machines",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/reason-machines",
+    "website": "https://reasonmachines.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hoplite.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Carbon Copy",
+      "Carboncopy",
+      "Blueprints"
+    ],
+    "id": 32089,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782199103,
+    "long_description": "",
+    "name": "Hoplite",
+    "nonprofit": false,
+    "one_liner": "Effortlessly deploy cloud software factories.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hoplite",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/087c3f8fd341b06cc103d1bfc1f15c78f2464f4a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hoplite",
+    "website": "https://hoplite.sh"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/machine0.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32527,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1775148410,
-    "long_description": "Smol machines solve the problem of \"but app works on my machine\" by shipping the machine.\r\n\r\nSmol machine enables devs to ship a lightweight virtual machine with any software, similar to how Electron ships an entire browser with the web app. ",
-    "name": "smol machines",
+    "launched_at": 1780987913,
+    "long_description": "machine0 is a CLI for agent compute: `machine0 new mybox` gives your agent a full cloud VM, billed by the minute, from small up to 60 vCPU / 240 GB and 8×H100s. Agents drive it themselves via CLI or MCP.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent working on a hard feature runs 6-8 hours. Auto-research agents run for days. machine0 is the environment in which these agents run.",
+    "name": "machine0",
     "nonprofit": false,
-    "one_liner": "Ship software faster with portable, self contained virtual machines.",
+    "one_liner": "AWS for Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "smol-machines",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9db625bd34a051e8617673268bb5d9659339ed.png",
+    "slug": "machine0",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eb24a85015d2fd30115c143876496fed0a17210.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Cloud Computing",
-      "Infrastructure"
+      "Developer Tools",
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/smol-machines",
-    "website": "https://smolmachines.com/"
+    "url": "https://www.ycombinator.com/companies/machine0",
+    "website": "https://machine0.io"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zibra-labs.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "TBD. We don't have a name yet."
+      "Hobby.Trade"
     ],
-    "id": 31459,
+    "id": 32814,
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Fintech"
     ],
-    "industry": "B2B",
+    "industry": "Fintech",
     "isHiring": false,
-    "launched_at": 1777682633,
-    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
-    "name": "Zibra Labs",
+    "launched_at": 1784612730,
+    "long_description": "",
+    "name": "Computable",
     "nonprofit": false,
-    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
+    "one_liner": "Derivatives Exchange for Compute",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "zibra-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
+    "slug": "computable",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Fintech",
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
+      "Marketplace",
+      "Finance",
       "Cloud Computing",
-      "Infrastructure"
+      "Trading"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zibra-labs",
-    "website": "https://zibralabs.ai/"
+    "url": "https://www.ycombinator.com/companies/computable",
+    "website": "https://getcomputable.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json",
+    "all_locations": "George Town, George Town, Cayman Islands",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/caution.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31507,
+    "former_names": [
+      "Caution SEZC"
+    ],
+    "id": 33673,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1773453080,
-    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. runs on the browser of any device..",
-    "name": "ProjectX",
+    "launched_at": 1785719703,
+    "long_description": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin.\r\n\r\nConfidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running.\r\n\r\nWe built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production.\r\n\r\nAs AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
+    "name": "Caution",
     "nonprofit": false,
-    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "one_liner": "Hosting platform for software you can't afford to have hacked",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Cayman Islands",
+      "Latin America",
       "Remote",
       "Partly Remote"
     ],
-    "slug": "projectx",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "slug": "caution",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0571039e7dc6cc20c7a181c0b7ffa967bc5c6d3.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Marketplace",
-      "DevOps",
+      "Cybersecurity",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/projectx",
-    "website": "https://www.projectx.cloud/"
+    "url": "https://www.ycombinator.com/companies/caution",
+    "website": "https://caution.co"
+  },
+  {
+    "all_locations": "Paris, Île-de-France, France; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ascii box"
+    ],
+    "id": 34928,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788174016,
+    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
+    "name": "Ascii",
+    "nonprofit": false,
+    "one_liner": "The best cloud VMs for billions of agents",
+    "question_answers": false,
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "ascii",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ascii",
+    "website": "https://box.ascii.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/maritime.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 38061,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788209179,
+    "long_description": "Maritime is cloud infrastructure for AI agents. We help companies give every customer an agent running in its own isolated, persistent computer, starting at $1 per agent per month. Maritime handles hosting, scaling, and sleep/wake automatically, so developers can run thousands of agents without managing the infrastructure.",
+    "name": "Maritime",
+    "nonprofit": false,
+    "one_liner": "The managed cloud for AI agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "maritime",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8ff801ef7e9094077a292c8bed3e86ce7e01f00.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/maritime",
+    "website": "https://maritime.sh/"
   }
 ]

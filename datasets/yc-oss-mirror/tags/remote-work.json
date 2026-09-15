@@ -139,7 +139,7 @@
       "Job and Career Services"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1478145033,
     "long_description": "At Extern, we’re solving the experience gap.  Extern created the remote Externship, a skill-building work experience that is easier for students to access, and easier for companies to run, than an internship.  Our mission is to help anyone discover and launch their career through professional experiences available anywhere at any time.  Since 2020, we’ve created and powered Externships for over 50,000 students on behalf of companies from Fortune 500s to startups.  \r\n\r\nAfter spending $100K on average for a 4-year degree, graduates find that almost 40% of entry level jobs on Linkedin required 3+ years of work experience. Internships are how many college students get this kind of experience, but the demand for good internships outstrips the supply. Internship programs are difficult to scale, they favor students who already have social capital, and they’re time-consuming for employers to run.\r\n\r\nExternships are short, online, project-based work experiences that employers can offer to hundreds of students using less resource and employee time than it would take to support an intern.  Extern makes the complex process of running an Externship completely turnkey with software and industry experts which in turn makes professional experience more accessible to more students.\r\n\r\nBy making work experience more accessible, Extern is driving the rapid mobility and upskilling needed for a new economy.  We envision a world where anyone can access work experience as a form of education – no matter their background, experience, or socio-economic status.  Come join our movement to reshape work, education, and credentialing for future generations with the Externship.\r\n\r\nExtern was born out of a pivot from Paragon One (W17) which initially focused on providing students with a career center-as-a-service platform, connecting them with industry professionals to receive career coaching and guidance.  Backed by Y Combinator, Foundation Capital, Launch Fund, University Ventures, and Learn Capital.",
     "name": "Extern",
@@ -243,7 +243,7 @@
     "slug": "zynq",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9509c7e59d312ec1fba7486bc3b4896f2d02edec.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Productivity",
     "tags": [
       "Workflow Automation",
@@ -301,7 +301,7 @@
     "website": "https://useStable.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/modernloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -437,7 +437,7 @@
     "website": "https://www.flow.club/"
   },
   {
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "St. Petersburg, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/whalesync.json",
     "app_answers": null,
     "app_video_public": false,
@@ -574,7 +574,7 @@
     "website": "https://hyperbeam.com?ch=yc"
   },
   {
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Jacksonville, FL, USA; Remote",
+    "all_locations": "Jacksonville, FL, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/linkgrep.json",
     "app_answers": null,
     "app_video_public": false,
@@ -622,7 +622,7 @@
     "website": "https://linkgrep.com"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/cleva.json",
     "app_answers": null,
     "app_video_public": false,
@@ -636,14 +636,14 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1704535583,
-    "long_description": "Cleva enables African freelancers and businesses to receive international payment for their service, while protecting themselves from local currency volatility. With a Cleva USD account, one can easily receive USD payment from anywhere in the world, spend via a card, pay bills, convert to local currency, and save in USD to hedge against local currency volatility.",
+    "long_description": "Cleva breaks down financial borders across the globe by enabling remote workers, individuals, and businesses to hold stablecoin-backed dollars. Specifically, we enable our customers:\r\n\r\n1. Receive USD, GBP, EUR payments: Individuals and businesses can receive USD, GBP, and EUR payments into their virtual account.\r\n2. Receive and send stablecoins: They can also receive USDT or USDC, and make global payments via USDT and USDC.\r\n3. Hold funds in USD: They can choose to hold their funds in USD instead of converting to local currency. In high inflation countries, this is extremely desirable as it helps our customers hedge against inflation until they're ready to spend in local currency.\r\n4. Stablecoin-backed cards: We issue cards that are stablecoin-backed and accepted by 150M+ merchants across the globe. Users can fund in stablecoins or fiat, spend anywhere VISA is accepted, and earn cashback in the form of Cleva Points.\r\n5. Savings: We recently launched Cleva Pots, allowing users to save towards their goals and earn yield on their savings.\r\n\r\nIt's still very early days at Cleva. We've been hyper-focused on our home country Nigeria but we're now expanding to more countries across the globe.",
     "name": "Cleva",
     "nonprofit": false,
-    "one_liner": "USD banking platform for Africa",
+    "one_liner": "Global neobank for emerging markets",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -654,12 +654,14 @@
     "subindustry": "Fintech",
     "tags": [
       "Fintech",
-      "B2B",
+      "Crypto / Web3",
       "Remote Work",
       "Emerging Markets",
       "Neobank"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cleva",

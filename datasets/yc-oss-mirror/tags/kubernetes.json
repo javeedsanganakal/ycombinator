@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Jose, CA, USA; Mountain View, CA, USA; Remote",
+    "all_locations": "Miami, FL, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mezmo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -138,7 +138,7 @@
     "website": "https://okteto.com"
   },
   {
-    "all_locations": "Pasadena, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Pasadena, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/kubesail.json",
     "app_answers": null,
     "app_video_public": false,
@@ -181,7 +181,7 @@
     "website": "https://kubesail.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json",
     "app_answers": null,
     "app_video_public": false,
@@ -197,7 +197,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1614132625,
     "long_description": "Signadot is a Kubernetes-native platform that empowers AI coding agents to verify code at scale. Combining fast, scalable ephemeral environments with a validation framework built for complex distributed systems, Signadot ensures high-velocity code generation results in safely merged pull requests.",
     "name": "Signadot",
@@ -312,7 +312,7 @@
     "website": "https://speedscale.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pyroscope.json",
     "app_answers": null,
     "app_video_public": false,
@@ -358,7 +358,7 @@
     "website": "https://pyroscope.io/"
   },
   {
-    "all_locations": "Asheville, NC, USA",
+    "all_locations": "Austin, TX, USA; Asheville, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/netmaker.json",
     "app_answers": null,
     "app_video_public": false,
@@ -453,7 +453,7 @@
     "website": "https://massdriver.cloud"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/sunpia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -503,7 +503,7 @@
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/skyhook.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Winter 2023",
     "demo_day_video_public": false,
     "former_names": [
@@ -583,52 +583,65 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": null,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/metoro",
     "website": "https://metoro.io"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30903,
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage",
+      "Pulsent"
+    ],
+    "id": 31380,
     "industries": [
       "B2B",
-      "Security"
+      "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1761187283,
-    "long_description": "Kestrel is an AI-native cloud incident response platform that brings self-healing to cloud infrastructure. It monitors cloud and kubernetes infrastructure 24/7, finds root causes, and generates exact fixes - so incidents get resolved in seconds instead of hours.",
-    "name": "Kestrel AI",
+    "launched_at": 1775225049,
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "name": "Superlog",
     "nonprofit": false,
-    "one_liner": "AI-Native Cloud Incident Response Platform",
+    "one_liner": "Make software self-healing",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "kestrel-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
+    "slug": "superlog",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "AIOps",
-      "Security",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
       "Kubernetes",
-      "Cloud Computing",
-      "Infrastructure"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/kestrel-ai",
-    "website": "https://usekestrel.ai/"
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "website": "https://superlog.sh/"
   }
 ]

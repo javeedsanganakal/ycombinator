@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/yourmechanic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -41,7 +41,7 @@
     "website": "http://yourmechanic.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/carsabi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -120,7 +120,7 @@
     "website": "http://automatic.com"
   },
   {
-    "all_locations": "Burlingame, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Burlingame, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/carwoo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -195,6 +195,7 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Advanced Materials",
+      "Defense",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -290,7 +291,7 @@
     "website": "http://www.fiix.io"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/zendar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -379,7 +380,7 @@
     "website": "https://www.versableai.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ekho.json",
     "app_answers": null,
     "app_video_public": false,
@@ -426,7 +427,7 @@
     "website": "https://www.ekho.com"
   },
   {
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "Kitchener, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/clearline.json",
     "app_answers": null,
     "app_video_public": false,
@@ -446,7 +447,7 @@
     "long_description": "Clearline is the AI operating system that captures, routes, and converts every revenue opportunity across your dealership without adding headcount.",
     "name": "Clearline",
     "nonprofit": false,
-    "one_liner": "AI operating system for car dealerships to capture missed revenue",
+    "one_liner": "AI for modern automotive dealerships",
     "question_answers": false,
     "regions": [
       "Canada",
@@ -458,9 +459,9 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -514,7 +515,7 @@
     "website": "https://shortloop.dev/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json",
     "app_answers": null,
     "app_video_public": false,
@@ -546,10 +547,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Credit and Lending",
     "tags": [
+      "Artificial Intelligence",
       "Enterprise Software",
       "Consumer Finance",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -586,13 +587,13 @@
       "America / Canada"
     ],
     "slug": "navier-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d00aa43f66ec38980b608755437974dcc244c98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -675,7 +676,7 @@
     ],
     "slug": "toma",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
@@ -765,20 +766,20 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
-    "team_size": 11,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/entangl",
     "website": "https://www.entangl.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/weel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -801,8 +802,8 @@
     "one_liner": "GPS & dashcam smartphone app",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -880,9 +881,9 @@
       "Automotive"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1728353435,
-    "long_description": "Curo enables electric vehicle fleets to lease EV chargers. We do this by providing a standardized process so that any EV charger owner can host a fleet, such as an office building overnight when their employees go home.\r\n\r\nOwners of EV chargers get <15% usage after paying hundreds of thousands of dollars to install, and fleets are rapidly trying to electrify yet charging is a huge bottleneck. Curo increases revenue 5x for charger owners and enables fleets to electrify instantly, at a fraction of the cost. \r\n\r\nWe're live across 5 states, having grown 50% MoM for the past 6 months. Curo is already backed by investors like Blue Bear, Not Boring, Slow and Eniac.\r\n\r\n\r\n\r\n\r\n\r\n",
+    "long_description": "Acquired by Inspiration Mobility Group.\r\n\r\nFleet EV charging and parking marketplace that scaled to 15+ states for companies like Google, Uber, Zoox, Zipcar, Cox Enterprises, Boston Properties and Irvine Company.\r\n\r\nRaised $6M+ from YC, Blue Bear, Not Boring, Eniac and others.\r\n\r\n\r\n\r\n\r\n\r\n",
     "name": "Curo",
     "nonprofit": false,
     "one_liner": "Electric fleets park and charge anywhere with Curo",
@@ -896,7 +897,7 @@
     "slug": "curo",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/451b623d0d8d5338642a73d361cc7f15a4cca9bc.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Industrials -> Automotive",
     "tags": [
       "Transportation",
@@ -904,7 +905,7 @@
       "Automotive"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/curo",
     "website": "https://www.curocharging.com/"
@@ -953,5 +954,88 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "website": "https://www.movedot.ai/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/revion.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31189,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1771887263,
+    "long_description": "Revion is building the operating system for Automotive Retail. Our first product helps Technicians automate administrative work, which drains 30-40% of their day. With Revion, Auto Retailers can service more vehicles and drive more high-margin Revenue. ",
+    "name": "Revion",
+    "nonprofit": false,
+    "one_liner": "Intelligence for Automotive Operations",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "revion",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84522703b8ea76ce25606b2150693133260bc1a1.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/revion",
+    "website": "https://revion.inc"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/carsignal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33046,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785653742,
+    "long_description": "CarSignal is the AI-native operating system for independent auto repair shops.\r\n\r\nMost shops still run each repair across disconnected management software, scan tools, parts catalogs, service information, texts, spreadsheets, and knowledge kept in technicians’ heads. That fragmentation slows diagnosis, creates duplicate processes, and leaves customers waiting.\r\n\r\nCarSignal connects the full repair process in one system. AI agents research vehicle-specific failure patterns and surface the tests that confirm or rule out each cause. The same system carries each job from booking and intake through inspections, estimates, parts, approvals, payment, and follow-up, so technicians spend less time searching and updating systems and more time fixing cars.",
+    "name": "CarSignal",
+    "nonprofit": false,
+    "one_liner": "The AI Operating System for Auto Shops.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "carsignal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adebdc425b676af3d7f53e7ba2ba70bd7359f2f7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Hardware",
+      "SaaS",
+      "B2B",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/carsignal",
+    "website": "https://www.trycarsignal.com"
   }
 ]

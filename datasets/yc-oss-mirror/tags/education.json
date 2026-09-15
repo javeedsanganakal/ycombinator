@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/tap-to-learn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -81,7 +81,7 @@
     "website": "http://www.makeschool.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/codecademy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -239,7 +239,7 @@
     "website": "http://launchpadtoys.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/assembled.json",
     "app_answers": null,
     "app_video_public": false,
@@ -321,7 +321,7 @@
     "website": "http://tutorspree.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/recurse-center.json",
     "app_answers": null,
     "app_video_public": false,
@@ -445,7 +445,7 @@
     "website": "http://knowmia.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/fullstack-academy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -572,7 +572,7 @@
     "website": "http://vayable.com"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/trainzen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -696,7 +696,7 @@
     "website": "http://crowdery.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/one-month.json",
     "app_answers": null,
     "app_video_public": false,
@@ -779,7 +779,7 @@
     "website": "https://www.panoramaed.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/ixiplay.json",
     "app_answers": null,
     "app_video_public": false,
@@ -979,7 +979,7 @@
     "website": "http://codenow.org"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "Sacramento, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/opencurriculum.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1103,7 +1103,7 @@
     "website": "http://nightingaleapp.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Lima, Callao Region, Peru; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1112,50 +1112,43 @@
     "former_names": [],
     "id": 774,
     "industries": [
-      "Education"
+      "B2B",
+      "Productivity"
     ],
-    "industry": "Education",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1416220798,
-    "long_description": "Platzi cracked online education. It teaches courses on design, marketing and programming with a 70% completion rate, to over one million students worldwide.\r\n\r\nThe classes include real-time collaboration among students and industry leaders as teachers. It aims to be the professional home for lifelong learning of advanced skills.",
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
     "name": "Platzi",
     "nonprofit": false,
-    "one_liner": "Latin America's School of Technology",
+    "one_liner": "Turning company knowledge into expert teams",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "Chile",
-      "Mexico",
-      "Spain",
-      "Argentina",
-      "Colombia",
-      "Peru",
       "America / Canada",
-      "Latin America",
-      "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "platzi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "Education",
+    "subindustry": "B2B -> Productivity",
     "tags": [
+      "AI-Enhanced Learning",
       "Education",
       "eLearning",
-      "Video",
-      "HR Tech",
-      "Subscriptions"
+      "Sales Enablement",
+      "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 300,
+    "team_size": 123,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/platzi",
     "website": "https://platzi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/hickory.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1356,7 +1349,7 @@
     "website": "http://www.devcolor.org/"
   },
   {
-    "all_locations": "Santa Monica, CA, USA; Remote",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/rocketlit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1481,7 +1474,7 @@
     "website": "http://vidcode.com"
   },
   {
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/emote.json",
     "app_answers": true,
     "app_video_public": false,
@@ -1710,7 +1703,7 @@
       "Job and Career Services"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1478145033,
     "long_description": "At Extern, we’re solving the experience gap.  Extern created the remote Externship, a skill-building work experience that is easier for students to access, and easier for companies to run, than an internship.  Our mission is to help anyone discover and launch their career through professional experiences available anywhere at any time.  Since 2020, we’ve created and powered Externships for over 50,000 students on behalf of companies from Fortune 500s to startups.  \r\n\r\nAfter spending $100K on average for a 4-year degree, graduates find that almost 40% of entry level jobs on Linkedin required 3+ years of work experience. Internships are how many college students get this kind of experience, but the demand for good internships outstrips the supply. Internship programs are difficult to scale, they favor students who already have social capital, and they’re time-consuming for employers to run.\r\n\r\nExternships are short, online, project-based work experiences that employers can offer to hundreds of students using less resource and employee time than it would take to support an intern.  Extern makes the complex process of running an Externship completely turnkey with software and industry experts which in turn makes professional experience more accessible to more students.\r\n\r\nBy making work experience more accessible, Extern is driving the rapid mobility and upskilling needed for a new economy.  We envision a world where anyone can access work experience as a form of education – no matter their background, experience, or socio-economic status.  Come join our movement to reshape work, education, and credentialing for future generations with the Externship.\r\n\r\nExtern was born out of a pivot from Paragon One (W17) which initially focused on providing students with a career center-as-a-service platform, connecting them with industry professionals to receive career coaching and guidance.  Backed by Y Combinator, Foundation Capital, Launch Fund, University Ventures, and Learn Capital.",
     "name": "Extern",
@@ -1742,7 +1735,7 @@
     "website": "http://www.extern.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/kidpass.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1825,7 +1818,7 @@
     "website": "http://www.dosteducation.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Austin, TX, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/bloom-institute-of-technology.json",
     "app_answers": false,
     "app_video_public": false,
@@ -1913,7 +1906,7 @@
     "website": "https://www.pathrise.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Miami, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/nimble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1925,7 +1918,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1493265719,
     "long_description": "Nimble uses predictive analytics to give every K-12 student access to excellent teachers. Our smart applicant tracking system (ATS) leverages a predictive model to help school districts identify and hire the best educators for their classrooms.\r\n",
     "name": "Nimble",
@@ -1933,6 +1926,8 @@
     "one_liner": "Data-driven teacher hiring",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2297,7 +2292,7 @@
     "website": "http://www.erudifi.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Frisco, CO, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/college-pulse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2339,7 +2334,7 @@
     "website": "https://collegepulse.com/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2427,7 +2422,7 @@
     "website": "https://cspa.io"
   },
   {
-    "all_locations": "Bogotá, Bogota, Colombia; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Lima, Callao Region, Peru; Panama City, Panama, Panama; Remote",
+    "all_locations": "Mexico City, CDMX, Mexico; Santiago, Santiago Metropolitan Region, Chile; Lima, Callao Region, Peru; Panama City, Panama, Panama; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/ubits.json",
     "app_answers": true,
     "app_video_public": false,
@@ -2451,9 +2446,8 @@
     "one_liner": "Learning Hub for companies in Latam",
     "question_answers": false,
     "regions": [
-      "Colombia",
-      "Chile",
       "Mexico",
+      "Chile",
       "Peru",
       "Panama",
       "Latin America",
@@ -2521,7 +2515,7 @@
     "website": "https://kunduz.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/coursedog.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2609,7 +2603,7 @@
     "website": "https://www.theforage.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/careertu.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2706,11 +2700,11 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1543948525,
-    "long_description": "AccioJob is an ed-tech startup run by IIT Delhi Alumni that provides a comprehensive state-of-the-art learning platform for Full Stack Web Development and Data Analytics.\r\n\r\nOur industry-relevant curriculum is taught by top tech instructors and mentors, and our students have gone on to work at leading tech companies like Amazon, Salesforce, and Walmart, among others. With job placement opportunities at 300+ top tech partner companies, we have placed 1000+ students in 2022 itself at an average salary of 8.3 LPA",
+    "long_description": "AccioJob is an offline-first tech skilling and placement institute. We run\r\nphysical skill centres in Noida, Pune, Hyderabad and Chennai alongside an\r\nonline programme, training graduates in Data Analytics, Data Science & AI and AI Engineering with Full Stack. 2,000+ students placed across 500+ hiring\r\npartners, with 50+ hiring drives run every month.",
     "name": "AccioJob",
     "nonprofit": false,
-    "one_liner": "Upskilling bootcamp for India",
-    "question_answers": false,
+    "one_liner": "Offline-first tech skilling and placement for India",
+    "question_answers": true,
     "regions": [
       "India",
       "South Asia"
@@ -2722,13 +2716,14 @@
     "subindustry": "Education",
     "tags": [
       "Education",
-      "Recruiting"
+      "Recruiting",
+      "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 250,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/acciojob",
-    "website": "http://www.acciojob.com"
+    "website": "https://acciojob.com"
   },
   {
     "all_locations": "Hyderabad, Telangana, India",
@@ -2899,7 +2894,7 @@
     "website": "http://schoolable.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/path.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3027,7 +3022,7 @@
     "website": "http://junocollege.com"
   },
   {
-    "all_locations": "New York, NY, USA; Dallas, TX, USA; Minneapolis, MN, USA",
+    "all_locations": "New York City, NY, USA; Dallas, TX, USA; New York, NY, USA; Minneapolis, MN, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/fynn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3088,7 +3083,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1556761338,
     "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
     "name": "Outtalent",
@@ -3160,7 +3155,7 @@
     "website": "https://joinblair.com/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "CT, Spain; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/microverse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3180,6 +3175,8 @@
     "one_liner": "Training and connecting untapped talent with global opportunities",
     "question_answers": false,
     "regions": [
+      "Spain",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -3600,7 +3597,7 @@
     "website": "https://www.foreword.live/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/arist.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3612,7 +3609,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1598251213,
     "long_description": "Arist is the only message-based learning platform. \r\n\r\nWe help over 10% Fortune 500 companies and governments rapidly teach and train employees, entirely via messaging tools like SMS, Slack, WhatsApp and Microsoft Teams.",
     "name": "Arist",
@@ -3685,7 +3682,7 @@
     "website": "https://buildspace.so/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/tappity.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3814,7 +3811,7 @@
     "website": "https://scrimba.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/virtually.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3993,7 +3990,7 @@
     "website": "https://www.functionup.org/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4115,10 +4112,10 @@
       "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 60,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/codingal",
-    "website": "https://www.codingal.com"
+    "website": "https://www.codingal.com/?utm_source=yc"
   },
   {
     "all_locations": "Hyderabad, Telangana, India",
@@ -4160,7 +4157,7 @@
     "website": "https://www.unschool.in/"
   },
   {
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/manara.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4367,7 +4364,7 @@
     "website": "https://awari.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/upchieve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4379,7 +4376,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1613154543,
     "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
     "name": "UPchieve",
@@ -4623,7 +4620,7 @@
     "website": "https://www.goodkind.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/boldvoice.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4700,7 +4697,7 @@
       "eLearning"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/algouniversity",
     "website": "http://algouniversity.com/"
@@ -4765,7 +4762,7 @@
     "industry": "Education",
     "isHiring": true,
     "launched_at": 1628514851,
-    "long_description": "Strive is an online coding & math school for kids (8-16). We help students start and commit to their coding and math journeys by making the subjects fun and exciting. We focus, above all else, on making the process of learning joyful.\r\n\r\n- We’re starting with coding, but we’re building the content and platform to redefine **STEM education globally** by teaching math, science, and other school subjects **through coding.**\r\n- We believe we can only make education joyful if we ourselves are joyful, so creating a fun and exciting work environment is one of our core values. We’re a remote-first company with teachers and employees from South Africa, Singapore, India, the USA, and the Philippines.\r\n- **We’re a well-funded startup backed by YCombinator and early investors of Spotify and Facebook.**",
+    "long_description": "Strive Math is an online coding & math school for kids (8-16). We help students start and commit to their coding and math journeys by making the subjects fun and exciting. We focus, above all else, on making the process of learning joyful.\r\n\r\n- Our mission is to make education more joyful and meaningful. We teach coding, math and custom STEM courses to kids aged 8 to 16, and build the tools to support teachers to deliver engaging learning experiences.\r\n- We believe we can only make education joyful if we ourselves are joyful, so creating a fun and exciting work environment is one of our core values. We’re a remote-first company with teachers and employees from South Africa, Singapore, India, the USA, and the Philippines.\r\n- We’re a well-funded startup backed by YCombinator and early investors of Spotify and Facebook.",
     "name": "Strive Math",
     "nonprofit": false,
     "one_liner": "Online Coding School for Kids 8-16",
@@ -5050,7 +5047,7 @@
     "website": "https://sparkstudio.co"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Miami, FL, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/litnerd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5134,7 +5131,7 @@
     "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/filadd",
-    "website": "https://courses.filadd.com/"
+    "website": "https://filadd.com/"
   },
   {
     "all_locations": "Gurugram, HR, India; Delhi, DL, India",
@@ -5262,7 +5259,7 @@
     "website": "https://www.safermgmt.com/"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/careerist.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5303,10 +5300,10 @@
     "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/careerist",
-    "website": "http://careerist.com/"
+    "website": "http://careerist.cc/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/emerge-career.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5483,7 +5480,7 @@
     "website": "https://www.mysivi.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/toko.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5649,7 +5646,7 @@
     "website": "http://www.Avocademy.com"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Amman, Amman Governorate, Jordan; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/darsel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5669,6 +5666,8 @@
     "one_liner": "Chatbot teaching K12 math in developing countries",
     "question_answers": false,
     "regions": [
+      "Jordan",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -5709,7 +5708,7 @@
       "Job and Career Services"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1656483075,
     "long_description": "Build your own Git, Redis, SQLite — in Go, Rust, Python, etc.",
     "name": "CodeCrafters",
@@ -5740,7 +5739,7 @@
     "website": "https://codecrafters.io"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/taro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5829,7 +5828,7 @@
     "website": "https://superkalam.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/epsilon.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5889,10 +5888,10 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1691697045,
-    "long_description": "Ora is an AI-native education platform that students love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
+    "long_description": "Ora is an AI-native healthcare education platform that students and faculty love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
     "name": "Ora AI",
     "nonprofit": false,
-    "one_liner": "Med school can be simpler",
+    "one_liner": "The AI Platform for Medical Education",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5906,9 +5905,9 @@
     "status": "Active",
     "subindustry": "Education",
     "tags": [
+      "Artificial Intelligence",
       "Education",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -5961,7 +5960,7 @@
     "website": "https://www.studdy.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/flint-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5973,7 +5972,7 @@
       "Education"
     ],
     "industry": "Education",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1686701426,
     "long_description": "Flint is an AI-powered personalized learning platform for K-12 schools, helping teachers deliver individualized instruction at scale. Trusted by 500,000+ educators and students, Flint has powered learning activities that increase student engagement, academic performance, and collaboration.\r\n\r\nThrough AI-driven tutoring, real-time feedback, and interactive learning experiences, Flint enables every student to receive personalized support without adding to teacher workload.\r\n\r\nWith AI-native student analytics, educators gain full visibility into student progress, strengths, and areas for improvement, while saving time on grading, lesson planning, and differentiation. Students receive a 24/7 AI tutor that adapts to their level without giving away answers, supporting deeper understanding and independent thinking.\r\n\r\nFor schools and districts, Flint provides robust AI guardrails, including customizable moderation, grade-level controls, and full transparency into student usage, ensuring safe and responsible AI adoption.",
     "name": "Flint",
@@ -6046,48 +6045,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/read-bean",
     "website": "https://readbean.app/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/mathdash.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Bree",
-      "Breez"
-    ],
-    "id": 29281,
-    "industries": [
-      "Education"
-    ],
-    "industry": "Education",
-    "isHiring": false,
-    "launched_at": 1710118531,
-    "long_description": "MathDash is an online math education platform that gets students addicted to working through textbooks and seeing their improvement.",
-    "name": "MathDash",
-    "nonprofit": false,
-    "one_liner": "Learning Platform for Math Competitions",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "mathdash",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec49a1c12b0b025bec7371a71c990514b23fe37.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Education",
-    "tags": [
-      "Education",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mathdash",
-    "website": "https://mathdash.com"
   },
   {
     "all_locations": "Remote",
@@ -6271,7 +6228,47 @@
     "website": "https://www.educato.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/keet.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29854,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1724878024,
+    "long_description": "Keet is a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time.",
+    "name": "Keet",
+    "nonprofit": false,
+    "one_liner": "An app to create courses on anything. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "keet",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e5e0875c2aab6574b149f12a244bce330c36012.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/keet",
+    "website": "https://trykeet.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6288,7 +6285,7 @@
       "Healthcare"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1719547782,
     "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
     "name": "SimCare",
@@ -6317,7 +6314,7 @@
     "website": "https://simcare.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/issen.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6361,7 +6358,7 @@
     "website": "https://issen.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Brisbane, QLD, Australia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6381,8 +6378,8 @@
     "one_liner": "AI Teacher Assistant for Grading Essays",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Australia",
+      "Oceania"
     ],
     "slug": "edexia",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
@@ -6403,7 +6400,7 @@
     "website": "https://www.edexia.com/"
   },
   {
-    "all_locations": "Stanford, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/excellence-learning.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6489,7 +6486,7 @@
     "website": "https://www.alice.tech/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/scout-4.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6529,47 +6526,92 @@
     "website": "https://scoutforschools.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/miyagi-labs.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2025",
+    "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30442,
+    "id": 30299,
     "industries": [
       "Education"
     ],
     "industry": "Education",
     "isHiring": false,
-    "launched_at": 1745603860,
-    "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
-    "name": "YouLearn",
+    "launched_at": 1739904496,
+    "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe’re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
+    "name": "Miyagi Labs",
     "nonprofit": false,
-    "one_liner": "AI tutor for each student. ",
+    "one_liner": "AI tutors for exam prep",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "youlearn",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
+    "slug": "miyagi-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Education",
     "tags": [
       "AI-Enhanced Learning",
       "Education",
-      "AI"
+      "eLearning",
+      "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/youlearn",
-    "website": "https://www.youlearn.ai/"
+    "url": "https://www.ycombinator.com/companies/miyagi-labs",
+    "website": "https://miyagilabs.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/units.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "GradeAssist",
+      "VibeGrade",
+      "TypeOS"
+    ],
+    "id": 30443,
+    "industries": [
+      "Education"
+    ],
+    "industry": "Education",
+    "isHiring": false,
+    "launched_at": 1745137302,
+    "long_description": "Units lets ambitious students graduate high school in 4 months instead of 4 years with real accredited diploma credits, plus a portfolio of real-world work, not just a transcript. \r\n\r\nWe're rebuilding school for a post-AGI world.",
+    "name": "Units",
+    "nonprofit": false,
+    "one_liner": "Units builds full-stack AI education infrastructure.",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "units",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf4b48f0d6277a46b6938b7cc1d145878182dc6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Education",
+    "tags": [
+      "Education",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/units",
+    "website": "https://units.school"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chiron.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6589,8 +6631,8 @@
     "one_liner": "Grammarly for Math ✏️",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "chiron",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/413bccd180b2d3b183e43292dcbda31f7c7beaf3.png",
@@ -6667,7 +6709,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1753141974,
-    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 110,000 users, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
+    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 170,000 users as of July '26, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
     "name": "Golpo",
     "nonprofit": false,
     "one_liner": "Create Whiteboard Explainer Videos with AI from a Prompt or Document",
@@ -6689,7 +6731,7 @@
       "Marketing"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/golpo",
     "website": "https://video.golpoai.com/"
@@ -6808,7 +6850,7 @@
     "slug": "opennote",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a57c2d57c9bd745bb44f95e1f930dda18b6c534.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Consumer",
     "tags": [
       "AI-Enhanced Learning",
@@ -6838,7 +6880,7 @@
       "Consumer"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1758577465,
     "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. Power users scroll for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
     "name": "Parrot",
@@ -6850,7 +6892,7 @@
       "America / Canada"
     ],
     "slug": "parrot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/456a29d2b6a9ad58f25000ceded3f47b7968c4e6.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
@@ -6866,90 +6908,89 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bloomy.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "Lamina AI"
-    ],
-    "id": 31421,
+    "former_names": [],
+    "id": 32551,
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Education"
     ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773199517,
-    "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
-    "name": "Lamina Labs",
+    "industry": "Education",
+    "isHiring": true,
+    "launched_at": 1782182610,
+    "long_description": "Bloomy is the best way to teach anything in school. We provide schools with an AI-native academic system comprising core and supplemental curriculum, AI teaching, and assessment to help K-12 students learn faster. Backed by the founders of Clever.",
+    "name": "Bloomy",
     "nonprofit": false,
-    "one_liner": "Visual infrastructure for EdTech AI applications",
+    "one_liner": "AI-native learning for every school",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "lamina-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d4ccf38786878539ecdd96792388a25ab1ab0bf.png",
+    "slug": "bloomy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Education",
     "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Education",
-      "Video",
-      "Edtech"
+      "eLearning",
+      "Personalization"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lamina-labs",
-    "website": "https://laminalabs.ai"
+    "url": "https://www.ycombinator.com/companies/bloomy",
+    "website": "https://bloomylearning.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/heyclicky.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/wondering.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "makesomething",
-      "Humansongs",
-      "makesomething",
-      "Clicky",
-      "HeyClicky",
-      "Clicky"
+      "Mouseover AI",
+      "Mouseover"
     ],
-    "id": 31574,
+    "id": 33317,
     "industries": [
       "Consumer"
     ],
     "industry": "Consumer",
     "isHiring": false,
-    "launched_at": 1778615142,
-    "long_description": "Clicky sits right next to your cursor and sees everything you see. ask a question out loud and it walks you through whatever you're working on. Or say “Clicky Agent” and it'll spin up an agent to build, research, or do whatever for you in the background.",
-    "name": "HeyClicky",
+    "launched_at": 1785135586,
+    "long_description": "Wondering turns anything you want to learn, from LLMs to quantum mechanics to product design, into a path of three-minute lessons with visuals, podcasts, and interactive exercises. \r\n\r\nEach learning path and its content are personalized to your background, how you learn best, and how deep you want to go.\r\n\r\nIt’s the most delightful way to understand complex topics and turn information into knowledge you can remember and apply. You don’t just passively read. You practice, make connections, and form your own insights.\r\n\r\nStart learning anything for free at https://wondering.app/download",
+    "name": "Wondering",
     "nonprofit": false,
-    "one_liner": "An AI buddy that lives on your Mac.",
+    "one_liner": "Duolingo for learning anything",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "heyclicky",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34ed2451ac5368900060488563c63ff6cbf673d7.png",
+    "slug": "wondering",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
-      "Education"
+      "AI-Enhanced Learning",
+      "Education",
+      "Consumer",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/heyclicky",
-    "website": "https://heyclicky.com/"
+    "url": "https://www.ycombinator.com/companies/wondering",
+    "website": "https://wondering.app"
   }
 ]

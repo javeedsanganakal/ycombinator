@@ -45,7 +45,7 @@
     "website": "https://circuithub.com"
   },
   {
-    "all_locations": "Burlingame, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Burlingame, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/vastrm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -168,7 +168,7 @@
     "website": "https://pakible.com"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/assembly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -213,7 +213,7 @@
     "website": "https://asm.co/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/maderight.json",
     "app_answers": null,
     "app_video_public": false,
@@ -298,7 +298,7 @@
     "website": "http://relativityspace.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/synvivia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -339,6 +339,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/synvivia",
     "website": "https://www.synvivia.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/the-essential.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2017",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Movebutter",
+      "Move"
+    ],
+    "id": 1475,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1478194835,
+    "long_description": "The Essential is a factory-direct ecommerce company. We allow customers to buy premium furniture and home goods directly from the factories that make them.",
+    "name": "The Essential",
+    "nonprofit": false,
+    "one_liner": "E-commerce 2.0",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "the-essential",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45582b16a5d938bbad091f36c2df3206414b1b7e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Consumer",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "team_size": 11,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/the-essential",
+    "website": "http://www.theessential.com"
   },
   {
     "all_locations": "Houston, TX, USA",
@@ -432,7 +478,7 @@
     "website": "https://www.aon3d.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/voodoo-manufacturing.json",
     "app_answers": null,
     "app_video_public": false,
@@ -515,7 +561,7 @@
     "website": "http://www.shopvida.com"
   },
   {
-    "all_locations": "Montreal, QC, Canada",
+    "all_locations": "Toronto, ON, Canada; Montreal, QC, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/srtx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -562,7 +608,7 @@
     "website": "https://www.srtxlabs.com/"
   },
   {
-    "all_locations": "San Diego, CA, USA; Remote",
+    "all_locations": "Salt Lake City, UT, USA; San Diego, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/sourcify.json",
     "app_answers": null,
     "app_video_public": false,
@@ -803,7 +849,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1732044079,
     "long_description": "Mobius is the safe spot market for electronic components like microcontrollers and capacitors. We help electronics manufacturers buy and sell chips quickly, safely & at market prices. ",
     "name": "Mobius Materials",
@@ -875,7 +921,7 @@
     "website": "https://www.futurefields.io/about"
   },
   {
-    "all_locations": "Detroit, MI, USA",
+    "all_locations": "Cleveland, OH, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/atomic-industries.json",
     "app_answers": null,
     "app_video_public": false,
@@ -918,7 +964,7 @@
     "website": "http://atomic.industries"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/jiga.json",
     "app_answers": null,
     "app_video_public": false,
@@ -939,6 +985,8 @@
     "one_liner": "Source better parts by partnering directly with vetted manufacturers",
     "question_answers": false,
     "regions": [
+      "Israel",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -1076,7 +1124,7 @@
       "America / Canada"
     ],
     "slug": "rmfg",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da6c23e37cd7338b2276dfacd444e9175c6c2b9c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6481e53fac19208ab930fa400c6e6efc6e1d7b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1139,6 +1187,51 @@
     "website": "https://sensible.bio"
   },
   {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/capuchin.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "WorldQL"
+    ],
+    "id": 25306,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1648654841,
+    "long_description": "",
+    "name": "Capuchin",
+    "nonprofit": false,
+    "one_liner": "Search and automation for engineer-to-order companies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "capuchin",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea9d3b72b1fa93a8d4352fa71bae133957dcb7a7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Defense",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/capuchin",
+    "website": "https://capuchin.ai/"
+  },
+  {
     "all_locations": "Singapore, Singapore; Jakarta, Jakarta, Indonesia",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/axross-pte-ltd.json",
     "app_answers": null,
@@ -1190,7 +1283,7 @@
     "website": "https://www.axross.co/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/industrial-next.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1205,16 +1298,14 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1648273643,
-    "long_description": "We bring Tesla autonomous manufacturing to every automaker and other producers. At Tesla, we were the core autonomous factory team and we’re now building the smart cameras and robotic guidance tools that provided the main advantages at Tesla",
+    "long_description": "We're building the brain for the factory floor, developing AI-driven robotic systems powered by a proprietary foundation model for the difficult, contact-rich manufacturing tasks where conventional automation falls short.\r\n\r\nFounded by veterans of Tesla, Waymo, Ford, and GM who built the systems that brought modern autonomy into manufacturing, IndustrialNext is bringing that same intelligence to the factory floor: autonomous factories that are cost-competitive at any scale, anywhere.\r\n\r\nBacked by Y Combinator, Khosla Ventures, Lenovo, AlphaX Partners, and Plug and Play.",
     "name": "Industrial Next",
     "nonprofit": false,
-    "one_liner": "Tesla autonomous manufacturing for everyone",
+    "one_liner": "IndustrialNext builds the AI brain for manufacturing –…",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "slug": "industrial-next",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77b3fae4e9032c53ab1dabf92d2dde1c13be9a0.png",
@@ -1222,10 +1313,10 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "team_size": 9,
@@ -1365,7 +1456,7 @@
     "website": "https://www.iotflows.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1538,7 +1629,7 @@
     "website": "https://startraven.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; MH, India",
+    "all_locations": "Pune, MH, India; MH, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/sculpt.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1562,9 +1653,7 @@
     "one_liner": "Fully automated should-cost analysis for precision manufacturers.",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "India",
-      "America / Canada",
       "South Asia"
     ],
     "slug": "sculpt",
@@ -1713,7 +1802,7 @@
     "website": "https://zeloscloud.io"
   },
   {
-    "all_locations": "",
+    "all_locations": "Sofia City Province, Bulgaria",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1740,6 +1829,8 @@
     "one_liner": "AI Supply Chain Coordinator",
     "question_answers": false,
     "regions": [
+      "Bulgaria",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1762,7 +1853,7 @@
     "website": "https://www.mandel.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/movley.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1810,14 +1901,60 @@
     "website": "https://movley.com/"
   },
   {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/singularity.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Singularity Space"
+    ],
+    "id": 29146,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784043755,
+    "long_description": "Singularity is answering humanity’s call to engineer counter-weapon systems at scale.  We build to protect people on the battlefield and at home.",
+    "name": "Singularity",
+    "nonprofit": false,
+    "one_liner": "Building and Protecting an Exciting Future",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "singularity",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/992f82455265202b720c9d34ee95f7a7b0ffbcc9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/singularity",
+    "website": "https://www.singularityus.com/"
+  },
+  {
     "all_locations": "London, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/maihem.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tekton-dynamics.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "MAIHEM"
+      "MAIHEM",
+      "Maihem"
     ],
     "id": 29241,
     "industries": [
@@ -1828,29 +1965,30 @@
     "isHiring": true,
     "launched_at": 1706234384,
     "long_description": "Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent robots.\r\n\r\nToday’s industrial robots are fast but \"blind\". They struggle with any task that isn't perfectly repetitive. We are building the eyes and brain (a proprietary vision system and AI model) that allow industrial robots to see, reason, and perform complex work with sub-millimeter accuracy and the adaptability of a human expert.\r\n\r\nWe are witnessing the start of a new industrial revolution: an era of advanced manufacturing powered by AI and robotics. We aim to lead this shift by putting these tools into the hands of every manufacturer, ensuring the power to invent and build at scale isn’t a privilege of the few.",
-    "name": "Maihem",
+    "name": "Tekton Dynamics",
     "nonprofit": false,
-    "one_liner": "Adaptive AI welding robots for manufacturers of any scale",
+    "one_liner": "AI control layer for welding robots",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
-    "slug": "maihem",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9018f799ff13c1605703fd892a9f431331770d3.png",
+    "slug": "tekton-dynamics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88f8c82a6ce22ef99621a0f594acb23ef6aa48f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Manufacturing",
-      "AI"
+      "Industrial"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/maihem",
-    "website": "https://www.maihem.com"
+    "url": "https://www.ycombinator.com/companies/tekton-dynamics",
+    "website": "https://www.tekton-dynamics.com"
   },
   {
     "all_locations": "Toronto, ON, Canada",
@@ -1973,7 +2111,7 @@
     "slug": "camfer",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c19c2043057dddb96aa0fb4c1eb11f547911f429.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Generative AI",
@@ -2034,7 +2172,7 @@
     "website": "https://www.autumnlabs.io/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/distro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2131,12 +2269,13 @@
     "former_names": [],
     "id": 29814,
     "industries": [
-      "Industrials"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1724084407,
-    "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
+    "long_description": "Vendra makes it faster and easier to get custom parts manufactured in America. \r\n\r\nSubmit one RFQ and Vendra turns your technical requirements into custom manufactured parts - routing work through qualified US suppliers, gathering competitive quotes, and managing production through delivery.\r\n\r\nWe're ITAR registered and manufacture parts for American aerospace and defense leaders. Customers include Anduril, Mach Industries, Relativity Space, Castelion, and Planet Labs.\r\n\r\nSubmit an RFQ at www.vendra.io to get started today!",
     "name": "Vendra",
     "nonprofit": false,
     "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
@@ -2149,20 +2288,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Hardware",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vendra",
-    "website": "https://vendra-marketplace.io/"
+    "website": "https://vendra.io/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2240,13 +2381,13 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "website": "https://bucket.bot"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2284,10 +2425,102 @@
       "Electronics"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/diode-computers-inc",
     "website": "https://diode.computer"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/no-logo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Terra Labs",
+      "Terra"
+    ],
+    "id": 29853,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1720474111,
+    "long_description": "No Logo is building the orchestration layer for creating viral consumer products. The manufacturing world is full of capable, underutilized overseas factories with the machines, tooling, and engineers to build winning products – but no way to connect them to the creators and brands with the ideas and distribution. As a result, bringing a new product to market has traditionally taken 6-12 months, tens of thousands of dollars, and a team of 20-30 people.\r\n\r\nNo Logo collapses that. Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network – turning an idea into a shippable product in just a few weeks.",
+    "name": "No Logo",
+    "nonprofit": false,
+    "one_liner": "Turn ideas into physical products",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "no-logo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b06eac03359187ea4b158a471d8bc4ecb6c046.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Consumer",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/no-logo",
+    "website": "https://nologo.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
+    "id": 29992,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1721673756,
+    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
+    "name": "Outerport",
+    "nonprofit": false,
+    "one_liner": "EDA for Industrial Control Systems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "outerport",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Semiconductors",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/outerport",
+    "website": "https://outerport.com"
   },
   {
     "all_locations": "Singapore, Singapore; Remote",
@@ -2334,7 +2567,7 @@
     "website": "https://andtiny.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/loombotic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2350,7 +2583,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1731992228,
     "long_description": "Loombotic is automating wire harness manufacturing.",
     "name": "Loombotic",
@@ -2358,7 +2591,8 @@
     "one_liner": "Wire Harnesses in as little as 7 days",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "slug": "loombotic",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03e05dcd715014e7e3ce539d4aef2abf9ef621e2.png",
@@ -2413,7 +2647,7 @@
       "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
     "website": "https://www.inversionsemi.com"
@@ -2432,7 +2666,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1736647566,
     "long_description": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
     "name": "Forge Automation",
@@ -2456,13 +2690,13 @@
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 21,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/forge-automation",
     "website": "https://www.forgeautomation.ca"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New Delhi, DL, India",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/optifye-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2482,8 +2716,8 @@
     "one_liner": "AI performance monitoring for factory workers",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "slug": "optifye-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
@@ -2517,10 +2751,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1739340612,
-    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nOur first full orbital recovery mission is set to launch in April 2026.",
+    "long_description": "We are making reusable satellites for zero-g manufacturing & Hypersonic Technology Development. \r\nOur first orbital recovery mission is set to launch in Q4 2026.",
     "name": "Reditus Space",
     "nonprofit": false,
-    "one_liner": "Reusable Satellites for zero-g manufacturing",
+    "one_liner": "Reusable Satellites",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -2537,7 +2771,7 @@
       "Aerospace"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reditus-space",
     "website": "https://www.reditus.space/"
@@ -2552,15 +2786,16 @@
     "former_names": [],
     "id": 30353,
     "industries": [
-      "B2B"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
-    "industry": "B2B",
+    "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1736891737,
-    "long_description": "Helping manufacturers and distributors eliminate manual work by automating operational processes with AI.\r\n",
+    "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
     "name": "Axal",
     "nonprofit": false,
-    "one_liner": "AI Workers for Manufacturing and Distribution ",
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2570,14 +2805,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Hardware",
+      "Robotics",
       "Manufacturing",
-      "Enterprise Software",
-      "Automation"
+      "Electronics"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/axal",
     "website": "https://www.axal.ai/"
@@ -2596,7 +2832,7 @@
       "Aviation and Space"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1744173288,
     "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
     "name": "GroundControl",
@@ -2639,12 +2875,12 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1745432874,
-    "long_description": "We build humanoid robot arms for AI researchers and AI-first robotic companies.",
+    "long_description": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
     "name": "Almond",
     "nonprofit": false,
-    "one_liner": "Robot hardware for AI",
+    "one_liner": "A dual-arm robot built for physical AI.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2663,7 +2899,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/almond-2",
     "website": "https://almond.bot/"
@@ -2708,13 +2944,13 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/photonium",
     "website": "https://www.photoniumoptics.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2757,7 +2993,7 @@
     "website": "https://morpho.ai/"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2776,10 +3012,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1747846039,
-    "long_description": "We manufacturing instruments and reagents that are purpose built for AI, automated labs, and personalized medicines.",
+    "long_description": "We make reagents and software that are purpose built for AI, automated labs, and personalized medicines.",
     "name": "Bramante",
     "nonprofit": false,
-    "one_liner": "Life sciences instrument and reagent manufacturing",
+    "one_liner": "Life sciences reagents and software",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2791,15 +3027,60 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bramante",
     "website": "https://www.bramantebio.com"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/chrt.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "CHRT, Inc."
+    ],
+    "id": 30526,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1747152745,
+    "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt builds the software for forwarders and professional couriers who pick up and deliver these orders. Couriers use chrt to coordinate and track their shipments, including a driver app and fleet management tools. Forwarders use chrt to dispatch couriers, book flights, and track time-critical orders from start to finish. Shippers use chrt to place these orders with their providers and to monitor everything. \r\n\r\nIn addition, we also sell physical tracking devices that can be used to track valuable cargo or assets.\r\n\r\nThis gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leader in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
+    "name": "chrt",
+    "nonprofit": false,
+    "one_liner": "chrt is a logistics platform for time-critical shipping",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "chrt",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Autonomous Shipping",
+      "Logistics",
+      "Healthcare",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/chrt",
+    "website": "https://chrt.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2819,7 +3100,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1747084472,
-    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.ai/",
     "name": "Lumari",
     "nonprofit": false,
     "one_liner": "AI Digital Workers for Supply Chain ",
@@ -2834,17 +3115,17 @@
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lumari",
-    "website": "https://www.lumari.io/"
+    "website": "https://www.lumari.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2881,13 +3162,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Manufacturing",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vision-lab",
     "website": "https://thevisionlab.ai/"
@@ -2909,7 +3190,7 @@
       "Industrials"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1746512449,
     "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "name": "Foundation Industries",
@@ -2930,7 +3211,7 @@
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/foundation-industries",
     "website": "https://www.foundation-industries.com/"
@@ -2978,53 +3259,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/smartbase.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Glade",
-      "Sandfish",
-      "Anytrace"
-    ],
-    "id": 30779,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1753758221,
-    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
-    "name": "Smartbase",
-    "nonprofit": false,
-    "one_liner": "Automated order entry for manufacturers",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "smartbase",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Workflow Automation",
-      "Manufacturing",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/smartbase",
-    "website": "https://www.smartbase.so/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/duranium.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3037,7 +3271,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1757191317,
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "name": "Duranium",
@@ -3059,10 +3293,54 @@
       "ClimateTech"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/duranium",
     "website": "https://www.duranium.co/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Salesmith"
+    ],
+    "id": 30807,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1754546482,
+    "long_description": "Paloma gives manufacturing companies an embedded team of engineers and ops experts who replace their manual operations with custom AI-native software.",
+    "name": "Paloma",
+    "nonprofit": false,
+    "one_liner": "Digital transformation for real economy businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "paloma",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1218976659374be7dae288b56678777bbb6a1eb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Analytics",
+      "Manufacturing",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/paloma",
+    "website": "https://getpaloma.ai/"
   },
   {
     "all_locations": "Detroit, MI, USA",
@@ -3093,7 +3371,7 @@
       "America / Canada"
     ],
     "slug": "nox-metals",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/466d7bdd89d6183b6dae5d76321288d79743d24f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f724f217879daf89f5fc2ea9279d9cf723f6300.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3101,7 +3379,7 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 13,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "website": "https://noxmetals.co/"
@@ -3176,7 +3454,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "allus-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e556d72ba8162e6d77731f52ccea802c98b54fa3.png",
@@ -3184,20 +3464,20 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/allus-ai",
     "website": "https://allus.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3209,7 +3489,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1759871932,
     "long_description": "Bravi is building the AI operating system for home-services businesses, using AI-powered customer communication as the wedge.\r\n\r\nWe replace the front office (calls, chats, follow-ups) with AI agents that never miss a lead, then layer an internal AI copilot that understands products, pricing, and technical documentation.\r\n\r\nWe started with fenestration (shutters, windows, garage doors), a large, complex vertical with no modern software, before expanding to adjacent trades.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
     "name": "Bravi",
@@ -3217,8 +3497,8 @@
     "one_liner": "The AI operating system powering home services businesses",
     "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "bravi",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
@@ -3237,6 +3517,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bravi",
     "website": "https://www.bravi.app/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Axial Composites Industries",
+      "Nerviom"
+    ],
+    "id": 30996,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1757132336,
+    "long_description": "Axial develops accelerated software for geometric computation, physical simulation, and manufacturing.\r\n\r\nOur GPU-native kernels provide programmable building blocks for the computational engineering cycle. They make existing workflows faster and less expensive while enabling engineering teams to explore substantially larger design spaces.",
+    "name": "Axial",
+    "nonprofit": false,
+    "one_liner": "Accelerated Physics Kernels for Computational Engineering",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "axial",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50b2530edbf5348c3c01f68b90374b1e76cd4dd6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/axial",
+    "website": "https://axialcompute.com"
   },
   {
     "all_locations": "Los Angeles, CA, USA",
@@ -3283,128 +3607,47 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/applied-electrodynamics-inc.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31294,
+    "former_names": [
+      "Applied Electrodynamics"
+    ],
+    "id": 31298,
     "industries": [
-      "Industrials",
-      "Aviation and Space"
+      "Industrials"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1773166639,
-    "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
-    "name": "Dispatch",
+    "launched_at": 1785202775,
+    "long_description": "Applied Electrodynamics builds imaging systems that see through solid matter. Our team previously co-invented the iPhone touchscreen and Nest learning thermostat. We’re starting in construction, helping teams map structural elements and utilities inside walls and ceilings. The same platform extends to security screening and cargo inspection. Our mission is to make the hidden physical world machine-readable across the entire electromagnetic spectrum.\r\n",
+    "name": "Applied Electrodynamics, Inc.",
     "nonprofit": false,
-    "one_liner": "Satellites for manufacturing in space",
+    "one_liner": "A new kind of camera that can see through walls.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "dispatch",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
+    "slug": "applied-electrodynamics-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11648bf43e6f51e66e8e798d40073877c53c2f20.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Aviation and Space",
+    "subindustry": "Industrials",
     "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Construction",
       "Manufacturing",
-      "Aerospace",
-      "Advanced Materials"
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/dispatch",
-    "website": "https://dispatch.space/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31327,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773339255,
-    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
-    "name": "Korso",
-    "nonprofit": false,
-    "one_liner": "The Intelligence Layer for Manufacturing.",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "korso",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/korso",
-    "website": "https://korsoai.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31367,
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1773916364,
-    "long_description": "We are an AI-native broker, solving sourcing of machines and intermediate goods. We take over finding suppliers and getting the best quotes for our customers (based on price, quality, lead time, etc.). Our customers have limited resources for procurement and we help them reduce purchase prices by 30% on average.",
-    "name": "Andustry",
-    "nonprofit": false,
-    "one_liner": "We help manufacturers find suppliers for industrial goods.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "andustry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "tags": [
-      "Marketplace",
-      "Sales",
-      "Manufacturing",
-      "Procurement",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/andustry",
-    "website": "http://andustry.com/"
+    "url": "https://www.ycombinator.com/companies/applied-electrodynamics-inc",
+    "website": "https://www.ae-dyn.com/"
   },
   {
     "all_locations": "Stockholm, Stockholm County, Sweden",
@@ -3417,15 +3660,15 @@
     "id": 31374,
     "industries": [
       "Industrials",
-      "Defense"
+      "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1775173231,
-    "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
+    "long_description": "Tenet Industries is building AI-automated factories for manufacturing of PCBAs.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCBA manufacturing and electronic manufacturing services.",
     "name": "Tenet Industries",
     "nonprofit": false,
-    "one_liner": "Drones as ammunition. ",
+    "one_liner": "AI-automated PCB assembly factories",
     "question_answers": false,
     "regions": [
       "Sweden",
@@ -3435,163 +3678,85 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Defense",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
       "Hardware",
-      "Drones",
       "Manufacturing",
+      "Automation",
+      "Electronics",
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tenet-industries",
     "website": "https://www.tenetindustries.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/textsidekick.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Servio AI"
-    ],
-    "id": 31417,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1776390899,
-    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
-    "name": "Pairio",
-    "nonprofit": false,
-    "one_liner": "AI-native industrial maintenance software",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "pairio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pairio",
-    "website": "https://pairio.com"
-  },
-  {
-    "all_locations": "Sunnyvale, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31436,
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1774425608,
-    "long_description": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.\r\n",
-    "name": "Prototyping.io",
-    "nonprofit": false,
-    "one_liner": "Autonomous manufacturing for mechanical parts",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "prototypingio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Manufacturing",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/prototypingio",
-    "website": "https://www.prototyping.io"
-  },
-  {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/abinitio-bio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31484,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1778703313,
-    "long_description": "",
-    "name": "AbInitio Bio",
-    "nonprofit": false,
-    "one_liner": "The Intelligence layer for Drug Development",
-    "question_answers": false,
-    "regions": [
-      "Unspecified"
-    ],
-    "slug": "abinitio-bio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Biotech",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/abinitio-bio",
-    "website": "https://www.abinitio-bio.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31511,
+    "id": 31437,
     "industries": [
       "B2B",
       "Operations"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1773098013,
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "name": "Arzana",
+    "launched_at": 1775584801,
+    "long_description": "Sidekick is an AI agent that runs custom manufacturing operations over text. Workers text a problem, photo, video, or voice memo and get an answer from the shop's own documents. It reads live machine data and acts on its own: flagging issues before they become downtime, opening and routing work orders, and placing purchase orders. No app, no login.\r\n\r\nThese shops run on tribal knowledge: a handful of veterans know how every job is set up, and they are retiring. Sidekick learns from every message it handles, so answers outlive the people who gave them, and shops run 15% more jobs with the same crew. Sidekick captures it as a byproduct of the work, in an industry that was never documented.",
+    "name": "Sidekick",
     "nonprofit": false,
-    "one_liner": "AI automation for the manufacturing office",
+    "one_liner": "AI agent that manages manufacturing operations over text",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "textsidekick",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing",
+      "AI Assistant",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/textsidekick",
+    "website": "https://textsidekick.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/donkey.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Prelude"
+    ],
+    "id": 32122,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784315538,
+    "long_description": "Donkey is the AI-native trading company. Upload a buying list and we land the whole container at one locked, delivered price, tariffs included. You buy from Donkey: one contract, one company responsible for everything between the factory floor and your door. Our own people check the cartons before the factory gets paid, and the balance is due when the goods are accepted at your dock.\r\n\r\nSmall businesses buy imports through three or four middlemen, each adding 15 to 30 points, because none of them can fill a container on their own. Big enough to buy pallets, never big enough to buy the box. Quotes float with freight, FX and tariffs and live 15 to 30 days.\r\n\r\nA trading company is rooms of people on the phone with factories, forwarders and brokers. Donkey runs that as one engine. It finds the real factory behind the customs record, stacks duty line by line, packs the container on weight and cube, and returns one number that holds from signature. Next comes the shared container: small buyers fill one box together at container prices, and every container earns better factory terms for the next one.\r\n\r\nTeam in San Francisco and Wuhan, English and Mandarin. If your business buys pallets of anything imported, send us your buying list.",
+    "name": "Donkey",
+    "nonprofit": false,
+    "one_liner": "The AI-native trading company: factory prices, delivered, one number",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3599,69 +3764,153 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "arzana",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "slug": "donkey",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bacc206e6479ad9ca5809a5242ecdf78c6f5535.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Artificial Intelligence",
+      "Logistics",
       "Manufacturing",
-      "Automation",
-      "Operations",
-      "Industrial"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "website": "https://www.arzana.com/"
+    "url": "https://www.ycombinator.com/companies/donkey",
+    "website": "https://donkey.trade"
   },
   {
-    "all_locations": "Elk Grove Village, IL, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/manufacturingintelligence.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31561,
+    "id": 32123,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1784416117,
+    "long_description": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
+    "name": "HERA",
+    "nonprofit": false,
+    "one_liner": "We make sure every factory in the world builds without mistakes.",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "manufacturingintelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "B2B",
+      "Design",
+      "Design Tools",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/manufacturingintelligence",
+    "website": "https://www.manufacturingintelligence.org"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mass-magnetics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Mass Energy Company"
+    ],
+    "id": 32128,
     "industries": [
       "Industrials",
       "Defense"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1774490913,
-    "long_description": "",
-    "name": "Maquoketa Research",
+    "launched_at": 1786735839,
+    "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
+    "name": "Mass Magnetics",
     "nonprofit": false,
-    "one_liner": "Intelligent one-way attack drones",
+    "one_liner": "USA-made magnetics for robotics and defense. ",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "maquoketa-research",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
+    "slug": "mass-magnetics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26161cef0e683292e39a5da2d6258b38702473a0.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Defense",
     "tags": [
-      "Artificial Intelligence",
-      "Hardware",
+      "Hard Tech",
+      "Robotics",
       "Drones",
-      "Computer Vision",
-      "Manufacturing"
+      "Manufacturing",
+      "Defense"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/maquoketa-research",
-    "website": "https://www.maquoketa.net"
+    "url": "https://www.ycombinator.com/companies/mass-magnetics",
+    "website": "https://massmagnetics.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kara.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32137,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785349021,
+    "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "name": "Kara",
+    "nonprofit": false,
+    "one_liner": "Making Diamond Semiconductors",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "kara",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hardware",
+      "B2B",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kara",
+    "website": "https://karalabs.ai/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3676,16 +3925,14 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1778869862,
-    "long_description": "",
+    "long_description": "GUILD is an AI-Native Defense contractor making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
     "name": "GUILD",
     "nonprofit": false,
-    "one_liner": "Neoprime Reshaping Defense Supply Chain",
+    "one_liner": "AI-Native Defense Contractor",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "slug": "guild",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
@@ -3693,16 +3940,516 @@
     "status": "Active",
     "subindustry": "Industrials -> Defense",
     "tags": [
-      "GovTech",
-      "Compliance",
+      "Artificial Intelligence",
       "Manufacturing",
       "Supply Chain",
-      "AI"
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/guild",
     "website": "https://www.guildai.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bizmark.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "LeanLog"
+    ],
+    "id": 32200,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784331710,
+    "long_description": "Hey YC! We're Bizmark. I (Rodrigo) grew up in a factory, watching my mum run everything through Excel and email.\r\n\r\nThat’s why we’ve built Otto, the OpenClaw for manufacturers.\r\n\r\nIn a few days, he learns from your systems and spreadsheets to take over repetitive work in procurement, quoting, and production planning. \r\n\r\nOtto is live at multiple factories, bringing in $108k in annual recurring revenue. Last month, he worked the equivalent of 9 full-time employees.\r\n\r\nI did CS at UChicago and built a distribution business from 0 to $60M.\r\n\r\nMy cousin and cofounder Oscar did CS at Stanford and deployed AI for the US Air Force, Amazon, and the factories of Johnson & Johnson and Intel.\r\n\r\nThere's a quarter of a million manufacturers in the US, making this a $25B market.\r\n\r\nIn 5 years, they will all run on Otto-pilot.",
+    "name": "Bizmark",
+    "nonprofit": false,
+    "one_liner": "OpenClaw for manufacturers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "bizmark",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2b3b896d33b5af63938bfada70f7377592ac49.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/bizmark",
+    "website": "https://bizmark.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rasyn.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32261,
+    "industries": [
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1785736030,
+    "long_description": "We builds foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs.\r\n\r\nDesigning a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab.\r\n\r\nOur models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three.\r\n\r\nWe are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+    "name": "Rasyn",
+    "nonprofit": false,
+    "one_liner": "Making chemicals 100,000x faster",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rasyn",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffda7ce34aee49cfec95fa8aef9ed1a70e4c3e28.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Biotech",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rasyn",
+    "website": "https://www.rasyn.ai/"
+  },
+  {
+    "all_locations": "Ann Arbor, MI, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/aerogen-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32584,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786900126,
+    "long_description": "We are building the future of chip manufacturing.\r\n\r\nChips are more advanced than ever, and the features inside them keep getting smaller. But the cleanroom infrastructure supporting their manufacture has not scaled at the same pace. Intel, TSMC, Samsung, and others spend billions building and operating massive cleanrooms, only to isolate their most advanced wafers from the surrounding facility as much as possible.\r\n\r\nWe think that architecture is backwards. Instead of making the entire building cleaner, why not make the machinery itself as clean as possible?\r\n\r\nTalos is our proprietary tool-integrated purification system. It sits directly inside semiconductor equipment and continuously destroys airborne molecular contaminants before they reach the wafer. Instead of fighting contamination by constantly flooding tools with ultra-high-purity nitrogen, Talos keeps the environment inside the machine 10–100x cleaner, without the massive purge-gas bill.\r\n\r\nTalos is powerful on its own, but it is also the foundation for a much bigger vision: the Cleanpipe.\r\n\r\nThe Aerogen Systems Cleanpipe is an ultra-clean interconnect infrastructure that protects wafers as they move from machine to machine across the fab. Rather than relying on a billion-dollar cleanroom to protect every cubic foot of factory space, Cleanpipe creates a controlled environment only where cleanliness actually matters: around the wafer.\r\n\r\nTalos cleans the tools. Cleanpipe connects them. Eventually, we delete the cleanroom and build more advanced chips, at greater scale, with radically less infrastructure. With cleanpipes connecting tools, chip fabs can exist anywhere.",
+    "name": "Aerogen Systems",
+    "nonprofit": false,
+    "one_liner": "Modernizing Chip Manufacturing Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "aerogen-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hard Tech",
+      "B2B",
+      "Manufacturing",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aerogen-systems",
+    "website": "https://www.aerogensystems.com/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32717,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1784835700,
+    "long_description": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours. ",
+    "name": "Neuron Industries",
+    "nonprofit": false,
+    "one_liner": "Industrial Controllers built for AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "neuron-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12fc3438894b5a05c8d3d1997a329d2c5053c9b8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotic Process Automation",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "website": "https://neuronindustries.com"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ultrasonium.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32750,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1785870310,
+    "long_description": "The technologies that define this century, including data centers, rockets, satellites, and robots, are built from complex metal parts. As these systems advance, the parts get harder to make. Past a certain complexity, casting and machining stop working, and the advanced methods that remain are slow, expensive, and hazardous.\r\n\r\nUltrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes. \r\n\r\nThe systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.\r\n\r\nOur founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods. ",
+    "name": "Ultrasonium",
+    "nonprofit": false,
+    "one_liner": "Metal manufacturing, faster, cheaper, and more versatile.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ultrasonium",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734dc12d12265ba8890bf4ef5e7e564bdb629a87.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "website": "https://ultrasonium.com/"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32913,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786300632,
+    "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
+    "name": "Pacific",
+    "nonprofit": false,
+    "one_liner": "Mass-producing and financing micro data center incredibly quickly.",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "pacific",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Fintech",
+      "Robotics",
+      "Space Exploration",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pacific",
+    "website": "https://gopacific.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/provenmetal.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Syncra"
+    ],
+    "id": 33017,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1783632830,
+    "long_description": "ProvenMetal manufactures the fastest circuit boards in the United States.\r\n\r\nDomestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet.\r\n\r\nWe automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.\r\n",
+    "name": "ProvenMetal",
+    "nonprofit": false,
+    "one_liner": "AI-native electronics manufacturing for the American industrial base",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "provenmetal",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/450cf955a0b5a1e301afe718484dd30ffb22fb67.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/provenmetal",
+    "website": "https://provenmetal.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33053,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786517990,
+    "long_description": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over.\r\n\r\nOur founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "name": "Shiraz AI",
+    "nonprofit": false,
+    "one_liner": "Robots that learn on the job",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shiraz-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d2ffb0a884b8a3781f59266189d89f4b30d975.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Generative AI",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "website": "https://shiraz.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/spaceflow-technologies-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33311,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785644557,
+    "long_description": "SpaceFlow is an AI-native procurement services company for businesses that make, move and serve physical goods. We help procurement teams bring more spend under management, execute source-to-contract work and turn identified savings into realized savings without adding headcount or replacing existing systems.",
+    "name": "SpaceFlow Technologies, Inc.",
+    "nonprofit": false,
+    "one_liner": "AI-native procurement services for the physical economy",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "spaceflow-technologies-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Fintech",
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/spaceflow-technologies-inc",
+    "website": "https://spaceflow.tech"
+  },
+  {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35290,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786284917,
+    "long_description": "",
+    "name": "Antropi Robotics",
+    "nonprofit": false,
+    "one_liner": "Autonomous CNC factories for faster hardware",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "antropi-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/antropi-robotics",
+    "website": "https://www.antropi.world/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35454,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789000982,
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "name": "Shepherd Robotics",
+    "nonprofit": false,
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shepherd-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "website": "https://shepherdrobotics.ai/"
+  },
+  {
+    "all_locations": "El Segundo, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sinter-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36708,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1788569774,
+    "long_description": "Sinter is creating a faster and radically more affordable American plastics pipeline, helping iteration heavy hardware teams evolve from additive prototypes to production parts on week-scale timelines.",
+    "name": "Sinter",
+    "nonprofit": false,
+    "one_liner": "Accelerating scaled plastics with additive technologies",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "sinter-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "3D Printing",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sinter-systems",
+    "website": "https://sinter.systems"
   }
 ]

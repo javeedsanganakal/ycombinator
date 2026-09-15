@@ -39,7 +39,7 @@
     "website": "http://medmonk.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/science-exchange.json",
     "app_answers": null,
     "app_video_public": false,
@@ -250,7 +250,7 @@
     "website": "http://www.crowdmed.com"
   },
   {
-    "all_locations": "Virginia Beach, VA, USA",
+    "all_locations": "Charlotte, NC, USA; Virginia Beach, VA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/7cups.json",
     "app_answers": null,
     "app_video_public": false,
@@ -289,7 +289,7 @@
     "website": "http://7cups.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/in-your-corner.json",
     "app_answers": null,
     "app_video_public": false,
@@ -332,7 +332,7 @@
     "website": "http://inyourcorneronline.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/transcriptic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -372,7 +372,7 @@
     "website": "http://transcriptic.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/call9.json",
     "app_answers": null,
     "app_video_public": false,
@@ -449,7 +449,7 @@
     "website": "http://careledger.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/histowiz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -842,7 +842,7 @@
     "website": "https://bumpline.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Boston, MA, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/modern-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -924,7 +924,7 @@
       "Insurance"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 87,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/evry-health",
     "website": "http://evryhealth.com/"
@@ -974,7 +974,7 @@
     "website": "https://www.psylaris.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/pelago.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1060,7 +1060,7 @@
     "website": "http://www.algosurg.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/fidocure.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1104,7 +1104,7 @@
     "website": "https://www.fidocure.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Fort Lauderdale, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/curebase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1190,7 +1190,7 @@
     "website": "https://www.medinas.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/pine-park-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1295,7 +1295,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1525748781,
     "long_description": "Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions.",
     "name": "Bot MD",
@@ -1319,51 +1319,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bot-md",
     "website": "https://www.botmd.io"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/bunkerhill-health.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2019",
-    "demo_day_video_public": false,
-    "former_names": [
-      "BunkerHill",
-      "BunkerHill Health"
-    ],
-    "id": 12042,
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1588466168,
-    "long_description": "Bunkerhill Health's mission is to increase the rate of creation and adoption of Al in healthcare. We are building a platform, Carebricks, for health systems to create, share, and deploy Al agents for clinical and operational tasks. Backed by Sequoia.",
-    "name": "Bunkerhill Health",
-    "nonprofit": false,
-    "one_liner": "Bunkerhill Health is building the system of action for health systems",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "bunkerhill-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e37f47c8f336faaae481a49417e95761012d1dbb.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 30,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/bunkerhill-health",
-    "website": "http://bunkerhillhealth.com"
   },
   {
     "all_locations": "Athens, Greece; Miami, FL, USA",
@@ -1595,7 +1550,7 @@
     "website": "http://www.bravecare.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/directshifts.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1612,16 +1567,16 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1556764281,
-    "long_description": "We connect healthcare workers (physicians, advanced practitioners, nurses and allied health workers) to hospitals/clinics/telehealth companies for short/full time job opportunities. ",
+    "long_description": "DirectShifts helps telehealth and digital health companies build, launch, and scale nationwide clinical workforces.\r\n\r\nWe provide the workforce and operational infrastructure needed to expand into new states—from recruiting physicians, nurse practitioners, physician assistants, nurses, and other clinicians to managing multi-state licensing, credentialing, payer enrollment, collaborative physician supervision, telehealth scheduling, and ongoing workforce operations.\r\n\r\nFor companies expanding nationally, we help clinicians obtain and maintain licenses across multiple states, manage Medicare, Medicaid, and commercial payer enrollment, and provide collaborative physician and supervision solutions for advanced practice providers. We also help manage clinician availability and scheduling so organizations can align provider capacity with patient demand.\r\n\r\nInstead of building separate internal teams and systems for recruiting, licensing, credentialing, supervision, and scheduling, healthcare companies can use DirectShifts as a single platform to manage these functions.\r\n\r\nIn addition to telehealth and digital health companies, we work with hospitals, health systems, physician groups, and other healthcare organizations to recruit and deploy clinicians and manage the infrastructure required to support their clinical workforce.\r\n\r\nBy combining technology, automation, and healthcare workforce expertise, DirectShifts helps healthcare organizations launch in new states faster, reduce operational complexity, and scale their clinical workforce nationwide.\r\n",
     "name": "DirectShifts",
     "nonprofit": false,
-    "one_liner": "Helping healthcare workers find their next career opportunity ",
+    "one_liner": "Workforce platform to recruit, license, credential & manage clinicians",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "directshifts",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669185db4e1c72e8c0c2041d35950c4045986b7f.png",
@@ -1875,7 +1830,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1611246656,
     "long_description": "Every hospital hires clinical pharmacists to answer clinical questions from doctors. \r\n\r\nThey outsource this to us because we’re more efficient.",
     "name": "InpharmD",
@@ -1905,7 +1860,7 @@
     "website": "https://www.inpharmd.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/triomics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1962,7 +1917,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1646347894,
     "long_description": "At Serif Health, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, easier to understand, fairer, and ultimately more affordable for all. New price transparency regulations have made a wealth of healthcare pricing and reimbursement data publicly available for the first time, but it is still extremely hard to ingest, organize, and actually use this data to understand the cost of care. That’s where we come in. Serif Health is building healthcare price intelligence data products and APIs to power the future of more transparent healthcare.\r\n\r\nWe are an early-stage, venture-backed startup with a small, collaborative team of healthcare experts, engineers, and designers. We are excited to add new team members motivated by our mission, passionate about making a difference in healthcare, and looking forward to learning and growing from the challenges we will face along the way!",
     "name": "Serif Health",
@@ -1976,7 +1931,7 @@
       "Fully Remote"
     ],
     "slug": "serif-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e3b6e17c1858f320778e38ff8fee6dda1399834.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b34a9937df90f010a7a0ad7dcae030b7c2469c94.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -1988,7 +1943,7 @@
       "API"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/serif-health",
     "website": "https://www.serifhealth.com"
@@ -2082,7 +2037,7 @@
     "website": "https://withpillar.com"
   },
   {
-    "all_locations": "New York, NY, USA; Los Angeles, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Los Angeles, CA, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/ruth-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2173,7 +2128,7 @@
     "website": "https://northwindskin.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/alfie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2350,7 +2305,7 @@
     "website": "http://HelloLunaJoy.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rthm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2368,16 +2323,16 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1646934609,
-    "long_description": "Current Description: RTHM provides virtual-first care for complex illness including Long COVID, ME/CFS, POTS, and mast cell activation.  Many clinics focus on teaching patients how to better cope with symptoms, which is helpful, but we don’t stop there.  We develop collaborations & partnerships so our patients access to the most promising testing and root-cause directed early therapies for their illness(es) with the goal of simplifying and streamlining the most efficient and effective clinical pathways so they can be scaled in the form of low cost online modules overseen remotely by clinicians.  \r\n\r\nIn conjunction with clinical care, RTHM operates a clinical lab and collects deep molecular data with robust clinical context to develop AI-powered diagnostics and better ways of predicting which treatments may work best for whom.",
+    "long_description": "RTHM is the self-learning digital clinic for medicine's new normal: complex patients with lots of data and/or multiple chronic conditions. We are focused on infection-associated chronic conditions and autoimmune conditions impacting 70M individuals in the US. ",
     "name": "RTHM",
     "nonprofit": false,
-    "one_liner": " Simplifying complex illness care at scale",
+    "one_liner": "Self-learning care for complex illness",
     "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "rthm",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd57e5296d2209f67d20ed24f4f46c80b1984e47.png",
@@ -2385,14 +2340,14 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Health Tech",
       "Digital Health",
-      "Healthcare",
       "Telemedicine"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rthm",
     "website": "https://www.rthm.com"
@@ -2504,9 +2459,9 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1675703099,
-    "long_description": "Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung disease. Kivo's AI powered virtual care programs help health plans reduce costs by keeping members healthy and out of the hospital.",
+    "long_description": "Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung care. We keep people out of the hospital and save payers $8k+ on average per patient. We work with major health systems like Stanford, UCLA and Optum Health. We just raised our $10M Series A and are growing quickly.",
     "name": "Kivo Health",
     "nonprofit": false,
     "one_liner": "AI-powered care for seniors with chronic disease",
@@ -2519,7 +2474,7 @@
     ],
     "slug": "kivo-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee15c21c618dfd0aa1cbb6bb3be671ac26a2be94.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
     "tags": [
@@ -2529,13 +2484,13 @@
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kivo-health",
     "website": "https://kivohealth.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/loula.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2550,7 +2505,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1676654710,
     "long_description": "Loula is a software platform and national provider network for independent birth & postpartum doulas to boost their practices by accepting health insurance. Doulas typically operate outside of the traditional healthcare system and face an enormous learning curve and administrative burden when trying to accept insurance. This is why we created Loula. Starting with doulas in California, Loula handles their credentialing, contracting, and revenue cycle management so that they can focus on delivering the best quality care to their clients.",
     "name": "Loula",
@@ -2639,12 +2594,12 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1690927737,
-    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
+    "long_description": "Shasta Health builds AI agents that run the healthcare front office. We handle calls, texts, insurance verification, prior authorizations, and more - helping turn patient interest into completed, billable visits. Your team gets more time to focus on the patients in front of them.",
     "name": "Shasta Health",
     "nonprofit": false,
-    "one_liner": "AI calling & browser agents for healthcare",
+    "one_liner": "The last healthcare admin hire",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2663,7 +2618,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/shasta-health",
     "website": "https://www.shasta.health"
@@ -2713,7 +2668,7 @@
     "website": "https://lifestylerx.io/"
   },
   {
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/oma-care.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2736,7 +2691,8 @@
     "one_liner": "Get paid for taking care of your parents. ",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "oma-care",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7fceaead3284b794c1d0cfd96318f52d2e24bdd.png",
@@ -2853,10 +2809,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1746560485,
-    "long_description": "Novoflow is building AI employees that automate medical operations for clinics. Novoflow built the universal bridge into EHR systems—so every workflow, from scheduling to billing, can finally run on AI. The first product is an AI employee that talks to patients and uses computer agents to book, reschedule, and recover cancelled appointments. Built for healthcare providers and hospitals.",
+    "long_description": "Novoflow deploys AI agents that operate on any medical practice’s EHR to automate its biggest operational bottlenecks. Deployment takes weeks and does not require staff to change how they work. Built for healthcare providers and hospitals.",
     "name": "Novoflow",
     "nonprofit": false,
-    "one_liner": "AI employees that automate medical operations for clinics. ",
+    "one_liner": "Computer-using agents for healthcare operations",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2867,7 +2823,9 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
-    "tags": [],
+    "tags": [
+      "Health Tech"
+    ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
@@ -2892,10 +2850,10 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1762272308,
-    "long_description": "Libretto is a token-efficient CLI and agent skill that generates production-ready browser automations as code in your repo.\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
+    "long_description": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
     "name": "Libretto",
     "nonprofit": false,
-    "one_liner": "Agents that Build Deterministic Web Automations",
+    "one_liner": "Turn website workflows into reliable APIs",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2930,7 +2888,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1761922527,
     "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
     "name": "Overdrive Health",
@@ -2955,6 +2913,45 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/sunflower.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30914,
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1757558729,
+    "long_description": "Sunflower is building an AI-native telemedicine clinic for addiction. There are over 18,750 patients on a waitlist for Therapy or Meds, representing $153M worth of TAM just waiting to be served. \r\n\r\nWe started by launching Sunflower Sober, the first AI Sponsor for addiction which grew to 100 MAU in less than 6 months and currently driving about $1.5M in run-rate worth of subscription app revenue.  \r\n\r\nSunflower Sober is currently pacing to add over 800,000 new users a year which means we are growing literally faster than Alcoholics Anonymous. \r\n\r\nWe have built one of the largest and most deeply loved brands within sobriety, and now we are building the clinical services underneath this brand to better fulfill on our mission & serve Medicaid who spends over $30B a year on SUD services. \r\n\r\nSunflower is founded by Koby who previously led Growth at Rupa from $5M to $75M/year. Our team includes clinical leaders (MDs / LPCs) from the Mayo Clinic, Choose Your Horizon, & Charlie Health. ",
+    "name": "Sunflower",
+    "nonprofit": false,
+    "one_liner": "We are building an AI-native telemedicine clinic for addiction. 🌻",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "sunflower",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae86a0721b6effe108baf0067f19c1305be5c48b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sunflower",
+    "website": "https://sunflowerclinic.com/"
+  },
+  {
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3019,28 +3016,100 @@
     "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
     "name": "Taiga",
     "nonprofit": false,
-    "one_liner": "Full-stack Medical Billing Services",
+    "one_liner": "Autonomous medical billing",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "taiga",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfcf298ee30d2d363ae6ce1b93ccf3860b0c9cda.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29ba4c51cb703681310648e796b95e0311cd952.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/taiga",
-    "website": "https://usetaiga.com"
+    "website": "https://taigabilling.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/plena-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31493,
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1780106406,
+    "long_description": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
+    "name": "Plena Health",
+    "nonprofit": false,
+    "one_liner": "Plena is the AI operating system for specialty medical practices",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "plena-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3904753c66e12d522cb76c36f26a8325b7a90c7e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/plena-health",
+    "website": "https://www.plena.health/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/panacea.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31544,
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1778968383,
+    "long_description": "Panacea provides AI-native FDA regulatory services for Biotechs and Medical Device companies. We hire the most experienced FDA consultants in the industry (ex-FDA, decades of experience, hundreds of filings) and pair them with our AI platform to enable the fastest and lowest cost pathway to FDA approval.\r\n\r\nWhile other regulatory consultants bill hourly, our pricing model is simple: fixed, outcome-based pricing. Payment is only due when milestones are complete.\r\n\r\nWe support all FDA regulatory pathways including IND, NDA, BLA, ODD, Pre-Subs, 510(k), De Novo, PMA, IDE, BDD, etc.",
+    "name": "Panacea",
+    "nonprofit": false,
+    "one_liner": "AI-Native FDA Regulatory Services",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "panacea",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3cb42978681e32c20f28150fda63b8a7d01c37b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/panacea",
+    "website": "https://withpanacea.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arctic-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3071,15 +3140,52 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
-    "tags": [
-      "Healthcare",
-      "Healthcare IT",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/arctic-health",
     "website": "https://arctic.health"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/allia-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33441,
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1787168275,
+    "long_description": "Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale - 600+ providers (350+ therapists, 200+ nurses & doctors, 30+ psychologists) across 70 sites in 32 states, plus telehealth nationwide. Every clinician runs on a single intelligent system of record. And, that intelligence coupled with scale unlocks what no single practice could achieve alone. ",
+    "name": "Allia Health",
+    "nonprofit": false,
+    "one_liner": "First AI-Native Medical Group for Mental Health",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "allia-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6f40f216c0da6b1f8b4caa594f59a5b194dd82.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare",
+      "Mental Health"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/allia-health",
+    "website": "https://allia.health/"
   }
 ]

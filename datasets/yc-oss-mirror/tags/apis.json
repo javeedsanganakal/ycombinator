@@ -39,7 +39,7 @@
     "website": "http://kimonolabs.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/wit-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -78,6 +78,48 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wit-ai",
     "website": "http://wit.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Winter 2020",
+    "demo_day_video_public": false,
+    "former_names": [
+      "NUMI"
+    ],
+    "id": 12974,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1583962983,
+    "long_description": "A unified home for your team's cross-system automations, context, and knowledge.",
+    "name": "Flowglad",
+    "nonprofit": false,
+    "one_liner": "Analyze, act, and automate across systems",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "flowglad",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/flowglad",
+    "website": "https://flowglad.com"
   },
   {
     "all_locations": "United States; Remote",
@@ -190,7 +232,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628280127,
     "long_description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
     "name": "Exa",
@@ -219,7 +261,7 @@
     "website": "https://exa.ai"
   },
   {
-    "all_locations": "Ikeja, LA, Nigeria",
+    "all_locations": "Rotherham, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/miden.json",
     "app_answers": null,
     "app_video_public": false,
@@ -242,8 +284,8 @@
     "one_liner": "Card issuer processor and banking stack for businesses in Sub-…",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -265,7 +307,7 @@
     "website": "http://www.miden.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sieveai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -350,44 +392,88 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/totalis.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "UCALLEDIT®"
-    ],
-    "id": 31344,
+    "former_names": [],
+    "id": 31463,
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "B2B",
+      "Engineering, Product and Design"
     ],
-    "industry": "Fintech",
+    "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1774744766,
-    "long_description": "",
-    "name": "Totalis",
+    "launched_at": 1778126369,
+    "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+    "name": "Armature",
     "nonprofit": false,
-    "one_liner": "derivative layer for prediction markets",
+    "one_liner": "We get your product picked by coding agents.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "armature",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Marketing",
+      "SEO",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/armature",
+    "website": "https://armature.tech"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/contextdev.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32227,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1780323126,
+    "long_description": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 400+ other companies. ",
+    "name": "Context.dev",
+    "nonprofit": false,
+    "one_liner": "We give AI agents realtime web context via API",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "totalis",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
+    "slug": "contextdev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "DeFi",
+      "B2B",
+      "AI",
       "APIs"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/totalis",
-    "website": "https://www.totalis.trade"
+    "url": "https://www.ycombinator.com/companies/contextdev",
+    "website": "https://context.dev"
   }
 ]

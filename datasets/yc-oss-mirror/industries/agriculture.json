@@ -44,7 +44,7 @@
     "website": "http://farmlogs.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/edyn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -84,7 +84,7 @@
     "website": "http://edyn.com"
   },
   {
-    "all_locations": "San Leandro, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Leandro, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/terravion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -253,7 +253,7 @@
     "website": "http://picktrace.com/company"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/inevitable-tech.json",
     "app_answers": null,
     "app_video_public": false,
@@ -634,7 +634,7 @@
     "website": "https://ovipost.com"
   },
   {
-    "all_locations": "Newark, CA, USA",
+    "all_locations": "New York City, NY, USA; Newark, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/bear-flag-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -717,7 +717,7 @@
     "website": "https://fourgrowers.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/enveritas.json",
     "app_answers": null,
     "app_video_public": false,
@@ -972,7 +972,7 @@
     "website": "http://www.micromeat.com"
   },
   {
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/shinkei-systems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1014,7 +1014,7 @@
     "website": "http://www.shinkei.systems"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1057,7 +1057,7 @@
     "website": "https://ohmicbiosciences.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Asheville, NC, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/feanix-biotechnologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1078,7 +1078,8 @@
     "one_liner": "Farm Genetics Made Easy - Using DNA and Software",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "feanix-biotechnologies",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ebea1f97b9fb9414d0775e2f2eff98efacb7b81.png",
@@ -1124,7 +1125,7 @@
     "subindustry": "Industrials -> Agriculture",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 13,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bindwell",
     "website": "https://www.bindwell.ai/"
@@ -1211,22 +1212,24 @@
   },
   {
     "all_locations": "Sydney, NSW, Australia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/brumby.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "GrazeMate"
+    ],
     "id": 31285,
     "industries": [
       "Industrials",
       "Agriculture"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1768433444,
-    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
-    "name": "GrazeMate",
+    "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
+    "name": "Brumby (Formerly GrazeMate)",
     "nonprofit": false,
     "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
     "question_answers": false,
@@ -1236,8 +1239,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "grazemate",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
+    "slug": "brumby",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f64c3261f306e1859d503d40ad84601c127c82.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Agriculture",
@@ -1250,7 +1253,50 @@
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/grazemate",
-    "website": "https://grazemate.com"
+    "url": "https://www.ycombinator.com/companies/brumby",
+    "website": "https://brumby"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/molagri.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32521,
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1782770010,
+    "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
+    "name": "Molagri",
+    "nonprofit": false,
+    "one_liner": "Resistance free pesticides.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "molagri",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Agriculture",
+    "tags": [
+      "Synthetic Biology",
+      "Biotech",
+      "Sustainability",
+      "Climate",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/molagri",
+    "website": "https://molagri.com"
   }
 ]

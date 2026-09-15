@@ -88,7 +88,7 @@
     "website": "http://bodyport.com"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/qvin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -133,7 +133,7 @@
     "website": "https://qvin.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/mdalgorithms-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -158,8 +158,8 @@
     "one_liner": "Democratizing Dermatology with AI ",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Israel",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -317,7 +317,7 @@
     "website": ""
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/dailydoctor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -405,7 +405,7 @@
     "website": "https://docvita.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/ophelia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -442,14 +442,14 @@
       "Telemedicine"
     ],
     "tags_highlighted": [],
-    "team_size": 130,
+    "team_size": 250,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ophelia",
     "website": "https://ophelia.com"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/aios-medical.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/aios.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2020",
@@ -460,7 +460,8 @@
       "Aios",
       "Fella",
       "Fella Health",
-      "Fella & Delilah"
+      "Fella & Delilah",
+      "Aios Medical"
     ],
     "id": 13316,
     "industries": [
@@ -470,10 +471,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1579678888,
-    "long_description": "Our overarching mission is to accelerate the global mass-market adoption of consumer biotech products so every human can live at least 100 healthy years.\r\n\r\nOur immediate focus is excess bodyweight. We are accelerating the global take-up of GLP-1 medications by increasing their accessibility to help solve obesity worldwide.\r\n\r\nTo do that, we’re building an AI-powered clinical operating system: ClinicOS. ClinicOS makes it effortless for consumer brands to easily offer direct-to-patient healthcare, globally. We work with external Brand Partners, as well as using this infrastructure to scale our own internal consumer healthcare brands.\r\n\r\nSince we launched Fella Health in the US in June 2021, Fella has positioned itself as no-nonsense weight loss for busy bigger guys. Today, we operate multiple brands across the US & UK — our two biggest are Fella Health (US & UK) & Bolt Pharmacy (UK).\r\n\r\nOur infrastructure will have served 100 million patients worldwide by 2035. We’ll then use that direct-to-patient infrastructure to serve next-gen biotech products at-scale to increase the proportion of humans living at least 100 healthy years.\r\n\r\nIn so doing, we’ll become the world’s first trillion dollar healthcare company.\r\n\r\nWe’ve grown >1000x since Aug 2021, >200x since Aug 2022, >40x since Aug 2023. We’re serving >50k customers with high NPS. We’re >$100M/yr revenue. We’ve been cashflow positive since June 2023.\r\n\r\nWe’re a young startup and we’re just getting started. This is still Day 1 and all our work is ahead of us.\r\n\r\nYou can read more about working at Aios Medical here: https://fella.notion.site/working-at-aios-medical",
-    "name": "Aios Medical",
+    "long_description": "Our overarching mission is to build the AI operating system for consumer healthcare - delivering end-to-end care with near-zero marginal human time.\r\n\r\nWe believe the future of healthcare is automated, intelligent, radically lower cost, and built around the consumer. We believe biology is entering a golden age. We believe profitable, focused companies beat bloated ones.\r\n\r\nWe're determined to get the humans out of healthcare - replacing slow, expensive, legacy workflows with software-driven care delivered at scale.\r\n\r\nWe’ve started by building this infrastructure to power our own brands - including Bolt Pharmacy and Fella Health, among others. Today, that infrastructure is helping patients access life-changing treatment for excess bodyweight. Over time, we’ll extend it across many of the categories that will define the next era of healthcare.\r\n\r\nOur infrastructure will have served 100 million patients worldwide by 2035. We’ll then use that infrastructure to deliver next-generation healthcare products at massive scale.\r\n\r\nIn doing so, we aim to build the world’s first trillion-dollar healthcare company.",
+    "name": "AIOS",
     "nonprofit": false,
-    "one_liner": "Accelerating the global take-up of GLP-1 medications",
+    "one_liner": "Building AI-native infrastructure for the next era of care.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -481,21 +482,22 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "aios-medical",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0de85134fc604ac092592b05d0a2d2fc9d99b7b0.png",
+    "slug": "aios",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfb824386407fa381280f092e5c71273c90efe4e.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "tags": [
       "Consumer Health Services",
+      "Health Tech",
       "Healthcare",
       "Telemedicine"
     ],
     "tags_highlighted": [],
     "team_size": 100,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/aios-medical",
-    "website": "https://www.fellahealth.com/"
+    "url": "https://www.ycombinator.com/companies/aios",
+    "website": "https://www.aiosmedical.com/"
   },
   {
     "all_locations": "Singapore, Singapore",
@@ -539,6 +541,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hannah-life-technologies",
     "website": "http://twoplusfertility.com"
+  },
+  {
+    "all_locations": "Charleston, SC, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/ringmd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2020",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 21792,
+    "industries": [
+      "Government"
+    ],
+    "industry": "Government",
+    "isHiring": false,
+    "launched_at": 1599762607,
+    "long_description": "We partner with healthcare groups and governments to implement enterprise telemedicine as a service.  ",
+    "name": "RingMD",
+    "nonprofit": false,
+    "one_liner": "We work with governments to implement telemedicine programs.  ",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ringmd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5b54658f5442de91f1200c526663ccf9721ace.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Government",
+    "tags": [
+      "Telehealth",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "team_size": 32,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ringmd",
+    "website": "https://www.ring.md"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -685,7 +728,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1611246656,
     "long_description": "Every hospital hires clinical pharmacists to answer clinical questions from doctors. \r\n\r\nThey outsource this to us because we’re more efficient.",
     "name": "InpharmD",
@@ -757,7 +800,7 @@
     "website": "https://mynextderma.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/instalab.json",
     "app_answers": null,
     "app_video_public": false,
@@ -850,7 +893,7 @@
     "website": "http://www.rinse.dental"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/comet-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1067,7 +1110,7 @@
     "website": "https://northwindskin.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/alfie.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1111,7 +1154,7 @@
     "website": "http://www.joinalfie.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Houston, TX, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/ankr-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1157,7 +1200,7 @@
     "website": "https://ankr.us"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rthm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1175,16 +1218,16 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1646934609,
-    "long_description": "Current Description: RTHM provides virtual-first care for complex illness including Long COVID, ME/CFS, POTS, and mast cell activation.  Many clinics focus on teaching patients how to better cope with symptoms, which is helpful, but we don’t stop there.  We develop collaborations & partnerships so our patients access to the most promising testing and root-cause directed early therapies for their illness(es) with the goal of simplifying and streamlining the most efficient and effective clinical pathways so they can be scaled in the form of low cost online modules overseen remotely by clinicians.  \r\n\r\nIn conjunction with clinical care, RTHM operates a clinical lab and collects deep molecular data with robust clinical context to develop AI-powered diagnostics and better ways of predicting which treatments may work best for whom.",
+    "long_description": "RTHM is the self-learning digital clinic for medicine's new normal: complex patients with lots of data and/or multiple chronic conditions. We are focused on infection-associated chronic conditions and autoimmune conditions impacting 70M individuals in the US. ",
     "name": "RTHM",
     "nonprofit": false,
-    "one_liner": " Simplifying complex illness care at scale",
+    "one_liner": "Self-learning care for complex illness",
     "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "rthm",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd57e5296d2209f67d20ed24f4f46c80b1984e47.png",
@@ -1192,14 +1235,14 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Health Tech",
       "Digital Health",
-      "Healthcare",
       "Telemedicine"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rthm",
     "website": "https://www.rthm.com"
@@ -1293,49 +1336,5 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/scanbase",
     "website": "https://www.scanbase.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Clara Health"
-    ],
-    "id": 31063,
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1774031425,
-    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
-    "name": "Clara",
-    "nonprofit": false,
-    "one_liner": "AI primary care doctor",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "clara-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "tags": [
-      "Telehealth",
-      "Healthcare",
-      "Telemedicine",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 9,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/clara-2",
-    "website": "http://askclara.com"
   }
 ]

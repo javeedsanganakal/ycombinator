@@ -88,7 +88,7 @@
     "website": "http://www.allotropemed.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Fort Lauderdale, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/curebase.json",
     "app_answers": null,
     "app_video_public": false,
@@ -214,7 +214,7 @@
     "website": "https://www.honeylove.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/phiar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -259,7 +259,7 @@
     "website": "https://www.phiar.net"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/owny.json",
     "app_answers": null,
     "app_video_public": false,
@@ -273,7 +273,7 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1524539152,
     "long_description": "Owny provides businesses with a turn-key portal to issue Funds, SAFEs and Notes. Your portal is fully equipped to manage investors, treasury, multi-currency accounts and ability to send and request ACH/Wire payments globally. Optional features include seamless crypto custody and solutions through Coinbase Institutional.",
     "name": "OWNY",
@@ -352,24 +352,25 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/within.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2018",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Klarity"
+    ],
     "id": 1891,
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1524539154,
-    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "name": "Klarity",
+    "long_description": "Within (formerly Klarity) is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Within maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Within agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Within finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "name": "Within",
     "nonprofit": false,
-    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "one_liner": "Company Brain for people and agents to work in harmony. ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -377,23 +378,24 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "klarity",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
+    "slug": "within",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2042332b2acb87efa7d99dd0d67b29d1b1a0c882.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "ML"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 128,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/klarity",
-    "website": "http://klarity.ai"
+    "url": "https://www.ycombinator.com/companies/within",
+    "website": "http://within.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/c16-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -598,7 +600,7 @@
     "website": "http://numericcal.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Austin, TX, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dinesafe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -681,7 +683,7 @@
     "website": "https://satchel.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/jetlenses.json",
     "app_answers": null,
     "app_video_public": false,
@@ -693,7 +695,7 @@
     "id": 1901,
     "industries": [
       "Healthcare",
-      "Consumer Health and Wellness"
+      "Healthcare IT"
     ],
     "industry": "Healthcare",
     "isHiring": true,
@@ -701,7 +703,7 @@
     "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
     "name": "Verse Medical",
     "nonprofit": false,
-    "one_liner": "Software platform for in-home healthcare",
+    "one_liner": "AI-enabled ordering for medical equipment & supplies",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -711,13 +713,10 @@
     ],
     "slug": "jetlenses",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "tags": [
-      "Consumer Health Services",
-      "Medical Devices"
-    ],
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 200,
     "top_company": false,
@@ -799,7 +798,7 @@
     "slug": "federacy",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92f7e4043272afb2d32ff9d60730c4894c817ea3.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Security"
@@ -913,10 +912,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1524629145,
-    "long_description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
+    "long_description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in >40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team understand and grow their revenue.",
     "name": "RevenueCat",
     "nonprofit": false,
-    "one_liner": "A simple API for managing in-app subscriptions",
+    "one_liner": "Build and grow your app business",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -934,7 +933,7 @@
       "Subscriptions"
     ],
     "tags_highlighted": [],
-    "team_size": 70,
+    "team_size": 160,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/revenuecat",
     "website": "https://www.revenuecat.com/"
@@ -1025,7 +1024,7 @@
     "website": "https://www.demeanor.co"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/activeloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1073,7 +1072,7 @@
     "website": "https://activeloop.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/contrast.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1156,7 +1155,7 @@
     "website": "https://www.inokyo.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/titan.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1491,7 +1490,7 @@
     "website": "https://www.apprenticehealth.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Frisco, CO, USA; San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/college-pulse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1576,7 +1575,7 @@
     "website": "https://www.quo.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/optic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1661,7 +1660,7 @@
     "website": "https://www.medinas.com/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1707,7 +1706,7 @@
     "website": "https://soundkins.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/spero-foods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1838,7 +1837,7 @@
     "website": "http://www.gfi.org"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/hepatx.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1881,7 +1880,7 @@
     "website": "http://www.hepatx.com"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/radix-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1925,7 +1924,7 @@
     "website": "http://radix.bio"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/clear-gene.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1984,7 +1983,7 @@
       "Drones"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525133083,
     "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
     "name": "Paladin",
@@ -2014,7 +2013,7 @@
     "website": "http://paladindrones.io"
   },
   {
-    "all_locations": "San Mateo, CA, USA; Helsinki, Finland",
+    "all_locations": "San Francisco, CA, USA; Helsinki, Finland",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/meru-health.json",
     "app_answers": true,
     "app_video_public": true,
@@ -2061,7 +2060,7 @@
     "website": "http://www.meruhealth.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/vimcal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2167,7 +2166,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525143905,
     "long_description": "We replace form builders like Typeform and custom code as the way you collect information from users using low code tools. For example you’re a health tech startup and want an onboarding flow but don’t want to use Typeform and don’t have engineering bandwidth. You can use Embeddables to build a totally custom concierge flow and embed it in your app. Then make edits and view analytics, without writing code.",
     "name": "Embeddables",
@@ -2239,7 +2238,7 @@
     "website": "http://www.64xbio.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/anima-app.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2254,14 +2253,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1525143908,
-    "long_description": "In the space of AI coding agents, Anima bridges the LLM design gap.\r\nWith over 1.5 million installs, Anima is the first option for professional design, product, and R&D teams going from design to code.\r\n\r\nThanks to On-brand Vibe-coding, anyone in the team can build fast without breaking your look and feel. No Figma skills required. Anima generates clean and developer-friendly code. So your prototypes could also be used for handoff.\r\n\r\nThree ways to start\r\n- Figma to Code → Instantly generate clean React, HTML, or Vue code from Figma designs.\r\n- Website to Code (Cloning / Remixing) → Import any live website and turn it into editable code.\r\n- Prompt to Design (coming soon) → Generate high-end UI directly from natural language prompts, automatically styled to your brand.\r\n\r\nKey features\r\n- Start at AnimaApp.com to bring your design or your website to Anima\r\n- Chat in Anima playground to iterate on your project's code while staying on-brand\r\n- Handoff playground link to engineering\r\n- Or, download code to continue with Clause code ot Cursor\r\n- Or, publish a public link to share with clients or stakeholders",
+    "long_description": "For professional design, product, and R&D teams, Anima offers professional vibe coding.\r\nFor agents, AgentGrid.io is a shared workspace for humans and agents to share files and collaborate.\r\n\r\nAt AnimaApp.com - We offer on-brand Vibe-coding, anyone in the team can build fast without breaking your look and feel. No Figma skills required. Anima generates clean and developer-friendly code. So your prototypes could also be used for handoff.\r\n\r\nThree ways to start\r\n- Figma to Code → Instantly generate clean React, HTML, or Vue code from Figma designs.\r\n- Website to Code (Cloning / Remixing) → Import any live website and turn it into editable code.\r\n- Prompt to Design (coming soon) → Generate high-end UI directly from natural language prompts, automatically styled to your brand.\r\n\r\nKey features\r\n- Start at AnimaApp.com to bring your design or your website to Anima\r\n- Chat in Anima playground to iterate on your project's code while staying on-brand\r\n- Handoff playground link to engineering\r\n- Or, download code to continue with Clause code ot Cursor\r\n- Or, publish a public link to share with clients or stakeholders",
     "name": "Anima App",
     "nonprofit": false,
-    "one_liner": "Design to Code & On-brand Vibe-coding",
-    "question_answers": false,
+    "one_liner": "Anima - Design Agent | AgentGrid.io - Shared drive for humans & agents",
+    "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Israel",
+      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -2332,7 +2331,7 @@
     "website": "https://pocketworlds.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Ottawa, ON, Canada",
+    "all_locations": "Ottawa, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/tall-poppy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2353,7 +2352,6 @@
     "one_liner": "Protecting your employees against online harassment",
     "question_answers": false,
     "regions": [
-      "United States of America",
       "Canada",
       "America / Canada",
       "Remote",
@@ -2375,7 +2373,7 @@
     "website": "https://tallpoppy.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/ixora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2634,7 +2632,7 @@
     "website": "https://www.scanwellhealth.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/corvus-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2892,7 +2890,7 @@
     "website": "https://cspa.io"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/regology.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2925,7 +2923,7 @@
     "slug": "regology",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4e59148374543e5853a9de0a3bbd86ccab2246e.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Legal",
     "tags": [
       "Legal",
@@ -3036,7 +3034,7 @@
     "website": "http://www.purpleplate.co"
   },
   {
-    "all_locations": "Bogotá, Bogota, Colombia; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Lima, Callao Region, Peru; Panama City, Panama, Panama; Remote",
+    "all_locations": "Mexico City, CDMX, Mexico; Santiago, Santiago Metropolitan Region, Chile; Lima, Callao Region, Peru; Panama City, Panama, Panama; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/ubits.json",
     "app_answers": true,
     "app_video_public": false,
@@ -3060,9 +3058,8 @@
     "one_liner": "Learning Hub for companies in Latam",
     "question_answers": false,
     "regions": [
-      "Colombia",
-      "Chile",
       "Mexico",
+      "Chile",
       "Peru",
       "Panama",
       "Latin America",
@@ -3129,7 +3126,7 @@
     "website": "https://www.ajaib.co.id/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dreamcraft-entertainment-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3177,7 +3174,7 @@
     "website": "https://www.dreamcraft.com/"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/rain-neuromorphics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3235,7 +3232,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1525302481,
-    "long_description": "CB Therapeutics is a synthetic biology company focused on bringing cannabinoid and tryptamine therapeutics to the clinic and commercial markets to treat depression, PTSD, opioid addiction, alcoholism, pain, and other mental health problems.\r\n",
+    "long_description": "CB Therapeutics engineers microbes to produce high-value ingredients for medicines, supplements, and other wellness products through sustainable biomanufacturing. \r\n",
     "name": "CB Therapeutics",
     "nonprofit": false,
     "one_liner": "Fermentation-derived natural products to solve health problems ",
@@ -3262,7 +3259,7 @@
     "website": "http://www.cbthera.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/pine-park-health.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3707,7 +3704,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1525316920,
     "long_description": "Papa is a one-stop-shop for flexible family care, providing companionship and a helping hand wherever it’s needed. With wide-ranging industry, technology, and transformation experience, we share a vision for a world where no one has to go it alone. And a deep well of gratitude for the Papa People who move this vision forward.\r\n\r\n\r\nFounded in 2017 and headquartered in Miami, Papa is backed by Canaan, Tiger Global Management, Comcast Ventures, SoftBank Vision Fund 2, TCG, Initialized Capital, and Seven Seven Six, among other revered institutional and individual investors. \r\n\r\n\r\nPapa is an equal opportunity employer. We proudly support the ParityPledge® for gender and/or racial parity at the highest levels of business.\r\n\r\n",
     "name": "Papa",
@@ -3864,7 +3861,7 @@
     "website": "https://supplant.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/prodigal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3905,7 +3902,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 99,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/prodigal",
     "website": "https://prodigaltech.com/"
@@ -4003,7 +4000,7 @@
     "website": "https://www.tenderd.com/"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/names-and-faces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4090,7 +4087,7 @@
     "website": "https://fintual.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Santa Clara, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/momentus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4154,7 +4151,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1525748781,
     "long_description": "Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions.",
     "name": "Bot MD",
@@ -4220,7 +4217,7 @@
     "website": "https://www.ziffyhomes.com/"
   },
   {
-    "all_locations": "San Jose, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/nestor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4307,7 +4304,7 @@
     "website": "http://www.shelfengine.com"
   },
   {
-    "all_locations": "Dallas, TX, USA; San Francisco, CA, USA",
+    "all_locations": "Dallas, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/nova-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4352,7 +4349,7 @@
     "website": "https://novahq.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/eden-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4368,19 +4365,19 @@
     "id": 2003,
     "industries": [
       "Healthcare",
-      "Healthcare IT"
+      "Diagnostics"
     ],
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1525846177,
-    "long_description": "Developing AI to unleash diagnostic abundance: accurate and timely medical imaging for all of humanity.\r\n\r\nEden is the leading AI-and-cloud-native Diagnostic OS, empowering over 2,600 medical institutions across 18 countries and impacting millions of patients every year.\r\n\r\nAll, with one purpose: building the best tools to perform medicine at its highest level.\r\n\r\n",
+    "long_description": "\r\nWe create the infrastructure and frontier AI that turn diagnostic data into precise clinical answers.\r\n\r\nOur Diagnostic OS supports the care of more than one patient every two seconds across 2,800+ healthcare systems in 20 countries.\r\n\r\nWe believe medicine is humanity’s most sacred work and we build the tools it deserves: Tools for Miracles.\r\n",
     "name": "Eden",
     "nonprofit": false,
-    "one_liner": "Developing AI to unleash diagnostic abundance.",
+    "one_liner": "Building Clinical Superintelligence.",
     "question_answers": false,
     "regions": [
-      "Mexico",
-      "Latin America",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4388,13 +4385,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9ed624456ba1fbda4567d62416d80343145cd4d.png",
     "stage": "Growth",
     "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "subindustry": "Healthcare -> Diagnostics",
     "tags": [
+      "Artificial Intelligence",
       "Digital Health",
       "Healthcare"
     ],
     "tags_highlighted": [],
-    "team_size": 55,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/eden-2",
     "website": "https://edenmed.com"
@@ -4654,7 +4652,7 @@
     "website": "http://www.kobo360.com"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
+    "all_locations": "London, England, United Kingdom; LA, Nigeria",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/helicarrier-prev-buycoins.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4680,7 +4678,9 @@
     "one_liner": "Cryptocurrency infrastructure for Africa.",
     "question_answers": false,
     "regions": [
+      "United Kingdom",
       "Nigeria",
+      "Europe",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -4789,7 +4789,7 @@
     "website": "http://www.ongrin.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/mutiny.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4832,7 +4832,7 @@
     "website": "https://www.mutinyhq.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/synkrino-biotherapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4874,7 +4874,7 @@
     "website": "http://www.synkrino.bio"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dnovo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4959,7 +4959,7 @@
     "website": "https://www.leena.ai"
   },
   {
-    "all_locations": "New York City, NY, USA; Oakland, CA, USA",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/anniecannons.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4973,7 +4973,7 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1527048482,
-    "long_description": "AnnieCannons (AC) is a 501(c)3 nonprofit dedicated to training survivors of human trafficking and gender-based violence to be programmers, giving them both the economic and technological empowerment to invent solutions to overcome the hardships they have survived, and the capacity to support themselves and their families. \r\n",
+    "long_description": "AnnieCannons' mission is to train, prepare, and connect human trafficking survivors of sustainable careers in tech. Through a trauma-informed coding and workforce development program, AnnieCannons trains survivors to become professional software developers and AI engineers and places them in paid apprenticeships with partner companies through a model that converts at over 80%, with median starting salaries of $75,000 or more. The program is tailored for people who have faced compounded barriers including poverty, housing insecurity, interrupted education, and trauma across multiple systems. ",
     "name": "AnnieCannons",
     "nonprofit": true,
     "one_liner": "Connecting Survivors to Careers in Tech",
@@ -4982,7 +4982,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "anniecannons",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/324bfa1e5d16ce99b583a7336b9027c846e41503.png",
@@ -5001,7 +5001,7 @@
     "website": "https://www.anniecannons.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Dallas, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/mark-cuban-cost-plus-drug-company-pbc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5025,7 +5025,8 @@
     "one_liner": "Making low cost versions of high cost generic drugs.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "mark-cuban-cost-plus-drug-company-pbc",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/505f4f8a5a34c6839bee7c09bc0df2cc832c41f7.png",
@@ -5040,7 +5041,7 @@
     "website": "http://www.costplusdrugs.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/perception-biosystems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5125,7 +5126,7 @@
     "website": "http://getoxygen.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/spate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5141,7 +5142,7 @@
       "Retail"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1527062926,
     "long_description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
     "name": "SPATE",
@@ -5170,7 +5171,7 @@
     "website": "https://www.spate.nyc"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/enveritas.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5275,10 +5276,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1527534631,
-    "long_description": "iLabService is a leading provider of intelligent lab operations solutions, revolutionizing how laboratories manage their processes, data, and workflows. We combine AI-powered IoT (AIoT) with cutting-edge software to create an end-to-end automation platform that enhances efficiency, compliance, and safety across global research and development environments.",
+    "long_description": "iLabService builds real-time LabOps infrastructure for regulated laboratories.\r\nWe help pharma, biotech, CRO/CDMO, testing, and enterprise R&D teams turn lab-floor signals into audit-ready operating evidence. Our platform connects environmental conditions, equipment state, sample risk, inventory movement, people response, workflow ownership, and compliance requirements into one traceable operating record.\r\nSince 2016, iLabService has worked close to real laboratory operations, combining lab management software, AIoT hardware, and Sci-Edge local response infrastructure. Teams use iLabService to monitor critical scenes, respond to risks earlier, reconstruct incidents faster, support QA/EHS/LabOps workflows, and prepare evidence aligned with validation and audit review.\r\nOur focus is simple: monitoring should not stop at alarms. It should become the operating context that helps labs control risk, improve efficiency, defend decisions, and prepare for the AI for Science era.",
     "name": "iLabService",
     "nonprofit": false,
-    "one_liner": "Powering the Future of Lab Operations with AIoT!",
+    "one_liner": "AIoT monitoring, workflow, and evidence systems for regulated labs.",
     "question_answers": false,
     "regions": [
       "China",
@@ -5301,10 +5302,10 @@
     "team_size": 50,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ilabservice",
-    "website": "https://www.ilabservice.us"
+    "website": "https://www.ilabservice.ai"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/dorian-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5347,7 +5348,7 @@
     "website": "http://www.doriantherapeutics.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/rejuvenation-technologies-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5393,7 +5394,7 @@
     "website": "https://www.rejuvenationtech.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Portland, OR, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/circumvent.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5416,7 +5417,8 @@
     "one_liner": "Utilizing monogenic disorders to inform and solve highly complex…",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "circumvent",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5fd725fe8e2cac76ed87eacf3161d3f37da8f61.png",
@@ -5448,7 +5450,7 @@
       "Housing and Real Estate"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1575871649,
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "name": "Culdesac",
@@ -5479,7 +5481,7 @@
     "website": "http://culdesac.com"
   },
   {
-    "all_locations": "Novato, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Novato, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/gerostate-alpha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5609,7 +5611,7 @@
     "website": "https://www.kinside.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/aesthetic.json",
     "app_answers": null,
     "app_video_public": false,

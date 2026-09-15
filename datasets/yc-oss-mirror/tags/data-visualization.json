@@ -248,20 +248,20 @@
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/meridian-industries",
-    "website": "https://index.app"
+    "website": "https://mora.com"
   },
   {
-    "all_locations": "Montreal, QC, Canada; Remote",
+    "all_locations": "Toronto, ON, Canada; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/basedash.json",
     "app_answers": null,
     "app_video_public": false,
@@ -402,7 +402,7 @@
     "website": "http://lightdash.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json",
     "app_answers": null,
     "app_video_public": false,
@@ -443,7 +443,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dataland",
     "website": "https://dataland.io"
@@ -587,7 +587,7 @@
     "website": "https://www.evidence.dev"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rollstack-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -631,7 +631,7 @@
     "website": "https://www.rollstack.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/brewit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -678,7 +678,7 @@
     "website": "https://brewit.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/neptyne.json",
     "app_answers": null,
     "app_video_public": false,
@@ -732,16 +732,16 @@
     ],
     "id": 27939,
     "industries": [
-      "B2B",
-      "Analytics"
+      "Fintech",
+      "Asset Management"
     ],
-    "industry": "B2B",
+    "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1672890387,
-    "long_description": "FactIQ helps economic analysts find and visualize the right data, across 7.4M+ official time series. \r\n\r\nIt interprets users' questions, identifies the most relevant datasets, analyzes them and reports back with interactive charts and tables. Every answer is fully transparent: users can inspect the underlying sources and methods, so they can verify and trust every insight.",
+    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obvious for any AI agent to accurately query this data. We currently have 100M+ data series covering US and Asia, and are adding new data every day. ",
     "name": "FactIQ",
     "nonprofit": false,
-    "one_liner": "Data Explorer for the US Economy",
+    "one_liner": "Investment research data for AI agents",
     "question_answers": false,
     "regions": [
       "Singapore",
@@ -750,12 +750,13 @@
       "Partly Remote"
     ],
     "slug": "factiq",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04b6da87ca00762c86e5351c8876d9837f0e18.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eea8e74dd560d5b945e787263172d6a883e4e0a.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "Fintech -> Asset Management",
     "tags": [
-      "Analytics",
+      "Artificial Intelligence",
+      "Investing",
       "Data Visualization",
       "AI Assistant"
     ],
@@ -1091,10 +1092,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1701468865,
-    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
+    "long_description": "",
     "name": "camelAI",
     "nonprofit": false,
-    "one_liner": "AI software engineer that lives on its own computer",
+    "one_liner": "Unlimited inference at $5 per stream",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1103,15 +1104,15 @@
       "Partly Remote"
     ],
     "slug": "camelai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5295154418cf383d1fd6006f379854b772ebda.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Data Science",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1120,7 +1121,7 @@
     "website": "https://camelai.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/renderlet.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1256,7 +1257,7 @@
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json",
     "app_answers": null,
-    "app_video_public": true,
+    "app_video_public": false,
     "batch": "Summer 2025",
     "demo_day_video_public": false,
     "former_names": [],
@@ -1268,10 +1269,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754374450,
-    "long_description": "For our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+    "long_description": "Quantitative trading",
     "name": "Lotas",
     "nonprofit": false,
-    "one_liner": "AI for Data Science and 3D",
+    "one_liner": "AI for quantitative trading",
     "question_answers": false,
     "regions": [
       "United States of America",

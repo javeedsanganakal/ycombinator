@@ -12,9 +12,9 @@
     "Infrastructure"
   ],
   "industry": "B2B",
-  "isHiring": false,
+  "isHiring": true,
   "launched_at": 1770354850,
-  "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+  "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. ",
   "name": "Salus",
   "nonprofit": false,
   "one_liner": "Guardrails to validate your agent's actions before they execute",
@@ -29,11 +29,11 @@
   "status": "Active",
   "subindustry": "B2B -> Infrastructure",
   "tags": [
+    "Artificial Intelligence",
     "Developer Tools",
     "B2B",
     "API",
-    "Infrastructure",
-    "AI"
+    "Infrastructure"
   ],
   "tags_highlighted": [],
   "team_size": 2,

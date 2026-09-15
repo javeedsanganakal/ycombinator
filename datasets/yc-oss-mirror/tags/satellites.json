@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/bagaveev-corporation.json",
     "app_answers": null,
     "app_video_public": false,
@@ -427,7 +427,7 @@
     "website": "http://www.wyvern.space"
   },
   {
-    "all_locations": "Huntington Beach, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Huntington Beach, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/astroforge.json",
     "app_answers": null,
     "app_video_public": false,
@@ -471,7 +471,7 @@
     "website": "https://www.astroforge.io/"
   },
   {
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "Las Vegas, NV, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/hubble-network.json",
     "app_answers": null,
     "app_video_public": false,
@@ -501,7 +501,7 @@
     ],
     "slug": "hubble-network",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e08e93bf4770b4f15d9dea2ef02c5f492eb0adb5.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
@@ -518,7 +518,7 @@
     "website": "https://hubble.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/array-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -656,7 +656,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1687128394,
     "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
     "name": "Orbio Earth",
@@ -684,6 +684,53 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/orbio-earth",
     "website": "https://www.orbio.earth/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/basalt.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Basalt Tech"
+    ],
+    "id": 29277,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1706583323,
+    "long_description": "Basalt is building Constellations as a Service, self-flying satellite constellations tailored for private enterprise and the government without any prior aerospace experience needed! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream data and images from their own dedicated satellite constellation onto their phones and laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
+    "name": "Basalt",
+    "nonprofit": false,
+    "one_liner": "Constellations as a Service",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "basalt",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc6db574181bc5f564f9fcdee3e3a8f66a68b75.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Satellites",
+      "Aerospace",
+      "Automation",
+      "Defense",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 10,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/basalt",
+    "website": "https://basalt.space/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -736,7 +783,7 @@
     "website": "https://elodin.systems/"
   },
   {
-    "all_locations": "Redmond, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/starcloud.json",
     "app_answers": null,
     "app_video_public": true,
@@ -783,6 +830,49 @@
     "website": "https://www.starcloud.com/"
   },
   {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30881,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1758642388,
+    "long_description": "Wardstone builds a low-cost, modular interceptor platform for air and missile defense. Our platform enables the warfighter to right sizes their interceptors against the threat. This allows us to defeat air-breathing and ballistic missile threats at a fraction of the cost of exquisite interceptors, adding affordable magazine depth to existing air defense systems.",
+    "name": "Wardstone",
+    "nonprofit": false,
+    "one_liner": "The Modular Interceptor Platform",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "wardstone",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Satellites",
+      "Rocketry",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/wardstone",
+    "website": "https://www.wardstone.us"
+  },
+  {
     "all_locations": "San Diego, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zephyr-fusion.json",
     "app_answers": null,
@@ -825,48 +915,90 @@
     "website": "https://www.zephyrfusion.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json",
+    "all_locations": "Singapore, Singapore",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/exosat.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [
-      "Fastsky"
-    ],
-    "id": 31501,
+    "former_names": [],
+    "id": 32233,
     "industries": [
       "Industrials",
       "Aviation and Space"
     ],
     "industry": "Industrials",
     "isHiring": false,
-    "launched_at": 1772308188,
-    "long_description": "Building the elements of a new ATC system.",
-    "name": "General Aviation",
+    "launched_at": 1786056981,
+    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
+    "name": "Exosat",
     "nonprofit": false,
-    "one_liner": "Fix ATC by connecting aircraft to the internet",
+    "one_liner": "Building a neutral, sovereign alternative to Starlink",
+    "question_answers": false,
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "slug": "exosat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Space Exploration",
+      "Satellites",
+      "Aerospace",
+      "Telecommunications",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/exosat",
+    "website": "https://www.exosat.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Otter Aerospace Inc.",
+      "Orca Aerospace Inc."
+    ],
+    "id": 35525,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1788312802,
+    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing LLMs to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
+    "name": "Orca Aerospace",
+    "nonprofit": false,
+    "one_liner": "AI spacecraft operators that lives onboard the vehicle",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "general-aviation",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+    "slug": "orca-aerospace",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afa6ce6fe3345bb9e7b6296e9877371ada8e2155.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Aviation and Space",
     "tags": [
-      "Hard Tech",
-      "Satellites",
-      "Transportation",
-      "Mobility",
-      "Aerospace"
+      "AIOps",
+      "Space Exploration",
+      "Satellites"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/general-aviation",
-    "website": "https://generalaviation.com"
+    "url": "https://www.ycombinator.com/companies/orca-aerospace",
+    "website": "https://orcaaerospace.com/"
   }
 ]

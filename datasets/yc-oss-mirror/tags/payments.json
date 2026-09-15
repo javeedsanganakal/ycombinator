@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/slidepay.json",
     "app_answers": null,
     "app_video_public": false,
@@ -295,7 +295,7 @@
     "website": "http://tipjoy.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/paytango.json",
     "app_answers": null,
     "app_video_public": false,
@@ -417,7 +417,7 @@
     "website": "http://standardtreasury.com"
   },
   {
-    "all_locations": "New York, NY, USA; Mexico City, CDMX, Mexico; Miami, FL, USA",
+    "all_locations": "New York City, NY, USA; Mexico City, CDMX, Mexico; Miami, FL, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/arcus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -465,7 +465,7 @@
     "website": "http://arcusfi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/abacus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -591,7 +591,7 @@
     "website": "http://payable.com"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/whirl.json",
     "app_answers": null,
     "app_video_public": false,
@@ -631,7 +631,7 @@
     "website": "http://getwhirl.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/final.json",
     "app_answers": null,
     "app_video_public": false,
@@ -671,7 +671,7 @@
     "website": "http://getfinal.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/glassjar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -796,7 +796,7 @@
     "website": "https://razorpay.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/paribus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -926,7 +926,7 @@
     "website": "http://www.meterfeeder.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Washington, DC, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/pocketsuite.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1269,7 +1269,7 @@
     "website": "https://www.cashfree.com/"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/promise.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1575,13 +1575,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/handle-com.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/handle.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2019",
     "demo_day_video_public": false,
     "former_names": [
-      "Handle"
+      "Handle",
+      "Handle.com"
     ],
     "id": 12043,
     "industries": [
@@ -1589,10 +1590,10 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1541563431,
     "long_description": "Handle builds software that helps simplify construction financial management by automating manual and repetitive tasks throughout the life cycle of construction payments.",
-    "name": "Handle.com",
+    "name": "Handle",
     "nonprofit": false,
     "one_liner": "Simplifying Payments and Compliance for Construction Suppliers",
     "question_answers": false,
@@ -1602,7 +1603,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "handle-com",
+    "slug": "handle",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e635e21a9de56891c70f767bf4b79d54351abc4.png",
     "stage": "Early",
     "status": "Active",
@@ -1614,11 +1615,11 @@
     "tags_highlighted": [],
     "team_size": 55,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/handle-com",
+    "url": "https://www.ycombinator.com/companies/handle",
     "website": "https://www.handle.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/nala.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1631,7 +1632,7 @@
       "Banking and Exchange"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1543948489,
     "long_description": "Story here: https://www.youtube.com/watch?v=FZfKgoseJ5E&t=1s\r\n\r\nWe have two products: \r\n1. Consumer Cross Border payments to Emerging Markets : nala.com\r\n2. Stablecoin Payment Rails for emerging markets: rafiki.com",
     "name": "NALA",
@@ -1702,7 +1703,7 @@
     "website": "https://credpal.com"
   },
   {
-    "all_locations": "LA, Nigeria; Remote",
+    "all_locations": "San Francisco, CA, USA; LA, Nigeria; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/spring-in-africa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1737,7 +1738,9 @@
     "one_liner": "Investing in innovation ",
     "question_answers": false,
     "regions": [
+      "United States of America",
       "Nigeria",
+      "America / Canada",
       "Africa",
       "Remote",
       "Fully Remote"
@@ -1856,7 +1859,7 @@
     "website": "https://buildstream.co"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/bouncer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1982,49 +1985,6 @@
     "website": "http://paywithflux.com"
   },
   {
-    "all_locations": "New York, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json",
-    "app_answers": null,
-    "app_video_public": true,
-    "batch": "Winter 2020",
-    "demo_day_video_public": false,
-    "former_names": [
-      "NUMI"
-    ],
-    "id": 12974,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1583962983,
-    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits. Bring your own agent or use ours. Flowglad gives agents the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely. Embed spend policy directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
-    "name": "Flowglad",
-    "nonprofit": false,
-    "one_liner": "Agent payment infra. Program spend + approvals. BYO or use our agents.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "flowglad",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/flowglad",
-    "website": "https://flowglad.com"
-  },
-  {
     "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/carbon-12-labs.json",
     "app_answers": null,
@@ -2064,7 +2024,7 @@
     "website": "https://www.carbon.money"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/weav.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2110,7 +2070,7 @@
     "website": "https://weav.co"
   },
   {
-    "all_locations": "London, United Kingdom; Accra, Greater Accra Region, Ghana",
+    "all_locations": "London, England, United Kingdom; Accra, Greater Accra Region, Ghana",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/swipe-technologies.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2185,7 +2145,7 @@
     ],
     "slug": "jeeves",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faca4c2138bb38fb870736801c5d004313420eb2.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
@@ -2193,7 +2153,7 @@
       "Payments"
     ],
     "tags_highlighted": [],
-    "team_size": null,
+    "team_size": 150,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/jeeves",
     "website": "http://www.tryjeeves.com"
@@ -2372,7 +2332,7 @@
     "website": "https://www.afriexapp.com"
   },
   {
-    "all_locations": "MG, Brazil",
+    "all_locations": "São Paulo, SP, Brazil",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/chatpay.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2460,7 +2420,7 @@
     "website": "https://www.atratopago.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gerald-technologies-inc.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2502,7 +2462,7 @@
     "website": "https://www.joingerald.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/hyper.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2551,7 +2511,7 @@
     "website": "https://hyper.co"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/per-diem.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2566,7 +2526,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1614618932,
-    "long_description": "We deploy AI agents that act as a C-suite for cafés, bakeries, and restaurant franchises. Per Diem’s AI CTO automatically builds, deploys, and maintains branded mobile apps and web ordering, while our AI CMO and AI COO automate loyalty, marketing, and daily operations across first-party ordering and catering. Built on Square, 500+ brands including Oakberry, Shane's Rib Shack, and Crave Cookies use Per Diem to own their customers, increase lifetime value, and grow profitably.",
+    "long_description": "Restaurants today rely on dozens of disconnected tools to manage ordering, loyalty, marketing, and operations. Per Diem replaces that fragmented software stack with AI agents that build and maintain branded apps, run marketing campaigns, manage loyalty, automate operations, and help restaurants grow first-party sales. Built natively on Square, 800+ brands use Per Diem to power more than 500,000 monthly orders as their operating system for commerce, customer retention, and growth.",
     "name": "Per Diem",
     "nonprofit": false,
     "one_liner": "The AI operating system for restaurants",
@@ -2950,7 +2910,7 @@
     "website": "https://blixo.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2966,12 +2926,12 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1628553410,
-    "long_description": "",
+    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
     "name": "Superwall",
     "nonprofit": false,
-    "one_liner": "Remotely configure every aspect of your mobile app's paywall",
+    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2986,10 +2946,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Developer Tools",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/staffbar",
     "website": "https://superwall.com"
@@ -3104,7 +3065,7 @@
     "long_description": "Forage is a mission-driven payments company that helps businesses accept government benefits through a single, unified API. Today, over 42 million Americans receive government assistance (ex: Supplemental Nutrition Assistance Program, or SNAP) to buy groceries. Starting with enabling EBT SNAP online, Forage builds the financial infrastructure empowering businesses to serve these shoppers online.",
     "name": "Forage",
     "nonprofit": false,
-    "one_liner": "Payments infrastructure for government benefits",
+    "one_liner": "Payments powering people",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -3123,7 +3084,7 @@
       "Payments"
     ],
     "tags_highlighted": [],
-    "team_size": 43,
+    "team_size": 66,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/forage-2",
     "website": "http://www.joinforage.com"
@@ -3217,7 +3178,7 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 30,
+    "team_size": 33,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/formance",
     "website": "https://formance.com"
@@ -3238,14 +3199,16 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1627395951,
-    "long_description": "HitPay is a full stack payments infrastructure platform designed for growing businesses in APAC. Founded in 2016 and headquartered in Singapore, HitPay unifies e-commerce, point of sale, and B2B payments into a single platform. The company is regulated in 6 APAC jurisdictions and backed by leading global investors, including Tiger Global, Y Combinator, Global Founders Capital, and HOF Capital.",
+    "long_description": "HitPay is a full-stack payments infrastructure platform for growing businesses in APAC. Founded in 2016 and headquartered in Singapore, HitPay unifies e-commerce, point-of-sale, and B2B payments — cards, PayNow, QR, digital wallets, and local rails — into a single platform, so merchants can accept, send, and reconcile money across the region from one account. More than 15,000 businesses use HitPay, which has saved SMEs over US$35M in fees (Trustpilot 4.4/5). It is regulated across six markets and backed by leading global investors, including Tiger Global, Y Combinator, Global Founders Capital, and HOF Capital.",
     "name": "HitPay",
     "nonprofit": false,
-    "one_liner": "Payments infrastructure for businesses scaling in APAC",
+    "one_liner": "Full-stack payments infrastructure for growing APAC businesses",
     "question_answers": false,
     "regions": [
       "Singapore",
-      "Southeast Asia"
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "hitpay",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b949ac3131bfb2ed68d424a5df1c9a1eea5c64.png",
@@ -3257,7 +3220,7 @@
       "Payments"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 42,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hitpay",
     "website": "https://www.hitpayapp.com"
@@ -3325,7 +3288,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1625557737,
-    "long_description": "Nomod is the UAE’s leading payments platform for small businesses — powering 40,000+ merchants, and processing $350M+ in annualised TPV",
+    "long_description": "Nomod is the UAE’s leading payments platform for small businesses — powering 55,000+ merchants, and processing $500M+ in annualised TPV",
     "name": "Nomod",
     "nonprofit": false,
     "one_liner": "The UAE’s leading small business payments platform",
@@ -3346,7 +3309,7 @@
       "Payments"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 68,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nomod",
     "website": "https://nomod.com"
@@ -3397,7 +3360,7 @@
     "website": "https://malga.io/"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/toku.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3418,6 +3381,7 @@
     "one_liner": "Account Receivables Platform for Latin American Enterprises",
     "question_answers": false,
     "regions": [
+      "Chile",
       "Mexico",
       "Latin America"
     ],
@@ -3507,10 +3471,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1642007431,
-    "long_description": "Cash management solution that offers debit & credit solutions for SMBs in LATAM. \r\n- 24/ Multi-treasury: multiple debit accounts, payroll & services payment, wires\r\n- Corporate Expenses: dashboard and prepaid cards to control your employee's budget & expenses\r\n- Credit Card: flexible global line where you can decide to use it as a revolving line or as a simple amortizable credit in installments. ",
+    "long_description": "Cash management solution that offers debit & credit solutions for Enterprise/SMBs in LATAM. \r\n- 24/ Multi-treasury: FX, multiple debit global accounts, payroll & services payment to all the world 24/, wires\r\n- Corporate Expenses: dashboard and prepaid cards to control your employee's budget & expenses\r\n- Credit Card: flexible global line where you can decide to use it as a revolving line or as a simple amortizable credit in installments. ",
     "name": "Kapital Bank",
     "nonprofit": false,
-    "one_liner": "Data driven neobank for SMBs in LATAM",
+    "one_liner": "Empowering businesses to grow. ",
     "question_answers": false,
     "regions": [
       "Mexico",
@@ -3531,7 +3495,7 @@
       "Neobank"
     ],
     "tags_highlighted": [],
-    "team_size": 500,
+    "team_size": 3600,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kapital-bank",
     "website": "https://www.kapital.mx"
@@ -3550,12 +3514,12 @@
       "Payments"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1645553649,
-    "long_description": "Rebill helps global companies process payments, payouts, and financial operations in LATAM and the US without local entities.\r\n‍\r\nWith one integration, companies can accept payments, subscriptions, and installments across markets without setting up fragmented payment stacks country by country. Rebill combines local acquiring, 100+ payment methods, smart routing, retries, recovery, unified settlement, and a developer-first product in one platform.\r\n\r\nWe help merchants launch faster, increase conversion, and operate across underserved markets with the simplicity global companies expect.",
+    "long_description": "Rebill is the financial infrastructure platform for the Americas.\r\n\r\nThe companies shaping software, AI, travel, and digital services use Rebill to operate across Brazil, Mexico, Argentina, Colombia, Chile, and the United States.\r\n\r\nRebill brings local payments, installments, recurring billing, stablecoin rails, treasury, global payouts, and financial operations into one platform built for how money actually works across the Americas.\r\n\r\nEvery market is different. Rebill makes the infrastructure consistent. Engineering, finance, and operations teams can manage local currency acceptance, market-specific payment behavior, funds, and financial workflows from the same platform.\r\n\r\nCompanies can launch in Latin America in as little as a day and expand across markets without rebuilding their financial stack country by country.\r\n\r\nBuilt locally. Designed to scale globally.",
     "name": "Rebill",
     "nonprofit": false,
-    "one_liner": "Global payments infrastructure in LATAM and US",
+    "one_liner": "Financial infrastructure for the Americas",
     "question_answers": true,
     "regions": [
       "Argentina",
@@ -3576,7 +3540,7 @@
       "Subscriptions"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rebill",
     "website": "https://www.rebill.com"
@@ -3990,7 +3954,7 @@
     "website": "https://toproad.ai"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cypher.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4037,7 +4001,7 @@
     "website": "https://cypherhq.io/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4049,12 +4013,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1641512856,
-    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
+    "long_description": "We take messy transaction data and turn it into structured, verified records — with a platform, models, and tooling that help our customers use it everywhere it matters.",
     "name": "Spade",
     "nonprofit": false,
-    "one_liner": "Enriched transaction data you can build on",
+    "one_liner": "Spade is the data and AI platform for modern finance.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4068,20 +4032,20 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Machine Learning",
       "Payments",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
-    "team_size": 25,
+    "team_size": 30,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/spade",
     "website": "https://www.spade.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/arpari.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4307,7 +4271,7 @@
     "website": "https://www.myalmafi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/chariot-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4395,7 +4359,7 @@
   },
   {
     "all_locations": "Manaus, AM, Brazil",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ecsa.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codexa.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2022",
@@ -4404,7 +4368,8 @@
       "Kapstar",
       "ECSA",
       "E C S A",
-      "KAPSTAR TECHNOLOGIES"
+      "KAPSTAR TECHNOLOGIES",
+      "ECSA"
     ],
     "id": 26725,
     "industries": [
@@ -4414,8 +4379,8 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1655314683,
-    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by ECSA, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 1b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
-    "name": "ECSA",
+    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by Codexa, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 2b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
+    "name": "CODEXA",
     "nonprofit": false,
     "one_liner": "AI Agent runs the entire international trade operation",
     "question_answers": false,
@@ -4425,25 +4390,25 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "ecsa",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc115c250b2dbc077b89ce7c920be25aab67b1a.png",
+    "slug": "codexa",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/315e211ddda1814fa9db4077702d9dd3f91a8723.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Payments",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Payments",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
     ],
-    "team_size": null,
+    "team_size": 40,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ecsa",
-    "website": "http://ecsa.finance/"
+    "url": "https://www.ycombinator.com/companies/codexa",
+    "website": "https://codexa.com.br/desembaraco-aduaneiro"
   },
   {
     "all_locations": "Chicago, IL, USA",
@@ -4489,7 +4454,7 @@
     "website": "https://www.useBlueHill.com/"
   },
   {
-    "all_locations": "New York, NY, USA; Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/sunlight.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4503,16 +4468,14 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1655927638,
-    "long_description": "Sunlight is an API to change the card-on-file with apps and subscription services. Fintechs use Sunlight to automatically make their cards top-of-wallet as soon as they're issued. \r\n\r\nMerchants, service providers and subscriptions-based businesses everywhere now offer their customers the ability to save a debit/credit card on file, so they can pay their bills on time, buy in one click, or earn rewards. In 2021, 79% of consumers worldwide reported already having at least one payment card saved with a service or being open to doing so. \r\n\r\nIn recent years, card-issuing as-a-service has become mainstream: any company can now start their own card business in a matter of weeks. Last year, the number of new payment cards issued was at an all-time high. For users, however, switching banks or opening a new card now comes with an additional hurdle: they need to update their payment info across the internet. On the other side of that equation, card issuers have no visibility or control over the card-on-file updating process, and as a result struggle to get their new users to switch their spend from their old card to the new one, leading to low conversion rates and missed revenue opportunities.\r\n\r\nUntil Sunlight.\r\n\r\nWith our universal get-your-card-on-file API, FIs can now offer their users, at any point in their journey, a quick and easy way to update their debit/credit card info everywhere they shop or pay online, without ever leaving their Apps.\r\n\r\nThe Sunlight API works on every platform that has a card-on-file option (think Uber, Amazon, Netflix, DoorDash, Starbucks and so many more…), is as seamless as a Plaid connection, and always gets the card number and CVV code right on the first try!",
+    "long_description": "Sunlight moves B2B payment volume onto card without asking a single supplier to onboard. Our AI agents determine where a bill can be paid by card without a surcharge, then execute that payment through the vendor's own billing or AR portal, returning a confirmed status, receipt, and structured remittance data through a single API.\r\n\r\nFor decades, moving invoice spend onto card meant building a rail or signing suppliers up one at a time. Both are slow, and both leave most of the volume behind. Sunlight takes a different path. Because our agents pay through the portals suppliers already use, the network reaches every supplier without any of them having to join it.\r\n\r\nAP platforms and bank card programs issue their own cards, send them to us, and capture the interchange on volume that would otherwise have defaulted to ACH or check. We are the AI infrastructure layer that makes that volume reachable.",
     "name": "Sunlight",
     "nonprofit": false,
-    "one_liner": "The Universal Card-On-File API",
+    "one_liner": "The intelligence and execution layer for agentic B2B card payments.",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "Israel",
       "America / Canada",
-      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -4953,7 +4916,7 @@
     "website": "https://www.letsping.com/"
   },
   {
-    "all_locations": "San Jose, CA, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/onetext.json",
     "app_answers": true,
     "app_video_public": true,
@@ -5044,7 +5007,7 @@
     "website": "http://www.palomma.com/"
   },
   {
-    "all_locations": "Lagos, LA, Nigeria; Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/bujeti.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5059,14 +5022,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673189707,
-    "long_description": "Control your business finances, all in one place\r\nTrack expenses, reimbursements, and invoices for financial efficiency on Africa’s most loved spend management platform.",
+    "long_description": "Control spending, process payments, manage payroll, and multi-currency operations with approval workflows, total visibility and control, from one unified platform",
     "name": "Bujeti",
     "nonprofit": false,
-    "one_liner": "Financial OS for African businesses",
+    "one_liner": "The Finance Control Centre for African Businesses",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -5182,7 +5145,7 @@
     "website": "https://koywe.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Montevideo, Montevideo Department, Uruguay",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/infinia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5203,12 +5166,14 @@
     "one_liner": "Move money programmatically",
     "question_answers": false,
     "regions": [
+      "Uruguay",
+      "Latin America",
       "Remote",
       "Partly Remote"
     ],
     "slug": "infinia",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7fe17d09bdbf7258b587a47e734d932c0b1886d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Fintech -> Payments",
     "tags": [
@@ -5237,7 +5202,7 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1671191601,
-    "long_description": "Alaan is an AI-powered finance platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate workflows. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 2000 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (9x net revenue growth in 2023, 6x in 2024), and raised one of the largest Series A rounds in the history of the Middle East backed by Peak XV (formerly Sequoia India). \r\n\r\nCheck out alaan.com/careers if you want to join us!",
+    "long_description": "Alaan is an AI-native finance platform for businesses in the Middle East. We combine corporate cards, a business bank account*, international transfers, expense management, and accounting automation into one platform, with intelligence baked into every finance workflow.\r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We've grown rapidly, and now work with over 3,000 startups, mid-market, and enterprise customers, doing tens of millions of dollars in monthly payment volume. We've been default alive since our launch in August 2022, and raised one of the largest Series A rounds in Middle East history, backed by Peak XV (formerly Sequoia India).\r\n\r\nWant to join us? Check out alaan.com/careers\r\n\r\n*Alaan is a fintech company, not a bank. The business bank account is issued by ruya.",
     "name": "Alaan",
     "nonprofit": false,
     "one_liner": "Modern finance platform for the Middle East",
@@ -5353,7 +5318,7 @@
     "website": "https://www.inbuild.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Singapore, Singapore",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/corgi-labs.json",
     "app_answers": true,
     "app_video_public": false,
@@ -5376,8 +5341,8 @@
     "one_liner": "AI to increase payment acceptance and reduce fraud for businesses",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Singapore",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -5446,7 +5411,7 @@
     "website": "https://waza.co/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vendora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5598,10 +5563,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1687929703,
-    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "long_description": "Bretton runs AI-native operations for the financial back office. OCC, Fed and FDIC regulated banks use Bretton to run compliance, risk, fraud operations on one platform, on their own data and policies, with every output traced, cited, and audit-ready.\r\n\r\nBretton has pioneered AI use in financial services with its proprietary Trust Infrastructure — a system of model validation, governance and auditability guardrails that enables AI use in key regulated workflows.\r\n",
     "name": "Bretton AI",
     "nonprofit": false,
-    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
+    "one_liner": "AI-native operations for the banks",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5613,11 +5578,11 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "team_size": 34,
@@ -5849,7 +5814,7 @@
     "website": "https://www.cheq.money"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/consul.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5948,10 +5913,10 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1724162501,
-    "long_description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to radically improve the patient billing experience. \r\n\r\nIf you know senior execs in medical groups or partners in healthcare PE please do connect us. We won’t waste their time: +1 628 468 3232.",
+    "long_description": "AI-powered automation for US healthcare provider workflows like patient intake, eligibility and benefits checks and billing using data-driven approaches. \r\n\r\nIf you know senior execs in medical groups or partners in healthcare PE please do connect us. We won’t waste their time: +1 628 468 3232.",
     "name": "Fuse",
     "nonprofit": false,
-    "one_liner": "AI helpers for patient intake and benefits checks",
+    "one_liner": "AI-powered workflow automation for US healthcare providers.",
     "question_answers": false,
     "regions": [
       "United Kingdom",
@@ -5978,7 +5943,7 @@
     "website": "http://www.fuseinsight.com"
   },
   {
-    "all_locations": "Ikeja, LA, Nigeria",
+    "all_locations": "Rotherham, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/miden.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6001,8 +5966,8 @@
     "one_liner": "Card issuer processor and banking stack for businesses in Sub-…",
     "question_answers": false,
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -6132,12 +6097,12 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1722719636,
-    "long_description": "RentFlow is the first ‘Buy Now Pay Later’ platform for commercial rent.\r\n\r\nIn the US alone, ~ 50% of small & medium businesses are behind on their rent. \r\nRentFlow is the first AI-powered platform to end the late rent cycle for businesses:\r\nFor landlords: Rent is paid in full and on time every month, at no extra cost. Cut the collections hassle.\r\nFor businesses: Rent is split into smaller, revenue-synced installments. Match fixed costs to real cash flow year-long.\r\n\r\nNo late rent. Just perfect timing on both sides.",
+    "long_description": "RentFlow is tackling a hair-on-fire problem for small and medium businesses across the U.S.: the way their rent is paid each month is fundamentally misaligned with how cash actually comes in.\r\n\r\nWe’re building the infrastructure layer to fix that.\r\n\r\nToday, ~50% of U.S. businesses are late on rent in any given month. The rest face invisible struggles to pay on time, undermining their stability month after month.\r\n\r\nRentFlow is the first platform to turn fixed business rent into an AI-driven, cash-flow-synced product, underwritten in real time from transaction-level data to prevent financial issues before they even surface.",
     "name": "RentFlow",
     "nonprofit": false,
-    "one_liner": "The first 'Buy Now Pay Later' solution for Commercial Rent",
+    "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -6164,7 +6129,7 @@
     "website": "https://www.therentflow.com"
   },
   {
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
+    "all_locations": "Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/blaze-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6179,14 +6144,12 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1724981206,
-    "long_description": "Blaze (YC S24) is global Venmo for cross border payments. It's a peer to peer payments app that uses USDC to make payments fast and cheap between any two people anywhere in the world. The founders scaled their last startup to $1M in ARR, studied mathematics and engineering at Duke, NYU, and Cornell, and have led teams at Spotify, Artsy, and Bitpanda. They're live in the US and Mexico, available for download on iOS and Android: https://blaze.money",
+    "long_description": "Blaze (YC S24) is the agentic finance platform. For businesses it's an AI CFO that pays bills, invoices clients, and forecasts cash. For people it's an agent that sends money, converts currencies, and manages your finances globally: you set the rules, it handles the rest. \r\n\r\nOther AI finance tools just report. Blaze moves the money, on your approval, in stablecoins or straight through the banking system. The founders scaled their last startup to $1M in ARR, studied at Duke, NYU, and Cornell, and led teams at Spotify and Artsy. npx @blaze-money/cli · https://blaze.money",
     "name": "Blaze",
     "nonprofit": false,
-    "one_liner": "Global Venmo for cross border payments",
+    "one_liner": "Agentic Finance for your Life and Business",
     "question_answers": false,
     "regions": [
-      "Mexico",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -6200,7 +6163,7 @@
       "Crypto / Web3",
       "Payments",
       "Finance",
-      "Travel"
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -6211,7 +6174,7 @@
     "website": "https://blaze.money"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/withcharm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6255,7 +6218,7 @@
     "team_size": 1,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/withcharm",
-    "website": "https://withcharm.app"
+    "website": "https://charm.cash/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -6297,7 +6260,7 @@
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/infinite",
-    "website": "https://infinite.dev"
+    "website": "https://infinite.net"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -6385,13 +6348,13 @@
     "tags_highlighted": [
       "Crypto / Web3"
     ],
-    "team_size": 6,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ruvo",
     "website": "https://ruvo.com/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6467,15 +6430,58 @@
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
-      "Payroll"
+      "Payroll",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/grade",
     "website": "https://usegrade.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31526,
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1779834493,
+    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+    "name": "Uno Wallet",
+    "nonprofit": false,
+    "one_liner": "The AI mobile wallet that replaces Apple Pay",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "uno-wallet",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Payments",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "website": "https://myunowallet.com/"
   }
 ]

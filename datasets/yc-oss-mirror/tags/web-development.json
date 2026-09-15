@@ -268,7 +268,7 @@
     "website": "https://www.awesomic.com/?ref=yc"
   },
   {
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "St. Petersburg, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/whalesync.json",
     "app_answers": null,
     "app_video_public": false,
@@ -316,7 +316,7 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai-orca.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -325,7 +325,8 @@
       "Lovecast",
       "UpArrow",
       "UpDragon",
-      "Stably"
+      "Stably",
+      "Stably AI"
     ],
     "id": 25342,
     "industries": [
@@ -335,10 +336,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1645204142,
-    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
-    "name": "Stably AI",
+    "long_description": "Orca is an ADE built for engineers who run 10 to 100 coding agents at once. Termina-based. Any coding agent. Bring your own subscription (Claude Code, Codex etc). Mobile app included. Browser, CUA, Mobile emulator, and other. Minimal yet powerful.\r\n\r\nIncludes CLI to let agents control it\r\n\r\nhttps://github.com/stablyai/orca",
+    "name": "Stably AI (Orca)",
     "nonprofit": false,
-    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
+    "one_liner": "We make Orca, MIT open source terminal-based agent orchestrator",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -346,67 +347,69 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "stably-ai",
+    "slug": "stably-ai-orca",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 25,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/stably-ai",
-    "website": "https://www.stably.ai"
+    "url": "https://www.ycombinator.com/companies/stably-ai-orca",
+    "website": "http://onorca.dev/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2022",
     "demo_day_video_public": false,
     "former_names": [
       "Bunting Labs",
-      "Atonomo"
+      "Atonomo",
+      "CodeCanary"
     ],
     "id": 26712,
     "industries": [
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1659469853,
-    "long_description": "CodeCanary is an AI product engineer that proactively finds and fixes bugs, improves conversion rate, and gathers insights about your product. CodeCanary runs regularly and connects directly to Slack, GitHub, and PostHog.",
-    "name": "CodeCanary",
+    "long_description": "Bunting Labs researches and develops custom AI models for surveying and GIS.",
+    "name": "Bunting Labs",
     "nonprofit": false,
-    "one_liner": "Find and fix bugs from session replays with AI",
+    "one_liner": "AI Models for GIS",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "codecanary",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
+    "slug": "bunting-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56779177435211428fc3b60658c5b05d7288f710.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
       "SaaS",
+      "Geographic Information System",
       "B2B",
       "Web Development"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/codecanary",
-    "website": "https://www.codecanary.ai"
+    "url": "https://www.ycombinator.com/companies/bunting-labs",
+    "website": "https://buntinglabs.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -726,48 +729,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/freestyle.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29976,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1719115501,
-    "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
-    "name": "Freestyle",
-    "nonprofit": false,
-    "one_liner": "We run and deploy code your AI wrote",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "freestyle",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/freestyle",
-    "website": "https://www.freestyle.sh"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/assistant-ui.json",
     "app_answers": null,
     "app_video_public": false,
@@ -810,7 +771,7 @@
     "website": "https://assistant-ui.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/wavedash.json",
     "app_answers": null,
     "app_video_public": false,
@@ -871,10 +832,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1753721322,
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "long_description": "Floot is the layer where vibecoded software runs.\r\n\r\nSaaS is dead. Hundreds of millions of people already spend their day in Claude or ChatGPT - and increasingly, when they need an app, they won't buy one. They'll describe it, and it will exist.\r\n\r\nWe're building the infrastructure that makes that real. When Claude creates an app, it needs somewhere for that app to live: a backend, a database, hosting, a domain, the ability to scale, various services, maybe even to be able to work as a mobile app. Floot is that place - a full stack purpose-built for AI to operate, from a specialized framework that defines how AI writes and runs code, down to scalable hosting on AWS.\r\n\r\nThis means you can now build and ship real apps directly inside Claude and ChatGPT. Connect Floot, and the model you already pay for writes and debugs the code, shows a live preview, and publishes to your own domain. No need to wire up git, vercel, supabase and a dozen other providers. And no AI credits - every message runs on the subscription you already have, because we charge for the platform, not for a token markup.\r\n\r\nWe built Floot this way because we've watched the model layer commoditize - every serious builder writes good code now, including us. The lasting value isn't another agent between you and the model. It's the layer underneath, from wherever people already are. We're building Floot to be the home for all operation software, for the decades where most new software on earth is written by AI.\r\n\r\n✨ Try it: floot.com\r\n",
     "name": "Floot",
     "nonprofit": false,
-    "one_liner": "The easiest way for non-coders to build apps with AI.",
+    "one_liner": "The app platform inside Claude and ChatGPT.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -892,52 +853,10 @@
       "Web Development"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/floot",
     "website": "https://floot.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json",
-    "app_answers": null,
-    "app_video_public": true,
-    "batch": "Summer 2025",
-    "demo_day_video_public": true,
-    "former_names": [],
-    "id": 30772,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1751997318,
-    "long_description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
-    "name": "stagewise",
-    "nonprofit": false,
-    "one_liner": "The Open Source Agentic IDE",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "stagewise",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/stagewise",
-    "website": "https://stagewise.io"
   },
   {
     "all_locations": "",
@@ -968,7 +887,7 @@
     "slug": "coasts",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14423e406f790420f115f8958c1af6eb85b97201.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Developer Tools",
@@ -1002,10 +921,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1776095941,
-    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
+    "long_description": "Inth monitors your pull requests, codebase and website to catch privacy issues and turns them into fixes and evidence.\r\n\r\nEvery product change you make exposes you to privacy risk. Customers lose trust. Fines and lawsuits are given. Fundraising and customer deals are broken. New market launches halt.\r\n\r\nThe growth you thought you would have slows because privacy compliance is overwhelming and changes with every product update.\r\n\r\nInth is fixing this to help you automate privacy compliance to ship and grow faster.\r\n\r\nInth scans your PRs, website and codebase to catch any privacy risk. It then fixes and evidences them against your product, policies and global privacy laws to automate privacy compliance in every region your customers are in.\r\n\r\nStart a free privacy scan at: inth.com",
     "name": "Inth",
     "nonprofit": false,
-    "one_liner": "Privacy Infrastructure for Developers",
+    "one_liner": "Monitor and fix product privacy issues before they block growth",
     "question_answers": false,
     "regions": [
       "United Kingdom",
@@ -1021,55 +940,14 @@
     "tags": [
       "Developer Tools",
       "Compliance",
-      "Open Source",
-      "Web Development"
+      "Web Development",
+      "Trust & Safety",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/inth",
     "website": "https://inth.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31419,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1774843315,
-    "long_description": "We are making the world's fastest browser for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our agentic browser that turns the web into a native protocol for LLMs.",
-    "name": "StableBrowse",
-    "nonprofit": false,
-    "one_liner": "Browser for AI agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "stablebrowse",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Automation",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/stablebrowse",
-    "website": "https://stablebrowse.com/"
   }
 ]

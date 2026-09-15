@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/shoptiques.json",
     "app_answers": null,
     "app_video_public": false,
@@ -41,7 +41,7 @@
     "website": "http://shoptiques.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2012/99dresses.json",
     "app_answers": null,
     "app_video_public": false,
@@ -205,7 +205,7 @@
     "website": "http://shoutfit.com"
   },
   {
-    "all_locations": "Burlingame, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Burlingame, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/vastrm.json",
     "app_answers": null,
     "app_video_public": false,
@@ -287,7 +287,7 @@
     "website": "http://thestyleup.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/lollipuff.json",
     "app_answers": null,
     "app_video_public": false,
@@ -489,7 +489,7 @@
     "website": "http://us.memebox.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2014/style-lend.json",
     "app_answers": null,
     "app_video_public": false,
@@ -530,7 +530,7 @@
     "website": "http://StyleLend.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Salt Lake City, UT, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/mtailor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -696,7 +696,7 @@
     "website": "http://markhor.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/scentbird.json",
     "app_answers": null,
     "app_video_public": false,
@@ -735,7 +735,7 @@
     "website": "https://www.scentbird.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/vive.json",
     "app_answers": null,
     "app_video_public": false,
@@ -772,7 +772,7 @@
     "website": "http://"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/function-of-beauty.json",
     "app_answers": null,
     "app_video_public": false,
@@ -897,7 +897,7 @@
     "website": "https://restocks.io"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/hingeto.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1569,7 +1569,7 @@
     "website": "https://getbinks.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/the-mercer-club.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1695,7 +1695,7 @@
     "website": "https://socksoho.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lygg.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1710,7 +1710,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1648234214,
-    "long_description": "Up to 90% of skin aging is caused by UV light from the sun. Most of this is caused by UVA light and only one FDA-approved chemical ingredient protects against it. To address this, Lygg has developed a patented, photostable, and safe ingredient that triples current UVA protection.",
+    "long_description": "Up to 90% of skin aging is caused by UV light from the sun. Most of this is caused by UVA light and only two FDA-approved chemical ingredients protect against it, one of which is neither photostable nor GRASE. To address this, we have developed a patented, photostable, and safe ingredient that can dramatically increase current UVA protection.",
     "name": "Lygg",
     "nonprofit": false,
     "one_liner": "Building New Anti-Aging Ingredients for Skincare",
@@ -1823,7 +1823,7 @@
     "website": "https://dressd.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/soco.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1859,10 +1859,10 @@
     "status": "Active",
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Chatbot",
       "Retail",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1912,51 +1912,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wantd",
     "website": "http://getwantd.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA; Paris, Île-de-France, France",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/jamble.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2022",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 27173,
-    "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1660193927,
-    "long_description": "Jamble is the new place to buy & sell secondhand fashion. We empower resellers with video & Live streaming tools to sell more effectively; and buyers with a unique compelling experience. Jamble is designed for the sustainable fashion community to engage, connect and inspire. We’re a mobile-first platform and launched on iOS! 👉 Check us out: https://apple.co/3Pfwran",
-    "name": "Jamble",
-    "nonprofit": false,
-    "one_liner": "Fashion resale marketplace powered by live streaming and video",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "France",
-      "America / Canada",
-      "Europe"
-    ],
-    "slug": "jamble",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aafce3da646fb5bdc4a18a9ad09cd597e6540dba.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
-    "tags": [
-      "Marketplace",
-      "Sustainable Fashion",
-      "Consumer",
-      "Social",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/jamble",
-    "website": "https://www.jambleapp.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -2040,7 +1995,7 @@
     "slug": "fetchr",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a3711a46cd77a69710a4297505d609c4c20e5a2.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "tags": [
       "Consumer",
@@ -2055,7 +2010,7 @@
     "website": "https://www.fetchr.so"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/retrofit.json",
     "app_answers": null,
     "app_video_public": false,

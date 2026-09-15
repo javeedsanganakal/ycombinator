@@ -161,7 +161,7 @@
     "website": "http://www.zenysis.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/seneca-systems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -280,7 +280,7 @@
     "website": "https://tokentransit.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/elucd.json",
     "app_answers": null,
     "app_video_public": false,
@@ -397,7 +397,7 @@
     "website": "http://www.getridealong.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/just-appraised.json",
     "app_answers": null,
     "app_video_public": false,
@@ -440,7 +440,7 @@
     "website": "https://www.justappraised.com"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/biobot-analytics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -481,7 +481,7 @@
     "website": "http://biobot.io"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/promise.json",
     "app_answers": null,
     "app_video_public": false,
@@ -568,7 +568,7 @@
     "website": "https://www.impactive.io/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/ravn.json",
     "app_answers": null,
     "app_video_public": false,
@@ -597,7 +597,8 @@
     "status": "Active",
     "subindustry": "Government",
     "tags": [
-      "Augmented Reality"
+      "Augmented Reality",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 10,
@@ -606,7 +607,7 @@
     "website": "https://ravn.com/"
   },
   {
-    "all_locations": "CA, USA; Remote",
+    "all_locations": "Boston, MA, USA; CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/votingworks.json",
     "app_answers": null,
     "app_video_public": false,
@@ -690,7 +691,7 @@
     "website": "https://www.lumineye.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/recidiviz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -702,7 +703,7 @@
       "Government"
     ],
     "industry": "Government",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1559183122,
     "long_description": "Recidiviz is a non-profit technology company that drives meaningful changes in criminal justice systems and improved outcomes for justice-impacted individuals.\r\n\r\nCriminal justice data today is inefficient and ineffective: researchers, advocates, policymakers and practitioners each need funding and time for data collection and cleaning (for almost any data at all), and most data collected is too stale by the time it’s compiled to be useful.\r\n\r\nRecidiviz has built an open-source platform to ingest data from across data silos, link it, standardize it, and expose it in usable formats to the ecosystem. We provide products and analyses on top of this platform to help government agencies understand how their justice systems are functioning, set and track progress towards goals, drive evidence-based improvements to practice and policy, and ensure justice-impacted folks reenter their communities as safely and quickly as they can.",
     "name": "Recidiviz",
@@ -726,10 +727,51 @@
       "Nonprofit"
     ],
     "tags_highlighted": [],
-    "team_size": 100,
+    "team_size": 120,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/recidiviz",
     "website": "https://www.recidiviz.org/"
+  },
+  {
+    "all_locations": "Charleston, SC, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/ringmd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2020",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 21792,
+    "industries": [
+      "Government"
+    ],
+    "industry": "Government",
+    "isHiring": false,
+    "launched_at": 1599762607,
+    "long_description": "We partner with healthcare groups and governments to implement enterprise telemedicine as a service.  ",
+    "name": "RingMD",
+    "nonprofit": false,
+    "one_liner": "We work with governments to implement telemedicine programs.  ",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ringmd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5b54658f5442de91f1200c526663ccf9721ace.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "Government",
+    "tags": [
+      "Telehealth",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "team_size": 32,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ringmd",
+    "website": "https://www.ring.md"
   },
   {
     "all_locations": "Denver, CO, USA",
@@ -821,7 +863,7 @@
     "website": "https://www.panadata.net"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json",
     "app_answers": null,
     "app_video_public": false,
@@ -915,7 +957,7 @@
     "website": "https://www.govly.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/govdash.json",
     "app_answers": null,
     "app_video_public": false,
@@ -966,7 +1008,7 @@
     "website": "https://govdash.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/goveagle.json",
     "app_answers": null,
     "app_video_public": false,
@@ -985,7 +1027,7 @@
     "industry": "Government",
     "isHiring": true,
     "launched_at": 1678919888,
-    "long_description": "GovEagle is building an AI RFP automation platform for medium to large government contractors. Using GovEagle, contractors have been able to submit more proposals without compromising quality. ",
+    "long_description": "GovEagle is an AI-native platform built to help public sector teams find, win, and manage work.",
     "name": "GovEagle",
     "nonprofit": false,
     "one_liner": "AI for Government Contractors",
@@ -995,19 +1037,19 @@
       "America / Canada"
     ],
     "slug": "goveagle",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32fff5dc0564409b94cd9ac53a22b0652becf13f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586ceaa695a4fbf233b89bbafdc3195a9fc128e.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Government",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/goveagle",
     "website": "https://www.goveagle.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/hazel-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1021,7 +1063,7 @@
     "industry": "Government",
     "isHiring": false,
     "launched_at": 1705430466,
-    "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving mission delivery.",
+    "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving compliance.",
     "name": "Hazel",
     "nonprofit": false,
     "one_liner": "AI-enabled procurement for government",
@@ -1043,7 +1085,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hazel-2",
     "website": "https://hazelai.com"
@@ -1089,7 +1131,7 @@
     "website": "http://abelpolice.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ontra-mobility.json",
     "app_answers": null,
     "app_video_public": true,
@@ -1134,48 +1176,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Ovation"
-    ],
-    "id": 29848,
-    "industries": [
-      "Government"
-    ],
-    "industry": "Government",
-    "isHiring": false,
-    "launched_at": 1722921255,
-    "long_description": "We help State and County governments lower their PER, avoiding penalties from H.R.1 and saving governments Billions.",
-    "name": "Saldor",
-    "nonprofit": false,
-    "one_liner": "Saving States from SNAP Payment Errors",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "saldor",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Government",
-    "tags": [
-      "Artificial Intelligence",
-      "Civic Tech",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "website": "https://saldor.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/usul.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1215,7 +1215,7 @@
     "website": "https://www.usul.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Dallas, TX, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/xtraffic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1237,6 +1237,8 @@
     "one_liner": "Technology for cities to automate and manage their traffic lights.",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1283,7 +1285,7 @@
     "subindustry": "Government",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/roundabout-technologies",
     "website": "https://roundabout.tech"
@@ -1330,7 +1332,7 @@
     "website": "https://www.usecandor.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/closure.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1344,14 +1346,16 @@
     "industry": "Government",
     "isHiring": true,
     "launched_at": 1739862740,
-    "long_description": "Law enforcement is drowning in data. Closure helps search it to solve crime.\r\n\r\n- Hiring: UX, Engineering, AI, Ops,\r\n- Supporting: law enforcement throughout the country\r\n- Expanding: Local, state, and federal law enforcement.",
+    "long_description": "Closure turns evidence overload into cases closed, with the most trusted AI agents in law enforcement.",
     "name": "Closure",
     "nonprofit": false,
     "one_liner": "We help law enforcement solve crime",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "closure",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
@@ -1359,11 +1363,12 @@
     "status": "Active",
     "subindustry": "Government",
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/closure",
     "website": "https://closure-intel.com/"
@@ -1381,7 +1386,7 @@
       "Government"
     ],
     "industry": "Government",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1738877677,
     "long_description": "Waypoint Transit is an AI city planner that generates civil infrastructure studies. Cities spend $50B/year on planning. With Waypoint, cities can generate reports in months rather than years, and at 30% of the cost.\r\n\r\nVarun and Ryan met at Stanford, where they graduated with degrees in CS and EE respectively. Before founding Waypoint, Varun worked on AI at Microsoft and Ryan worked on chip design at Apple.\r\n\r\nUS cities are facing three major crises: congestion, budget deficits, and climate change. At the same time, city governments are understaffed and frequently need to contract work out to expensive consultants. Leveraging recent advancements in AI, we empower cities to reduce their costs, build infrastructure, and respond to problems quickly.\r\n\r\nIn the United States, state and local governments spend $50B/year on planning. Through automation, we can redefine the existing transportation and urban planning consulting markets.\r\n\r\nFor more information, visit waypointtransit.com or contact us at contact@waypointtransit.com.",
     "name": "Waypoint Transit",
@@ -1550,7 +1555,10 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Government",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech"
+    ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
@@ -1590,7 +1598,8 @@
     "subindustry": "Government",
     "tags": [
       "GovTech",
-      "NLP"
+      "NLP",
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1655,10 +1664,10 @@
     "industry": "Government",
     "isHiring": false,
     "launched_at": 1776807232,
-    "long_description": "Today, when a city gets a FOIA request, the process is still painfully manual.\r\n\r\nCity clerks have to hunt through archived emails, meeting minutes, PDFs, and shared drives just to find the relevant records. Many offices still manually black out sensitive information with a Sharpie, line by line.\r\n\r\nLocal governments spend billions processing these requests. It’s slow, expensive, and a large request can create massive backlogs. If a city misses the deadline for a request, they can be sued for failing to comply with public records law.\r\n\r\nGovGuard uses AI agents to automatically search across years of records, flag sensitive information for redaction, and prepare draft response letters for review. Our redaction engine handles harder edge cases like trade secrets and privileged material. Legacy tools require clerks to manually cite state codes for every redaction, while GovGuard is built with these exemptions.\r\n\r\nThe new surge of AI-generated requests are overwhelming clerk offices. Most cities we speak with are seeing request volume grow 2x year over year, with no increase in staff. The tools they have today are basically Jira. They help manage the ticket/request, but not complete the work.",
+    "long_description": "GovGuard is building AI agents that automate government workflows, starting with FOIA requests.\r\n\r\nToday, public records teams still spend hours searching for responsive records and applying redactions. Many offices still redact sensitive information line by line with a sharpie. Local governments spend billions processing these requests, and if a city misses a legal deadline, it can be sued for failing to comply with public records law.",
     "name": "GovGuard",
     "nonprofit": false,
-    "one_liner": "AI Infrastructure for Government Agencies",
+    "one_liner": "Automating Government Workflows, starting with FOIA",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1677,5 +1686,82 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/govguard",
     "website": "https://govguard.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/verdant.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32189,
+    "industries": [
+      "Government"
+    ],
+    "industry": "Government",
+    "isHiring": false,
+    "launched_at": 1782774541,
+    "long_description": "Verdant sells AI agents to local government to make them more efficient. We're starting with permitting, the highest-volume workflow in local government that requires judgment. \r\n\r\nMany startups fail to sell to government, but not us - we've processed 200+ applications and gone from 0 to 4 paid deployments across 4 states with an average close time of 4 weeks.",
+    "name": "Verdant",
+    "nonprofit": false,
+    "one_liner": "AI Agents to Make Local Gov Efficient",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "verdant",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Government",
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/verdant",
+    "website": "https://www.verdantapp.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/capveon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35058,
+    "industries": [
+      "Government"
+    ],
+    "industry": "Government",
+    "isHiring": false,
+    "launched_at": 1787160988,
+    "long_description": "",
+    "name": "Capveon",
+    "nonprofit": false,
+    "one_liner": "Turning infrastructure demand into action ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "capveon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55acb7275a696cdf957737bce96b338f2da2d45f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Government",
+    "tags": [
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/capveon",
+    "website": "https://capveon.ai"
   }
 ]

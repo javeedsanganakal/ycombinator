@@ -39,7 +39,7 @@
     "website": "http://booksolid.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/beetailer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -121,7 +121,7 @@
     "website": "http://talkable.com"
   },
   {
-    "all_locations": "San Jose, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/flotype.json",
     "app_answers": null,
     "app_video_public": false,
@@ -204,7 +204,7 @@
     "website": "http://fivestars.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2011/talkbin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -244,7 +244,7 @@
     "website": "http://talkbin.com"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/presto.json",
     "app_answers": null,
     "app_video_public": false,
@@ -289,7 +289,7 @@
     "website": "http://presto.com"
   },
   {
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2010/mertado.json",
     "app_answers": null,
     "app_video_public": false,
@@ -365,7 +365,7 @@
     "website": "http://500friends.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2010/fabricly.json",
     "app_answers": null,
     "app_video_public": false,
@@ -440,7 +440,7 @@
     "website": "http://fithub.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Ann Arbor, MI, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2009/olark.json",
     "app_answers": null,
     "app_video_public": false,
@@ -455,27 +455,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1326790657,
-    "long_description": "Olark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nClick here to sign up for a demo:\r\nhttps://hello.olark.com/sales",
+    "long_description": "Built for the marketer doing five jobs at once. Easily install an Olark AI agent to answer questions, qualify visitors, and know exactly when to bring in a human.\r\n\r\nOlark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nUse our previewer on https://olark.com to try it on your website in less than 60 seconds.",
     "name": "Olark",
     "nonprofit": false,
-    "one_liner": "The best live chat software on the planet.  We help you build…",
+    "one_liner": "Olark gives you an AI agent that works your marketing funnel 24/7",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "slug": "olark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff33564bb52577d5950335e7ae4c2e1fab8f9fa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2971ba804a1fb214a567b3c22e4e6fd1b271fdf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
       "Sales",
+      "Marketing",
       "Customer Service",
-      "Chat"
+      "Chat",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 28,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/olark",
     "website": "http://olark.com"
@@ -518,7 +522,7 @@
     "website": "http://instantq.com"
   },
   {
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2008/frogmetrics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -642,7 +646,7 @@
     "website": "http://gocheetah.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/radar.json",
     "app_answers": null,
     "app_video_public": false,
@@ -661,7 +665,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1354492792,
-    "long_description": "RADAR is a platform that combines RFID and computer vision to automate and augment retail store processes. Our technology offers unprecedented speed and location accuracy, which allows stores to:\r\n\r\n1) Manage inventory efficiently, through automated inventory counts, improved in-store replenishment and instantaneous customer stock checks\r\n\r\n2) Eliminate checkout lines altogether through our autonomous checkout tool.\r\n\r\n3) Measure all customer-product interactions, giving physical stores the same insight into consumer behavior and product performance as online stores.\r\n\r\nhttps://goradar.com",
+    "long_description": "RADAR is an RF Sensing platform built to automate and augment retail store processes. Our technology offers unprecedented speed and location accuracy, which allows stores to:\r\n\r\n1) Manage inventory efficiently, through automated inventory counts, improved in-store replenishment and instantaneous customer stock checks\r\n\r\n2) Eliminate checkout lines altogether through our autonomous checkout tool.\r\n\r\n3) Measure all customer-product interactions, giving physical stores the same insight into consumer behavior and product performance as online stores.\r\n\r\nhttps://goradar.com",
     "name": "RADAR",
     "nonprofit": false,
     "one_liner": "RADAR is building technology to completely transform the in-store…",
@@ -678,8 +682,8 @@
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
-      "Artificial Intelligence",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 120,
@@ -769,7 +773,7 @@
     "website": "http://www.semantics3.com"
   },
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2013/posmetrics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1132,7 +1136,7 @@
     "website": "http://zinc.com"
   },
   {
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/vizeralabs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1172,7 +1176,7 @@
     "website": "http://vizeralabs.com"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/whirl.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1419,7 +1423,7 @@
     "website": "https://moltin.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mashgin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1451,14 +1455,14 @@
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
+      "Artificial Intelligence",
       "Cashierless Checkout",
       "Deep Learning",
       "Hardware",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
-    "team_size": 75,
+    "team_size": 150,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mashgin",
     "website": "http://mashgin.com"
@@ -1546,7 +1550,7 @@
     "website": "http://bistrobot.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2015/prayas-analytics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1810,7 +1814,7 @@
     "website": "http://www.flexengage.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/mindori.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1851,7 +1855,7 @@
     "website": "http://www.mindori.com"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/selfycart.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1890,7 +1894,7 @@
     "website": "https://www.selfycart.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/haywheel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2057,7 +2061,7 @@
     "website": "http://shopfirsthand.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2017/bulletin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2306,7 +2310,7 @@
     "website": "http://www.ourmenu.io"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/meitre.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2348,7 +2352,7 @@
     "website": "http://meitre.com/"
   },
   {
-    "all_locations": "San Diego, CA, USA; Remote",
+    "all_locations": "Salt Lake City, UT, USA; San Diego, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/sourcify.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2471,7 +2475,7 @@
     "website": "http://www.shelfengine.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/spate.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2487,7 +2491,7 @@
       "Retail"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1527062926,
     "long_description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
     "name": "SPATE",
@@ -2598,7 +2602,7 @@
     "website": "https://auravision.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/allure-systems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2944,7 +2948,7 @@
     "website": "http://www.turingsaas.com"
   },
   {
-    "all_locations": "East Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; East Palo Alto, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/vori.json",
     "app_answers": null,
     "app_video_public": true,
@@ -3553,7 +3557,7 @@
     "website": "https://www.awtomic.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/glimpse-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3861,57 +3865,7 @@
     "website": "https://www.zoko.io/"
   },
   {
-    "all_locations": "Hyderabad, Telangana, India; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Socionity",
-      "CreatorOS",
-      "CreatorOS - Questbook",
-      "Questbook",
-      "Reclaim Protocol, Questbook",
-      "CreatorOS",
-      "Bluecheck"
-    ],
-    "id": 23105,
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1616635998,
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-    "name": "Reclaim Protocol",
-    "nonprofit": false,
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
-    "question_answers": false,
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "reclaim-protocol",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Retail",
-    "tags": [
-      "Artificial Intelligence",
-      "Identity"
-    ],
-    "tags_highlighted": [],
-    "team_size": 26,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
-    "website": "https://reclaimprotocol.org"
-  },
-  {
-    "all_locations": "Menlo Park, CA, USA; Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/seer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3997,7 +3951,7 @@
     "website": "http://www.boitas.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/swiftsku.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4089,49 +4043,6 @@
     "website": "https://meru.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2021",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 24141,
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1625292827,
-    "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
-    "name": "Anakin",
-    "nonprofit": false,
-    "one_liner": "We automate pricing for eCommerce and on-demand service companies",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "anakin",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Retail",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "team_size": 70,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/anakin",
-    "website": "https://anakin.io"
-  },
-  {
     "all_locations": "Singapore, Singapore; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/tablevibe-co.json",
     "app_answers": null,
@@ -4149,10 +4060,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1624604887,
-    "long_description": "We’re on a mission to help restaurants go direct-to-consumer. With Tablevibe, eateries can easily launch their own online ordering system and sell directly to dine-in, pickup, and delivery customers through a branded webshop.\r\n\r\nOur platform connects seamlessly with leading logistics partners like Uber, Doordash, Grab, Foodpanda, and Lalamove to automatically book drivers at low, distance-based rates. Restaurants typically save up to 80% on delivery costs while building their own customer database and brand loyalty.\r\n\r\nBeyond ordering, we’re creating an ecosystem around digital commerce, helping restaurants grow through customer insights, cashback and referral programs, and marketing campaigns. Our unified dashboard simplifies menu and order management, while our feedback tools drive higher customer satisfaction and online reviews.\r\n\r\nBacked by Global Founders Capital, Y Combinator, and Velocity Ventures, Tablevibe empowers restaurants to take control of their digital future. Join thousands of thriving partners by booking a call with one of our experts at tablevibe.co/democall or by reaching out via hello@tablevibe.co.",
+    "long_description": "We help restaurants launch their own online ordering store and sell directly to customers.\r\n\r\nThis reduces costs by up to 80% compared to traditional delivery apps, grows sales, and gives restaurants full ownership of their customer data.\r\n\r\nOur software automatically books riders for on-demand delivery at low, distance-based rates.\r\n\r\nCurious to learn more? Book a demo at tablevibe.co/democall.",
     "name": "Tablevibe",
     "nonprofit": false,
-    "one_liner": "All-in-one digital ordering system for restaurants",
+    "one_liner": "Direct Ordering Software for Restaurants",
     "question_answers": false,
     "regions": [
       "Singapore",
@@ -4312,7 +4223,7 @@
     "website": "https://www.outloud.ai/"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/strideq.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4710,7 +4621,7 @@
     "website": "https://www.askluca.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vendora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4803,7 +4714,7 @@
     "website": "https://www.branch-ai.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/airgoods.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4820,10 +4731,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689699732,
-    "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help thousands of independent grocers and specialty food stores (like Westside Market, Butterfield Market, and Epicurus Gourmet) discover, order, and sell emerging and gourmet brands like Fishwife, David, and Ghia.",
+    "long_description": "Trusted by independent grocers across America, Airgoods is the AI-native distributor transforming how stores discover, order, and sell the products their customers want. \r\n\r\nBy combining proprietary data with automation across discovery, purchasing, receiving, and merchandising, Airgoods gives independent grocers the intelligence and operating leverage once reserved for the largest retail chains.",
     "name": "Airgoods",
     "nonprofit": false,
-    "one_liner": "Wholesale marketplace for food & beverage",
+    "one_liner": "The modern distributor for grocers.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4834,7 +4745,11 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
-    "tags": [],
+    "tags": [
+      "Grocery",
+      "Supply Chain",
+      "Food & Beverage"
+    ],
     "tags_highlighted": [],
     "team_size": 10,
     "top_company": false,
@@ -4928,7 +4843,7 @@
     "website": "https://usemargin.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sante.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5013,46 +4928,7 @@
     "website": "https://cpgscout.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/promi.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29725,
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1722224133,
-    "long_description": "Promi is an AI-powered price and discount optimization platform. We help eCommerce merchants personalize their sales to generate additional revenue and profit.\r\n\r\nEcommerce merchants and marketers typically use discounts to drive customer acquisition, boost sales during holidays, or liquidate inventory. But deciding on a discount to offer is typically guesswork. Who to send the discount to, how much to offer, and which products it applies to are, in the most advanced cases, determined manually by looking at past sales and seeing what worked well. In the majority of cases, it's what feels and sounds good.\r\n\r\nPromi leverages store data to optimize discounts at a more granular level than possible manually. We dynamically determine the best value across each product, for different users, at different times in order to maximize sales and profit.",
-    "name": "Promi",
-    "nonprofit": false,
-    "one_liner": "Optimizing ecommerce pricing with dynamic, personalized discounts",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "promi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09f637750b9552f2816bb15f6e4323e0af65bc7d.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Retail",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/promi",
-    "website": "https://www.usepromi.com/"
-  },
-  {
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/presti-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5073,6 +4949,8 @@
     "one_liner": "Helping furniture companies create product visuals with AI",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -5094,7 +4972,7 @@
     "website": "https://www.presti.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/handled.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5111,35 +4989,35 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1719423480,
-    "long_description": "Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering “Can you check this?” requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.\r\n\r\nHandled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.\r\nHandled gives teams real-time visibility across orders, shipments, returns, and inventory in one system — eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.\r\n\r\nBy combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",
+    "long_description": "Consumer brands run finance and operations across ERPs, commerce platforms, 3PLs, accounting systems, email, and spreadsheets. Because these systems do not share context or complete work, teams still spend hours assembling reports, reconciling numbers, entering orders, monitoring inventory, processing invoices, and chasing exceptions. Problems are often discovered only after they have cost the business time, margin, or revenue.\r\n\r\nHandled is an AI teammate for finance and operations. It connects to the systems and unstructured information a brand already uses and learns its data, rules, and workflows. Handled answers questions about the business, proactively catches issues, and takes on recurring manual work across financial reporting, inventory, procurement, wholesale order-to-cash, and AP/AR. It works across systems and brings a person in when judgment or approval is required.\r\n\r\nHandled gives lean teams more operating capacity without adding another tool to manage, more outsourced support, or more headcount.\r\n",
     "name": "Handled",
     "nonprofit": false,
-    "one_liner": "Automating post-order operations for e-commerce brands and 3PLs",
+    "one_liner": "AI teammate for finance and operations teams at consumer brands",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "handled",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/698f27f60b4751de0476e3eb409c1e55b062eb40.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6a1e68ab0e8a242ed2d89b4af36673b59f155d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Logistics",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/handled",
     "website": "https://www.itshandled.ai"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5181,7 +5059,7 @@
     "website": "https://rastro.ai"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "New Delhi, DL, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/surebright.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5196,7 +5074,7 @@
       "Retail"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1720298517,
     "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
     "name": "SureBright",
@@ -5204,17 +5082,24 @@
     "one_liner": "Apple Care-like warranty program for every retailer ",
     "question_answers": false,
     "regions": [
+      "India",
+      "South Asia",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "surebright",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786573119daa04ca85d28b00e8358a03f4e0a184.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
-    "tags": [],
+    "tags": [
+      "E-commerce",
+      "Insurance",
+      "Retail",
+      "AI"
+    ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 35,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/surebright",
     "website": "https://surebright.com/"
@@ -5265,7 +5150,7 @@
     "website": "https://www.anglera.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/metreecs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5286,7 +5171,8 @@
     "one_liner": "AI-powered demand forecasting for retail",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "slug": "metreecs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0896c8d6a3292048c3275f782ddd6f5a282d3e4a.png",
@@ -5305,7 +5191,7 @@
     "website": "https://www.metreecs.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kirana-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5349,7 +5235,7 @@
     "website": "https://www.kirana-ai.com"
   },
   {
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5412,10 +5298,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1759337800,
-    "long_description": "Every product ever sold needs support at some point. That support falls into one of two buckets.\r\n\r\nBucket 1: Simple stuff. T-shirts, screen protectors, keyboards. You buy it, it shows up, maybe you ask “where's my order?” once. This is solved. Zendesk and a hundred other horizontal companies solved it.\r\n\r\nBucket 2: Hard stuff. $20,000 industrial heaters. HVAC systems. CNC machines. Car parts. Products where buying wrong means your building doesn't have heat or your manufacturing line is down. Support for these products can only be performed by highly trained domain specialists and there aren't enough of them.\r\n\r\nIf you're selling EV charging stations, your support person needs to be a certified electrician who understands local power grids, installation codes, and compatibility matrices. You can't hire this off the street. You can't outsource it overseas.\r\n\r\nYou'd think LLMs would have solved this by now. They haven't. Three years into the LLM era, penetration in this industry is very low & the reason is twofold.\r\n\r\nFirst, off-the-shelf models don't actually understand these products. The knowledge lives in 48-page technical manuals buried on some manufacturer's website in terrible formatting — wiring schematics, compatibility matrices, installation diagrams that can only make sense visually. A general-purpose LLM can't draw you the diagram showing how to connect terminal A to terminal B. It doesn't have the spatial understanding or the product-specific reasoning to be a real technical advisor. So companies still rely entirely on human experts.\r\n\r\nSecond, even if the models were good enough, there are no harnesses to make them useful in the business.\r\n\r\nNo engine to capture deep technical knowledge about complex physical products and keep it updated. No way for a company to offload tribal knowledge from their senior technicians into a system. No way to see what questions customers are actually asking and feed that back into the knowledge base. No generative multimodal presentation and no expressive voice support.\r\n\r\nProx is building the best technical product expert for extremely complicated physical products.\r\n\r\nA multimodal agent that can draw wiring schemes, share CAD models, process incoming videos from a technician in the field, and support people over the phone with voice that can pass the Turing test. To get there, we're solving multimodal knowledge graph building at a very deep level. A huge portion of your work will be developing SOTA knowledge engines that can truly understand complex physical products.\r\n",
+    "long_description": "Prox turns product expertise into revenue for equipment manufacturers.\r\n\r\nEquipment buyers rarely begin with a model number. They begin with a job, an installed system, a constraint, or a problem. The knowledge needed to qualify, recommend, configure, quote, repair, replace, or upgrade the product is scattered across manuals, catalogs, spreadsheets, calculators, product managers, applications engineers, dealer processes, support teams, and legacy systems. The result is abandoned demand, slow qualification, wrong-fit recommendations, quote delays, weak dealer follow-up, missed parts and service revenue, and dependence on a few experienced people.\r\n\r\nProx builds AI product specialists for equipment manufacturers. A product specialist uses the manufacturer's approved product knowledge, expert rules, calculators, and connected systems to move customers and frontline teams from a complex product question to the right purchase, quote, dealer, parts, service, replacement, or upgrade path.\r\n\r\nHow it works:\r\n\r\n1. Understand what the person is trying to accomplish.\r\n2. Resolve the product, application, and operating context already available.\r\n3. Ask only for the missing information that changes the result.\r\n4. Apply approved sources, expert rules, and deterministic tools (calculators, selectors, configurators, comparisons).\r\n5. Produce a supported, cited recommendation, configuration, procedure, or decision artifact.\r\n6. Move the person into the correct cart, quote, RFQ, BOM, dealer, sales, parts, service, replacement, upgrade, or expert action with the context preserved.\r\n\r\nOne product specialist, many governed skills: product discovery and comparison, sizing and configuration, competitive defense, quote preparation, dealer enablement, installation and commissioning, troubleshooting, parts identification, and approved service, replacement, and upgrade paths. Manufacturers deploy those skills to customers, dealers, sales teams, applications engineers, support teams, or field service. Existing CRM, CPQ, commerce, and support systems stay in place.\r\n\r\nSupport and service are revenue-bearing surfaces. The specialist resolves the customer's problem first, then surfaces the approved part, service, replacement, or upgrade path only when the evidence supports it.",
     "name": "Prox",
     "nonprofit": false,
-    "one_liner": "AI technical support for complex physical products",
+    "one_liner": "AI product specialists for equipment manufacturers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5424,24 +5310,24 @@
       "Partly Remote"
     ],
     "slug": "prox",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f30fc74152325f6e0cd4158a192d0c292aefd1.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "E-commerce",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/prox",
     "website": "https://useprox.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json",
     "app_answers": null,
     "app_video_public": false,
@@ -5454,7 +5340,7 @@
       "Retail"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1752182938,
     "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
     "name": "Channel3",
@@ -5494,7 +5380,7 @@
       "Retail"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1774933783,
     "long_description": "AI-powered product compliance platform that makes it easy for retailers to launch and scale products across borders without drowning in regulatory work. Complir's AI agents handle the regulations and documentation across every market you sell in - and keep your entire catalogue audit-ready.",
     "name": "Complir",
@@ -5512,15 +5398,55 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
-    "tags": [
-      "Retail",
-      "Regtech",
-      "Consumer Products"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "team_size": 13,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/complir",
     "website": "https://complir.io/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pango.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31989,
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1781764394,
+    "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
+    "name": "Pango",
+    "nonprofit": false,
+    "one_liner": "Agentic OS for e-commerce operations",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "pango",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Retail",
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "E-commerce",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pango",
+    "website": "https://pango.ai/"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/prodigal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -41,7 +41,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 99,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/prodigal",
     "website": "https://prodigaltech.com/"
@@ -193,7 +193,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1597677447,
-    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes—with zero claims filing. Live on IndiGo today, processing ~49,000 policies/day via UPI. We operate as an MGA (licensed under IRDAI) with 25–30% commission economics and no balance sheet risk.",
+    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes; with zero claims filing.",
     "name": "MedPiper Technologies, Inc",
     "nonprofit": false,
     "one_liner": "Instant cash payouts for delayed flights",
@@ -353,7 +353,7 @@
     "website": "https://solarmente.es"
   },
   {
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/ivella.json",
     "app_answers": null,
     "app_video_public": false,
@@ -396,7 +396,7 @@
     "website": "https://www.ivella.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mine.json",
     "app_answers": null,
     "app_video_public": false,
@@ -413,7 +413,7 @@
       "Consumer Finance"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628179251,
     "long_description": "Mine is the personal finance app designed to help you get ahead.\r\n\r\nFounded on the idea that financial independence begins with ownership — of your money, your momentum, and your decisions.\r\n\r\nWe make the credit-builder thousands know and love, with budgeting and spend tracking features meant to help your money be the best version of itself. We’re also the makers of MoneyGPT, the money assistant that’s got your back.\r\n\r\nYoung people today are stepping into a financial world built for someone else’s life.\r\n\r\nWe give young adults the confidence and control to take charge of their financial journey with simple tools, smart guidance, and a system that works for the path you choose.\r\n\r\nLet’s build your future together. Get started at usemine.com\r\n\r\nBacked by Kleiner Perkins, SV Angel, Liquid 2 Ventures, and the founders of Handshake, Postmates, Public.com, Motive and many more.",
     "name": "Mine",
@@ -429,7 +429,7 @@
     "slug": "mine",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Fintech -> Consumer Finance",
     "tags": [
       "Artificial Intelligence",
@@ -444,8 +444,51 @@
     "website": "https://usemine.com/"
   },
   {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/national-finance-olympiad.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Streak"
+    ],
+    "id": 25594,
+    "industries": [
+      "Education"
+    ],
+    "industry": "Education",
+    "isHiring": false,
+    "launched_at": 1640013871,
+    "long_description": "NFO is building India’s financial education platform for students.\r\n\r\nWe make financial education structured, engaging and competitive through age-appropriate curricula, AI-proctored assessments and nationally recognised certification. Our platform enables schools to introduce financial education without adding to their academic workload, while giving students a measurable way to learn, apply and demonstrate financial knowledge.\r\n\r\nWe’re building toward a future where financial education is a standard part of every Indian student’s education.",
+    "name": "National Finance Olympiad",
+    "nonprofit": false,
+    "one_liner": "The SAT of Financial Education in India.",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "national-finance-olympiad",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb094811d5892fc129c2da8f28246098b5d70f42.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Education",
+    "tags": [
+      "Finance",
+      "Edtech",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 12,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/national-finance-olympiad",
+    "website": "https://www.nationalfinanceolympiad.com"
+  },
+  {
     "all_locations": "Mexico City, CDMX, Mexico",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/amiloz.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/belozfi.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -456,7 +499,8 @@
       "amiloz",
       "Amiloz",
       "amiloz",
-      "Amiloz"
+      "Amiloz",
+      "amiloz"
     ],
     "id": 25973,
     "industries": [
@@ -466,10 +510,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1646585799,
-    "long_description": "We are a Y Combinator / Latitud backed micro-lending platform in Mexico led by talent from companies such as Capital One, Bain & Company, Konfio, DiDi, Clip, Klarna, etc. We are hyper focused on making sure that customers improve their financial lives significantly through their relationship with us. In a very short time, we have achieved significant traction with exceptional consumer outcomes and unit economics. We are also building and incorporating a significant amount of AI into our operations, so this is a great place to work for anybody who has ambitions to build real time applications of AI. Our goal is to build the biggest AI enabled consumer fintech platform in Mexico and eventually LatAm.",
-    "name": "amiloz",
+    "long_description": "We are a Y Combinator / Latitud backed financial health focused micro-lending platform in Mexico led by people from companies such as Capital One, Bain, Konfio, DiDi etc. We are hyper focused on making sure our users understand and improve their financial health through their relationship with us. In a very short time, we have achieved significant traction with very good consumer outcomes and unit economics. We have built a solid AI foundation in product development, data science and lending operations that powers our product. Our goal is to build the biggest AI enabled financial health platform in Mexico and eventually LatAm.",
+    "name": "BelozFi",
     "nonprofit": false,
-    "one_liner": "Micro-lender in Mexico",
+    "one_liner": "Financial health focused micro-lender in Mexico",
     "question_answers": false,
     "regions": [
       "Mexico",
@@ -477,8 +521,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "amiloz",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/979fcfdd0c4661a8729e2394fa1ade03b93f89bc.png",
+    "slug": "belozfi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b7064954b699944273829fa9f99e428be9bfa6f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Credit and Lending",
@@ -488,13 +532,13 @@
       "Consumer Finance"
     ],
     "tags_highlighted": [],
-    "team_size": 20,
+    "team_size": 29,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/amiloz",
-    "website": "https://www.beloz.com.mx/"
+    "url": "https://www.ycombinator.com/companies/belozfi",
+    "website": "https://www.belozfi.com.mx/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Salt Lake City, UT, USA; San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/seis.json",
     "app_answers": null,
     "app_video_public": false,
@@ -507,7 +551,7 @@
       "Consumer Finance"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1642531744,
     "long_description": "Today we're the easiest way for our customers to get a bank account. \r\n\r\nTomorrow we'll be the easiest way to get a credit card, auto loan, mortgage, etc. \r\n\r\nOur mission is to treat our customers as 1st class citizens and *end dial #2 for español*",
     "name": "Seis",
@@ -523,7 +567,7 @@
     "slug": "seis",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd9b86419e3a78adb95e9c2144f9899fa50c0513.png",
     "stage": "Growth",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Fintech -> Consumer Finance",
     "tags": [
       "Fintech",
@@ -586,7 +630,52 @@
     "website": "https://www.myalmafi.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/maxi.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Leather",
+      "Thread"
+    ],
+    "id": 28089,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1674772876,
+    "long_description": "Maxi is an iMessage-based, AI-native agent for your personal finances. It connects to all your accounts (secure read-only access) and Gmail and proactively texts you to help cancel subscriptions, identify split expenses, and send Venmo requests (on your behalf). It also tracks your net worth, reminds you about bills, and keeps you in line with your budgets.",
+    "name": "Maxi",
+    "nonprofit": false,
+    "one_liner": "AI Agent for your personal finances",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "maxi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fe59b0fad86e3ef763c2294a3eb1d69431df2b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Consumer Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/maxi",
+    "website": "https://www.usemaxi.app"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json",
     "app_answers": null,
     "app_video_public": false,
@@ -618,10 +707,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Credit and Lending",
     "tags": [
+      "Artificial Intelligence",
       "Enterprise Software",
       "Consumer Finance",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -806,54 +895,6 @@
     "website": "https://www.finosu.com"
   },
   {
-    "all_locations": "Seattle, WA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "OpenIndex",
-      "Actionbase",
-      "actionbase",
-      "Actionbase",
-      "Pumpkin",
-      "Leviathan"
-    ],
-    "id": 29810,
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1723408013,
-    "long_description": "bluedoor is a CLI tool for stock research.",
-    "name": "bluedoor",
-    "nonprofit": false,
-    "one_liner": "Professional-grade stock research in your terminal.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "bluedoor",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2153ec2908ddcc519fbb6285abb74d57437686c4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Consumer Finance",
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "Consumer Finance"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/bluedoor",
-    "website": "https://bluedoor.sh/"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/moreta.json",
     "app_answers": null,
@@ -897,48 +938,7 @@
     "website": "https://moretapay.com"
   },
   {
-    "all_locations": "Berkeley, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/pap.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29839,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1724803143,
-    "long_description": "Consumers miss out on $70B+ every year because they're busy and unaware, and that money is sitting in their email inbox. So, we automated reading email receipts and claiming the money they're entitled to, offering a service to which you can sign up once, do (literally) nothing, and earn $.\r\n\r\nWhere is this money coming from?\r\n\r\n- Retailers: When the price of clothes or furniture you've already bought drops, you're entitled to a refund for the difference\r\n- Airlines: When a flight you've booked gets delayed or canceled, you're entitled to a cash compensation.\r\n- Enterprises: When a class-action lawsuit is filed against a company you engage with, you're entitled to money.\r\n- And many more, that even the government holds some of your unclaimed funds.\r\n\r\nToday, the dream of one service that automatically claims the money you deserve when you shop, fly,... and live is (finally) possible.\r\n\r\nWe started with automating refunds in the shopping industry and have secured $8,000 in refunds to our users, growing 233% MoM. With AI, we've been able to repurpose that same automation to tackle refunds in the flight industry and the class-action lawsuit landscape.\r\n\r\nWhy us? (1) We're obsessed with reclaiming what's rightfully yours: Kamal and Anthony grew up in Lebanon, where people's money was unfairly taken away. (2) Weijie was the lead infra engineer for Wish's recommendation system, the feature that fueled their IPO. Our combined experience includes Apple, Addepar, Bolt, Wish, and StackAdapt.\r\n\r\nAnd we're all working towards one goal: move those billions of dollars where they belong.\r\n",
-    "name": "pap!",
-    "nonprofit": false,
-    "one_liner": "Agents that earn consumers dollars when they shop, travel, and live.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "pap",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91957da820be361c716d7cafd0c4078a1c7333e0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "Consumer Finance",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pap",
-    "website": "https://joinpap.com/"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json",
     "app_answers": null,
     "app_video_public": false,
@@ -952,12 +952,12 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1718839098,
-    "long_description": "Elayne an AI-powered estate settlement platform that helps families settle an estate with clarity and speed using AI plus expert review. We turn scattered accounts, paperwork, and deadlines into a structured workflow: asset discovery, document intake, next steps, and status tracking.\r\n\r\nElayne generates a verified step-by-step action plan based on institution and jurisdiction requirements. Families track progress in one place, share a single source of truth with executors and advisors, and move cases forward with fewer calls, forms, and surprises.",
+    "long_description": "Elayne is building the modern estate settlement platform. \r\n\r\nEstate settlement is a $250B+ annual market, with $80T+ in assets expected to transfer over the next 25 years. But after a death, families and executors have to spend 400+ hours manually identifying, organize, and distribute everything that was left behind like: financial accounts, debts, property, insurance, legal documents, incorporating juristidi ation requirements and family context. \r\n\r\nElayne is the first platform to surface verified assets and debts for precisely this moment, then turing our discovery into a clear inheritance map. We work directly with families and executors, and with the partners who support them: funeral homes, hospice and aftercare providers, attorneys, and financial institutions.\r\n\r\nThe company was founded by Adria, a former large-cap investor who experienced the problem firsthand, and Rebecca, a repeat fintech and mental health founder who left her master’s program in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category.\r\n\r\nBacked by Y Combinator and Accel, we are now an 8-person team based in NYC.",
     "name": "Elayne",
     "nonprofit": false,
-    "one_liner": "AI copilot for growing, organizing, and transferring family estates",
+    "one_liner": "Estate settlement, from verified discovery to distribution",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -970,19 +970,19 @@
     "subindustry": "Fintech",
     "tags": [
       "Fintech",
-      "SaaS",
       "B2B",
+      "Legal",
       "Consumer Finance",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/elayne",
     "website": "https://www.elayne.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Salt Lake City, UT, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/sunset.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1003,7 +1003,8 @@
     "one_liner": "Find and move money after a death",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "sunset",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f12c028442a35e9f801fbe4707f0761febda2eb5.png",
@@ -1021,7 +1022,7 @@
     "website": "https://www.hellosunset.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/axiom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1042,7 +1043,8 @@
     "one_liner": "Trade memecoins, perpetuals, and earn yield.",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "axiom",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffbe7a826e30d31bb15e11d521be0059beb3f81.png",
@@ -1064,7 +1066,50 @@
     "website": "https://axiom.trade"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/ralo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Approval AI"
+    ],
+    "id": 30426,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1744861920,
+    "long_description": "Ralo is the first AI-native mortgage broker. We use AI to remove layers of overhead and pass the savings back to borrowers. Our customers get rates more than half a point below the national average, save tens of thousands of dollars over the life of their loan. ",
+    "name": "Ralo",
+    "nonprofit": false,
+    "one_liner": "AI-Native Mortgage Broker",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ralo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ralo",
+    "website": "https://www.ralo.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/autonomous-technologies-group.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1149,7 +1194,7 @@
     "website": "https://astor.app/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Orlando, FL, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/munify.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1169,6 +1214,8 @@
     "one_liner": "The Cross-Border Neobank for the Middle East",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1191,50 +1238,7 @@
     "website": "https://munify.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/selfin.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30922,
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1759770880,
-    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
-    "name": "Selfin",
-    "nonprofit": false,
-    "one_liner": "Building the first AI Bank",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "selfin",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Consumer Finance",
-    "tags": [
-      "Fintech",
-      "Finance",
-      "Consumer",
-      "Consumer Finance",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/selfin",
-    "website": "https://selfin.app"
-  },
-  {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1252,7 +1256,7 @@
     "long_description": "Freeport is a trading platform for pre-IPO shares, equities, crypto, and perpetual futures. Our AI analysts turn trusted social and financial media into a real-time feed of market-moving news and actionable trade ideas.",
     "name": "Freeport Markets",
     "nonprofit": false,
-    "one_liner": "Trade like a hedge fund. ",
+    "one_liner": "Trade Anything",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1279,49 +1283,87 @@
     "website": "https://www.freeportmarkets.com/"
   },
   {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ekpa.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31234,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1783109218,
+    "long_description": "",
+    "name": "Ekpa",
+    "nonprofit": false,
+    "one_liner": "Building Autonomous Research Agents for Trading",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ekpa",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c4988b8eff9db30a66dc2c4f5f513eba67b606.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ekpa",
+    "website": "https://goekpa.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hevn-inc.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kinro.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31391,
+    "id": 31382,
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Insurance"
     ],
     "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1777498705,
-    "long_description": "HEVN is a b2b financial platform where international companies can run their business globally with USD.\r\n↓\r\n> Use USD cards with cashback and do not pay fees on converting local currency, by paying to Google/Meta ads\r\n\r\n> Pay/get paid in local currency via named accounts in EU, Hong Kong and UAE banks \r\n\r\n> (soon) store USD in FDIC-insured account in a US bank, even if your company does not have EIN",
-    "name": "HEVN, inc",
+    "isHiring": true,
+    "launched_at": 1773944938,
+    "long_description": "We help small business owners get the right coverage.",
+    "name": "Kinro",
     "nonprofit": false,
-    "one_liner": "\"Brex\" for international companies",
+    "one_liner": "Autonomous insurance brokerage for small businesses",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "slug": "hevn-inc",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
+    "slug": "kinro",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6042942a7506c8f7817f8f92ca6675143b71ba.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "tags": [
-      "Finance",
-      "Consumer Finance",
-      "Neobank"
+      "Fintech",
+      "Insurance",
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/hevn-inc",
-    "website": "https://gethevn.com"
+    "url": "https://www.ycombinator.com/companies/kinro",
+    "website": "https://www.kinro.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/mochatrade.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1339,10 +1381,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1775162589,
-    "long_description": "Mochatrade lets global traders trade perpetual futures on US stocks with up to 20x leverage. Access 50+ US stocks including TSLA, NVDA, AAPL. Mocha is fully self-custodial and no US brokerage account is needed. Traders on-ramp in local currencies and get professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), and expanding across other markets.",
+    "long_description": "Mochatrade lets global traders trade top US stocks using perpetual futures. Access all US stocks including TSLA, NVDA, and AAPL, plus pre-IPO companies and commodities, no US brokerage account needed. Money in and out in local currency (UPI in India), with professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), expanding across other markets. Backed by Coinfund, Coinbase, and Y Combinator.\r\n\r\n",
     "name": "Mochatrade",
     "nonprofit": false,
-    "one_liner": "US stock perps for global traders",
+    "one_liner": "US stock trading, unlocked for the globe",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1356,13 +1398,9 @@
     "status": "Active",
     "subindustry": "Fintech -> Consumer Finance",
     "tags": [
-      "Fintech",
-      "Crypto / Web3",
       "Consumer Finance"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mochatrade",

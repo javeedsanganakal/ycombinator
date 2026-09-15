@@ -1,6 +1,6 @@
 # ycombinator
 
-Fetch, mirror, and query the entire Y Combinator company directory (~5,909 companies) locally.
+Fetch, mirror, and query the entire Y Combinator company directory (~6,220 companies in the current snapshot) locally.
 
 Three layers of data live in this repo:
 
@@ -8,7 +8,7 @@ Three layers of data live in this repo:
 | --- | --- | --- |
 | `datasets/cache/all.json` | no (gitignored) | Bulk file the library loads for fast in-memory queries |
 | `datasets/yc-companies/<year>-<season>/<slug>.json` | **yes** | One pretty-printed JSON per company, organized by batch — for git-friendly diffs |
-| `datasets/yc-oss-mirror/` | **yes** | Full mirror of every endpoint published by [yc-oss/api](https://github.com/yc-oss/api) (449 files, ~64 MB) |
+| `datasets/yc-oss-mirror/` | **yes** | Full mirror of [yc-oss/api](https://github.com/yc-oss/api): 455 endpoint payloads plus `meta.json` (456 JSON files, ~68 MB) |
 | `vendor/how-to-start-a-startup/` | **yes** | Vendored snapshot of [iqiancheng/how-to-start-a-startup](https://github.com/iqiancheng/how-to-start-a-startup) — Stanford × YC lecture transcripts, slide PDFs, and figures (~22 MB, Unlicense) |
 | `vendor/ycombinator-skills/` | **yes** | Vendored snapshot of [jona/ycombinator-skills](https://github.com/jona/ycombinator-skills) — 19 YC startup frameworks distilled into Claude Code skills (~200 KB, MIT per upstream README) |
 
@@ -43,7 +43,10 @@ ycombinator split
 # Query / inspect
 ycombinator list batches                    # batch slugs + counts (also: industries, tags)
 ycombinator stats                           # totals, by status, by batch, by industry
-ycombinator search "restaurant"             # full-text search on name + one_liner
+ycombinator search "restaurant"             # full-text company search
+ycombinator filter --industry B2B --tag AI   # structured, combinable filters
+ycombinator kb-search "pricing"              # search startup-library Markdown
+ycombinator kb-search "sales" --include-lectures
 ycombinator show stripe                     # pretty-print a single company by slug
 ```
 
@@ -55,12 +58,12 @@ ycombinator show stripe                     # pretty-print a single company by s
 from ycombinator import YCData, fetch_all, fetch_mirror
 
 fetch_all()                                  # bulk file + per-company split
-fetch_mirror()                               # mirror all 449 yc-oss endpoints
+fetch_mirror()                               # mirror all current yc-oss endpoints
 
 data = YCData.load()                         # loads from ./datasets/cache/all.json
 fintech = data.filter(batch="Winter 2024", industry="Fintech", status="Active")
 ai_b2b  = data.filter(tags=["AI", "B2B"])    # AND across tags (case-insensitive)
-matches = data.search("restaurant")          # substring on name + one_liner
+matches = data.search("restaurant")          # public text fields, tags, and regions
 stripe  = data.get("stripe")                 # by slug
 print(data.stats())                          # {"total": ..., "by_batch": {...}, ...}
 ```
@@ -93,7 +96,7 @@ Folder = `<year>-<season>` (lowercased), so it sorts chronologically. Filename =
 datasets/yc-oss-mirror/
 ├── meta.json                          # index of all slugs + counts
 ├── companies/                         # 7 curated views
-│   ├── all.json                       # all 5,909
+│   ├── all.json                       # all 6,220 in the current snapshot
 │   ├── top.json                       # YC "top companies"
 │   ├── hiring.json                    # currently hiring
 │   ├── nonprofit.json

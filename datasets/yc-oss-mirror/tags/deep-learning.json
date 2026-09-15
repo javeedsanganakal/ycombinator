@@ -132,7 +132,7 @@
     "website": "https://www.numerionlabs.ai"
   },
   {
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/mashgin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -164,14 +164,14 @@
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
+      "Artificial Intelligence",
       "Cashierless Checkout",
       "Deep Learning",
       "Hardware",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
-    "team_size": 75,
+    "team_size": 150,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mashgin",
     "website": "http://mashgin.com"
@@ -223,7 +223,7 @@
     "website": "http://www.focal.systems"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/netomi.json",
     "app_answers": null,
     "app_video_public": false,
@@ -488,7 +488,7 @@
     "website": "http://vathys.ai"
   },
   {
-    "all_locations": "Berkeley, CA, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/jido-maps.json",
     "app_answers": null,
     "app_video_public": false,
@@ -534,7 +534,7 @@
     "website": "https://jidomaps.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/activeloop.json",
     "app_answers": null,
     "app_video_public": false,
@@ -676,7 +676,7 @@
     "website": "https://sapling.ai"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/audiofocus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -703,7 +703,7 @@
     "slug": "audiofocus",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfd0e481274d2ce049ec8ba610428a947f18b71a.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
       "Deep Learning",
@@ -717,7 +717,7 @@
     "website": "http://audiofocus.io"
   },
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/traces.json",
     "app_answers": null,
     "app_video_public": false,
@@ -760,49 +760,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/traces",
     "website": "https://www.traces.ai"
-  },
-  {
-    "all_locations": "Livermore, CA, USA; Sunnyvale, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/datasaur.json",
-    "app_answers": true,
-    "app_video_public": false,
-    "batch": "Winter 2020",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 13144,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1583202722,
-    "long_description": "Datasaur builds intelligent, optimized, human-centric LLM/NLP tools. If you're still using Excel or maintaining your own in-house tools, Datasaur can offer you significant cost-savings and improve the quality of your training data. We provide tools custom-built for power users. Our built-in intelligence helps augment your human labelers and avoid costly mistakes; our workforce management tool allows you to assign projects to and cross-validate the results from multiple labelers to ensure you can train your models with the utmost confidence.\r\n\r\nI have 10 years of consumer product experience. I'd be happy to help discuss product strategy and gamification.\r\nI'd love to get any advice you have to offer on SaaS and enterprise sales.",
-    "name": "Datasaur",
-    "nonprofit": false,
-    "one_liner": "Datasaur builds a data labeling workforce management platform for NLP.",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "datasaur",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b034ae95d0987f25f5a158decefc230711671261.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "team_size": 55,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/datasaur",
-    "website": "https://datasaur.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -851,7 +808,7 @@
   },
   {
     "all_locations": "Boston, MA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics-didgeai.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2020",
@@ -859,7 +816,8 @@
     "former_names": [
       "RCML",
       "NeXtera Robotics",
-      "NextEra Robotics"
+      "NextEra Robotics",
+      "Nextera Robotics"
     ],
     "id": 21969,
     "industries": [
@@ -869,8 +827,8 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1599762606,
-    "long_description": "Nextera Robotics is an AI-native Robotics and Industrial Automation company founded at MIT.",
-    "name": "Nextera Robotics",
+    "long_description": "AI-native Robotics and Industrial Automation.",
+    "name": "Nextera Robotics | DIDGE.ai",
     "nonprofit": false,
     "one_liner": "AI-native Robotics",
     "question_answers": false,
@@ -878,22 +836,22 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "nextera-robotics",
+    "slug": "nextera-robotics-didgeai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98038d3f6de4865c9f869822e2af32391f49256e.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Autonomous Delivery",
       "Deep Learning",
       "Robotics",
-      "Construction"
+      "Construction",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 20,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/nextera-robotics",
+    "url": "https://www.ycombinator.com/companies/nextera-robotics-didgeai",
     "website": "https://nexterarobotics.com"
   },
   {
@@ -1157,9 +1115,9 @@
     "status": "Active",
     "subindustry": "Healthcare -> Therapeutics",
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -1210,7 +1168,7 @@
     "website": "https://www.cerrion.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/diffuse-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1255,7 +1213,7 @@
     "website": "http://diffuse.bio"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1268,7 +1226,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1689189501,
     "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
     "name": "Cedana",
@@ -1371,7 +1329,7 @@
     "slug": "preloop",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Artificial Intelligence",
@@ -1518,6 +1476,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/induction-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Next Action"
+    ],
+    "id": 30672,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1755632182,
+    "long_description": "We are scaling foundation models that are curious about the world.\r\n\r\nWe’ve seen general intelligence appear exactly once, and its hallmark has been curiosity: a dissatisfaction with what we already know about the world, an ability to learn from world experience, and a disposition to share knowledge with other individuals. Across generations, these human traits have built modern science, technology, and culture.\r\n\r\nWe think superintelligence will come from models that work the same way: learning from their own observation, updating as they go, growing what they know. These models will start from what humanity knows and discover past us.\r\n\r\nWe believe that scaling curious intelligence is a defining problem of our time. If solved, we will live to see a new era of technological advances, scientific understanding, and human flourishing.",
+    "name": "Induction Labs",
+    "nonprofit": false,
+    "one_liner": "Building intellectually curious AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "induction-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Deep Learning",
+      "Hard Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/induction-labs",
+    "website": "https://inductionlabs.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flywheel-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1558,11 +1559,11 @@
     "website": "https://useflywheel.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/tensr.json",
+    "all_locations": "Emeryville, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tensr.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Fall 2025",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Core",
@@ -1577,10 +1578,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1763065446,
-    "long_description": "Tensr is building fully autonomous robotic factories that make scaling hardware as effortless as scaling on AWS. We’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
+    "long_description": "Robotic factories that build robotics in the US. Currently operating a 12,000 sqft factory in the Bay Area and actively manufacturing customer orders for some of the largest robotics companies in the US and the International Space Station.\r\n\r\nWe’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
     "name": "Tensr",
     "nonprofit": false,
-    "one_liner": "Fully autonomous robotic factories",
+    "one_liner": "Robotic factories that build robots",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1599,59 +1600,10 @@
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tensr",
     "website": "https://tensr.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "id": 30961,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1761245566,
-    "long_description": "",
-    "name": "Arcten",
-    "nonprofit": false,
-    "one_liner": "Lab working on long-horizon autonomous research and coding agents",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "arcten",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Deep Learning",
-      "Generative AI",
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "website": "https://arcten.com"
   },
   {
     "all_locations": "Remote",
@@ -1697,24 +1649,315 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31139,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1771535371,
+    "long_description": "Ashr Manifold is a self-contained model training, hosting, observability, and continual learning platform for purpose-built open-weight models. \r\n\r\nStartups can use Manifold to post-train and manage fleets of continuously improving open-weight models without having a dedicated research team or infrastructure. Ultimately, this reduces operating costs and allows a greater degree of control over proprietary company knowledge.\r\n\r\nEnterprises can use Manifold to encode institutional judgements and priorities into open-weight models, reduce token costs, and manage every level of the AI life cycle, from data curation, to model serving on weights and infrastructure they own.",
+    "name": "Ashr",
+    "nonprofit": false,
+    "one_liner": "Enterprise post-training, monitoring, and continual learning platform",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "ashr",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "website": "https://ashr.io"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 31386,
+    "id": 31516,
     "industries": [
       "B2B",
       "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1774812127,
-    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with LLMs for developer tasks that require deterministic output and high consistency like OCR, web scraping, classification, Speech-to-text (STT) and more.\r\n\r\nRead paper:https://arxiv.org/abs/2602.04101",
-    "name": "Interfaze",
+    "launched_at": 1777849866,
+    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
+    "name": "Expanse",
     "nonprofit": false,
-    "one_liner": "AI model built for deterministic developer tasks",
+    "one_liner": "Unlock wasted GPU capacity.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "expanse",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Infrastructure",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/expanse",
+    "website": "https://expanse.sh"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rekursivai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "rekursiv"
+    ],
+    "id": 31555,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784428991,
+    "long_description": "We're scaling self-improving AI scientist teams to ideate/experiment/discover, generating new knowledge autonomously. Their discoveries reduced ARC-1/2 costs by 10,000× while maintaining state-of-the-art accuracy and yielded material advances on combinatorial ML problems.\r\n\r\nWe believe that AI is bounded not by compute, but ideas. Scaling to millions of sessions of discovery enables leveraging its own discoveries and presents a novel training source capable of ushering a new era of self-reliant foundational models.",
+    "name": "rekursiv.ai",
+    "nonprofit": false,
+    "one_liner": "Scale AI scientists whose own breakthroughs accelerate the next.",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rekursivai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8606b08cc0428757361006dc3171d7b460ae47e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rekursivai",
+    "website": "https://rekursiv.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rasyn.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32261,
+    "industries": [
+      "Healthcare"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1785736030,
+    "long_description": "We builds foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs.\r\n\r\nDesigning a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab.\r\n\r\nOur models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three.\r\n\r\nWe are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+    "name": "Rasyn",
+    "nonprofit": false,
+    "one_liner": "Making chemicals 100,000x faster",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rasyn",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffda7ce34aee49cfec95fa8aef9ed1a70e4c3e28.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Biotech",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rasyn",
+    "website": "https://www.rasyn.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edviro.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33805,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1782807553,
+    "long_description": "Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",
+    "name": "Edviro",
+    "nonprofit": false,
+    "one_liner": "AI That Operates Energy Infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "edviro",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/edviro",
+    "website": "https://edviroenergy.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/qokedas.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34794,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785795073,
+    "long_description": "Models are trained on the entire internet, but most of what happens on Earth is never written down. We turn those signals into training data so labs can make models better at science",
+    "name": "Qokedas",
+    "nonprofit": false,
+    "one_liner": "Data for AI Science",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "qokedas",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2b316be3ecf24cfbcfc09074b3e2b8a1f3bb05.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/qokedas",
+    "website": "https://qokedas.com/"
+  },
+  {
+    "all_locations": "Baltimore, MD, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35128,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1787763466,
+    "long_description": "At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously monitor critical power equipment and detect problems early on using anomaly-detection models. For each fault, we provide detailed analyses of the problem, exactly where and why it happened, as well as next steps teams should take. ",
+    "name": "Talos",
+    "nonprofit": false,
+    "one_liner": "Predictive maintenance for power infrastructure.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "talos-us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Deep Learning",
+      "IoT",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/talos-us",
+    "website": "https://www.talos-us.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 38127,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789029188,
+    "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",
+    "name": "DeepMark",
+    "nonprofit": false,
+    "one_liner": "A live watermark inside AI voice that survives phone calls",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1722,20 +1965,20 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "interfaze",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbb1bb306037fdebdde3c7b1d20cb434879fb79.png",
+    "slug": "deepmark",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "tags": [
       "Deep Learning",
-      "Developer Tools",
-      "Generative AI"
+      "B2B",
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/interfaze",
-    "website": "https://interfaze.ai"
+    "url": "https://www.ycombinator.com/companies/deepmark",
+    "website": "https://www.deepmark.me"
   }
 ]

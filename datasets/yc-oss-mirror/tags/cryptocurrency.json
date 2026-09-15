@@ -87,7 +87,7 @@
     "website": "https://hapi.trade/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/decent.json",
     "app_answers": null,
     "app_video_public": false,
@@ -152,7 +152,7 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1641267384,
-    "long_description": "AI-native crypto hedge fund",
+    "long_description": "We provides two AI trading services\r\n\r\n- ZenTrade.me is AI trading service for retail traders. \r\n\r\n- AYC Fund is AI-native crypto hedge fund. \r\n\r\n",
     "name": "AYC Fund",
     "nonprofit": false,
     "one_liner": "AI-native crypto hedge fund",
@@ -167,10 +167,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Asset Management",
     "tags": [
+      "Artificial Intelligence",
       "Crypto / Web3",
       "Finance",
       "Trading",
-      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [
@@ -182,7 +182,7 @@
     "website": "http://www.AYCFund.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nftscoring.json",
     "app_answers": null,
     "app_video_public": false,
@@ -227,7 +227,7 @@
     "website": "https://nftscoring.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/thera.json",
     "app_answers": null,
     "app_video_public": false,
@@ -273,7 +273,7 @@
     "website": "https://www.getthera.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/blockscope.json",
     "app_answers": null,
     "app_video_public": false,
@@ -362,7 +362,7 @@
     "website": "https://kv.cash"
   },
   {
-    "all_locations": "",
+    "all_locations": "Montevideo, Montevideo Department, Uruguay",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/infinia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -383,12 +383,14 @@
     "one_liner": "Move money programmatically",
     "question_answers": false,
     "regions": [
+      "Uruguay",
+      "Latin America",
       "Remote",
       "Partly Remote"
     ],
     "slug": "infinia",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7fe17d09bdbf7258b587a47e734d932c0b1886d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Fintech -> Payments",
     "tags": [
@@ -402,7 +404,7 @@
     "website": "https://www.infiniaweb.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/karsa.json",
     "app_answers": null,
     "app_video_public": false,
@@ -416,7 +418,7 @@
       "Fintech"
     ],
     "industry": "Fintech",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1737358426,
     "long_description": "Karsa is a stablecoin neobank for over 100M people in emerging markets. We enable people to buy dollar-denominated stablecoins, save money in US bank accounts, and spend anywhere with a Visa card.",
     "name": "Karsa",
@@ -442,5 +444,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/karsa",
     "website": "https://gokarsa.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/instinct-xyz.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Assonant"
+    ],
+    "id": 31168,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1779953002,
+    "long_description": "We believe in the next generation of finance where everyone around the world can access the global market and liquidity from the tip of their hands. \r\n\r\nWe are building the best mobile trading app that will enable this vision. \r\n\r\nHyperliquid is the house of all finance, Instinct is the app of all finance. \r\n\r\nHyperliquid.",
+    "name": "Instinct",
+    "nonprofit": false,
+    "one_liner": "Trade your instinct",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "instinct-xyz",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2c4947196f35e938655df560aee5ba21c58b51.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Trading",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/instinct-xyz",
+    "website": "https://instinct.xyz"
   }
 ]

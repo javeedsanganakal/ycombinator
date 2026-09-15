@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2012/boosted.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39,7 +39,7 @@
     "website": "http://boostedboards.com"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/open-motors.json",
     "app_answers": null,
     "app_video_public": false,
@@ -130,7 +130,7 @@
     "website": "https://www.yoshimobility.com"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/pyka.json",
     "app_answers": null,
     "app_video_public": false,
@@ -220,7 +220,7 @@
     "website": "http://www.heartaerospace.com"
   },
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/ampup.json",
     "app_answers": null,
     "app_video_public": false,
@@ -486,7 +486,7 @@
     "website": "https://getonekey.io"
   },
   {
-    "all_locations": "South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/faction.json",
     "app_answers": true,
     "app_video_public": false,
@@ -534,52 +534,7 @@
     "website": "http://www.faction.us"
   },
   {
-    "all_locations": "Oslo, Oslo, Norway; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/enode.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Enode AS"
-    ],
-    "id": 22953,
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "industry": "Industrials",
-    "isHiring": true,
-    "launched_at": 1616508622,
-    "long_description": "Enode’s APIs enable you to instantly connect users’ energy devices — including EVs, solar inverters, home batteries and thermostats — to your app. ",
-    "name": "Enode",
-    "nonprofit": false,
-    "one_liner": "An API for electric vehicles and other energy hardware (DERs)",
-    "question_answers": false,
-    "regions": [
-      "Norway",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "enode",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d173e80b5b8cf1006b5c3b5baa37e052acecc8c5.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "Industrials -> Energy",
-    "tags": [
-      "Climate",
-      "API",
-      "Electric Vehicles"
-    ],
-    "tags_highlighted": [],
-    "team_size": 40,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/enode",
-    "website": "http://www.enode.com"
-  },
-  {
-    "all_locations": "Richmond, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Richmond, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/moxion-power-co.json",
     "app_answers": null,
     "app_video_public": false,
@@ -764,7 +719,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1642021051,
     "long_description": "Emobi is a unified legal, financial, and technical infrastructure that delivers seamless, secure, and reliable EV charging across networks—powering apps, fleets, and automakers while maximizing charger utilization. Our secure, fully automated charging technology, JustPlug, works instantly with no special hardware, software, or setup, making EV charging effortless.\r\n\r\nWith 122,000+ EV chargers integrated across the U.S. and Canada, Emobi is recognized as the largest EV charging ecosystem in North America. Backed by two provisional patents and 15+ enterprise customers, Emobi's technology is also trusted by the Department of Energy (DoE) and the Department of Transportation (DoT). To learn more, visit www.emobi.ai.",
     "name": "Emobi",
@@ -794,7 +749,7 @@
     "website": "https://www.emobi.ai"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json",
     "app_answers": null,
     "app_video_public": false,
@@ -837,7 +792,7 @@
     "website": "https://olympianmotors.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "Toulouse, Occitanie, France",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/beyond-aero.json",
     "app_answers": null,
     "app_video_public": false,
@@ -858,6 +813,8 @@
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
     "question_answers": false,
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -880,7 +837,7 @@
     "website": "https://www.beyond-aero.com/"
   },
   {
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/revoy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1012,5 +969,45 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/stralis-aircraft",
     "website": "https://stralis.aero/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/steinmetz.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30190,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1740381508,
+    "long_description": "Steinmetz is building the next generation of American power electronics. The next generation of great machines — electric vehicles, robotics, aerospace, and industrial systems — depends on power electronics that are lighter, cheaper, more efficient, and built at real scale.\r\n\r\nWe push the Pareto frontier of power electronics through multi-disciplinary design. We're the OEM that customers actually appreciate.",
+    "name": "Steinmetz",
+    "nonprofit": false,
+    "one_liner": "Next-Generation Power Electronics",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "steinmetz",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a01f59af390bfd92ad55d1f62a2729543663f92.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Hardware",
+      "Electric Vehicles",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/steinmetz",
+    "website": "https://steinmetzmotors.com/"
   }
 ]

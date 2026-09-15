@@ -213,7 +213,7 @@
     "website": "http://cofactorgenomics.com"
   },
   {
-    "all_locations": "Newark, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/luminist-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -297,7 +297,7 @@
     "website": "http://www.unimadx.com"
   },
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/silver.json",
     "app_answers": null,
     "app_video_public": false,
@@ -338,7 +338,7 @@
     "website": "http://www.scansilver.com/"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/billiontoone.json",
     "app_answers": null,
     "app_video_public": false,
@@ -508,7 +508,7 @@
     "website": "https://www.darmiyan.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Carlos, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/clear-gene.json",
     "app_answers": null,
     "app_video_public": false,
@@ -683,7 +683,7 @@
     "website": "https://simplestrips.com"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/isabl.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1078,7 +1078,7 @@
     "website": "https://spotdx.com"
   },
   {
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/scout-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1290,20 +1290,64 @@
     "status": "Active",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Biotech",
       "Healthcare",
-      "Diagnostics"
+      "Diagnostics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 16,
+    "team_size": 18,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/numen",
     "website": "https://www.numen.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29694,
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1715962434,
+    "long_description": "We design point-of-care diagnostics for emerging biological threats - in days, not 12+ months.",
+    "name": "AminoAnalytica",
+    "nonprofit": false,
+    "one_liner": "The AI scientist for always-on biodefense",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "aminoanalytica",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Diagnostics",
+    "tags": [
+      "Nanosensors",
+      "Synthetic Biology",
+      "Biotech",
+      "Diagnostics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/aminoanalytica",
+    "website": "https://www.aminoanalytica.com"
+  },
+  {
+    "all_locations": "Philadelphia, PA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/biocartesian.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1330,7 +1374,7 @@
       "America / Canada"
     ],
     "slug": "biocartesian",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/829faf276e5fc759cb0c8e72860cd6cdab552050.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91093b7c8dbe1ed84a73aa4907b878fc5b0f52bf.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",

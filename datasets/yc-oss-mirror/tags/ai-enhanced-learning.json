@@ -43,6 +43,51 @@
     "website": "http://scribd.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2015",
+    "demo_day_video_public": true,
+    "former_names": [],
+    "id": 774,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1416220798,
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
+    "name": "Platzi",
+    "nonprofit": false,
+    "one_liner": "Turning company knowledge into expert teams",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "platzi",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Sales Enablement",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 123,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/platzi",
+    "website": "https://platzi.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/deepgram.json",
     "app_answers": null,
@@ -132,7 +177,7 @@
     "website": "https://edwin.ai"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json",
     "app_answers": null,
     "app_video_public": false,
@@ -369,10 +414,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1627685643,
-    "long_description": "Soraban's building an intelligent tax workflow platform for accounting firms. Our AI is first automating the client data intake process, data entry into legacy accounting software, and final delivery of the return package.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants, since excel. ",
+    "long_description": "AI-native Tax workflow Platform for accounting firms from client request to delivery. We raised $18m from patient investors who are onboard to help us grow and serve tens of thousands of accounting firms. We're not in this market to grow fast and fail fast. We're in this to build something that'll last decades. ",
     "name": "Soraban",
     "nonprofit": false,
-    "one_liner": "AI Tax Workflow for accounting firms ",
+    "one_liner": "AI tax workflow platform for accounting firms ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -441,53 +486,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dataherald",
     "website": "http://dataherald.com/"
-  },
-  {
-    "all_locations": "Menlo Park, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2021",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Waydev"
-    ],
-    "id": 23530,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1616455133,
-    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
-    "name": "Waydev AI",
-    "nonprofit": false,
-    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "waydev-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Data Engineering",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 13,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/waydev-ai",
-    "website": "https://waydev.co/"
   },
   {
     "all_locations": "Philadelphia, PA, USA; New York, NY, USA; Remote",
@@ -572,6 +570,7 @@
     "tags": [
       "AI-Enhanced Learning",
       "Medical Devices",
+      "Digital Health",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -716,7 +715,7 @@
     "website": "https://sparkstudio.co"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/trellus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -812,7 +811,7 @@
     "website": "https://www.mysivi.ai/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/toko.json",
     "app_answers": null,
     "app_video_public": false,
@@ -854,7 +853,7 @@
     "website": "https://tokotutor.com/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Amman, Amman Governorate, Jordan; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/darsel.json",
     "app_answers": null,
     "app_video_public": false,
@@ -874,6 +873,8 @@
     "one_liner": "Chatbot teaching K12 math in developing countries",
     "question_answers": false,
     "regions": [
+      "Jordan",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -985,8 +986,8 @@
     "website": "https://www.pairai.com/"
   },
   {
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/justpaid.json",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/loopfour.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2023",
@@ -998,20 +999,20 @@
       "JustPaid (Loopfour Inc)",
       "JustPaid",
       "JustPaid.io",
-      "JustPaid.ai"
+      "JustPaid.ai",
+      "JustPaid"
     ],
     "id": 27817,
     "industries": [
-      "Fintech",
-      "Payments"
+      "Fintech"
     ],
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1676918637,
-    "long_description": "We make it easy for founders to do billing right out of demo day.\r\n\r\nEvery B2B startup faces the same billing nightmare: unique customer terms, custom pricing, usage tiers, and discount structures that make manual billing a costly mess. Hiring billing specialists adds overhead and introduces human error right when you need to move fast.\r\n\r\nJustPaid makes billing effortless by extracting billing logic directly from your contracts—whether they're PDFs or stored in your CRM—and automatically generating accurate, timely invoices.\r\n\r\nAlready using Stripe, DocuSign, CommonPaper, HubSpot, or Salesforce? We integrate seamlessly with your existing stack.\r\n\r\nMaintain control while automating the complexity. No more pricing disputes. Faster cash flow. Fewer headaches.\r\n\r\n- Move fast: Bill customers from day one without hiring specialists\r\n- Scale smart: Handle complex pricing models without operational overhead\r\n- Stay focused: Spend time building your product, not managing invoices\r\n- Reduce risk: Eliminate human error in billing calculations\r\n\r\nWe're always asking ourselves: How can we make a company's financial operations effortless so teams can focus on scaling?\r\n\r\n- We don't settle\r\n- We are passionate\r\n- We are serial entrepreneurs\r\n\r\nWe aim to make a dent in the universe.",
-    "name": "JustPaid",
+    "long_description": "Deterministic, auditable automation for the finance workflows your team dreads. We build and run it on your existing stack. You approve only the exceptions.",
+    "name": "loopfour",
     "nonprofit": false,
-    "one_liner": "Billing Automation for B2B that actually works.",
+    "one_liner": "Workflow automation, without AI hallucinations.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1019,23 +1020,23 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "justpaid",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82ec739461b339d9ec575319f0ea12411f9e30bd.png",
+    "slug": "loopfour",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16284384d06d6162a400238a8b4e998e471fe35b.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "Fintech",
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Fintech",
-      "AI",
+      "Workflow Automation",
+      "Automation",
+      "Operations",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "team_size": 20,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/justpaid",
-    "website": "https://www.justpaid.ai"
+    "url": "https://www.ycombinator.com/companies/loopfour",
+    "website": "https://www.loopfour.com"
   },
   {
     "all_locations": "Vancouver, BC, Canada; Remote",
@@ -1450,7 +1451,7 @@
     "website": "https://info.mathos.ai/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/et-al.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1536,7 +1537,7 @@
     "website": "https://www.capitol.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1553,7 +1554,7 @@
       "Healthcare"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1719547782,
     "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
     "name": "SimCare",
@@ -1599,14 +1600,16 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1731963387,
-    "long_description": "x1 is building the next generation AI app studio for iOS.\r\n\r\nInstead of generating disposable demos, we provide a structured system that guides builders from idea to a production-ready App Store launch. Our platform replaces chaotic prompt loops with modular, purpose-built studios that handle everything from product design to monetization and growth.\r\n\r\nWe’re turning AI app creation into a disciplined, end-to-end system.",
+    "long_description": "x1 is an AI app builder that helps anyone create real, App Store-ready iOS apps. Users start with a structured product plan, design polished iPhone screens in a visual canvas, build features step by step, and prepare launch assets like App Store listings, screenshots, monetization, and analytics. Instead of generating one-shot AI demos, x1 gives builders a guided system for turning an idea into a real app.",
     "name": "x1",
     "nonprofit": false,
-    "one_liner": "World’s Most Powerful AI App Studio",
-    "question_answers": false,
+    "one_liner": "AI app builder for creating and launching iPhone apps",
+    "question_answers": true,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "x1",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
@@ -1624,10 +1627,10 @@
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/x1",
-    "website": "https://www.x1.new"
+    "website": "https://x1.new/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Brisbane, QLD, Australia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1647,8 +1650,8 @@
     "one_liner": "AI Teacher Assistant for Grading Essays",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Australia",
+      "Oceania"
     ],
     "slug": "edexia",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
@@ -1669,7 +1672,7 @@
     "website": "https://www.edexia.com/"
   },
   {
-    "all_locations": "Stanford, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/excellence-learning.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1755,47 +1758,48 @@
     "website": "https://www.alice.tech/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/miyagi-labs.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2025",
+    "batch": "Winter 2025",
     "demo_day_video_public": false,
     "former_names": [],
-    "id": 30442,
+    "id": 30299,
     "industries": [
       "Education"
     ],
     "industry": "Education",
     "isHiring": false,
-    "launched_at": 1745603860,
-    "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
-    "name": "YouLearn",
+    "launched_at": 1739904496,
+    "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe’re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
+    "name": "Miyagi Labs",
     "nonprofit": false,
-    "one_liner": "AI tutor for each student. ",
+    "one_liner": "AI tutors for exam prep",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "youlearn",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
+    "slug": "miyagi-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Education",
     "tags": [
       "AI-Enhanced Learning",
       "Education",
-      "AI"
+      "eLearning",
+      "Edtech"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/youlearn",
-    "website": "https://www.youlearn.ai/"
+    "url": "https://www.ycombinator.com/companies/miyagi-labs",
+    "website": "https://miyagilabs.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chiron.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1815,8 +1819,8 @@
     "one_liner": "Grammarly for Math ✏️",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "chiron",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/413bccd180b2d3b183e43292dcbda31f7c7beaf3.png",
@@ -1862,7 +1866,7 @@
     "slug": "opennote",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a57c2d57c9bd745bb44f95e1f930dda18b6c534.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Consumer",
     "tags": [
       "AI-Enhanced Learning",
@@ -1892,7 +1896,7 @@
       "Consumer"
     ],
     "industry": "Consumer",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1758577465,
     "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. Power users scroll for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
     "name": "Parrot",
@@ -1904,7 +1908,7 @@
       "America / Canada"
     ],
     "slug": "parrot",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/456a29d2b6a9ad58f25000ceded3f47b7968c4e6.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
@@ -1934,17 +1938,17 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1759526048,
-    "long_description": "Pixley is the first platform where kids can turn their drawings and ideas into fully animated cartoons in minutes. In just 3 weeks after launch, over 1000 families across 75 countries have already started creating stories.\r\n\r\nWe’re starting with a clear wedge: personalized kids’ entertainment. Parents are tired of overstimulating, low-value content from YouTube and Netflix. Pixley gives them safe and personalized stories that encourage learning and imagination.\r\n\r\nBut kids’ cartoons are just the beginning. As video generation improves, all video content will shift from manual production to being personalized and generated. Our long-term goal is to build the AI Netflix: a platform where shows and movies aren’t recommended, but instead generated around each viewer’s interests and habits.\r\n\r\nWe’re 19 year old CS dropouts who’ve known each other since elementary school and won 4 hackathons at 15. After seeing AI flood the internet with low-quality content, we created Pixley – a safe, personalized way for kids to turn their ideas into animated stories.",
+    "long_description": "Pixley turns kids' drawings and ideas into fully animated cartoons – in minutes.\r\n\r\nKids are natural storytellers. With Pixley, any kid can draw a character, describe a world, and watch their story come to life as a personalized animated cartoon.\r\n\r\nMost kids' screen time is broken: passive, algorithmic content designed to keep kids watching, not growing. Pixley is the antidote. Every episode is safe, ad-free, and built around Social-Emotional Learning (SEL). Parents can choose any lesson they want to teach their child, and Pixley weaves it naturally into the story their kids create. We're building the creative platform for the next generation – where kids are the directors, not just the audience.\r\n\r\nAdditionally, the same technology powers Pixley Studios, our B2B content service for brands and content creators who want to produce high-quality AI video without the cost or time of traditional production.\r\n\r\nWe’re 19 year old CS dropouts who’ve known each other since elementary school and won 4 hackathons at 15. After seeing AI flood the internet with low-quality content, we created Pixley – a safe, personalized way for kids to turn their ideas into animated stories.",
     "name": "Pixley AI",
     "nonprofit": false,
-    "one_liner": "The first platform where parents & kids can co-create AI cartoon shows",
+    "one_liner": "The first platform where families can create AI cartoons in minutes",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "pixley-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fed7dace3f2d8cdd9b201c782646c8ba0cc231c.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer -> Content",
@@ -1958,5 +1962,136 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "website": "https://pixleyai.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bloomy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32551,
+    "industries": [
+      "Education"
+    ],
+    "industry": "Education",
+    "isHiring": true,
+    "launched_at": 1782182610,
+    "long_description": "Bloomy is the best way to teach anything in school. We provide schools with an AI-native academic system comprising core and supplemental curriculum, AI teaching, and assessment to help K-12 students learn faster. Backed by the founders of Clever.",
+    "name": "Bloomy",
+    "nonprofit": false,
+    "one_liner": "AI-native learning for every school",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "bloomy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Education",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "eLearning",
+      "Personalization"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/bloomy",
+    "website": "https://bloomylearning.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/wondering.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Mouseover AI",
+      "Mouseover"
+    ],
+    "id": 33317,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1785135586,
+    "long_description": "Wondering turns anything you want to learn, from LLMs to quantum mechanics to product design, into a path of three-minute lessons with visuals, podcasts, and interactive exercises. \r\n\r\nEach learning path and its content are personalized to your background, how you learn best, and how deep you want to go.\r\n\r\nIt’s the most delightful way to understand complex topics and turn information into knowledge you can remember and apply. You don’t just passively read. You practice, make connections, and form your own insights.\r\n\r\nStart learning anything for free at https://wondering.app/download",
+    "name": "Wondering",
+    "nonprofit": false,
+    "one_liner": "Duolingo for learning anything",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "wondering",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Consumer",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/wondering",
+    "website": "https://wondering.app"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/quippy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Quippy App, Inc."
+    ],
+    "id": 36940,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1787760832,
+    "long_description": "Quippy is a daily practice app for your social life. You run short, realistic practice conversations, like pushing back on a boss or talking during a first date, and get line-by-line feedback on what landed and what backfired. The curriculum adapts to each person's patterns, reshaping itself around their weak spots, ensuring steady improvement in the conversations that matter most.",
+    "name": "Quippy",
+    "nonprofit": false,
+    "one_liner": "Helps build social skills through daily practice",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "quippy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97c02b937035318f812614d4d9362e5c060a6f72.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Social",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/quippy",
+    "website": "https://quippyapp.com"
   }
 ]

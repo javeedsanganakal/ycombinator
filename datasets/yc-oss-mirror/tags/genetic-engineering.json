@@ -43,7 +43,7 @@
     "website": "http://www.taxa.com"
   },
   {
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json",
     "app_answers": null,
     "app_video_public": false,
@@ -86,7 +86,7 @@
     "website": "https://ohmicbiosciences.com/"
   },
   {
-    "all_locations": "London, United Kingdom",
+    "all_locations": "Oxford, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/finaldose.json",
     "app_answers": null,
     "app_video_public": false,
@@ -126,5 +126,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/finaldose",
     "website": "https://finaldose.ai/"
+  },
+  {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/perseus.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Starling",
+      "Mantle"
+    ],
+    "id": 30967,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1761343890,
+    "long_description": "Perseus takes an iterative branching approach to search in high dimensional spaces.\r\n\r\nOur first product helps coding agents find the right codebase context before they write. It searches files, symbols, and dependencies in parallel, so models can make better changes with less trial and error. Perseus Search gives Mythos-level programming ability to Opus-level coding agents.",
+    "name": "Perseus",
+    "nonprofit": false,
+    "one_liner": "Applied Lab focused on Search in Latent Spaces.",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "perseus",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9765cfac6d122dea71443fd13f227ed6e9c5257b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Genetic Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/perseus",
+    "website": "https://perseus.computer"
   }
 ]

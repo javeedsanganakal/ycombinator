@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/resolve.json",
     "app_answers": null,
     "app_video_public": false,
@@ -16,7 +16,7 @@
       "Construction"
     ],
     "industry": "Real Estate and Construction",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1416222759,
     "long_description": "At Resolve we’re accelerating construction to build as fast as the future demands. Construction projects are all slowed down by rework that arises after humans spot issues in real life that slipped through all the hours of design reviews and coordination. Resolve enables construction teams to detect these issues in 3D BIM as early as possible so that we can close the gap between design and reality.\r\n\r\nBy combining realtime collaboration in the web, immersive VR reviews, and AI-driven spatial navigation into the most easy to use platform for BIM reviews, Resolve empowers construction teams to identify risks earlier, coordinate faster, and deliver higher-quality assets across mission-critical infrastructure.\r\n\r\nResolve has been used to deliver over 6GW of data center capacity and on projects across pharma, water treatment, healthcare, and other critical assets.\r\n",
     "name": "Resolve",
@@ -131,7 +131,7 @@
     "website": "https://supermedium.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/mofe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -223,7 +223,7 @@
     "website": "https://ramenvr.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json",
     "app_answers": null,
     "app_video_public": false,
@@ -409,7 +409,7 @@
     "website": "https://hyperbeam.com?ch=yc"
   },
   {
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/lifecast.json",
     "app_answers": null,
     "app_video_public": false,
@@ -453,7 +453,7 @@
     "website": "http://www.lifecastvr.com"
   },
   {
-    "all_locations": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/unison.json",
     "app_answers": null,
     "app_video_public": false,
@@ -497,7 +497,7 @@
     "website": "https://www.in-unison.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json",
     "app_answers": null,
     "app_video_public": false,
@@ -518,8 +518,8 @@
     "one_liner": "A scalable, cloud-native Perforce and Git alternative",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Israel",
+      "Middle East and North Africa"
     ],
     "slug": "diversion",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cca9dfc5d45583f86876ecd0b8110e7412ab6cd.png",
@@ -539,7 +539,7 @@
     "website": "https://diversion.dev"
   },
   {
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/vinci-games.json",
     "app_answers": null,
     "app_video_public": false,
@@ -587,5 +587,55 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vinci-games",
     "website": "https://ruffnauts.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "id": 32752,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786481200,
+    "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
+    "name": "Moving Atoms",
+    "nonprofit": false,
+    "one_liner": "Virtual Reality for Training Robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "moving-atoms",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Virtual Reality",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "website": "https://movingatoms.ai/"
   }
 ]

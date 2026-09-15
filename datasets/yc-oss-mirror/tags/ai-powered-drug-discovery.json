@@ -1,6 +1,6 @@
 [
   {
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Cupertino, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2010/teevox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -88,7 +88,7 @@
     "website": "https://www.numerionlabs.ai"
   },
   {
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/qvin.json",
     "app_answers": null,
     "app_video_public": false,
@@ -216,7 +216,7 @@
     "website": "http://persephonebiosciences.com/"
   },
   {
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/reverie-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -257,7 +257,7 @@
     "website": "http://www.reverielabs.com"
   },
   {
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/synkrino-biotherapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -299,7 +299,7 @@
     "website": "http://www.synkrino.bio"
   },
   {
-    "all_locations": "Menlo Park, CA, USA; Overland, MO, USA",
+    "all_locations": "San Francisco, CA, USA; Overland, MO, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/viosera-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -383,7 +383,7 @@
     "website": "http://1910.ai"
   },
   {
-    "all_locations": "Emeryville, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Emeryville, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/shiru.json",
     "app_answers": null,
     "app_video_public": false,
@@ -428,7 +428,7 @@
     "website": "https://www.shiru.com/"
   },
   {
-    "all_locations": "San Carlos, CA, USA; South San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; South San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/altay-therapeutics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -485,7 +485,7 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1584128465,
     "long_description": "PostEra is building a modern 21st century biopharma. We're using our advances in machine learning to accelerate Medicinal Chemistry and bring more cures to patients. PostEra advances small molecule programs through partnerships with biopharma while also advancing its own internal pipeline. We've raised $26M from top investors and closed $1Bn in AI partnerships, signing multi-year agreements with Amgen, Pfizer and the NIH. PostEra also launched and led the world's largest open-science drug discovery effort; COVID Moonshot.",
     "name": "PostEra",
@@ -558,49 +558,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/menten-ai",
     "website": "http://menten.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/algen-biotechnologies.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2020",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Algen Biotechnologies",
-      "Inc."
-    ],
-    "id": 13705,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1759774411,
-    "long_description": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
-    "name": "Algen Biotechnologies",
-    "nonprofit": false,
-    "one_liner": "Using CRISPR to find treatments for cancer and inflammation",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "algen-biotechnologies",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "CRISPR"
-    ],
-    "tags_highlighted": [],
-    "team_size": 13,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/algen-biotechnologies",
-    "website": "https://www.algenbio.com/"
   },
   {
     "all_locations": "Salt Lake City, UT, USA",
@@ -777,7 +734,7 @@
     "website": "http://parallel.bio"
   },
   {
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/harmonic-discovery.json",
     "app_answers": null,
     "app_video_public": false,
@@ -849,7 +806,7 @@
     ],
     "slug": "adaptyv",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eab524ee6260ddc6c4e8438dbfde1921ccf736f5.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
@@ -906,7 +863,7 @@
     "website": "https://matrubials.com/"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/output.json",
     "app_answers": null,
     "app_video_public": false,
@@ -918,33 +875,33 @@
     "id": 24727,
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1628006072,
-    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
+    "long_description": "Output is a fully integrated AI lab building Artificial General Biological Intelligence, from the molecular level up to whole systems. The discovery of new biology and the design of therapeutic moonshots become routine.",
     "name": "Output Biosciences",
     "nonprofit": false,
-    "one_liner": "Teaching Generative AI the Language of Biology",
+    "one_liner": "The foundation for the next era of biology",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "output",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a8d72beb3c47955dd9a980cc0185312b3b7e63.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
       "AI-powered Drug Discovery",
-      "Artificial Intelligence",
       "Generative AI",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/output",
     "website": "https://www.outputbio.com/"
@@ -1039,7 +996,7 @@
     "website": "https://sfatherapeutics.com/"
   },
   {
-    "all_locations": "Walnut Creek, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Walnut Creek, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/keylika.json",
     "app_answers": true,
     "app_video_public": false,
@@ -1170,7 +1127,7 @@
     "website": "https://www.lavo.ai/"
   },
   {
-    "all_locations": "San Carlos, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/diffuse-bio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1215,7 +1172,7 @@
     "website": "http://diffuse.bio"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/nanograb.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1236,8 +1193,8 @@
     "one_liner": "Deliver genes to any cell with AI",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "nanograb",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ae1f1866a70286591b56aa5fd2f81bdf18af255.png",
@@ -1294,7 +1251,7 @@
       "Biotech"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tamarind-bio",
     "website": "https://www.tamarind.bio"
@@ -1390,138 +1347,6 @@
     "website": "https://www.angstrom-ai.com"
   },
   {
-    "all_locations": "London, United Kingdom; Remote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29694,
-    "industries": [
-      "Healthcare",
-      "Industrial Bio"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1715962434,
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "name": "AminoAnalytica",
-    "nonprofit": false,
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "aminoanalytica",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Industrial Bio",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "SaaS",
-      "Synthetic Biology",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "website": "https://www.aminoanalytica.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/reticular.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Advocate"
-    ],
-    "id": 30049,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1731023720,
-    "long_description": "Reticular helps pharma companies discover drugs with AI models like AlphaFold by making them steerable, just like you can prompt LLMs. Today, limited validation data means companies spend millions on failed experiments trying to steer these models through trial and error. We’re piloting our AI interpretability technology with early-stage biotechs and scaling rapidly. Just a week after our pivot, we identified the first interpretable features ever found in protein models, allowing precise control over biological functions.\r\n\r\nNithin and John met competing in Biology Olympiads before spending 4 years as roommates at MIT publishing ML/bio research in NeurIPS and Nature. We believe biological models encode far more information than anyone is currently using - our goal is to unlock this potential.",
-    "name": "Reticular",
-    "nonprofit": false,
-    "one_liner": "Interpretable AI for drug discovery",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "reticular",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a095fb7c8d0a473c792ea390cf5088f1c5bb819.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Generative AI",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/reticular",
-    "website": "https://reticular.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Orthrus Bio"
-    ],
-    "id": 30613,
-    "industries": [
-      "Healthcare",
-      "Therapeutics"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1754432955,
-    "long_description": "Blank Bio builds foundation models that understand RNA, the language of life. Our model powers applications across the entire R&D pipeline, from designing better drugs to running smarter clinical trials. \r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We’re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we’re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We’ve spent decades applying machine learning to biology across academia (PhDs at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
-    "name": "Blank Bio",
-    "nonprofit": false,
-    "one_liner": "RNA-based AI for better drugs and smarter clinical trials.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "blank-bio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Therapeutics",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/blank-bio",
-    "website": "http://blank.bio/"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/b12-labs.json",
     "app_answers": null,
@@ -1538,12 +1363,12 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1753004647,
-    "long_description": "b12 is an AI copilot that plans how to create and test new molecules for chemists. We're like a GPS for chemistry, helping pharma companies plan the recipes for new drugs, accelerating early-stage drug discovery from years to months. \r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (750+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. He has an extensive network of hundreds of chemists across Europe.\r\nWe are publishing a groundbreaking paper in Nature demonstrating our AI's ability to optimally plan chemical recipes. We run paid pilots with big pharma companies showing that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the usual 8-12 iteration cycle.",
+    "long_description": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months.\r\n\r\nAndres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference.\r\nZlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. \r\n\r\nCombined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers.\r\n\r\nWe run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
     "name": "b12 Labs",
     "nonprofit": false,
-    "one_liner": "Chemical Copilot for Pharma and Biotech",
+    "one_liner": "Making hard molecules for Pharma and Biotech",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1559,7 +1384,7 @@
       "Robotics"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/b12-labs",
     "website": "https://b12-labs.com/"
@@ -1578,7 +1403,7 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1752301183,
     "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nPoS Agent: Evaluates the most critical factors that impact the likelihood of clinical trial success. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
     "name": "Convexia",
@@ -1606,85 +1431,132 @@
     "website": "https://convexia.bio"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/wondertx.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31439,
-    "industries": [
-      "B2B"
+    "former_names": [
+      "A Company in Stealth Mode Incorporated"
     ],
-    "industry": "B2B",
+    "id": 31425,
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "industry": "Healthcare",
     "isHiring": false,
-    "launched_at": 1774445922,
-    "long_description": "Alchemy helps biotech and pharma researchers train and share computer vision models to convert raw images into numerical data, reducing analysis time by 98%.\r\n\r\nAll a researcher has to do is upload their images, describe what they need in plain language, and our agents help assemble their tailored analysis pipeline, select the right models for their specific images, and let them verify every step before exporting reproducible, publication-ready results.",
-    "name": "Alchemy",
+    "launched_at": 1786648812,
+    "long_description": "We’re an AI-native biotech, working on replacing needles with pills. Many drugs, like insulin or Ozempic, are wonderful except you have to inject them. We discover new molecules that you can take as a pill instead. Because the pills operate on biology which has been shown to be effective in people, rather than merely in animal models of disease, we avoid what has historically been the single biggest risk in drug discovery.  This should dramatically increase our probability of success.\r\n\r\nThere’s $200B of treatable diseases and validated human biology without a pill because discovery programs lack a tractable chemical starting point. This is a zero-shot inference problem, because these targets have no training data, so LLMs and other historical interpolative AI approaches are insufficient. Instead, we are building our own extrapolative frontier models that reason beyond their training data. Most critically, we have repeatedly validated our platform on both our own and partner programs. On 4 biologically- and structurally-diverse targets where we had zero training data, we successfully picked binders that were validated experimentally, with confirmation ranging from primary screen hits to crystallographic structures.",
+    "name": "WonderTx",
     "nonprofit": false,
-    "one_liner": "AI-powered image analysis for life sciences",
-    "question_answers": false,
+    "one_liner": "Extrapolative AI to unlock First-in-Class drugs",
+    "question_answers": true,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
-    "slug": "alchemyai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
+    "slug": "wondertx",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08d90d66366f5066cf3ad5ae02f156dc4bcc8ebe.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Healthcare -> Therapeutics",
     "tags": [
       "AI-powered Drug Discovery",
-      "Machine Learning",
-      "SaaS",
-      "Biotech",
-      "Automation"
+      "Generative AI",
+      "Biotech"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/alchemyai",
-    "website": "https://www.alchemyai.dev/"
+    "url": "https://www.ycombinator.com/companies/wondertx",
+    "website": "https://wondertx.ai/"
   },
   {
-    "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/abinitio-bio.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atlas-discovery.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31484,
+    "former_names": [
+      "Rhizome Bio"
+    ],
+    "id": 31532,
     "industries": [
       "Healthcare",
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
     "isHiring": false,
-    "launched_at": 1778703313,
+    "launched_at": 1782247231,
     "long_description": "",
-    "name": "AbInitio Bio",
+    "name": "Atlas Discovery",
     "nonprofit": false,
-    "one_liner": "The Intelligence layer for Drug Development",
+    "one_liner": "AI-native pharma company",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
-    "slug": "abinitio-bio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
+    "slug": "atlas-discovery",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e6c174c3a8e56844bf81efbc8b8532b4e509f73.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "tags": [
       "AI-powered Drug Discovery",
-      "Biotech",
-      "Manufacturing"
+      "Drug discovery",
+      "Biotechnology"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/abinitio-bio",
-    "website": "https://www.abinitio-bio.com"
+    "url": "https://www.ycombinator.com/companies/atlas-discovery",
+    "website": "https://atlasdiscovery.bio"
+  },
+  {
+    "all_locations": "Lund, Skåne County, Sweden",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/halmos-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35883,
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1788773241,
+    "long_description": "Halmos Labs builds automated biotech R&D on the principles of validity and interpretabillity. We run research, and simulations answering open questions ranging from wetlab experiment design to full cancer vaccine manufacturing.",
+    "name": "Halmos Labs",
+    "nonprofit": false,
+    "one_liner": "Maximum information per experiment, minimum experiments per conclusion",
+    "question_answers": false,
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "slug": "halmos-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Swarm AI",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/halmos-labs",
+    "website": "https://halmoslabs.com/"
   }
 ]

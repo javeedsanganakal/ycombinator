@@ -176,7 +176,7 @@
     "website": "http://www.slopepay.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ballerine.json",
     "app_answers": null,
     "app_video_public": false,
@@ -198,7 +198,8 @@
     "one_liner": "Agentic Intelligence Layer for Merchant Risk Decisions",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "Israel",
+      "Middle East and North Africa"
     ],
     "slug": "ballerine",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c2e4d4f16e7f43d9fe9f060296b72b7d16de22.png",
@@ -216,7 +217,7 @@
     "website": "http://www.ballerine.com"
   },
   {
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/overwatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -308,7 +309,7 @@
     "website": "https://www.finic.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Singapore, Singapore",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/corgi-labs.json",
     "app_answers": true,
     "app_video_public": false,
@@ -331,8 +332,8 @@
     "one_liner": "AI to increase payment acceptance and reduce fraud for businesses",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Singapore",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -370,7 +371,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1708029636,
     "long_description": "We are building a safer supply chain. Cargo Theft has been increasing yearly, and the supply chain industry is urgently looking for ways to solve this. Using experience fighting fraud at the largest delivery marketplaces and logistics tech companies, we are building solutions to stop Cargo Theft and improve profit margins and revenue for warehouses and freight brokers.",
     "name": "Indemni",
@@ -402,48 +403,85 @@
     "website": "http://www.indemni.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json",
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2026",
     "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31080,
+    "former_names": [
+      "Agnostic"
+    ],
+    "id": 31132,
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
-    "launched_at": 1764601102,
-    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
-    "name": "Didit",
+    "launched_at": 1769108383,
+    "long_description": "MouseCat enables companies to detect suspicious activity, automate investigations, and act before the money leaves.\r\n\r\nWe work with Fortune 500 companies and startups to deploy real-time models and AI agents that reduce fraud, compliance incidents, and friction for good customers. ",
+    "name": "MouseCat",
     "nonprofit": false,
-    "one_liner": "Infrastructure for identity and fraud.",
+    "one_liner": "AI to fight financial crime",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "slug": "didit",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "slug": "mousecat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "tags": [
-      "Biometrics",
-      "Identity",
-      "Fraud Prevention",
+      "Compliance",
+      "Fraud Detection"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mousecat",
+    "website": "https://www.mousecat.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hesper-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36086,
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1788805829,
+    "long_description": "Hesper AI builds AI agents that investigate P&C insurance claims end to end.\r\n\r\nHesper’s agents read the claim file, detect tampered documents, verify facts, check coverage, flag inconsistencies, and produce an audit-ready case file in minutes, so insurers can check every claim. \r\n\r\nWe work with Claims and SIU orgs at Carriers, MGAs and TPAs,",
+    "name": "Hesper AI",
+    "nonprofit": false,
+    "one_liner": "AI Claims Investigator for Insurance",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hesper-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22aa0e43c8572c7233989f7b9c4d18841280c577.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Insurance",
+    "tags": [
+      "Insurance",
       "Fraud Detection",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 12,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "website": "https://didit.me/"
+    "url": "https://www.ycombinator.com/companies/hesper-ai",
+    "website": "https://gethesperai.com"
   }
 ]
