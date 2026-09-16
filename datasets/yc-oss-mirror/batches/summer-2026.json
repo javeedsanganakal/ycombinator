@@ -363,7 +363,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1784890498,
     "long_description": "",
     "name": "Waddle Labs",
@@ -1592,9 +1592,9 @@
     "status": "Active",
     "subindustry": "B2B -> Security",
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -1878,7 +1878,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1784399832,
-    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their work, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their job, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
     "name": "Kebra",
     "nonprofit": false,
     "one_liner": "AI For The Skilled Workforce",
@@ -1893,10 +1893,10 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Home Services",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -3439,50 +3439,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/instaplay",
     "website": "https://instaplay.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/lyon.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Lyon (Branding TBD)"
-    ],
-    "id": 32191,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1786694987,
-    "long_description": "Lyon builds private foundation models for banks, insurance companies, and fintechs. Each model learns from the company’s proprietary transactions, payments, clicks, and customer interactions to predict credit, fraud, collections, income, churn, and lifetime value; and runs inside the company’s cloud, so its data and intelligence remain under its control. Lyon is already working with a major insurer and trained a model on 28B transactions for a fintech serving tens of millions of active users, identifying premium-card converters 4x more precisely than its existing rules; the model is now being deployed for credit.",
-    "name": "Lyon",
-    "nonprofit": false,
-    "one_liner": "Foundation models on enterprise transaction data.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "lyon",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Machine Learning",
-      "Finance",
-      "Data Science",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lyon",
-    "website": "https://lyon.so"
   },
   {
     "all_locations": "Chicago, IL, USA",
@@ -8549,7 +8505,7 @@
       "Defense"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1781029529,
     "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
     "name": "Hop Aero",
@@ -8804,7 +8760,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1782965522,
     "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
     "name": "Petrarch",

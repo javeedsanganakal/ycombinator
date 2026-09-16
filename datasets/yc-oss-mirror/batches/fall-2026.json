@@ -252,6 +252,50 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lyon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Lyon (Branding TBD)"
+    ],
+    "id": 32191,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786694987,
+    "long_description": "Lyon builds private foundation models for banks, insurance companies, and fintechs. Each model learns from the company’s proprietary transactions, payments, clicks, and customer interactions to predict credit, fraud, collections, income, churn, and lifetime value; and runs inside the company’s cloud, so its data and intelligence remain under its control. Lyon is already working with a major insurer and trained a model on 28B transactions for a fintech serving tens of millions of active users, identifying premium-card converters 4x more precisely than its existing rules; the model is now being deployed for credit.",
+    "name": "Lyon",
+    "nonprofit": false,
+    "one_liner": "Foundation models on enterprise transaction data.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lyon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Machine Learning",
+      "Finance",
+      "Data Science",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lyon",
+    "website": "https://lyon.so"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/veltha.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1066,11 +1110,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1642,7 +1686,7 @@
       "America / Canada"
     ],
     "slug": "dreamscale-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1712,7 +1756,7 @@
       "Insurance"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1789432184,
     "long_description": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
     "name": "Ignition Benefits",

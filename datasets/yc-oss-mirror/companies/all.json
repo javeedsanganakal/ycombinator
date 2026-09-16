@@ -32063,7 +32063,7 @@
     ],
     "slug": "zenflow",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39dafe5a7c09ff15739f0bf0dfb5ef1902393913.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Medical Devices",
     "tags": [
@@ -32530,7 +32530,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1419816809,
     "long_description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
     "name": "Tara AI",
@@ -63271,7 +63271,7 @@
     "website": "http://www.aerones.com"
   },
   {
-    "all_locations": "Tallinn, Harju County, Estonia; New York, NY, USA; London, England, United Kingdom; Barcelona, CT, Spain",
+    "all_locations": "Tallinn, Harju County, Estonia",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/veriff.json",
     "app_answers": null,
     "app_video_public": false,
@@ -63286,32 +63286,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1514156539,
-    "long_description": "Veriff is a global online identity verification company that enables organizations to build trust with their customers through intelligent, accurate, and automated online IDV. Veriff’s intelligent decision engine can analyze thousands of technological and behavioral variables in seconds, matching people to more than 10,000 government-issued IDs from over 190 countries. Veriff serves a global portfolio of organizations across fintech, crypto, and mobility sectors. \r\n\r\nFounded in 2015 by Kaarel Kotkas, today Veriff serves a global portfolio of internet businesses including fintech companies, sharing economy providers and marketplaces in the USA, Europe and other places in the world. Veriff is an alumnus of the startup accelerator Y Combinator and employs 350 people in its locations in Tallinn and Tartu in Estonia; New York, in the USA,  London in the UK and Barcelona in Spain.",
+    "long_description": "Veriff is a global AI-native identity platform that helps organizations build trust online. Leading companies across financial services, marketplaces, mobility, gig economy, and other digital sectors rely on Veriff's technology to stay compliant, prevent fraud, protect users, and scale globally.\r\n\r\nVeriff's trust infrastructure supports the full customer journey, from verification to ongoing authentication and fraud prevention, with the least friction for honest people. With 600+ people in the US, UK, Brazil, Spain, and Estonia, Veriff helps businesses expand across borders without the complexity of managing identity verification, compliance, and fraud in multiple markets – creating a single source of truth for trusted identities. Backed by investors including Accel, Alkeon, IVP, Tiger Capital, and Y Combinator, Veriff is dedicated to helping businesses and individuals build a safer, more secure world.",
     "name": "Veriff",
     "nonprofit": false,
-    "one_liner": "AI-powered identity verification solution for fraud prevention.",
+    "one_liner": "Veriff is a global AI-native identity platform building trust online",
     "question_answers": false,
     "regions": [
       "Estonia",
-      "United States of America",
-      "United Kingdom",
-      "Spain",
       "Europe",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "slug": "veriff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Fintech",
-      "SaaS"
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Fraud Prevention"
     ],
     "tags_highlighted": [],
-    "team_size": 42,
+    "team_size": 600,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/veriff",
     "website": "https://veriff.com/"
@@ -64286,7 +64285,7 @@
     ],
     "slug": "jetlenses",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [],
@@ -66360,7 +66359,7 @@
     ],
     "slug": "duffel",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ed3effeac481fb858f8cf67828524e20b606b12.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "tags": [
@@ -97349,7 +97348,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1593714682,
     "long_description": "QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI.",
     "name": "QuestDB",
@@ -117303,7 +117302,7 @@
       "Conversational AI"
     ],
     "tags_highlighted": [],
-    "team_size": 35,
+    "team_size": 40,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/navattic",
     "website": "https://www.navattic.com/"
@@ -120808,7 +120807,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628553410,
     "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
     "name": "Superwall",
@@ -129403,7 +129402,7 @@
     "slug": "kurios",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75927de021781b52309af33eced0acea980bc7da.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "Education",
     "tags": [
       "eLearning",
@@ -154947,7 +154946,7 @@
     "slug": "instant",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee33d4dd08812f99b8d82ea64b812f8d2810e88.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Developer Tools"
@@ -160010,7 +160009,7 @@
       "Human Resources"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1653465182,
     "long_description": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI teammate, for all talent conversations. Nova runs two-way voice/video pre-screen calls, first-round interviews (with coding round and advance proctoring), check-ins, and assessments,  all with your company’s context built in.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster.",
     "name": "Peoplebox.ai",
@@ -175627,10 +175626,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1674416288,
-    "long_description": "Founded in 2022, Atmeto was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
+    "long_description": "",
     "name": "Atmeto",
     "nonprofit": false,
-    "one_liner": "We develop ML that optimizes how batteries in the grid store energy",
+    "one_liner": "Building a frontier world model for power",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -175642,11 +175641,11 @@
     "status": "Active",
     "subindustry": "Industrials -> Energy",
     "tags": [
-      "Energy Storage",
-      "Reinforcement Learning",
+      "Machine Learning",
       "Climate",
       "Energy",
-      "ClimateTech"
+      "ClimateTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -178722,10 +178721,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1691105932,
-    "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
+    "long_description": "Mandel runs the operational work across direct-materials sourcing and ordering - from RFQ through invoice - for manufacturers and distributors. It coordinates suppliers, checks orders and invoices against agreed terms, resolves discrepancies, recovers supplier credits, and keeps the ERP current.\r\n\r\nWorking across email, supplier portals, EDI, and ERP systems, Mandel investigates issues and carries out the next steps within your team’s approval rules.",
     "name": "Mandel AI",
     "nonprofit": false,
-    "one_liner": "AI Supply Chain Coordinator",
+    "one_liner": "AI Coordination Layer for Supply Chain",
     "question_answers": false,
     "regions": [
       "Bulgaria",
@@ -178746,7 +178745,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mandel-ai",
     "website": "https://www.mandel.ai/"
@@ -188238,7 +188237,7 @@
       "Europe"
     ],
     "slug": "malibou",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9637a17ef68e79a0e70a53729e5937278fffb4ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58137f5ea9c3d97a49e190602fc6dd4331ccf6d.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Human Resources",
@@ -188253,7 +188252,7 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/malibou",
-    "website": "https://www.malibou.co"
+    "website": "https://www.malibou.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -188661,12 +188660,12 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pivot-robotics",
     "website": "https://pivotrobotics.com"
@@ -189351,7 +189350,7 @@
     "subindustry": "B2B -> Sales",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/octolane-ai",
     "website": "https://www.octolane.com"
@@ -196711,10 +196710,10 @@
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 7,
@@ -201909,27 +201908,27 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1717790065,
-    "long_description": "Proteins power everything from the cells in your body to creating materials you rely on every day—but until now, we’ve been forced to discover their functions by trial and error. Designing a new therapeutic can take decades and billions of dollars, and even our best industrial catalysts work at a snail’s pace compared to their theoretical optimums.\r\n\r\nAnthrogen is changing that. By training massive AI foundation models on protein sequences and structures, we’ve unlocked the ability to generate—on demand—completely novel molecular machines with atomic-level precision. Simply describe the function you need, and our platform imagines the peptide or protein that will deliver it.\r\n\r\nWe're building models to speed up billions of years of evolution into the span of an afternoon's worth of compute.\r\n\r\nThe result? New-to-nature therapies, ultra-efficient catalysts for sustainable manufacturing, and a whole new frontier of molecular innovation—designed as precisely as any cutting-edge aircraft or microchip.",
+    "long_description": "Anthrogen is engineering post-modality biology.\r\n\r\nToday's modalities reflect historical contingencies in biological progress, not fundamental categories. We develop the AI systems that design modular biological machines and the experimental infrastructure to instantiate them.",
     "name": "Anthrogen",
     "nonprofit": false,
-    "one_liner": "We're training the next generation of protein foundation models.",
+    "one_liner": "We work on generalizable tools for the next era of biotech. ",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "anthrogen",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd834838e899b193bf63adbb6160e2a6faf66041.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare",
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/anthrogen",
     "website": "https://anthrogen.com"
@@ -202014,7 +202013,7 @@
     "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kastle",
     "website": "https://kastle.ai/"
@@ -204029,10 +204028,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1719517061,
-    "long_description": "Parley automates flat-fee legal work using LLM’s, starting with visa applications for immigration lawyers. Currently, immigration lawyers spend 20+ hours putting together writing-intensive work visas and green cards. We integrate directly into a lawyer's workflow and do all the reading, writing, and compiling — which is 80% of the work required to file a visa application. ",
+    "long_description": "Parley is the Legal Agent built for the AI era. Legal teams know that getting the work done isn't just drafting or researching. It's also managing your cases, loose threads, and team. Parley is the all-in-one workspace that structures all of that information so that AI can actually deliver finished work.",
     "name": "Parley",
     "nonprofit": false,
-    "one_liner": "Automating flat-fee legal work, starting with work visas + green cards",
+    "one_liner": "Legal Agent that delivers finished work",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -204044,11 +204043,11 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Legal",
       "LegalTech",
-      "Immigration"
+      "Immigration",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -210112,7 +210111,7 @@
     "long_description": "RiskCube is building the first AI-native reinsurer for emerging risks.\r\n\r\nToday, we operate an insurance brokerage focused on startups in AI, robotics, space, and defense. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
     "name": "RiskCube",
     "nonprofit": false,
-    "one_liner": "America’s first reinsurer for emerging risks.",
+    "one_liner": "America’s first AI-native reinsurer for emerging risks.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -210124,10 +210123,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Insurance",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Insurance",
-      "Defense",
-      "AI"
+      "Defense"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -210275,13 +210274,13 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1728389519,
-    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "name": "Lingo.dev",
     "nonprofit": false,
     "one_liner": "The Localization Engineering Platform",
-    "question_answers": false,
+    "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada",
@@ -210294,11 +210293,10 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "B2B",
       "International",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 7,
@@ -216272,10 +216270,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -216945,13 +216943,13 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nitrode",
     "website": "https://www.nitrode.com"
@@ -218123,7 +218121,7 @@
     ],
     "slug": "spott",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
@@ -221096,46 +221094,46 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "YouLearn"
+      "YouLearn",
+      "Hanji"
     ],
     "id": 30442,
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Education"
     ],
-    "industry": "B2B",
+    "industry": "Education",
     "isHiring": false,
     "launched_at": 1745603860,
-    "long_description": "We turn scanned, faxed, and handwritten documents into structured data with a pipeline tuned to your workflow",
-    "name": "Hanji",
+    "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
+    "name": "YouLearn",
     "nonprofit": false,
-    "one_liner": "Turn your hardest documents into reliable data",
+    "one_liner": "AI tutor for each student. ",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "hanji",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
+    "slug": "youlearn",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d95a92c88005262cd010ecec020011f74b07cf63.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Education",
     "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "AI-Enhanced Learning",
+      "Education",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "website": "https://hanji.dev/"
+    "url": "https://www.ycombinator.com/companies/youlearn",
+    "website": "https://www.youlearn.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -222225,16 +222223,15 @@
     "former_names": [],
     "id": 30469,
     "industries": [
-      "B2B",
-      "Retail"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1747768090,
-    "long_description": "Every month, our robots greet tens of thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+    "long_description": "We build autonomous research agents that accelerate frontier world models.",
     "name": "HABIT",
     "nonprofit": false,
-    "one_liner": "Conversational robots for physical businesses.",
+    "one_liner": "Accelerating world models.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -222244,19 +222241,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Robotics",
-      "Consumer",
       "B2B",
-      "Retail",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "team_size": null,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/habit",
-    "website": "https://habitrobotics.com"
+    "website": "https://habit.inc"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -226419,7 +226416,7 @@
     "long_description": "Helping to build more socially intelligent AI, starting with voice.",
     "name": "Liva AI",
     "nonprofit": false,
-    "one_liner": "Audio & Video Data",
+    "one_liner": "Building socially intelligent AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -226433,11 +226430,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -229453,16 +229450,16 @@
     ],
     "id": 30707,
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
-    "industry": "Healthcare",
+    "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1751998711,
-    "long_description": "Phases deploys AI agents to oversee clinical trials, improving operational performance, data quality, and audit readiness by identifying risks and taking actions autonomously to solve issues.",
+    "long_description": "",
     "name": "Phases",
     "nonprofit": false,
-    "one_liner": "Automated clinical trial oversight and execution",
+    "one_liner": "AI for the physical world",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -229472,10 +229469,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Healthcare IT",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -235781,7 +235778,7 @@
       "Legal"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1759460278,
     "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
     "name": "ComplyDo",
@@ -236768,7 +236765,7 @@
       "Automation"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aside",
     "website": "https://aside.com"
@@ -237075,7 +237072,8 @@
     ],
     "id": 30953,
     "industries": [
-      "B2B"
+      "B2B",
+      "Legal"
     ],
     "industry": "B2B",
     "isHiring": false,
@@ -237093,11 +237091,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb0260bafa98dc299797de55569bc9898b1505c1.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Legal",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Legal"
+      "Legal",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -239527,7 +239525,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1784890498,
     "long_description": "",
     "name": "Waddle Labs",
@@ -246099,7 +246097,7 @@
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
     "name": "Canary",
     "nonprofit": false,
-    "one_liner": "The first AI QA engineer that understands your code",
+    "one_liner": "Adversarial AI that breaks your AI",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -248067,16 +248065,15 @@
     ],
     "id": 31335,
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1778812476,
-    "long_description": "Memoir turns what your team ships into marketing material. It connects to GitHub, Linear, Slack, customer feedback, and product analytics to understand what changed, why it matters, who should hear about it, and how to tell the story.\r\n\r\nFrom there, Memoir creates multi-touchpoint marketing across social, blogs, changelogs, demo videos, customer updates, and launch content, all in your company’s voice. It also watches what is getting traction in your market, learns from your edits and campaign performance, and gets better every time you ship.\r\n\r\nIt is not a generic AI content tool. Memoir is a marketer with the soul of an engineer: it starts from the product source of truth and turns product velocity into market velocity.",
+    "long_description": "Memoir is building a persistent and proactive AI teammate that helps an entire company keep up with its own progress. Think Instinct but for enterprise. We’re starting with product changes. When engineering ships something, Memoir understands who it affects and creates what each audience needs: a walkthrough for a customer, launch materials for a product marketer, or a technical explanation for another engineering team. It chooses the format and timing, then delivers the approved material in Slack. Nobody has to ask it to start.\r\n\r\nWe’re beginning with hands-on deployments, learning how each company works and where people depend on one another. That understanding will let Memoir expand beyond product releases to customer commitments, business decisions, and changes across departments. The idea grew from conversations with product marketers struggling to keep up with engineering, and the possibility of extending a proactive personal AI teammate to an entire business. \r\n\r\nOur ambition is a company where every important change sets the right communication in motion: the people affected receive something made for them, when they need it, without someone having to coordinate every handoff. As AI makes individual teams faster, Memoir helps that speed carry through the whole company.",
     "name": "Memoir",
     "nonprofit": false,
-    "one_liner": "Marketing campaigns from everything your team ships",
+    "one_liner": "Everything your team ships, explained to everyone it affects.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -248086,7 +248083,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
     "team_size": 1,
@@ -250998,7 +250995,7 @@
     "slug": "prototypingio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [],
     "tags_highlighted": [],
@@ -251766,7 +251763,7 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/reason-machines",
-    "website": "https://reasonmachines.ai"
+    "website": "https://reasonmachines.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -254061,9 +254058,9 @@
     "status": "Active",
     "subindustry": "B2B -> Security",
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -254930,6 +254927,50 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gbrainio.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "The Overton Window Company",
+      "Gbrain.io"
+    ],
+    "id": 31572,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789511395,
+    "long_description": "Like ChatGPT or Claude, but it runs in the cloud, remembers everything you give it, and comes loaded with skills. Hand it a job tonight and read the answer in the morning. Use it on your own, or with your whole team.",
+    "name": "gbrain.io",
+    "nonprofit": false,
+    "one_liner": "A personal or team assistant that works while you sleep",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "gbrainio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff8cf14993c5561f746df91370537e12f858f957.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Workflow Automation",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/gbrainio",
+    "website": "https://gbrain.io"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/heyclicky.json",
     "app_answers": null,
     "app_video_public": false,
@@ -255153,7 +255194,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1784399832,
-    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their work, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their job, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
     "name": "Kebra",
     "nonprofit": false,
     "one_liner": "AI For The Skilled Workforce",
@@ -255168,10 +255209,10 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Home Services",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -256803,10 +256844,10 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/lyon.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lyon.json",
     "app_answers": null,
     "app_video_public": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Lyon (Branding TBD)"
@@ -261950,7 +261991,7 @@
       "Defense"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1781029529,
     "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
     "name": "Hop Aero",
@@ -262205,7 +262246,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1782965522,
     "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
     "name": "Petrarch",
@@ -264132,11 +264173,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -264708,7 +264749,7 @@
       "America / Canada"
     ],
     "slug": "dreamscale-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -264778,7 +264819,7 @@
       "Insurance"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1789432184,
     "long_description": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
     "name": "Ignition Benefits",

@@ -4345,7 +4345,7 @@
     "website": "http://www.iambiqtech.com/"
   },
   {
-    "all_locations": "Tallinn, Harju County, Estonia; New York, NY, USA; London, England, United Kingdom; Barcelona, CT, Spain",
+    "all_locations": "Tallinn, Harju County, Estonia",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/veriff.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4360,32 +4360,31 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1514156539,
-    "long_description": "Veriff is a global online identity verification company that enables organizations to build trust with their customers through intelligent, accurate, and automated online IDV. Veriff’s intelligent decision engine can analyze thousands of technological and behavioral variables in seconds, matching people to more than 10,000 government-issued IDs from over 190 countries. Veriff serves a global portfolio of organizations across fintech, crypto, and mobility sectors. \r\n\r\nFounded in 2015 by Kaarel Kotkas, today Veriff serves a global portfolio of internet businesses including fintech companies, sharing economy providers and marketplaces in the USA, Europe and other places in the world. Veriff is an alumnus of the startup accelerator Y Combinator and employs 350 people in its locations in Tallinn and Tartu in Estonia; New York, in the USA,  London in the UK and Barcelona in Spain.",
+    "long_description": "Veriff is a global AI-native identity platform that helps organizations build trust online. Leading companies across financial services, marketplaces, mobility, gig economy, and other digital sectors rely on Veriff's technology to stay compliant, prevent fraud, protect users, and scale globally.\r\n\r\nVeriff's trust infrastructure supports the full customer journey, from verification to ongoing authentication and fraud prevention, with the least friction for honest people. With 600+ people in the US, UK, Brazil, Spain, and Estonia, Veriff helps businesses expand across borders without the complexity of managing identity verification, compliance, and fraud in multiple markets – creating a single source of truth for trusted identities. Backed by investors including Accel, Alkeon, IVP, Tiger Capital, and Y Combinator, Veriff is dedicated to helping businesses and individuals build a safer, more secure world.",
     "name": "Veriff",
     "nonprofit": false,
-    "one_liner": "AI-powered identity verification solution for fraud prevention.",
+    "one_liner": "Veriff is a global AI-native identity platform building trust online",
     "question_answers": false,
     "regions": [
       "Estonia",
-      "United States of America",
-      "United Kingdom",
-      "Spain",
       "Europe",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "slug": "veriff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Fintech",
-      "SaaS"
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Fraud Prevention"
     ],
     "tags_highlighted": [],
-    "team_size": 42,
+    "team_size": 600,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/veriff",
     "website": "https://veriff.com/"
@@ -9501,7 +9500,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1628553410,
     "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
     "name": "Superwall",
@@ -12005,7 +12004,7 @@
     "slug": "instant",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee33d4dd08812f99b8d82ea64b812f8d2810e88.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Developer Tools"
@@ -20156,13 +20155,13 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1728389519,
-    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "name": "Lingo.dev",
     "nonprofit": false,
     "one_liner": "The Localization Engineering Platform",
-    "question_answers": false,
+    "question_answers": true,
     "regions": [
       "United States of America",
       "America / Canada",
@@ -20175,11 +20174,10 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "B2B",
       "International",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 7,
@@ -25237,7 +25235,7 @@
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
     "name": "Canary",
     "nonprofit": false,
-    "one_liner": "The first AI QA engineer that understands your code",
+    "one_liner": "Adversarial AI that breaks your AI",
     "question_answers": true,
     "regions": [
       "United States of America",

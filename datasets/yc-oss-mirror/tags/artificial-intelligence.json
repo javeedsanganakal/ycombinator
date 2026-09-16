@@ -707,7 +707,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1419816809,
     "long_description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
     "name": "Tara AI",
@@ -3452,6 +3452,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/point-api",
     "website": "https://pointapi.com"
+  },
+  {
+    "all_locations": "Tallinn, Harju County, Estonia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/veriff.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2018",
+    "demo_day_video_public": true,
+    "former_names": [],
+    "id": 1876,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1514156539,
+    "long_description": "Veriff is a global AI-native identity platform that helps organizations build trust online. Leading companies across financial services, marketplaces, mobility, gig economy, and other digital sectors rely on Veriff's technology to stay compliant, prevent fraud, protect users, and scale globally.\r\n\r\nVeriff's trust infrastructure supports the full customer journey, from verification to ongoing authentication and fraud prevention, with the least friction for honest people. With 600+ people in the US, UK, Brazil, Spain, and Estonia, Veriff helps businesses expand across borders without the complexity of managing identity verification, compliance, and fraud in multiple markets – creating a single source of truth for trusted identities. Backed by investors including Accel, Alkeon, IVP, Tiger Capital, and Y Combinator, Veriff is dedicated to helping businesses and individuals build a safer, more secure world.",
+    "name": "Veriff",
+    "nonprofit": false,
+    "one_liner": "Veriff is a global AI-native identity platform building trust online",
+    "question_answers": false,
+    "regions": [
+      "Estonia",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "veriff",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Fraud Prevention"
+    ],
+    "tags_highlighted": [],
+    "team_size": 600,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/veriff",
+    "website": "https://veriff.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
@@ -14387,7 +14432,7 @@
       "Human Resources"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1653465182,
     "long_description": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI teammate, for all talent conversations. Nova runs two-way voice/video pre-screen calls, first-round interviews (with coding round and advance proctoring), check-ins, and assessments,  all with your company’s context built in.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster.",
     "name": "Peoplebox.ai",
@@ -22151,50 +22196,6 @@
     "website": "http://keystroke.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pivot-robotics.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Pivot AI",
-      "Pivot Robots"
-    ],
-    "id": 29273,
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "industry": "Industrials",
-    "isHiring": true,
-    "launched_at": 1709584102,
-    "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
-    "name": "Pivot Robotics",
-    "nonprofit": false,
-    "one_liner": "AI for Robot Arms in Factories",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "pivot-robotics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0d44cf8688258862f3d2457491a3a79d07f53c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pivot-robotics",
-    "website": "https://pivotrobotics.com"
-  },
-  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/agentic-labs-2.json",
     "app_answers": null,
@@ -25332,48 +25333,6 @@
     "website": "https://www.integuru.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/forge.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29499,
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1705516248,
-    "long_description": "Forge manages international logistics for business around the world. We’re an AI native freight forwarder, customs broker, and tariff expert.\r\n\r\nWe’re growing rapidly and support small mom and pop business to the Fortune 1000s, including companies like Allegiant Airlines, Malbon Golf, and R.E.M. beauty.\r\n\r\nForge has raised capital from world class investors including Google, Y-Combinator, and Gradient Ventures.",
-    "name": "Forge",
-    "nonprofit": false,
-    "one_liner": "AI native freight forwarder and customs broker",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "forge",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "team_size": 7,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/forge",
-    "website": "https://www.forgehq.com/"
-  },
-  {
     "all_locations": "Toronto, ON, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tower.json",
     "app_answers": null,
@@ -27100,48 +27059,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anthrogen.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Arctic Capture"
-    ],
-    "id": 29713,
-    "industries": [
-      "Healthcare"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1717790065,
-    "long_description": "Proteins power everything from the cells in your body to creating materials you rely on every day—but until now, we’ve been forced to discover their functions by trial and error. Designing a new therapeutic can take decades and billions of dollars, and even our best industrial catalysts work at a snail’s pace compared to their theoretical optimums.\r\n\r\nAnthrogen is changing that. By training massive AI foundation models on protein sequences and structures, we’ve unlocked the ability to generate—on demand—completely novel molecular machines with atomic-level precision. Simply describe the function you need, and our platform imagines the peptide or protein that will deliver it.\r\n\r\nWe're building models to speed up billions of years of evolution into the span of an afternoon's worth of compute.\r\n\r\nThe result? New-to-nature therapies, ultra-efficient catalysts for sustainable manufacturing, and a whole new frontier of molecular innovation—designed as precisely as any cutting-edge aircraft or microchip.",
-    "name": "Anthrogen",
-    "nonprofit": false,
-    "one_liner": "We're training the next generation of protein foundation models.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "anthrogen",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare",
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/anthrogen",
-    "website": "https://anthrogen.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/aluna.json",
     "app_answers": null,
     "app_video_public": false,
@@ -27815,49 +27732,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kura-ai",
     "website": "https://trykura.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/parley.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29772,
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1719517061,
-    "long_description": "Parley automates flat-fee legal work using LLM’s, starting with visa applications for immigration lawyers. Currently, immigration lawyers spend 20+ hours putting together writing-intensive work visas and green cards. We integrate directly into a lawyer's workflow and do all the reading, writing, and compiling — which is 80% of the work required to file a visa application. ",
-    "name": "Parley",
-    "nonprofit": false,
-    "one_liner": "Automating flat-fee legal work, starting with work visas + green cards",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "parley",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49aadd86a1a43580b7c9079ab398a509ebe10568.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Legal",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Legal",
-      "LegalTech",
-      "Immigration"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/parley",
-    "website": "https://parley.so"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -29897,6 +29771,48 @@
     "website": "https://attimet.com/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30055,
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1731782052,
+    "long_description": "RiskCube is building the first AI-native reinsurer for emerging risks.\r\n\r\nToday, we operate an insurance brokerage focused on startups in AI, robotics, space, and defense. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
+    "name": "RiskCube",
+    "nonprofit": false,
+    "one_liner": "America’s first AI-native reinsurer for emerging risks.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "riskcube",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Insurance",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/riskcube",
+    "website": "https://riskcube.com"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/keye.json",
     "app_answers": null,
@@ -29939,6 +29855,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/keye",
     "website": "https://www.keye.co"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Replexica"
+    ],
+    "id": 30060,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1728389519,
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
+    "name": "Lingo.dev",
+    "nonprofit": false,
+    "one_liner": "The Localization Engineering Platform",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "lingodotdev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "International",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lingodotdev",
+    "website": "https://lingo.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -31834,6 +31796,52 @@
     "website": "https://lopus.ai"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/liquid-compute.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "PowerPlay",
+      "Strike",
+      "Pluto"
+    ],
+    "id": 30269,
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1740523068,
+    "long_description": "",
+    "name": "Liquid Compute",
+    "nonprofit": false,
+    "one_liner": "Pending CFTC regulation to be the first cash and physically settled…",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "liquid-compute",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddb1c0f50037d9c24b823a5a568655e0a2d1980d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/liquid-compute",
+    "website": "https://www.liquidcompute.com"
+  },
+  {
     "all_locations": "Vancouver, BC, Canada",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json",
     "app_answers": null,
@@ -32000,6 +32008,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/exla",
     "website": "https://exla.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/nitrode.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Roach AI",
+      "Inception Technologies"
+    ],
+    "id": 30286,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1738144366,
+    "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
+    "name": "Nitrode",
+    "nonprofit": false,
+    "one_liner": "Frontier AI research to advance game development",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "nitrode",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "website": "https://www.nitrode.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -32321,7 +32373,7 @@
     ],
     "slug": "spott",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
@@ -33009,49 +33061,6 @@
     "website": "https://www.clarm.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "YouLearn"
-    ],
-    "id": 30442,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1745603860,
-    "long_description": "We turn scanned, faxed, and handwritten documents into structured data with a pipeline tuned to your workflow",
-    "name": "Hanji",
-    "nonprofit": false,
-    "one_liner": "Turn your hardest documents into reliable data",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "hanji",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "website": "https://hanji.dev/"
-  },
-  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json",
     "app_answers": null,
@@ -33263,6 +33272,48 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tegore",
     "website": "https://tegore.ai/"
+  },
+  {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30469,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1747768090,
+    "long_description": "We build autonomous research agents that accelerate frontier world models.",
+    "name": "HABIT",
+    "nonprofit": false,
+    "one_liner": "Accelerating world models.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "habit",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Robotics",
+      "B2B",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/habit",
+    "website": "https://habit.inc"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -34660,53 +34711,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/liva-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Symbia",
-      "Liva"
-    ],
-    "id": 30622,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1753401226,
-    "long_description": "Helping to build more socially intelligent AI, starting with voice.",
-    "name": "Liva AI",
-    "nonprofit": false,
-    "one_liner": "Audio & Video Data",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "liva-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "B2B",
-      "Data Labeling",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/liva-ai",
-    "website": "https://www.theliva.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json",
     "app_answers": null,
     "app_video_public": false,
@@ -35645,6 +35649,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/twentytwo",
     "website": "https://twentytwo.bio/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Patiently"
+    ],
+    "id": 30707,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1751998711,
+    "long_description": "",
+    "name": "Phases",
+    "nonprofit": false,
+    "one_liner": "AI for the physical world",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "phases",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare IT",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/phases",
+    "website": "https://phases.ai"
   },
   {
     "all_locations": "Seoul, Seoul, South Korea",
@@ -37918,7 +37965,7 @@
       "Automation"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aside",
     "website": "https://aside.com"
@@ -38049,49 +38096,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/usenarrative",
     "website": "http://www.usenarrative.ai"
-  },
-  {
-    "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/relaw.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Relaw",
-      "Primer"
-    ],
-    "id": 30953,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1759337648,
-    "long_description": "Relaw powers leading AI-native law firms.",
-    "name": "Relaw",
-    "nonprofit": false,
-    "one_liner": "AI Legal OS",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "relaw",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb0260bafa98dc299797de55569bc9898b1505c1.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Legal"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/relaw",
-    "website": "https://www.relaw.ai"
   },
   {
     "all_locations": "Bengaluru, KA, India",
@@ -40741,49 +40745,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trident.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Esprit"
-    ],
-    "id": 31537,
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1785361922,
-    "long_description": "Trident is the standard for modern day security. its an agentic pentester that chains vulnerabilities together like a real attacker mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs. Run AI attacks and get fixes.\r\n\r\nGet started today: tridentsecurity.io",
-    "name": "Trident",
-    "nonprofit": false,
-    "one_liner": "Autonomous offensive security agents. The best defense is offense",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "trident",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Security",
-    "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/trident",
-    "website": "https://tridentsecurity.io/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40954,6 +40915,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/rindler",
     "website": "https://maxxwell.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kebra.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Third Eye"
+    ],
+    "id": 31825,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784399832,
+    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their job, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "name": "Kebra",
+    "nonprofit": false,
+    "one_liner": "AI For The Skilled Workforce",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "kebra",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Home Services",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kebra",
+    "website": "https://kebra.com"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -44446,6 +44451,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35258,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789011304,
+    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
+    "name": "Mirrors",
+    "nonprofit": false,
+    "one_liner": "Catch and fix AI agent regressions before they reach production",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mirrors",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "website": "https://www.runmirrors.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json",
     "app_answers": null,
     "app_video_public": false,
@@ -44595,7 +44643,7 @@
       "America / Canada"
     ],
     "slug": "dreamscale-labs",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",

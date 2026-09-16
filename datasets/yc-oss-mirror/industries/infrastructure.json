@@ -3939,7 +3939,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1593714682,
     "long_description": "QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI.",
     "name": "QuestDB",
@@ -9686,49 +9686,6 @@
     "website": "https://www.aravolta.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "YouLearn"
-    ],
-    "id": 30442,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1745603860,
-    "long_description": "We turn scanned, faxed, and handwritten documents into structured data with a pipeline tuned to your workflow",
-    "name": "Hanji",
-    "nonprofit": false,
-    "one_liner": "Turn your hardest documents into reliable data",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "hanji",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "website": "https://hanji.dev/"
-  },
-  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/pgdog.json",
     "app_answers": null,
@@ -13770,11 +13727,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "team_size": 2,
