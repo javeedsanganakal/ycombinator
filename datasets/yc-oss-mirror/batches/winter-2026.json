@@ -1391,7 +1391,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1772518250,
-    "long_description": "Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality, without changing how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "long_description": "You shouldn't be paying Fable prices when 88% of your token usage is tool I/O. \r\nQuotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
     "name": "Quotient Labs",
     "nonprofit": false,
     "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
@@ -1405,7 +1405,10 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -2700,10 +2703,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1772136676,
-    "long_description": "Tepali is the AI-native operating system for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
+    "long_description": "Tepali is the AI EMR for medspas & wellness clinics. Front desk, charting, point of sale, and marketing in one system, with an AI employee that books new leads, charts every appointment, and brings past clients back.",
     "name": "Tepali",
     "nonprofit": false,
-    "one_liner": "AI operating system for modern medspas",
+    "one_liner": "AI EMR for medspas & wellness clinics",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5371,7 +5374,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1770130182,
     "long_description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don’t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
     "name": "Samora AI",
@@ -6605,7 +6608,7 @@
     "website": "https://trymaven.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6623,14 +6626,13 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1772231466,
-    "long_description": "Sila is a messaging platform where you text agents to get work done. Describe your idea or task with a message and Sila creates agents that you and your team message together to build and run your company.",
+    "long_description": "Sila is where you create and message agents with your team to do work",
     "name": "Sila",
     "nonprofit": false,
     "one_liner": "Agent Messaging Platform",
     "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "slug": "sila",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
@@ -6826,25 +6828,25 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1767420715,
-    "long_description": "Veriad is building marketing agents for enterprises.",
+    "long_description": "Veriad is building marketing agents for enterprises to run advertising campaigns end-to-end in-house.",
     "name": "Veriad",
     "nonprofit": false,
-    "one_liner": "Enterprise marketing agents",
+    "one_liner": "AI operating system for marketing",
     "question_answers": false,
     "regions": [
       "United Kingdom",
       "Europe"
     ],
     "slug": "veriad",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a84742c8558c6378997c9b19b54dd6ad334ce0c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaa1f350e1d2268092bb11e534ea52120e4c5b0f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

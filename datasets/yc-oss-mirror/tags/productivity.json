@@ -3941,56 +3941,6 @@
     "website": "http://www.stellarapp.io"
   },
   {
-    "all_locations": "London, England, United Kingdom; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/unify.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Deep Ivy Inc.",
-      "Ivy",
-      "Unify",
-      "Ivy"
-    ],
-    "id": 26837,
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1657390616,
-    "long_description": "No prompting, no setup, no jargon. Just hop on a call, onboard like anyone else, and let them take the tedious tasks off your plate.",
-    "name": "Unify",
-    "nonprofit": false,
-    "one_liner": "AI teammates for everyone else 🤖",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "unify",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb15970521caafcd30f313c8eaa1359733d2d2dd.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Productivity",
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Open Source",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/unify",
-    "website": "https://unify.ai"
-  },
-  {
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/slauth-io.json",
     "app_answers": null,
@@ -5668,6 +5618,51 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/party.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Maitai"
+    ],
+    "id": 29647,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1716914094,
+    "long_description": "Party is the secure workspace for your team and agents to build together, in the open. Agent Flows handle 95% of the work and your team can see it all happen and step in when needed to steer. It's built for teams, but caters to the solo builder as well. Use any harness/model - your keys or ours. Cost observability. Memory. Dual-level session sandboxing.\r\nSlack/Teams are comm-first with agents as second-class citizens. Party is work-first and the communication happens where the work is being done. Party is for teams who want to build better and faster than their competition. ",
+    "name": "Party",
+    "nonprofit": false,
+    "one_liner": "Secure multiplayer software factory for your whole team in minutes",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "party",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/338e5b72183a79e0cc2f337341f8e76e89c641a2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity",
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/party",
+    "website": "https://party.build"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/willow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6762,7 +6757,7 @@
     "website": "https://epicenter.so"
   },
   {
-    "all_locations": "Seoul, Seoul, South Korea",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json",
     "app_answers": null,
     "app_video_public": false,
@@ -6788,7 +6783,7 @@
       "South Korea",
       "East Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "char",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
@@ -6803,7 +6798,7 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/char",
     "website": "https://char.com"
@@ -7426,7 +7421,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1787571928,
     "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
     "name": "Sentient OS",

@@ -44,6 +44,42 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-company-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31371,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1778479342,
+    "long_description": "The Company Company builds the agent and the infrastructure to run companies.",
+    "name": "The Company Company",
+    "nonprofit": false,
+    "one_liner": "The last agent your company will ever need.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "the-company-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2e02b231781598e474507da2cdfd670adae06e9.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/the-company-company",
+    "website": "https://www.thecompany.company"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json",
     "app_answers": null,
     "app_video_public": false,
@@ -206,6 +242,50 @@
     "website": "https://runinfra.ai/"
   },
   {
+    "all_locations": "Salt Lake City, UT, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hickory-and-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Tally",
+      "Hickory"
+    ],
+    "id": 31725,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789596685,
+    "long_description": "",
+    "name": "Hickory & Company",
+    "nonprofit": false,
+    "one_liner": "Hickory offers agentic compliance and BSA for banks and fintechs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hickory-and-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99defc038609729a80c544eca98af6bec719647d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hickory-and-company",
+    "website": "https://hickory.co"
+  },
+  {
     "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/roma.json",
     "app_answers": null,
@@ -293,6 +373,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lyon",
     "website": "https://lyon.so"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/buildbox.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32197,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1785235599,
+    "long_description": "Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",
+    "name": "Buildbox",
+    "nonprofit": false,
+    "one_liner": "Agent analytics for real user outcomes",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "buildbox",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/buildbox",
+    "website": "https://heybuildbox.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -516,7 +637,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1787571928,
     "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
     "name": "Sentient OS",
@@ -746,13 +867,14 @@
   },
   {
     "all_locations": "Paris, Île-de-France, France; Remote",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Ascii box"
+      "Ascii box",
+      "Ascii"
     ],
     "id": 34928,
     "industries": [
@@ -762,8 +884,8 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1788174016,
-    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
-    "name": "Ascii",
+    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBoat provides powerful, simple, permissive Ubuntu VMs in the cloud. In a sandbox, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Boat and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every sandbox ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of sandboxes. Agents can run inside or use sandboxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes sandboxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and sandboxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nSandboxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
+    "name": "Boat",
     "nonprofit": false,
     "one_liner": "The best cloud VMs for billions of agents",
     "question_answers": false,
@@ -773,7 +895,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "ascii",
+    "slug": "boat",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
     "stage": "Early",
     "status": "Active",
@@ -785,8 +907,8 @@
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ascii",
-    "website": "https://box.ascii.dev"
+    "url": "https://www.ycombinator.com/companies/boat",
+    "website": "https://boat.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1055,10 +1177,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1788063210,
-    "long_description": "Intelligent execution layer for AI workloads",
+    "long_description": "Intelligent Cloud for AI workloads",
     "name": "Nodus Compute",
     "nonprofit": false,
-    "one_liner": "Intelligent execution layer for AI workloads",
+    "one_liner": "Intelligent Cloud for AI workloads",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1110,11 +1232,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -2034,6 +2156,44 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/peritai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36741,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789597716,
+    "long_description": "",
+    "name": "Perit.AI",
+    "nonprofit": false,
+    "one_liner": "Expert-led data and RL platform for AI labs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "peritai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a35e9e2f6026717a2640d1e01b9215eaff2d4310.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 47,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/peritai",
+    "website": "https://www.perit.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2316,6 +2476,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/redoubt-insurance",
     "website": "https://www.redoubt.agency"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lark-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37601,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789595493,
+    "long_description": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
+    "name": "Lark",
+    "nonprofit": false,
+    "one_liner": "Lark - Specialized agents for wholesale distributors",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "lark-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa063810ecce7347eb451a813a33fc49dd7242c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "B2B",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lark-2",
+    "website": "https://trylark.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",

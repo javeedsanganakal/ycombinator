@@ -1321,13 +1321,14 @@
   },
   {
     "all_locations": "",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/airshared.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2012/snapbite.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2012",
     "demo_day_video_public": false,
     "former_names": [
-      "Snapbite"
+      "Snapbite",
+      "Airshared"
     ],
     "id": 408,
     "industries": [
@@ -1338,14 +1339,14 @@
     "isHiring": false,
     "launched_at": 1336096670,
     "long_description": null,
-    "name": "Airshared",
+    "name": "SnapBite",
     "nonprofit": false,
     "one_liner": "TBD",
     "question_answers": false,
     "regions": [
       "Unspecified"
     ],
-    "slug": "airshared",
+    "slug": "snapbite",
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "stage": "Early",
     "status": "Inactive",
@@ -1356,7 +1357,7 @@
     "tags_highlighted": [],
     "team_size": 0,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/airshared",
+    "url": "https://www.ycombinator.com/companies/snapbite",
     "website": "http://getcycle.com"
   },
   {
@@ -7609,7 +7610,7 @@
     ],
     "slug": "veriff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -40013,7 +40014,7 @@
     "website": "https://roame.travel/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/aisdr.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40030,16 +40031,16 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1685885661,
-    "long_description": "AiSDR automates sales prospecting. Our software uses AI to automatically write and send sales emails, once a prospective customer engages – we then automatically correspond and book meetings with them. \r\n\r\nAiSDR's sales emails have an average response rate of 7.1%, which is already on par with the industry response rate from emails written by humans. \r\n\r\nWe are aiming to replace over 600k SDRs, that cost US companies $48B a year. ",
+    "long_description": "AiSDR builds Ami, an AI sales agent that helps B2B companies find customers and book meetings.\r\n\r\nGive Ami your website. It researches your business, recommends who to target and why now, and builds an outreach plan. Once you approve, it runs personalized campaigns across email and LinkedIn, follows up, handles replies, and books meetings.\r\n\r\nAmi keeps working after launch. It monitors results, spots problems with targeting or messaging, and recommends changes or applies them within the rules you set. It remembers your decisions and campaign results, so each campaign builds on the last.\r\n\r\nBuilt on lessons from 17,000+ real AiSDR campaigns, Ami gives founders and small teams sales strategy and execution in one place, without having to manage every step themselves.",
     "name": "AiSDR",
     "nonprofit": false,
-    "one_liner": "AI sales prospecting. Replace your SDR with AiSDR",
+    "one_liner": "AI that finds the right buyers and books sales meetings",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "slug": "aisdr",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c4ee33b19412517e139da731ca8d250eae8eee8.png",
@@ -40054,7 +40055,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 34,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aisdr",
     "website": "https://aisdr.com/"
@@ -46355,7 +46356,7 @@
     "website": "https://www.trymimos.com/"
   },
   {
-    "all_locations": "Seoul, Seoul, South Korea",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json",
     "app_answers": null,
     "app_video_public": false,
@@ -46381,7 +46382,7 @@
       "South Korea",
       "East Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "char",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
@@ -46396,7 +46397,7 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/char",
     "website": "https://char.com"
@@ -47788,6 +47789,50 @@
     "website": "https://maxxwell.dev"
   },
   {
+    "all_locations": "Salt Lake City, UT, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hickory-and-company.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Tally",
+      "Hickory"
+    ],
+    "id": 31725,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789596685,
+    "long_description": "",
+    "name": "Hickory & Company",
+    "nonprofit": false,
+    "one_liner": "Hickory offers agentic compliance and BSA for banks and fintechs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hickory-and-company",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99defc038609729a80c544eca98af6bec719647d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hickory-and-company",
+    "website": "https://hickory.co"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/trope.json",
     "app_answers": null,
@@ -48676,11 +48721,11 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

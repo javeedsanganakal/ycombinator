@@ -1504,7 +1504,7 @@
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
     "name": "Thunder Compute",
     "nonprofit": false,
-    "one_liner": "VMware for GPUs",
+    "one_liner": "GPUs for Agents",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -1516,14 +1516,14 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/thunder-compute",
     "website": "https://www.thundercompute.com"
@@ -2182,13 +2182,14 @@
   },
   {
     "all_locations": "Paris, Île-de-France, France; Remote",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Ascii box"
+      "Ascii box",
+      "Ascii"
     ],
     "id": 34928,
     "industries": [
@@ -2198,8 +2199,8 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1788174016,
-    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
-    "name": "Ascii",
+    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBoat provides powerful, simple, permissive Ubuntu VMs in the cloud. In a sandbox, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Boat and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every sandbox ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of sandboxes. Agents can run inside or use sandboxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes sandboxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and sandboxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nSandboxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
+    "name": "Boat",
     "nonprofit": false,
     "one_liner": "The best cloud VMs for billions of agents",
     "question_answers": false,
@@ -2209,7 +2210,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "ascii",
+    "slug": "boat",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
     "stage": "Early",
     "status": "Active",
@@ -2221,8 +2222,8 @@
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ascii",
-    "website": "https://box.ascii.dev"
+    "url": "https://www.ycombinator.com/companies/boat",
+    "website": "https://boat.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",

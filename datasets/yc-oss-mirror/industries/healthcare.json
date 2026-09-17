@@ -9441,7 +9441,7 @@
     ],
     "slug": "apero-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/705e0de4ecaf64fd045e93d2a914d7e5c725f2a9.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
@@ -27518,12 +27518,14 @@
   },
   {
     "all_locations": "Boulder, CO, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/paceline-bio.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Play Health"
+    ],
     "id": 30925,
     "industries": [
       "Healthcare"
@@ -27531,10 +27533,10 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1760457684,
-    "long_description": "Play Health is building a perimenopause care platform to provide women and their providers with the tools they need to relieve symptoms fast. It is led by technical, second-time, YC-backed founders Andrea Mazzocchi, PhD and Ian Miller, with an exit and a unicorn between them.\r\n\r\nOver 30 million women in the U.S. are experiencing perimenopause symptoms, spending an estimated $15B+ annually on symptom management.  Despite this most only receive generic solutions and struggle to find effective symptom relief.\r\n\r\nWe're bringing evidence-based perimenopause care to women through partnerships with medical practices and employer and health benefits programs. Our platform integrates personalized symptom, medication, and lifestyle data to generate AI-powered insights and  clinical protocols, enabling providers to deliver specialized care.\r\n\r\nEvery clinical interaction enriches our longitudinal dataset allowing us to create better outcomes for patients, deeper insights for providers, and expand into women’s health broadly. This also enables us to partner with pharma and biotech companies developing therapeutics and diagnostics for women's health.",
-    "name": "Play Health",
+    "long_description": "Paceline Bio runs the research and clinical ops layer behind biotech and pharma company who want to move fast, starting with biospecimen collection, logistics, and storage. We're built to get you from scope to signature in just one session so you can accelerate your programs today.",
+    "name": "Paceline Bio",
     "nonprofit": false,
-    "one_liner": "Perimenopause Care Platform",
+    "one_liner": "Accelerating clinical ops for biotech & pharma",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -27542,23 +27544,22 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "play-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/757bc1cfa9101d42dcc0cd813d53a54fd8552a06.png",
+    "slug": "paceline-bio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ae3355c425a5e6bfaad9876e3d186dff23a243.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare",
     "tags": [
-      "Biometrics",
+      "AI-powered Drug Discovery",
       "Biotech",
-      "Digital Health",
-      "Health & Wellness",
-      "Women's Health"
+      "Drug discovery",
+      "Biotechnology"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/play-health",
-    "website": "http://playhealth.com"
+    "url": "https://www.ycombinator.com/companies/paceline-bio",
+    "website": "https://paceline.bio/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -28645,7 +28646,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1775511630,
     "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
     "name": "Taiga",
@@ -28654,7 +28655,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "taiga",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29ba4c51cb703681310648e796b95e0311cd952.png",

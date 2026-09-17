@@ -539,7 +539,7 @@
       "Consumer"
     ],
     "industry": "Consumer",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1776207717,
     "long_description": "An adaptive training coach to help runners, cyclists, and triathletes set and achieve goals. It adapts your training, recovery, and nutrition to how your body is actually responding.",
     "name": "Imperfect",
@@ -558,13 +558,13 @@
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Digital Health",
       "Health & Wellness",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/imperfect",
     "website": "https://imperfect.co"
@@ -1469,7 +1469,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1773355936,
-    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "long_description": "Replicas is a cloud coding agent that allows you to delegate tasks to Claude Code or Codex from the app, Slack, Linear, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
     "name": "Replicas",
     "nonprofit": false,
     "one_liner": "Run any coding agent harness in the cloud",
@@ -1483,7 +1483,9 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [],
+    "tags": [
+      "Developer Tools"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -2006,42 +2008,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/the-company-company.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31371,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1778479342,
-    "long_description": "The Company Company builds the agent and the infrastructure to run companies.",
-    "name": "The Company Company",
-    "nonprofit": false,
-    "one_liner": "The last agent your company will ever need.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "the-company-company",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2e02b231781598e474507da2cdfd670adae06e9.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/the-company-company",
-    "website": "https://www.thecompany.company"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/trellistech.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2266,7 +2232,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1779230895,
     "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
     "name": "Limrun",
@@ -3400,7 +3366,7 @@
       "Healthcare Services"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1775511630,
     "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
     "name": "Taiga",
@@ -3409,7 +3375,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "taiga",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29ba4c51cb703681310648e796b95e0311cd952.png",

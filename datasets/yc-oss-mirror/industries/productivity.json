@@ -6041,7 +6041,7 @@
     "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
     "name": "Cogram",
     "nonprofit": false,
-    "one_liner": "The AI Platform for Architects, Builders, and Engineers",
+    "one_liner": "The AI Platform for Architects and Engineers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -6055,8 +6055,8 @@
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -6397,10 +6397,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1657390616,
-    "long_description": "No prompting, no setup, no jargon. Just hop on a call, onboard like anyone else, and let them take the tedious tasks off your plate.",
+    "long_description": "Building the next frontier of models that continually learn from a stream of experience.",
     "name": "Unify",
     "nonprofit": false,
-    "one_liner": "AI teammates for everyone else 🤖",
+    "one_liner": "Models that keep learning",
     "question_answers": false,
     "regions": [
       "United Kingdom",
@@ -6409,19 +6409,19 @@
       "Fully Remote"
     ],
     "slug": "unify",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb15970521caafcd30f313c8eaa1359733d2d2dd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e774ce4075900b79265af766add42f9dcb133d49.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
       "Artificial Intelligence",
-      "Productivity",
+      "Reinforcement Learning",
       "Open Source",
-      "AI",
-      "AI Assistant"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/unify",
     "website": "https://unify.ai"
@@ -8857,7 +8857,7 @@
     "website": "https://www.trace.so/"
   },
   {
-    "all_locations": "Seoul, Seoul, South Korea",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json",
     "app_answers": null,
     "app_video_public": false,
@@ -8883,7 +8883,7 @@
       "South Korea",
       "East Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "slug": "char",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
@@ -8898,7 +8898,7 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/char",
     "website": "https://char.com"
@@ -9090,7 +9090,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1772518250,
-    "long_description": "Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality, without changing how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "long_description": "You shouldn't be paying Fable prices when 88% of your token usage is tool I/O. \r\nQuotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
     "name": "Quotient Labs",
     "nonprofit": false,
     "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
@@ -9104,7 +9104,10 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
@@ -9264,7 +9267,7 @@
     "website": "https://tryrobby.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json",
     "app_answers": null,
     "app_video_public": false,
@@ -9282,14 +9285,13 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1772231466,
-    "long_description": "Sila is a messaging platform where you text agents to get work done. Describe your idea or task with a message and Sila creates agents that you and your team message together to build and run your company.",
+    "long_description": "Sila is where you create and message agents with your team to do work",
     "name": "Sila",
     "nonprofit": false,
     "one_liner": "Agent Messaging Platform",
     "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "slug": "sila",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
@@ -9896,7 +9898,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1787571928,
     "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
     "name": "Sentient OS",
