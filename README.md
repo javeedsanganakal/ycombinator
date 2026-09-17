@@ -14,6 +14,7 @@ This repository combines a structured startup library with Y Combinator company 
 - [Python toolkit](src/ycombinator/README.md) — fetch, search, filter, and inspect YC company data
 - [Vendored resources](vendor/README.md) — attributed third-party courses and startup skills
 - [Always-on agent](startup-library/knowledge-base/always-on-revenue-agent.md) — automated health checks and a product-revenue monitoring architecture
+- [Revenue agent control plane](startup-library/templates/revenue-agent-control-plane.md) — coordinated Sales, Marketing, and Monetization loops
 
 ## Repository map
 

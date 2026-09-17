@@ -13,4 +13,6 @@ Produce:
 5. durable state, audit log, retry, cost-cap, and failure-recovery requirements;
 6. a smallest deployable version that works without fabricated or unavailable data.
 
+When Sales, Marketing, and Monetization all need continuous coverage, adapt the [Revenue Agent Control Plane](../../../startup-library/templates/revenue-agent-control-plane.md). Keep a single shared revenue journey and let an orchestrator select the earliest material constraint; do not let each specialist independently declare itself the priority.
+
 Do not describe a single endlessly running model call as a 24/7 agent. A scheduler, event source, or worker lifecycle must invoke bounded agent runs. Never put customer data or credentials into prompts, source control, or logs without an explicit data-handling design.

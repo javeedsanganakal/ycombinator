@@ -22,6 +22,14 @@ To activate it, enable GitHub Actions for the repository and run **Startup KB Ag
 
 For a specific product, connect read-only data sources first. Keep the product configuration in its own private repository; this public startup directory should contain only reusable methods.
 
+Use the [Revenue Agent Control Plane](../templates/revenue-agent-control-plane.md) to configure three specialist loops:
+
+1. **Sales agent:** ICP, qualification, pipeline movement, win/loss evidence, activation, and retained accounts.
+2. **Marketing agent:** positioning, qualified demand, channel quality, acquisition-to-activation, and cohort retention.
+3. **Monetization agent:** pricing and packaging evidence, paid conversion, revenue movement, margin, churn, and expansion.
+
+An orchestrator checks data quality, diagnoses the earliest material constraint in the shared journey, and selects one primary experiment. It does not allow three agents to optimize conflicting local metrics.
+
 | Cadence | Inputs | Agent output | Human decision |
 | --- | --- | --- | --- |
 | Hourly | uptime, checkout errors, lead-routing failures | incident with evidence | intervene when a stop threshold fires |

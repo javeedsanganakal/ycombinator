@@ -12,6 +12,7 @@ These original templates turn the library into repeatable work. Copy the relevan
 | [Experiment and metrics](experiment-and-metrics.md) | Metric contracts, funnel definitions, experiment design, guardrails, and decision rules |
 | [Launch readiness](launch-readiness.md) | Product, evidence, operations, trust, measurement, support, and rollback checks |
 | [Weekly operating review](weekly-operating-review.md) | Compact founder cadence across customers, product, revenue, cash, risks, and decisions |
+| [Revenue agent control plane](revenue-agent-control-plane.md) | Coordinate always-on Sales, Marketing, and Monetization loops through one funnel and approval system |
 
 ## Completion standard
 
