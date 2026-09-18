@@ -2404,6 +2404,51 @@
     "website": "https://gru.space"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/f4-industries.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "F4",
+      "F4 Industries",
+      "F4"
+    ],
+    "id": 30741,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1752681359,
+    "long_description": "GD&T takes years to master. Engineers must encode their design intent into a dense syntax that manufacturers must decode, and not everyone gets it right. \r\n\r\nPut ten engineers in front of the same drawing and you may get ten different interpretations. Which means errors often surface later in interface stack-ups, manufacturing, or in the field - when they’re far more expensive to fix.\r\n\r\nThat’s why we built F4 - the platform that analyzes GD&T to determine whether your designs are ready for production.\r\n\r\nDrop in your drawing and 3D file. F4 analyzes every element of your GD&T to assess whether your design is clear, manufacturable, and production ready. To make the drawing easier to understand, engineers can visualize their datums, reference frames, and tolerance zones directly on the 3D model. F4 also calculates tolerance stack-ups instantly - directly from the drawing. What once took hours of manual work now takes seconds.\r\n\r\nWhen issues are found, F4 flags them and guides engineers toward resolving the problem.\r\n\r\nAfter analyzing your drawing, F4 also automatically generates design and inspection reports - stack-up tables, FAI reports - ready to share with your team.\r\n\r\nAnd it does all of this locally on-device with no AI used for analysis. Producing deterministic results engineers can trust.",
+    "name": "F4 Industries",
+    "nonprofit": false,
+    "one_liner": "The GD&T Analysis Platform for Engineering Drawings",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "f4-industries",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hardware",
+      "B2B",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/f4-industries",
+    "website": "https://f4.dev/"
+  },
+  {
     "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json",
     "app_answers": null,
@@ -2765,6 +2810,49 @@
     "website": "https://ethos-space.com"
   },
   {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/inflection-space-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35025,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789683191,
+    "long_description": "Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.",
+    "name": "Inflection Space Systems",
+    "nonprofit": false,
+    "one_liner": "Hyperscaling space manufacturing",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "inflection-space-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9391545f5f098175eca1fe35fba695db3a2e0766.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Satellites",
+      "Manufacturing",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/inflection-space-systems",
+    "website": "https://inflection-space.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json",
     "app_answers": null,
@@ -2783,7 +2871,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1788312802,
-    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing LLMs to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
+    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing AI models to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
     "name": "Orca Aerospace",
     "nonprofit": false,
     "one_liner": "AI spacecraft operators that lives onboard the vehicle",

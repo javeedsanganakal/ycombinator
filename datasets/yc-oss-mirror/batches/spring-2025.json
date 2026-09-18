@@ -125,7 +125,7 @@
     "website": "https://willowvoice.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1594,14 +1594,15 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/alpha-research.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/method.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
     "former_names": [
       "Zenobia Pay",
-      "Dolphin"
+      "Dolphin",
+      "Alpha Research"
     ],
     "id": 30435,
     "industries": [
@@ -1611,28 +1612,28 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1747591533,
-    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
-    "name": "Alpha Research",
+    "long_description": "Method turns repeated work into workflows your coding agent can run, check, and improve.",
+    "name": "Method",
     "nonprofit": false,
-    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "one_liner": "Agents that improve",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "alpha-research",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
+    "slug": "method",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9706bbce9dc3489f8db897884b3967bde457e6ca.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Market Research"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/alpha-research",
-    "website": "https://alpharesearch.nyc/"
+    "url": "https://www.ycombinator.com/companies/method",
+    "website": "https://withmethod.ai/"
   },
   {
     "all_locations": "",
@@ -3616,7 +3617,7 @@
       "America / Canada"
     ],
     "slug": "prism",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12dc6e609224f33b9c452f9656b3020116496003.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3890,7 +3891,7 @@
     "website": "https://www.nodienergy.com"
   },
   {
-    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3902,29 +3903,33 @@
     ],
     "id": 30503,
     "industries": [
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1747133222,
-    "long_description": "Vesence is building Cursor for Lawyers.\r\n\r\nAlready rolled out firm-wide with a first major law firm. We launched in February.\r\n\r\nImagine programming in Apple Notes. No linting, no cursor, you are on your own. That is how it is for many lawyers to draft and review contracts in Microsoft Word. We are here to change that.",
+    "long_description": "Vesence is building AI for High-Stakes Work.\r\n\r\nAlready rolled out at law firms, investment funds, consultants, and where details matters the most.\r\n\r\nVesence is a browser-based desktop where professionals work alongside agents to review work, send emails, manage their calendar, and edit decks, documents and spreadsheets.",
     "name": "Vesence",
     "nonprofit": false,
-    "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
+    "one_liner": "AI for High-Stakes Work",
     "question_answers": false,
     "regions": [
-      "Sweden",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "vesence",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Legal",
-    "tags": [],
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Legal"
+    ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vesence",
     "website": "https://vesence.com"
@@ -4294,42 +4299,42 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/libretto.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cashew-labs.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "Saffron Health"
+      "Saffron Health",
+      "Libretto"
     ],
     "id": 30515,
     "industries": [
-      "Healthcare",
-      "Healthcare Services"
+      "B2B"
     ],
-    "industry": "Healthcare",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1762272308,
-    "long_description": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
-    "name": "Libretto",
+    "long_description": "Cashew Labs builds open source tools for recursive self improvement. Their tools enable self-modifying interfaces and LLMs that post-train themselves.",
+    "name": "Cashew Labs",
     "nonprofit": false,
-    "one_liner": "Turn website workflows into reliable APIs",
+    "one_liner": "Recursive self improving harnesses and models",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "libretto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7b1807b8d28eb8c42b24701e5f9b9db153ee8.png",
+    "slug": "cashew-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75b5481cd9f0b4c66c6e8e42e15816b3489d5c81.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Healthcare -> Healthcare Services",
+    "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/libretto",
-    "website": "https://libretto.sh"
+    "url": "https://www.ycombinator.com/companies/cashew-labs",
+    "website": "https://cashew-labs.com/"
   },
   {
     "all_locations": "Boston, MA, USA",

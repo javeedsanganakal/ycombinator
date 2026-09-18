@@ -9758,13 +9758,16 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "Thesis Labs"
+      "Thesis Labs",
+      "Thesis",
+      "Darwin",
+      "Thesis"
     ],
     "id": 30928,
     "industries": [
@@ -9774,8 +9777,8 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1762476616,
-    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
-    "name": "Thesis",
+    "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
+    "name": "Darwin",
     "nonprofit": false,
     "one_liner": "Humanoid robots",
     "question_answers": true,
@@ -9783,21 +9786,21 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "thesis",
+    "slug": "darwin",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/thesis",
+    "url": "https://www.ycombinator.com/companies/darwin",
     "website": "https://thesislabs.ai"
   },
   {
@@ -9861,10 +9864,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1779953002,
-    "long_description": "We believe in the next generation of finance where everyone around the world can access the global market and liquidity from the tip of their hands. \r\n\r\nWe are building the best mobile trading app that will enable this vision. \r\n\r\nHyperliquid is the house of all finance, Instinct is the app of all finance. \r\n\r\nHyperliquid.",
+    "long_description": "Capital allocation is becoming a more important part of individual economic life.\r\nFinance is moving toward a global, onchain, 24/7 future with thousands of markets trading at once.\r\n\r\nThe asset management industry is built around the scarcity of financial expertise and the cost of organizing people around capital. \r\n\r\nInstitutions cover global markets by employing analysts, researchers, and quants around the clock. \r\n\r\nAI turns this organizational capacity into software.\r\n\r\nInstinct is building the harness for this transition.\r\n\r\nInstinct is a proactive team of agents that searches thousands of markets, investigates opportunities, and operates 24/7. The individual becomes the portfolio manager, Instinct becomes the investment firm operating around them.\r\n\r\nAs institutional advantages become widely accessible, the edge concentrates in each trader’s worldview, judgment, and bets. \r\n\r\nThe first one-person investment firm managing $1 billion will emerge within two years.\r\n\r\nIt will run on Instinct.",
     "name": "Instinct",
     "nonprofit": false,
-    "one_liner": "Trade your instinct",
+    "one_liner": "Trade with superhuman instinct",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -10175,7 +10178,7 @@
     "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. We collect your agent traces through our SDK and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
     "name": "Belvedir",
     "nonprofit": false,
-    "one_liner": "Custom Model Factory For Cheaper, Better, Faster AI",
+    "one_liner": "Custom model factory for cheaper, better, faster AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -10187,8 +10190,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "team_size": 1,

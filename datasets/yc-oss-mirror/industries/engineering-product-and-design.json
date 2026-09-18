@@ -10124,7 +10124,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1626365093,
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "name": "WarpBuild",
@@ -16291,7 +16291,7 @@
     ],
     "slug": "greptile",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -16463,7 +16463,7 @@
     ],
     "slug": "reducto",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -20782,13 +20782,15 @@
     "website": "https://superglue.ai/"
   },
   {
-    "all_locations": "Bengaluru, KA, India",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexto.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Truffle AI"
+    ],
     "id": 30213,
     "industries": [
       "B2B",
@@ -20797,19 +20799,19 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740509470,
-    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
-    "name": "Truffle AI",
+    "long_description": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "name": "Dexto",
     "nonprofit": false,
     "one_liner": "AWS for AI Agents",
     "question_answers": false,
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
-    "slug": "truffle-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "slug": "dexto",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/151976ce07fb22bf59209dda8531a283a9eeda58.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20823,8 +20825,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/truffle-ai",
-    "website": "https://www.trytruffle.ai/"
+    "url": "https://www.ycombinator.com/companies/dexto",
+    "website": "https://www.dexto.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -21978,14 +21980,15 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/alpha-research.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/method.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2025",
     "demo_day_video_public": false,
     "former_names": [
       "Zenobia Pay",
-      "Dolphin"
+      "Dolphin",
+      "Alpha Research"
     ],
     "id": 30435,
     "industries": [
@@ -21995,28 +21998,28 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1747591533,
-    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
-    "name": "Alpha Research",
+    "long_description": "Method turns repeated work into workflows your coding agent can run, check, and improve.",
+    "name": "Method",
     "nonprofit": false,
-    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "one_liner": "Agents that improve",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "alpha-research",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
+    "slug": "method",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9706bbce9dc3489f8db897884b3967bde457e6ca.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Market Research"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/alpha-research",
-    "website": "https://alpharesearch.nyc/"
+    "url": "https://www.ycombinator.com/companies/method",
+    "website": "https://withmethod.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -22260,7 +22263,7 @@
       "America / Canada"
     ],
     "slug": "prism",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12dc6e609224f33b9c452f9656b3020116496003.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22379,10 +22382,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1752189935,
-    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots: \r\n- 2bit\r\n- 8-29MB\r\n- up to 4k tokens/sec decode speed",
     "name": "Cactus Compute",
     "nonprofit": false,
-    "one_liner": "Tiny Edge AI For Tiny Devices",
+    "one_liner": "Automation Foundation Models For Tiny Devices",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -25809,7 +25812,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1773951001,
-    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for mission-critical financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
     "name": "Runtime",
     "nonprofit": false,
     "one_liner": "AI agents for financial operations",
@@ -25825,7 +25828,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/runtime",
     "website": "https://www.runtm.com/"
@@ -26571,10 +26574,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1786468833,
-    "long_description": "We build simulations of your real users, grounded in your session data, so you can predict how any product change will perform before you ship it.",
+    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run agents across different devices, browsers, account states, and environments to find failures that traditional automated tests miss. When something breaks, we reproduce it and alert engineering before they hear about it from a customer.",
     "name": "Simulithic",
     "nonprofit": false,
-    "one_liner": "Simulate how any product change will perform before shipping.",
+    "one_liner": "User simulations for production monitoring.",
     "question_answers": false,
     "regions": [
       "United States of America",

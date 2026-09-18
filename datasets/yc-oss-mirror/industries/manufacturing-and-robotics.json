@@ -4073,13 +4073,16 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2025",
     "demo_day_video_public": false,
     "former_names": [
-      "Thesis Labs"
+      "Thesis Labs",
+      "Thesis",
+      "Darwin",
+      "Thesis"
     ],
     "id": 30928,
     "industries": [
@@ -4089,8 +4092,8 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1762476616,
-    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
-    "name": "Thesis",
+    "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
+    "name": "Darwin",
     "nonprofit": false,
     "one_liner": "Humanoid robots",
     "question_answers": true,
@@ -4098,21 +4101,21 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "thesis",
+    "slug": "darwin",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/thesis",
+    "url": "https://www.ycombinator.com/companies/darwin",
     "website": "https://thesislabs.ai"
   },
   {
@@ -6296,7 +6299,48 @@
     "team_size": 1,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hemlock",
-    "website": "https://hemlock.info"
+    "website": "https://hemlock.inc"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35523,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786424480,
+    "long_description": "twentyfour26 builds autonomous CNC machining cells for rapid prototyping, so hardware teams can iterate with software speed.",
+    "name": "twentyfour26",
+    "nonprofit": false,
+    "one_liner": "On Demand CNC Prototyping ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "twentyfour26",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twentyfour26",
+    "website": "https://twentyfour26.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

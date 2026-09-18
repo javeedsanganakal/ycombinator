@@ -1763,7 +1763,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1626365093,
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "name": "WarpBuild",
@@ -3492,7 +3492,7 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1656567327,
     "long_description": "Quinn is your biopharma team. From molecule design to portfolio strategy, Quinn delivers comprehensive reports and supporting analyses, models and designs in 3–5 days instead of months.",
     "name": "Quinn",
@@ -9643,13 +9643,15 @@
     "website": "https://promptless.ai/"
   },
   {
-    "all_locations": "Bengaluru, KA, India",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexto.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2025",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Truffle AI"
+    ],
     "id": 30213,
     "industries": [
       "B2B",
@@ -9658,19 +9660,19 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740509470,
-    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
-    "name": "Truffle AI",
+    "long_description": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "name": "Dexto",
     "nonprofit": false,
     "one_liner": "AWS for AI Agents",
     "question_answers": false,
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
-    "slug": "truffle-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "slug": "dexto",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/151976ce07fb22bf59209dda8531a283a9eeda58.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -9684,8 +9686,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/truffle-ai",
-    "website": "https://www.trytruffle.ai/"
+    "url": "https://www.ycombinator.com/companies/dexto",
+    "website": "https://www.dexto.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

@@ -11827,14 +11827,14 @@
     ],
     "slug": "nomic-bio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3005075624cbc032b9abdd1525e6ec3201158f5.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
       "Nanotechnology"
     ],
     "tags_highlighted": [],
-    "team_size": 24,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/nomic-bio",
     "website": "http://www.nomic.bio"
@@ -16158,7 +16158,7 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1624370517,
     "long_description": "At Pirouette, we have developed a low-profile, disk-shaped, rugged injection device with a patient-centric focus on affordability, portability, and usability. The patented device, based on extensive patient input, is designed to make administering an injection as easy as pushing a button. This allows individuals with limited or no training to easily and intuitively perform an injection on themselves or others.",
     "name": "Pirouette Pharma",
@@ -20339,7 +20339,7 @@
       "Drug Discovery and Delivery"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1656567327,
     "long_description": "Quinn is your biopharma team. From molecule design to portfolio strategy, Quinn delivers comprehensive reports and supporting analyses, models and designs in 3–5 days instead of months.",
     "name": "Quinn",
@@ -22567,7 +22567,7 @@
     ],
     "slug": "fortuna-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0f365057ccae10a0cfaf730387d65ea55aede28.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
@@ -22576,7 +22576,7 @@
       "Healthcare IT"
     ],
     "tags_highlighted": [],
-    "team_size": 22,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/fortuna-health",
     "website": "https://fortunahealth.com/"
@@ -24753,13 +24753,13 @@
       "Partly Remote"
     ],
     "slug": "mdhub",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd82f4e0241c51007ca4b9aef139a8ebeb515e7f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c645ee5ac2dfc857e6927bf9a9ef4fb62efe8521.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/mdhub",
     "website": "https://www.mdhub.ai/"
@@ -26138,7 +26138,7 @@
     "subindustry": "Healthcare",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/10x",
     "website": "https://www.10xdental.com/"
@@ -26564,45 +26564,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/novoflow",
     "website": "https://www.novoflow.io/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/libretto.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Spring 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Saffron Health"
-    ],
-    "id": 30515,
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1762272308,
-    "long_description": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
-    "name": "Libretto",
-    "nonprofit": false,
-    "one_liner": "Turn website workflows into reliable APIs",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "libretto",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7b1807b8d28eb8c42b24701e5f9b9db153ee8.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/libretto",
-    "website": "https://libretto.sh"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -27285,7 +27246,7 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1751446455,
     "long_description": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. \r\n\r\nWe work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better.\r\n\r\nOur agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
     "name": "Perspectives Health",
@@ -28981,6 +28942,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/abinitio-bio",
     "website": "https://www.abinitio-bio.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nxtcure-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "NxtCure",
+      "Nxtcure Labs",
+      "NxtCure"
+    ],
+    "id": 31490,
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1789623428,
+    "long_description": "Reinventing medicine from lab to drug discovery.\r\nNxtCure CRO- an AI-native, full-stack CRO built to take therapeutics from discovery to market faster.\r\nNxtCure Cancer- the all-in-one mobile platform guiding patients through the cancer journey.\r\nWe’re building the operating system for the future of medicine.",
+    "name": "Nxtcure Labs",
+    "nonprofit": false,
+    "one_liner": "The full-stack AI CRO for drug discovery.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "nxtcure-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96ae92a8adbb85f9a1045d9323611d53252e2d64.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Therapeutics",
+    "tags": [
+      "Health Tech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/nxtcure-labs",
+    "website": "https://nxtcure.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

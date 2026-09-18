@@ -343,7 +343,7 @@
     ],
     "slug": "garage-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b097e3ed808fe533aff49062b2a59a6f1f2805fd.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
@@ -518,14 +518,14 @@
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Artificial Intelligence",
       "Solar Power",
       "B2B",
       "Energy",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/plume",
     "website": "http://www.plumefinder.com"
@@ -937,7 +937,8 @@
     ],
     "id": 30741,
     "industries": [
-      "Industrials"
+      "Industrials",
+      "Aviation and Space"
     ],
     "industry": "Industrials",
     "isHiring": false,
@@ -955,7 +956,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
     "tags": [
       "Hardware",
       "B2B",
@@ -1575,5 +1576,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/salem-robotics-inc",
     "website": "https://salemroboticsinc.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35523,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1786424480,
+    "long_description": "twentyfour26 builds autonomous CNC machining cells for rapid prototyping, so hardware teams can iterate with software speed.",
+    "name": "twentyfour26",
+    "nonprofit": false,
+    "one_liner": "On Demand CNC Prototyping ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "twentyfour26",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/twentyfour26",
+    "website": "https://twentyfour26.com/"
   }
 ]
