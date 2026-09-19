@@ -11646,25 +11646,25 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1597867558,
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
     "name": "Heron",
     "nonprofit": false,
-    "one_liner": "Underwriting automation for SMB finance",
+    "one_liner": "Underwriting automation for small business finance",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "heron",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 60,
@@ -16499,7 +16499,7 @@
     ],
     "slug": "lemfi",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bd8ebdc83b1a3ba26ec46a9b2b53cac70a95a80.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Fintech -> Banking and Exchange",
     "tags": [
@@ -27065,7 +27065,7 @@
     "slug": "consul",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da998da761a1d592662c99baf11bb078b9de572e.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Fintech -> Payments",
     "tags": [
       "Fintech",
@@ -29325,6 +29325,56 @@
     "website": "https://astor.app/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/conviction.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Parachute",
+      "Parachute AI",
+      "Parachute",
+      "Parachute AI",
+      "Parachute"
+    ],
+    "id": 30681,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1752533752,
+    "long_description": "Conviction lets you create and discover trading ideas, then monitors the market and acts on them for you.\r\n\r\nStart with any idea you have - or discover one from traders you follow on X or Reddit - and turn it into a strategy in natural language. Backtest it, paper trade it, deploy it and share what you learn.",
+    "name": "Conviction",
+    "nonprofit": false,
+    "one_liner": "Anyone Can Trade",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "conviction",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/conviction",
+    "website": "https://convictiontrade.ai"
+  },
+  {
     "all_locations": "Munich, BY, Germany",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json",
     "app_answers": null,
@@ -29550,51 +29600,6 @@
     "website": "https://ruvo.com/"
   },
   {
-    "all_locations": "London, England, United Kingdom",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30850,
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1758482945,
-    "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
-    "name": "Zavo",
-    "nonprofit": false,
-    "one_liner": "AI Operating System for Restaurants ",
-    "question_answers": false,
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "zavo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech -> Payments",
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Restaurant Tech"
-    ],
-    "tags_highlighted": [],
-    "team_size": 8,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/zavo",
-    "website": "https://zavopay.com"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/clerked.json",
     "app_answers": null,
@@ -29785,7 +29790,7 @@
     "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "name": "Kita",
     "nonprofit": false,
-    "one_liner": "Automate credit assessment for lenders in emerging markets",
+    "one_liner": "Underwrite borrowers around the world in minutes",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -30040,7 +30045,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1778527074,
     "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
     "name": "Multiplier",
@@ -30928,7 +30933,7 @@
     ],
     "industry": "Fintech",
     "isHiring": false,
-    "launched_at": 1786078729,
+    "launched_at": 1789659235,
     "long_description": "Oasive helps bond investors decide what to buy and sell, and why. It unifies research, screening, analysis, valuation, and reporting in one platform, automating work that today takes teams of analysts. Live today across MBS and macro research, with municipal bonds, rates, ABS, and corporates next.",
     "name": "Oasive",
     "nonprofit": false,
@@ -30953,6 +30958,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/oasive",
     "website": "https://www.oasive.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37203,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1787328882,
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "name": "Volaren Inc.",
+    "nonprofit": false,
+    "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and…",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "volaren-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/volaren-inc",
+    "website": "https://www.volaren.ai"
   },
   {
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",

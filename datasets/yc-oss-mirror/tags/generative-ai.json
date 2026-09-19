@@ -1763,7 +1763,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1626365093,
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "name": "WarpBuild",
@@ -3224,10 +3224,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1659905940,
-    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "name": "Juicebox",
     "nonprofit": false,
-    "one_liner": "AI-powered talent sourcing for recruiters",
+    "one_liner": "AI Agents for Recruiting",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3246,7 +3246,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
@@ -11454,5 +11454,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/byteask",
     "website": "https://byteask.ai/"
+  },
+  {
+    "all_locations": "Munich, BY, Germany",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35355,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789740763,
+    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "name": "Invertix",
+    "nonprofit": false,
+    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "question_answers": false,
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "slug": "invertix",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Solar Power"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/invertix",
+    "website": "https://www.invertix.ai"
   }
 ]

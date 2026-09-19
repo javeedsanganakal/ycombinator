@@ -9666,7 +9666,7 @@
       "Construction"
     ],
     "tags_highlighted": [],
-    "team_size": 55,
+    "team_size": 203,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/handle",
     "website": "https://www.handle.com"
@@ -12441,7 +12441,7 @@
     ],
     "slug": "whatnot",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/448fec72747426b9340a6c62d2889b4cc976d888.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
@@ -13293,7 +13293,7 @@
     ],
     "slug": "nomic-bio",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3005075624cbc032b9abdd1525e6ec3201158f5.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
@@ -15434,17 +15434,17 @@
     ],
     "slug": "glimpse-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c1bb0fb7eb4819828b6a0f5d554f6602a5299cf.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
-      "Artificial Intelligence",
       "E-commerce",
       "Food & Beverage",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 27,
+    "team_size": 52,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/glimpse-2",
     "website": "https://tryglimpse.com/"
@@ -15691,25 +15691,25 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1597867558,
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
     "name": "Heron",
     "nonprofit": false,
-    "one_liner": "Underwriting automation for SMB finance",
+    "one_liner": "Underwriting automation for small business finance",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "heron",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 60,
@@ -21171,6 +21171,54 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/digibuild",
     "website": "https://digibuild.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/warpbuild.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2021",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Argonaut",
+      "WartpBuild"
+    ],
+    "id": 24344,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1626365093,
+    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
+    "name": "WarpBuild",
+    "nonprofit": false,
+    "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "warpbuild",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Productivity",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/warpbuild",
+    "website": "https://www.warpbuild.com"
   },
   {
     "all_locations": "Singapore, Singapore",
@@ -28038,10 +28086,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1659905940,
-    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "name": "Juicebox",
     "nonprofit": false,
-    "one_liner": "AI-powered talent sourcing for recruiters",
+    "one_liner": "AI Agents for Recruiting",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -28060,7 +28108,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 65,
+    "team_size": 80,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
@@ -32551,6 +32599,51 @@
     "website": "https://useconstant.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 28110,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1674704550,
+    "long_description": "Conduit is the operating system for shipping and receiving. We build software that systemizes the planning and execution of work on the loading dock and in the yard — giving operators real-time visibility, accountability, and automation across every site they run.\r\n\r\nWe're a small team (<20 people) with real traction: 100+ customers, 172% NRR, and zero churn. We're backed by Innovation Endeavors and Y Combinator, and we recently closed a $6M Seed round.\r\n\r\nWe're based in San Francisco and Seattle, and work hybrid. We move fast, give people real ownership early, and build in a way that most companies don't allow — direct customer access, minimal process, and full access to AI tools.",
+    "name": "Conduit",
+    "nonprofit": false,
+    "one_liner": "The operating system for shipping and receiving.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "conduit",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Logistics",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 15,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/conduit",
+    "website": "http://helloconduit.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/berry.json",
     "app_answers": null,
@@ -35347,7 +35440,7 @@
     ],
     "slug": "fortuna-health",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0f365057ccae10a0cfaf730387d65ea55aede28.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [
@@ -45134,6 +45227,43 @@
     "website": "https://www.overlap.ai"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/patched.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29968,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1721263283,
+    "long_description": "Patched executes regulated workflows in hours instead of days, with full auditability and control.",
+    "name": "Patched",
+    "nonprofit": false,
+    "one_liner": "Reliable AI for Regulated Ops",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "patched",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb149bb2976430923620abcb50a97acc06ab22c0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/patched",
+    "website": "https://patched.codes"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json",
     "app_answers": null,
@@ -46057,7 +46187,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1728389519,
-    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to translate with LLMs, measure translation quality, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "name": "Lingo.dev",
     "nonprofit": false,
     "one_liner": "The Localization Engineering Platform",
@@ -46362,52 +46492,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/fresco",
     "website": "https://fresco-ai.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/origami-2.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Charm",
-      "origami",
-      "Origami",
-      "Origami Agents"
-    ],
-    "id": 30090,
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1731183180,
-    "long_description": "Find & connect with your perfect leads by prompting in Origami.\r\n\r\norigami.chat has 100+ data sources - use it to find more of your perfect customers, enrich a CSV, or launch a sequence to connect with decision makers.\r\n\r\nTry it out and start connecting with your perfect leads in minutes, start free → origami.chat\r\n\r\nUsed by sales teams at CBRE, Clipboard Health, Remote.com, and more.",
-    "name": "Origami",
-    "nonprofit": false,
-    "one_liner": "Get your perfect customers with one prompt",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "origami-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90a150650f55581e2db5d27ee09895ea19f1d1a7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Sales",
-    "tags": [
-      "Workflow Automation",
-      "Sales",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "team_size": 10,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/origami-2",
-    "website": "https://origami.chat/"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -49799,7 +49883,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1753910833,
-    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the some of most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "name": "Ambral",
     "nonprofit": false,
     "one_liner": "AI for account management and customer success",
@@ -53501,8 +53585,7 @@
     ],
     "id": 30681,
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "Fintech"
     ],
     "industry": "Fintech",
     "isHiring": true,
@@ -53520,9 +53603,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Consumer Finance",
-    "tags": [],
-    "tags_highlighted": [],
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conviction",
@@ -53869,10 +53960,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1754360048,
-    "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
+    "long_description": "Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world takes risk",
     "name": "Solva",
     "nonprofit": false,
-    "one_liner": "Automates insurance claims and stops incorrect payouts",
+    "one_liner": "Building the new superintelligence for insurance",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -55228,13 +55319,13 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Construction",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 11,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/brickanta",
     "website": "https://www.brickanta.com"
@@ -55640,14 +55731,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": null,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "website": "https://usesoren.com"
@@ -56430,7 +56521,7 @@
     "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/darwin",
-    "website": "https://thesislabs.ai"
+    "website": "https://darwinrobotics.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -60050,7 +60141,7 @@
       "Hard Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dispatch",
     "website": "https://dispatch.space/"
@@ -60254,6 +60345,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/perfectbit-inc",
     "website": "https://perfectbit.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/multiplier.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "WithAI"
+    ],
+    "id": 31343,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1778527074,
+    "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+    "name": "Multiplier",
+    "nonprofit": false,
+    "one_liner": "Agent harnesses for asset managers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "multiplier",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/multiplier",
+    "website": "https://multiplier.ai"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -60999,13 +61134,13 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "website": "https://lab0.ai"
@@ -62177,6 +62312,50 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Edgerun Industries"
+    ],
+    "id": 31582,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1787343759,
+    "long_description": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
+    "name": "Edgerun",
+    "nonprofit": false,
+    "one_liner": "Military exoskeletons",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "edgerun",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/edgerun",
+    "website": "https://edgerun.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json",
     "app_answers": null,
     "app_video_public": false,
@@ -62372,10 +62551,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -63095,6 +63274,46 @@
     "website": "https://workers.io"
   },
   {
+    "all_locations": "",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35487,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1789759565,
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "name": "Streamline Systems",
+    "nonprofit": false,
+    "one_liner": "Precision navigation for UAVs operating without GPS. ",
+    "question_answers": false,
+    "regions": [
+      "Unspecified"
+    ],
+    "slug": "streamline-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/streamline-systems",
+    "website": "https://streamlinesystems.ltd/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json",
     "app_answers": null,
@@ -63120,7 +63339,7 @@
       "America / Canada"
     ],
     "slug": "hemlock",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",

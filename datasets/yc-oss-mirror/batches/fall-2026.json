@@ -693,7 +693,7 @@
       "America / Canada"
     ],
     "slug": "sentient-os",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/108c3aadc4e00e665b12a9b3e77b6f0a5caa7d7b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39c30a4d604edd955f2c2b37f1f7281571ae18fb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Productivity",
@@ -827,6 +827,46 @@
     "website": "https://qokedas.com/"
   },
   {
+    "all_locations": "Bengaluru, KA, India",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kailash-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34828,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789754590,
+    "long_description": "The world generates petabytes of video every day, and almost none of it is readable to machines.  Frontier VLMs that can unlock this (like Gemini) are too expensive to run at the volume real industries have, too generic for any single task, and can't be deployed on-prem where sensitive video lives.\r\n\r\nWe are building an auto vision factory: take video plus a customer's objective, distill a frontier model, and post-train a small open model that is SOTA on that one task and serve it blazingly fast. Our first product, Marlin, is a 2B-parameter open-weights video VLM that matches Gemini-2.5-flash on dense captioning and temporal grounding at a fraction of the cost. ",
+    "name": "Kailash Labs",
+    "nonprofit": false,
+    "one_liner": "A factory for small and specialized video reasoning models",
+    "question_answers": false,
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "slug": "kailash-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a65a6096b4135a40d95b668829c8fca7b87354d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "Deep Learning",
+      "Edge Computing Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/kailash-labs",
+    "website": "https://www.kailashlabs.com/"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-37.json",
     "app_answers": null,
@@ -887,7 +927,7 @@
     "long_description": "",
     "name": "Sigma",
     "nonprofit": false,
-    "one_liner": "AI Operating System for Mergers & Acquisitions",
+    "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -899,9 +939,9 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1620,6 +1660,87 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35292,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789747031,
+    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
+    "name": "Agent Relay",
+    "nonprofit": false,
+    "one_liner": "The infrastructure to run coding agents for your team",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "agent-relay",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Swarm AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/agent-relay",
+    "website": "https://agentrelay.com"
+  },
+  {
+    "all_locations": "Munich, BY, Germany",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35355,
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789740763,
+    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "name": "Invertix",
+    "nonprofit": false,
+    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "question_answers": false,
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "slug": "invertix",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Solar Power"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/invertix",
+    "website": "https://www.invertix.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1675,7 +1796,7 @@
     ],
     "industry": "Fintech",
     "isHiring": false,
-    "launched_at": 1786078729,
+    "launched_at": 1789659235,
     "long_description": "Oasive helps bond investors decide what to buy and sell, and why. It unifies research, screening, analysis, valuation, and reporting in one platform, automating work that today takes teams of analysts. Live today across MBS and macro research, with municipal bonds, rates, ABS, and corporates next.",
     "name": "Oasive",
     "nonprofit": false,
@@ -1784,6 +1905,46 @@
     "website": "https://deployrobotics.co/"
   },
   {
+    "all_locations": "",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35487,
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1789759565,
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "name": "Streamline Systems",
+    "nonprofit": false,
+    "one_liner": "Precision navigation for UAVs operating without GPS. ",
+    "question_answers": false,
+    "regions": [
+      "Unspecified"
+    ],
+    "slug": "streamline-systems",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Defense",
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/streamline-systems",
+    "website": "https://streamlinesystems.ltd/"
+  },
+  {
     "all_locations": "Vancouver, BC, Canada",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/oro-ai.json",
     "app_answers": null,
@@ -1852,7 +2013,7 @@
       "America / Canada"
     ],
     "slug": "hemlock",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -2012,7 +2173,7 @@
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
     "name": "Vorelios",
     "nonprofit": false,
-    "one_liner": "A foundation model for engineering physics",
+    "one_liner": "A Foundation Model for Industrial Physics Simulation",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2024,9 +2185,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -2570,6 +2731,51 @@
     "website": "https://tilion.dev"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37203,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1787328882,
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "name": "Volaren Inc.",
+    "nonprofit": false,
+    "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and…",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "volaren-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/volaren-inc",
+    "website": "https://www.volaren.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/the-subvocal-company.json",
     "app_answers": null,
@@ -2879,7 +3085,7 @@
       "Partly Remote"
     ],
     "slug": "deepmark",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Security",

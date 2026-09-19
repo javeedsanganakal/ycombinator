@@ -16943,25 +16943,25 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1597867558,
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
     "name": "Heron",
     "nonprofit": false,
-    "one_liner": "Underwriting automation for SMB finance",
+    "one_liner": "Underwriting automation for small business finance",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "heron",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 60,
@@ -24142,7 +24142,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1626365093,
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "name": "WarpBuild",
@@ -37616,7 +37616,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1674704550,
     "long_description": "Conduit is the operating system for shipping and receiving. We build software that systemizes the planning and execution of work on the loading dock and in the yard — giving operators real-time visibility, accountability, and automation across every site they run.\r\n\r\nWe're a small team (<20 people) with real traction: 100+ customers, 172% NRR, and zero churn. We're backed by Innovation Endeavors and Y Combinator, and we recently closed a $6M Seed round.\r\n\r\nWe're based in San Francisco and Seattle, and work hybrid. We move fast, give people real ownership early, and build in a way that most companies don't allow — direct customer access, minimal process, and full access to AI tools.",
     "name": "Conduit",
@@ -46390,10 +46390,10 @@
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47144,6 +47144,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/quotient-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Syntropy"
+    ],
+    "id": 31082,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1772518250,
+    "long_description": "You should only be paying frontier model prices for top-shelf reasoning. But 88% of your token bill is just tool I/O.\r\n Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "name": "Quotient Labs",
+    "nonprofit": false,
+    "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "quotient-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e517c455ab1e170ed6b2628a4dce9546f07490.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/quotient-labs",
+    "website": "https://quotientlabs.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json",
     "app_answers": null,
     "app_video_public": false,
@@ -47416,10 +47459,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1773339255,
-    "long_description": "The AI-native engineering team to help you ship at startup speeds.",
+    "long_description": "",
     "name": "Korso",
     "nonprofit": false,
-    "one_liner": "The AI-native agency",
+    "one_liner": "The last assistant you'll need",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -47432,8 +47475,8 @@
     "subindustry": "B2B",
     "tags": [
       "SaaS",
-      "Consumer",
-      "Social"
+      "B2B",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -47562,13 +47605,13 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "website": "https://lab0.ai"
@@ -47942,10 +47985,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 5,

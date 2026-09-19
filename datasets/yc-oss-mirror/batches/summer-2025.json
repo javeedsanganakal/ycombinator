@@ -152,7 +152,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1753910833,
-    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the some of most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "name": "Ambral",
     "nonprofit": false,
     "one_liner": "AI for account management and customer success",
@@ -2974,8 +2974,7 @@
     ],
     "id": 30681,
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "Fintech"
     ],
     "industry": "Fintech",
     "isHiring": true,
@@ -2993,9 +2992,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Consumer Finance",
-    "tags": [],
-    "tags_highlighted": [],
+    "subindustry": "Fintech",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conviction",
@@ -3891,10 +3898,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1754360048,
-    "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
+    "long_description": "Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world takes risk",
     "name": "Solva",
     "nonprofit": false,
-    "one_liner": "Automates insurance claims and stops incorrect payouts",
+    "one_liner": "Building the new superintelligence for insurance",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4109,10 +4116,10 @@
     "status": "Active",
     "subindustry": "B2B -> Productivity",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
