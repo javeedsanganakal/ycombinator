@@ -76943,7 +76943,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1544068971,
     "long_description": "We are building the Marketplace for On Demand Delivery. \r\n\r\nWe provide an all-in-one Delivery OS that brings all orders into one place, dispatches these orders to the best available delivery service, and provides the tools to manage the post-purchase experience.\r\n\r\nThe founding team started Habitat Logistics, where we powered delivery for restaurants, and delivered over 1M orders all on our own software.",
     "name": "FIRST",
@@ -103079,7 +103079,7 @@
     ],
     "slug": "glimpse-2",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c1bb0fb7eb4819828b6a0f5d554f6602a5299cf.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Retail",
     "tags": [
@@ -162480,10 +162480,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nWe hit 8 figures in ARR in year one and more than doubled it in year two. We have 150k+ GitHub stars, and developers, agents, and category-defining AI companies build on us every day. Growth like this is rare, and we're just getting started.\r\n\r\nWe're a small team punching far above our weight. Everyone here owns a real piece of the product and company, end to end, and runs it themselves - no hiding behind process or headcount.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
+    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "one_liner": "The web data API for searching and scraping. 🔥",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -162497,9 +162497,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -211456,7 +211456,7 @@
     "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
     "name": "Kilvin",
     "nonprofit": false,
-    "one_liner": "Build your own desktop",
+    "one_liner": "Custom software for your business",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -211470,11 +211470,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Productivity",
       "Data Engineering",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -211498,7 +211498,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1731522844,
-    "long_description": "Diffusion Studio lets your agents make videos. The agent writes a composition in TSX and mounts it into the editor. Every element stays editable. Think of it as FFmpeg for agents, with generative AI and multimodal understanding built in.",
+    "long_description": "Diffusion Studio lets your agents make videos. Every edit is written to a real codebase that coding agents can read, write, and render.",
     "name": "Diffusion Studio",
     "nonprofit": false,
     "one_liner": "Turn your agent into a professional video editor",
@@ -212658,7 +212658,7 @@
     "website": "https://www.enhancedradar.com/"
   },
   {
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json",
     "app_answers": null,
     "app_video_public": false,
@@ -223441,7 +223441,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1752189935,
-    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots: \r\n- 2bit\r\n- 8-29MB\r\n- up to 4k tokens/sec decode speed",
+    "long_description": "On-device AI for phones, wearables, smart home and small robots. ",
     "name": "Cactus Compute",
     "nonprofit": false,
     "one_liner": "Automation Foundation Models For Tiny Devices",
@@ -229492,9 +229492,7 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare IT",
-      "Conversational AI"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -255969,10 +255967,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1784319754,
-    "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. We autonomously collect your data via trace SDK / app MCP / CUA agents and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
+    "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI models. We autonomously collect your data via trace SDK / app MCP / CUA agents and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
     "name": "Belvedir",
     "nonprofit": false,
-    "one_liner": "Custom model factory for cheaper, better, faster AI",
+    "one_liner": "The custom AI model factory.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -255984,8 +255982,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -261246,14 +261244,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Travel",
-      "AI"
+      "Artificial Intelligence",
+      "Travel"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/axelrod",
-    "website": "https://axelrod.live/"
+    "website": "https://axelrodlabs.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -263033,9 +263031,9 @@
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare Services",
     "tags": [
-      "Artificial Intelligence",
       "Healthcare",
-      "Mental Health"
+      "Mental Health",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -263967,6 +263965,96 @@
     "website": ""
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Faraday Cage",
+      "Faraday",
+      "Faraday Cage"
+    ],
+    "id": 34896,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789851118,
+    "long_description": "",
+    "name": "Faraday",
+    "nonprofit": false,
+    "one_liner": "Industrial aOS between humans, agents, and robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "faraday",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/faraday",
+    "website": "https://faradaycompute.com"
+  },
+  {
+    "all_locations": "Toulouse, Occitanie, France",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/viraj-aero.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34904,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789861657,
+    "long_description": "",
+    "name": "Viraj Aero",
+    "nonprofit": false,
+    "one_liner": "Next generation engines for aircraft and data centers",
+    "question_answers": false,
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "slug": "viraj-aero",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Energy",
+      "Aerospace",
+      "ClimateTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/viraj-aero",
+    "website": "https://www.viraj-aero.com/"
+  },
+  {
     "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json",
     "app_answers": null,
@@ -264037,7 +264125,7 @@
       "America / Canada"
     ],
     "slug": "applied-kinetics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b9d51b8dac4842b77d6d1cdc4770519c02f477.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f64a699ef7ce7501af64a3b0efc5dfecb5d71fd5.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -264338,8 +264426,7 @@
     "tags": [
       "Energy Storage",
       "Robotics",
-      "Solar Power",
-      "Construction"
+      "Solar Power"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -264731,10 +264818,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1789740763,
-    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "long_description": "The next constraint is not intelligence, it is the energy and operational cost of running it.\r\nWe deploy custom AI models inside critical infrastructure companies that ingest SCADA data, work orders, human interventions,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
     "name": "Invertix",
     "nonprofit": false,
-    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
     "question_answers": false,
     "regions": [
       "Germany",
@@ -264747,8 +264834,8 @@
     "subindustry": "Industrials -> Energy",
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "Solar Power"
+      "Solar Power",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -265418,6 +265505,46 @@
     "website": "https://gethesperai.com"
   },
   {
+    "all_locations": "Myrtle Beach, SC, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shire-intelligence.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36345,
+    "industries": [
+      "Consumer",
+      "Food and Beverage"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1789786177,
+    "long_description": "Shire is an AI floor manager for full-service restaurants, running on the cameras they already have. It sees what a great manager sees: a guest ready to order, a table waiting on the check, a four-top that needs clearing, a server that is double booked. Then it acts, alerting staff in the moment and seating each new party with the server who has room. A POS only knows what gets typed into it. Shire knows what is happening in the room, so wait-time quotes, staffing, and pricing run on real turn times.",
+    "name": "Shire Intelligence",
+    "nonprofit": false,
+    "one_liner": "Shire uses CCTV to run restaurants in real time.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shire-intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddb902daa9bf41440f3e332ac02be9ee50de271c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Food and Beverage",
+    "tags": [
+      "Deep Learning",
+      "Food Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shire-intelligence",
+    "website": "https://shireintelligence.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json",
     "app_answers": null,
@@ -265913,6 +266040,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/frontrunner",
     "website": "https://usefr.com/"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/graypass.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37435,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789869580,
+    "long_description": "Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.\r\n\r\nBefore actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",
+    "name": "GrayPass",
+    "nonprofit": false,
+    "one_liner": "Verify that the expected person is in control before key actions.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "graypass",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Biometrics",
+      "Identity",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/graypass",
+    "website": "https://www.graypass.org"
   },
   {
     "all_locations": "San Francisco, CA, USA",

@@ -950,6 +950,96 @@
     "website": ""
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Faraday Cage",
+      "Faraday",
+      "Faraday Cage"
+    ],
+    "id": 34896,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789851118,
+    "long_description": "",
+    "name": "Faraday",
+    "nonprofit": false,
+    "one_liner": "Industrial aOS between humans, agents, and robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "faraday",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/faraday",
+    "website": "https://faradaycompute.com"
+  },
+  {
+    "all_locations": "Toulouse, Occitanie, France",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/viraj-aero.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34904,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789861657,
+    "long_description": "",
+    "name": "Viraj Aero",
+    "nonprofit": false,
+    "one_liner": "Next generation engines for aircraft and data centers",
+    "question_answers": false,
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "slug": "viraj-aero",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Energy",
+      "Aerospace",
+      "ClimateTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/viraj-aero",
+    "website": "https://www.viraj-aero.com/"
+  },
+  {
     "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json",
     "app_answers": null,
@@ -1020,7 +1110,7 @@
       "America / Canada"
     ],
     "slug": "applied-kinetics",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b9d51b8dac4842b77d6d1cdc4770519c02f477.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f64a699ef7ce7501af64a3b0efc5dfecb5d71fd5.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -1321,8 +1411,7 @@
     "tags": [
       "Energy Storage",
       "Robotics",
-      "Solar Power",
-      "Construction"
+      "Solar Power"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1714,10 +1803,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1789740763,
-    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "long_description": "The next constraint is not intelligence, it is the energy and operational cost of running it.\r\nWe deploy custom AI models inside critical infrastructure companies that ingest SCADA data, work orders, human interventions,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
     "name": "Invertix",
     "nonprofit": false,
-    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
     "question_answers": false,
     "regions": [
       "Germany",
@@ -1730,8 +1819,8 @@
     "subindustry": "Industrials -> Energy",
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "Solar Power"
+      "Solar Power",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -2401,6 +2490,46 @@
     "website": "https://gethesperai.com"
   },
   {
+    "all_locations": "Myrtle Beach, SC, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shire-intelligence.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36345,
+    "industries": [
+      "Consumer",
+      "Food and Beverage"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1789786177,
+    "long_description": "Shire is an AI floor manager for full-service restaurants, running on the cameras they already have. It sees what a great manager sees: a guest ready to order, a table waiting on the check, a four-top that needs clearing, a server that is double booked. Then it acts, alerting staff in the moment and seating each new party with the server who has room. A POS only knows what gets typed into it. Shire knows what is happening in the room, so wait-time quotes, staffing, and pricing run on real turn times.",
+    "name": "Shire Intelligence",
+    "nonprofit": false,
+    "one_liner": "Shire uses CCTV to run restaurants in real time.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shire-intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddb902daa9bf41440f3e332ac02be9ee50de271c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Food and Beverage",
+    "tags": [
+      "Deep Learning",
+      "Food Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shire-intelligence",
+    "website": "https://shireintelligence.com/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json",
     "app_answers": null,
@@ -2854,6 +2983,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/frontrunner",
     "website": "https://usefr.com/"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/graypass.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37435,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789869580,
+    "long_description": "Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.\r\n\r\nBefore actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",
+    "name": "GrayPass",
+    "nonprofit": false,
+    "one_liner": "Verify that the expected person is in control before key actions.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "graypass",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Biometrics",
+      "Identity",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/graypass",
+    "website": "https://www.graypass.org"
   },
   {
     "all_locations": "San Francisco, CA, USA",

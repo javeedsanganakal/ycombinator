@@ -14004,9 +14004,7 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare IT",
-      "Conversational AI"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -19281,6 +19279,96 @@
     "website": "https://lambdarobotics.ai"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Faraday Cage",
+      "Faraday",
+      "Faraday Cage"
+    ],
+    "id": 34896,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789851118,
+    "long_description": "",
+    "name": "Faraday",
+    "nonprofit": false,
+    "one_liner": "Industrial aOS between humans, agents, and robots",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "faraday",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/faraday",
+    "website": "https://faradaycompute.com"
+  },
+  {
+    "all_locations": "Toulouse, Occitanie, France",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/viraj-aero.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34904,
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789861657,
+    "long_description": "",
+    "name": "Viraj Aero",
+    "nonprofit": false,
+    "one_liner": "Next generation engines for aircraft and data centers",
+    "question_answers": false,
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "slug": "viraj-aero",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Hard Tech",
+      "Energy",
+      "Aerospace",
+      "ClimateTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/viraj-aero",
+    "website": "https://www.viraj-aero.com/"
+  },
+  {
     "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/inflection-space-systems.json",
     "app_answers": null,
@@ -19443,8 +19531,7 @@
     "tags": [
       "Energy Storage",
       "Robotics",
-      "Solar Power",
-      "Construction"
+      "Solar Power"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -19508,10 +19595,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1789740763,
-    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "long_description": "The next constraint is not intelligence, it is the energy and operational cost of running it.\r\nWe deploy custom AI models inside critical infrastructure companies that ingest SCADA data, work orders, human interventions,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
     "name": "Invertix",
     "nonprofit": false,
-    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
     "question_answers": false,
     "regions": [
       "Germany",
@@ -19524,8 +19611,8 @@
     "subindustry": "Industrials -> Energy",
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "Solar Power"
+      "Solar Power",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 8,
