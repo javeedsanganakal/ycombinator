@@ -4537,7 +4537,7 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/legionfarm.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/lfcarry.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2020",
@@ -4556,7 +4556,8 @@
       "LegionFarm Group",
       "LegionFarm",
       "Legionfarm",
-      "Legionfarm Group"
+      "Legionfarm Group",
+      "Legionfarm"
     ],
     "id": 13620,
     "industries": [
@@ -4566,8 +4567,8 @@
     "industry": "Consumer",
     "isHiring": true,
     "launched_at": 1584077204,
-    "long_description": "LFCarry (formerly Legionfarm) is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, carry and companionship services in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M raised from 20+ investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
-    "name": "Legionfarm",
+    "long_description": "LFcarry (formerly LegionFarm) is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, carry, boosting and pro analytics in AAA games like WoW: Forever, Destiny 2, Call of Duty, GTA 6, Apex Legends and 40+ other games. Founded in 2016, YC-backed (W20) with $17.8M raised from 20+ investors, we've served 250k+ users via two web platforms and five messenger bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nIn Q2 2026 we've launched a specialized gaming SEO/page building AI tool that is operating on pro analytics training data and autonomous AI research&engineering loops available at https://lfcarry.com/guides and it became the fastest growing product marketing case in video games so far, recording a 60x+ organic monthly impressions growth with 2.5M weekly impressions across gaming guides, tier lists, weekly activities and game time planning in major AAA games. At the same time we have all operations automated for coaching, carry and boosting services that our customers can purchase from Pros at our marketplace at https://lfcarry.com/",
+    "name": "LFcarry",
     "nonprofit": false,
     "one_liner": "AI workspace for professional gamers",
     "question_answers": false,
@@ -4575,7 +4576,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "legionfarm",
+    "slug": "lfcarry",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d52139d69bb434e6d76a4140915a34125b981220.png",
     "stage": "Early",
     "status": "Active",
@@ -4586,9 +4587,9 @@
       "AI Assistant"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/legionfarm",
+    "url": "https://www.ycombinator.com/companies/lfcarry",
     "website": "https://lfcarry.com/"
   },
   {
@@ -19101,50 +19102,6 @@
     "website": "https://www.kabilah.com"
   },
   {
-    "all_locations": "Ann Arbor, MI, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/precip.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29247,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1703187990,
-    "long_description": "Precip uses AI to make hyperlocal weather observations. We’re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won’t get stuck in muddy fields.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
-    "name": "Precip",
-    "nonprofit": false,
-    "one_liner": "High precision AI weather models",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "precip",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/509a20e3b0b9622f4073ee1f59c7bb2cb9f1714a.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Consumer",
-      "Climate",
-      "API",
-      "Agriculture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/precip",
-    "website": "https://precip.ai"
-  },
-  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/nuanced.json",
     "app_answers": null,
@@ -21652,7 +21609,7 @@
     "website": "https://useocular.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/aqua-voice.json",
     "app_answers": null,
     "app_video_public": false,
@@ -21752,7 +21709,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1710175582,
     "long_description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more — turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
     "name": "CommodityAI",
@@ -22705,47 +22662,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/saphira-ai",
     "website": "https://saphira.ai"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/codes-health.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29627,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1721954121,
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
-    "name": "Codes Health",
-    "nonprofit": false,
-    "one_liner": "Medical Record Retrieval with Zero Human Error",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "codes-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 25,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/codes-health",
-    "website": "https://www.codeshealth.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -26160,7 +26076,7 @@
     "website": "https://getsymphony.co"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/streamable.json",
     "app_answers": null,
     "app_video_public": false,
@@ -27030,7 +26946,7 @@
     "website": "https://capy.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "BY, Germany; Remote",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/diffusion-studio.json",
     "app_answers": null,
     "app_video_public": false,
@@ -27051,8 +26967,8 @@
     "one_liner": "Turn your agent into a professional video editor",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Germany",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -31613,48 +31529,6 @@
     "website": "https://www.topological.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Herdora",
-      "wafer"
-    ],
-    "id": 30644,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1751530242,
-    "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. \r\n\r\nOur product is serverless and dedicated inference for the world’s fastest open source LLMs, achieved by Wafer's autonomous performance engineers. ",
-    "name": "Wafer",
-    "nonprofit": false,
-    "one_liner": "AI that makes AI fast",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "wafer",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
-    "stage": "Growth",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 10,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/wafer",
-    "website": "https://www.wafer.ai"
-  },
-  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lilac.json",
     "app_answers": null,
@@ -32343,7 +32217,7 @@
     "website": "https://phases.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "ZH, Switzerland",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json",
     "app_answers": null,
     "app_video_public": false,
@@ -32367,8 +32241,8 @@
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Switzerland",
+      "Europe"
     ],
     "slug": "manufact",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
@@ -34416,7 +34290,7 @@
     "website": "https://www.freeportmarkets.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Mexico City, CDMX, Mexico",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -34438,8 +34312,8 @@
     "one_liner": "AI agents that recover lost revenue through real conversations.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Mexico",
+      "Latin America"
     ],
     "slug": "boom-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e240d7b6e048d06c397f1f72707e3cd4fc0ad63d.png",
@@ -35972,6 +35846,50 @@
     "website": "https://mostrobotic.com/"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/multiplier.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": true,
+    "former_names": [
+      "WithAI"
+    ],
+    "id": 31343,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1778527074,
+    "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+    "name": "Multiplier",
+    "nonprofit": false,
+    "one_liner": "Agent harnesses for asset managers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "multiplier",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/multiplier",
+    "website": "https://multiplier.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/marker.json",
     "app_answers": null,
@@ -36276,7 +36194,7 @@
     "website": "https://www.infera.bio"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -36364,7 +36282,7 @@
     "website": "https://degla.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json",
     "app_answers": null,
     "app_video_public": false,
@@ -36385,8 +36303,8 @@
     "one_liner": "We get your product picked by coding agents.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -37014,7 +36932,7 @@
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/maingen",
-    "website": "https://www.maingen.ai/"
+    "website": "https://www.maingen.com/"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -37188,7 +37106,7 @@
     "website": "https://synapsesemi.org"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Providence, RI, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/insurf.json",
     "app_answers": null,
     "app_video_public": false,
@@ -37568,7 +37486,7 @@
     "website": "https://audun.co"
   },
   {
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/joinmarble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39379,49 +39297,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 35258,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1789011304,
-    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
-    "name": "Mirrors",
-    "nonprofit": false,
-    "one_liner": "Catch and fix AI agent regressions before they reach production",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "mirrors",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "website": "https://www.runmirrors.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39855,7 +39730,7 @@
     ],
     "industry": "Fintech",
     "isHiring": false,
-    "launched_at": 1787328882,
+    "launched_at": 1789771499,
     "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
     "name": "Volaren Inc.",
     "nonprofit": false,
