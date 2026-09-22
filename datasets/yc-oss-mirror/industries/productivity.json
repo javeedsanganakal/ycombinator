@@ -8001,7 +8001,7 @@
       "Productivity"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1721263283,
     "long_description": "Patched executes regulated workflows in hours instead of days, with full auditability and control.",
     "name": "Patched",
@@ -9714,14 +9714,15 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gbrainio.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gbrain.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
       "The Overton Window Company",
-      "Gbrain.io"
+      "Gbrain.io",
+      "gbrain.io"
     ],
     "id": 31572,
     "industries": [
@@ -9732,7 +9733,7 @@
     "isHiring": false,
     "launched_at": 1789511395,
     "long_description": "Like ChatGPT or Claude, but it runs in the cloud, remembers everything you give it, and comes loaded with skills. Hand it a job tonight and read the answer in the morning. Use it on your own, or with your whole team.",
-    "name": "gbrain.io",
+    "name": "GBrain",
     "nonprofit": false,
     "one_liner": "A personal or team assistant that works while you sleep",
     "question_answers": true,
@@ -9740,7 +9741,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "gbrainio",
+    "slug": "gbrain",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff8cf14993c5561f746df91370537e12f858f957.png",
     "stage": "Early",
     "status": "Active",
@@ -9753,7 +9754,7 @@
     "tags_highlighted": [],
     "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/gbrainio",
+    "url": "https://www.ycombinator.com/companies/gbrain",
     "website": "https://gbrain.io"
   },
   {
@@ -9884,6 +9885,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/onecli",
     "website": "https://onecli.sh"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/grep-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "GREP",
+      "GREP.ai"
+    ],
+    "id": 33672,
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790019866,
+    "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for high-stakes, research-intensive knowledge work you can't afford to get wrong. Our agents are used by both prosumers and global enterprises such as Airwallex, IG, Worldpay, and Citizens Bank.",
+    "name": "Grep AI",
+    "nonprofit": false,
+    "one_liner": "AI agents that automate high-stakes knowledge work you can't afford…",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "grep-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d86a599f458e2be0f1c7c75f915dda507376482.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Productivity",
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/grep-ai",
+    "website": "https://grep.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",

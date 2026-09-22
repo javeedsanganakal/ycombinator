@@ -4477,7 +4477,7 @@
       "Payments"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1625009192,
     "long_description": "Accept and reconcile B2B payments seamlessly.",
     "name": "Slope",
@@ -5315,7 +5315,7 @@
       "Diagnostics"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1644279781,
     "long_description": "Starling is building a urine diagnostic remote patient monitoring platform that seamlessly integrates into anyone's bathroom routine.  By detecting early changes in a patient's urine using our toilet indwelling mass spectroscopy device, our platform is aiming to prevent hospitalizations from numerous conditions like recurrent UTIs, BPH exacerbations, or diabetes. We do this while creating significant new annual revenues for our clinician partners from remote patient monitoring reimbursements without requiring any significant changes in a staff's day to day schedule. ",
     "name": "Starling",
@@ -10583,5 +10583,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/coarena",
     "website": "http://coarena.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/truemile.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35266,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1790031761,
+    "long_description": "TrueMile is an AI operations team for midsize trucking carriers. Our agents work together to source freight, plan the week, assign loads to drivers, and keep customers, drivers, and dispatchers informed.\r\n\r\nWhen a driver calls out, a truck gets delayed, or a load cancels, TrueMile coordinates the assignments, plan changes, and communications that follow. It connects to the systems carriers already use, with dispatchers in control.",
+    "name": "TrueMile",
+    "nonprofit": false,
+    "one_liner": "AI agents that run trucking operations.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "truemile",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94408cc02a79b94fd281d47aabc0056465683df6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "AIOps",
+      "Machine Learning",
+      "Logistics",
+      "Data Science"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/truemile",
+    "website": "https://TrueMile.AI/"
   }
 ]

@@ -8792,7 +8792,7 @@
       "Payments"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1625009192,
     "long_description": "Accept and reconcile B2B payments seamlessly.",
     "name": "Slope",
@@ -16836,6 +16836,51 @@
     "website": "https://booth.ai"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/truewind.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 27896,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1675872502,
+    "long_description": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning. \r\n\r\nAutomate data categorization, supporting documentation collection, and client follow-up. Truewind’s AI agents will follow up on outstanding action items while the accountant can work on strategic tasks. This is fully integrated and unified across your accounting operations. We make it easy to get work done and get visibility into your team’s processes. \r\n\r\nTrusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator. ",
+    "name": "Truewind",
+    "nonprofit": false,
+    "one_liner": "AI-Powered Accounting",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "truewind",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2282cdd4a81eac40181a6efc3ce3c3d32c9eb037.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Generative AI",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 30,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/truewind",
+    "website": "https://www.trytruewind.com"
+  },
+  {
     "all_locations": "Philadelphia, PA, USA; New York, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/orchid.json",
     "app_answers": null,
@@ -17965,7 +18010,7 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/litellm",
     "website": "https://www.litellm.ai/"
@@ -20547,49 +20592,6 @@
     "website": "https://webhound.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/roame.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2023",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29093,
-    "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
-    ],
-    "industry": "Consumer",
-    "isHiring": true,
-    "launched_at": 1685728226,
-    "long_description": "Roame is flight search engine design for credit card points and miles. We help travelers redeem their points for dream vacations in seconds rather than days.\r\n\r\nAt Roame, we are on a mission to revolutionize travel and consumer finance. We stand at the intersection of travel tech and fintech.",
-    "name": "Roame",
-    "nonprofit": false,
-    "one_liner": "Flight search engine using credit card points and miles",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "roame",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f2575793e5340c7b238109e6ddb277c072e9469.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Travel",
-      "Airlines",
-      "Consumer Finance"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/roame",
-    "website": "https://roame.travel/"
-  },
-  {
     "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/kips-health.json",
     "app_answers": null,
@@ -21901,10 +21903,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1704382841,
-    "long_description": "Tracecat helps AI-native security teams build agents and automate work. Open source and community driven at it's core: https://github.com/TracecatHQ/tracecat",
+    "long_description": "Tracecat helps AI-native security teams build agents and automate cyber defense. Open source and community driven at it's core: https://github.com/TracecatHQ/tracecat",
     "name": "Tracecat",
     "nonprofit": false,
-    "one_liner": "The open source AI-native security automation platform",
+    "one_liner": "Open-source agentic security automation platform",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -26200,7 +26202,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/party",
     "website": "https://party.build"
@@ -28115,7 +28117,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 16,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/presti-ai",
     "website": "https://www.presti.ai/"
@@ -32336,10 +32338,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1736658447,
-    "long_description": "Outlit helps B2B SaaS companies improve GRR and NRR by keeping more customers and finding more expansion revenue.\r\n\r\nOutlit creates a real-time view of every customer using product usage, support, calls, email, Slack, billing, CRM, and external signals. It assesses whether each account is likely to renew, expand, contract, or churn, then provides the evidence and next action.\r\n\r\nThe result: stronger adoption, higher retention, and more expansion revenue from signals your team would never catch in a health score or any single tool.",
+    "long_description": "Outlit helps B2B SaaS companies grow revenue across their long tail. \r\n\r\nOutlit catches churn risks early and uncovers expansion opportunities in every account, turning missed customer signals into retained and expanded revenue.",
     "name": "Outlit",
     "nonprofit": false,
-    "one_liner": "Retain and Grow Every Customer",
+    "one_liner": "Protect and Grow Long-tail Revenue ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -35393,7 +35395,7 @@
     ],
     "slug": "wafer",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -36875,6 +36877,46 @@
     "website": "https://www.rebulk.com"
   },
   {
+    "all_locations": "",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Summer 2025",
+    "demo_day_video_public": true,
+    "former_names": [],
+    "id": 30772,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1751997318,
+    "long_description": "stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing Git workflows. Developers can run agents in parallel, use their preferred models or existing coding subscriptions, and keep agents connected to browser/runtime context as well as the broader codebase, from APIs and tests to docs and deployment paths.",
+    "name": "stagewise",
+    "nonprofit": false,
+    "one_liner": "The Open Source Agentic IDE",
+    "question_answers": false,
+    "regions": [
+      "Unspecified"
+    ],
+    "slug": "stagewise",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/stagewise",
+    "website": "https://stagewise.io"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json",
     "app_answers": null,
@@ -36993,7 +37035,7 @@
     "slug": "tectoai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence"
@@ -37735,6 +37777,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/semble",
     "website": "https://www.sembleai.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clerked.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Mod AI"
+    ],
+    "id": 30886,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1759171972,
+    "long_description": "Fully automate your accounts payable with the most advanced AI clerks in the world.\r\n\r\nThen ask them anything about your spend. They build custom reports, find savings, and tell you exactly when to pay to protect cash flow and capture discounts.\r\n\r\nClerked is the only AP platform that lets you manage your payables entirely from your phone, in Teams, Slack or iMessage.\r\n\r\nSee it work at clerked.ai",
+    "name": "Clerked",
+    "nonprofit": false,
+    "one_liner": "AI clerks that automate your payables",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "clerked",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84eedde0d0f019eaafca3d59004098b0b94f6ffb.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/clerked",
+    "website": "https://clerked.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -39293,6 +39379,52 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "id": 31051,
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1763141207,
+    "long_description": "Corvera (YC W26) is the AI sales engine for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "name": "Corvera",
+    "nonprofit": false,
+    "one_liner": "The AI sales engine for CPG brands",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "corvera",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Sales",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "website": "https://corvera.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onetriangle.json",
     "app_answers": null,
     "app_video_public": false,
@@ -40247,6 +40379,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/talking-computers",
     "website": "https://talkingcomputers.ai"
+  },
+  {
+    "all_locations": "London, England, United Kingdom",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Veriad",
+      "Supafax"
+    ],
+    "id": 31263,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1767420715,
+    "long_description": "Veriad is building marketing agents for enterprises to run advertising campaigns end-to-end in-house.",
+    "name": "Veriad",
+    "nonprofit": false,
+    "one_liner": "AI operating system for advertising",
+    "question_answers": false,
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "slug": "veriad",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaa1f350e1d2268092bb11e534ea52120e4c5b0f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/veriad",
+    "website": "https://veriad.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -44577,45 +44753,6 @@
     "website": "https://sentient-os.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 34629,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1786468833,
-    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run agents across different devices, browsers, account states, and environments to find failures that traditional automated tests miss. When something breaks, we reproduce it and alert engineering before they hear about it from a customer.",
-    "name": "Simulithic",
-    "nonprofit": false,
-    "one_liner": "User simulations for production monitoring.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "simulithic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/simulithic",
-    "website": "https://simulithic.com"
-  },
-  {
     "all_locations": "",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/veeza-ai.json",
     "app_answers": null,
@@ -45156,6 +45293,51 @@
     "website": "https://dreamscalelabs.com"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37203,
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1789771499,
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "name": "Volaren Inc.",
+    "nonprofit": false,
+    "one_liner": "Volaren collapses the hedge fund model and making it accessible to…",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "volaren-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Asset Management",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/volaren-inc",
+    "website": "https://www.volaren.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/frontrunner.json",
     "app_answers": null,
@@ -45315,5 +45497,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lark-2",
     "website": "https://trylark.ai"
+  },
+  {
+    "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37995,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789679183,
+    "long_description": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
+    "name": "Sintropix",
+    "nonprofit": false,
+    "one_liner": "Autonomous accounting platform for global companies",
+    "question_answers": false,
+    "regions": [
+      "Chile",
+      "Latin America"
+    ],
+    "slug": "sintropix",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0565abd52682e4249720fb4eb646f17fbbdd65.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/sintropix",
+    "website": "https://sintropix.com/"
   }
 ]
