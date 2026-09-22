@@ -2,7 +2,7 @@
 
 YC company data used for research and by the Python toolkit.
 
-Current snapshot: 2026-09-14 — 6,220 company records, 455 mirrored `yc-oss` endpoint payloads, and `meta.json` (456 JSON files total).
+Current snapshot: 2026-09-22 — 6,245 company records, 455 mirrored `yc-oss` endpoint payloads, and `meta.json` (456 JSON files total). See the [recent YC startup snapshot](recent-yc-startups.md) for the newest batches and research notes.
 
 - `cache/` contains generated local downloads and is ignored except for `.gitkeep`.
 - `yc-companies/` contains one tracked JSON record per company, grouped by batch.

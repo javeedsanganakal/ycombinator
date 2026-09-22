@@ -2,7 +2,7 @@
 
 This guide connects official Stanford and Y Combinator resources, the repository's licensed lecture archive, and its searchable YC company data. Use it to answer a specific startup question—not as proof that a tactic will work for every company.
 
-Last reviewed: 2026-09-14.
+Last reviewed: 2026-09-22.
 
 ## Start by stage
 
@@ -69,7 +69,7 @@ The vendored [How to Start a Startup](../../vendor/how-to-start-a-startup/) snap
 
 ## YC data in this repository
 
-The repository currently contains 6,220 company records, 455 mirrored community-maintained `yc-oss` endpoint payloads, and the mirror index. It includes batch, industry, tag, status, region, stage, descriptions, official YC profile links, curated company views, and public open-source repository mappings where available.
+The repository currently contains 6,245 company records, 455 mirrored community-maintained `yc-oss` endpoint payloads, and the mirror index. It includes batch, industry, tag, status, region, stage, descriptions, official YC profile links, curated company views, and public open-source repository mappings where available. Read the [recent YC startup snapshot](../../datasets/recent-yc-startups.md) for the newest batch counts and representative profiles.
 
 Use the [YC dataset research guide](../../datasets/yc-research-guide.md) to search and filter the data. Treat it as a research index: verify time-sensitive company facts against the [official YC directory](https://www.ycombinator.com/companies) and company primary sources before making decisions.
 
