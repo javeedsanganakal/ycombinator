@@ -2,7 +2,7 @@ name: Startup KB Agent
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
     - cron: "43 7 * * *"
   workflow_dispatch:
     inputs:
@@ -47,6 +47,10 @@ jobs:
       - name: Build role-based YC index
         run: ycombinator role-index
 
+      - name: Build YC founder index
+        if: github.event.schedule == '43 7 * * *' || inputs.refresh_data == true
+        run: ycombinator founder-index
+
       - name: Run agent heartbeat
         run: |
           ycombinator agent --format json --output agent-report.json
@@ -67,7 +71,7 @@ jobs:
         run: |
           git config user.name "startup-kb-agent[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datasets/yc-companies datasets/yc-oss-mirror datasets/yc-role-index.json datasets/yc-role-index.md
+          git add datasets/yc-companies datasets/yc-oss-mirror datasets/yc-role-index.json datasets/yc-role-index.md datasets/yc-founders-index.json datasets/yc-founders-index.md
           if git diff --cached --quiet; then
             echo "No upstream data changes."
           else

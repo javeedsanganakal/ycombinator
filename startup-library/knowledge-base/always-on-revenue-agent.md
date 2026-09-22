@@ -8,8 +8,8 @@ An always-on agent is a scheduled decision loop, not one model request that stay
 
 This repository includes `.github/workflows/startup-kb-agent.yml`.
 
-- Every six hours: run tests, validate internal links, parse every tracked JSON file, compare the company mirror with the per-company dataset, and retain a report for 30 days.
-- Daily: refresh the public YC company mirror, repeat all validation, and commit only verified dataset changes.
+- Every hour: run tests, validate internal links, parse every tracked JSON file, compare the company mirror with the per-company dataset, and retain a report for 30 days.
+- Daily: refresh the public YC mirror and founder index, then commit only verified changes.
 - On failure: create or update one GitHub incident issue rather than silently retrying forever.
 - On recovery: comment on and close the incident automatically.
 - On demand: run `ycombinator agent`, or start the workflow manually with an optional full data refresh.

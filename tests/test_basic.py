@@ -3,6 +3,7 @@ from tempfile import TemporaryDirectory
 
 from ycombinator.agent import CheckResult, build_report, check_internal_links, report_markdown
 from ycombinator.cli import build_parser, search_markdown
+from ycombinator.founders import build_founder_index
 from ycombinator.models import Company
 from ycombinator.query import YCData
 from ycombinator.roles import classify_company, build_role_index
@@ -136,3 +137,20 @@ def test_role_index_counts_companies_once_per_role():
     assert index["company_count"] == 2
     assert index["roles"]["sales"]["count"] == 1
     assert index["roles"]["ux-ui"]["count"] == 1
+
+
+def test_founder_index_uses_yc_top_company_flag_and_public_fields():
+    calls = []
+
+    def fake_fetcher(url):
+        calls.append(url)
+        return [{"full_name": "Ada Founder", "title": "Founder", "founder_bio": "Builder", "twitter_url": "", "linkedin_url": "", "latest_yc_company": "Example"}]
+
+    index = build_founder_index([
+        {"slug": "top", "name": "Top", "top_company": True, "url": "https://example.test/top"},
+        {"slug": "ordinary", "name": "Ordinary", "top_company": False, "url": "https://example.test/ordinary"},
+    ], fetcher=fake_fetcher, delay=0)
+    assert index["company_count"] == 1
+    assert index["founder_count"] == 1
+    assert calls == ["https://example.test/top"]
+    assert index["companies"][0]["founders"][0]["full_name"] == "Ada Founder"

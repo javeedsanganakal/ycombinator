@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Iterable
 
 from .agent import build_report, report_markdown
+from .founders import write_founder_index
 from .query import YCData
 from .roles import write_role_index
 from .scraper import (
@@ -224,6 +225,21 @@ def cmd_role_index(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_founder_index(args: argparse.Namespace) -> int:
+    index = write_founder_index(
+        companies_path=Path(args.companies_path),
+        json_path=Path(args.json_path),
+        markdown_path=Path(args.markdown_path),
+        delay=args.delay,
+    )
+    print(
+        f"Indexed {index['founder_count']:,} public founders across "
+        f"{index['company_count']:,} YC top-company profiles "
+        f"({index['error_count']} fetch errors)."
+    )
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="ycombinator",
@@ -333,6 +349,17 @@ def build_parser() -> argparse.ArgumentParser:
     p_roles.add_argument("--json-path", default="datasets/yc-role-index.json")
     p_roles.add_argument("--markdown-path", default="datasets/yc-role-index.md")
     p_roles.set_defaults(func=cmd_role_index)
+
+    # founder directory from official YC profile pages
+    p_founders = sub.add_parser(
+        "founder-index",
+        help="Build a founder directory for companies YC marks top_company=true",
+    )
+    p_founders.add_argument("--companies-path", default="datasets/yc-oss-mirror/companies/all.json")
+    p_founders.add_argument("--json-path", default="datasets/yc-founders-index.json")
+    p_founders.add_argument("--markdown-path", default="datasets/yc-founders-index.md")
+    p_founders.add_argument("--delay", type=float, default=0.2, help="Seconds between profile requests")
+    p_founders.set_defaults(func=cmd_founder_index)
 
     return parser
 
