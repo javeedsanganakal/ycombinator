@@ -44,6 +44,9 @@ jobs:
       - name: Test package
         run: python -m pytest -q
 
+      - name: Build role-based YC index
+        run: ycombinator role-index
+
       - name: Run agent heartbeat
         run: |
           ycombinator agent --format json --output agent-report.json
@@ -64,7 +67,7 @@ jobs:
         run: |
           git config user.name "startup-kb-agent[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datasets/yc-companies datasets/yc-oss-mirror
+          git add datasets/yc-companies datasets/yc-oss-mirror datasets/yc-role-index.json datasets/yc-role-index.md
           if git diff --cached --quiet; then
             echo "No upstream data changes."
           else

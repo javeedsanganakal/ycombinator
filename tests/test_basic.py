@@ -5,6 +5,7 @@ from ycombinator.agent import CheckResult, build_report, check_internal_links, r
 from ycombinator.cli import build_parser, search_markdown
 from ycombinator.models import Company
 from ycombinator.query import YCData
+from ycombinator.roles import classify_company, build_role_index
 
 
 def _sample() -> YCData:
@@ -112,3 +113,26 @@ def test_agent_report_status_and_markdown():
     rendered = report_markdown(report)
     assert "Startup KB Agent" in rendered
     assert "reason" in rendered
+
+
+def test_role_index_keeps_keyword_evidence():
+    company = {
+        "slug": "example",
+        "name": "Example AI Sales",
+        "one_liner": "Revenue infrastructure for developer teams",
+        "industry": "B2B",
+    }
+    classification = classify_company(company)
+    assert "sales" in classification["roles"]
+    assert "monetization" in classification["roles"]
+    assert "revenue" in classification["evidence"]["monetization"]
+
+
+def test_role_index_counts_companies_once_per_role():
+    index = build_role_index([
+        {"slug": "a", "name": "A", "one_liner": "Sales software"},
+        {"slug": "b", "name": "B", "one_liner": "Design tools"},
+    ])
+    assert index["company_count"] == 2
+    assert index["roles"]["sales"]["count"] == 1
+    assert index["roles"]["ux-ui"]["count"] == 1
