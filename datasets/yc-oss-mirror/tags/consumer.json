@@ -9155,14 +9155,14 @@
       "America / Canada"
     ],
     "slug": "swerve",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/756ce7de62795d0a5985463eaff07dec98a3a6d4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -9447,7 +9447,7 @@
     "industry": "Education",
     "isHiring": false,
     "launched_at": 1745137302,
-    "long_description": "Units lets ambitious students graduate high school in 4 months instead of 4 years with real accredited diploma credits, plus a portfolio of real-world work, not just a transcript. \r\n\r\nWe're rebuilding school for a post-AGI world.",
+    "long_description": "Units lets ambitious students graduate high school in 1 year instead of 4 with real accredited diploma credits, plus a portfolio of real-world work, not just a transcript, to produce kids that are irreplaceable by AI.\r\n\r\nWe're rebuilding school for a post-AGI world.",
     "name": "Units",
     "nonprofit": false,
     "one_liner": "Units builds full-stack AI education infrastructure.",
@@ -10932,5 +10932,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/antimattr",
     "website": "https://antimattr.one/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "TextGavel",
+      "Oxygen"
+    ],
+    "id": 37467,
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1790095817,
+    "long_description": "We’re building a new kind of personal device.",
+    "name": "Cyclon",
+    "nonprofit": false,
+    "one_liner": "a phone where AI is the interface",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "cyclon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4a1648c00832ca1c9d1a963380c29de9ec30af.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/cyclon",
+    "website": "https://cyclon.ai/"
   }
 ]

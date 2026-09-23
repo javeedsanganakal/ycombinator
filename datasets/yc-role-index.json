@@ -1,5 +1,5 @@
 {
-  "company_count": 6245,
+  "company_count": 6247,
   "roles": {
     "engineering": {
       "companies": [
@@ -464,16 +464,15 @@
           "batch": "Winter 2026",
           "evidence": {
             "engineering": [
-              "sdk",
-              "infrastructure"
-            ],
-            "product": [
-              "workflow"
+              "developer",
+              "code",
+              "infrastructure",
+              "developer tools"
             ]
           },
           "industry": "B2B",
           "name": "RunAnywhere",
-          "one_liner": "The default way of running on-device AI at Scale",
+          "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
           "slug": "runanywhere"
         },
         {
@@ -2107,7 +2106,7 @@
           },
           "industry": "B2B",
           "name": "Stillwind",
-          "one_liner": "Electrical Engineering Components Compaion",
+          "one_liner": "PCB component librarian",
           "slug": "stillwind"
         },
         {
@@ -22217,7 +22216,7 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "robotics"
+              "engineering"
             ],
             "product": [
               "platform"
@@ -22225,7 +22224,7 @@
           },
           "industry": "B2B",
           "name": "Osseus",
-          "one_liner": "The frontier data platform for health and biological AI",
+          "one_liner": "The frontier data platform for aligned health and biological AI",
           "slug": "osseus"
         },
         {
@@ -23671,25 +23670,6 @@
           "name": "Agentcard",
           "one_liner": "cards for AI agents",
           "slug": "agentcard"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "developer",
-              "coding",
-              "code",
-              "developer tools"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Agent FM",
-          "one_liner": "One group chat to hear and steer your coding agents.",
-          "slug": "agent-fm"
         },
         {
           "batch": "Summer 2026",
@@ -42910,6 +42890,28 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "monetization": [
+              "payment",
+              "fintech",
+              "lending",
+              "credit",
+              "financial"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Masterpiece",
+          "one_liner": "Working capital for data companies training frontier AI",
+          "slug": "masterpiece"
+        },
+        {
+          "batch": "Spring 2026",
+          "evidence": {
+            "engineering": [
               "engineer",
               "developer"
             ],
@@ -43576,27 +43578,6 @@
           "name": "Ardent",
           "one_liner": "Database sandboxes for Agents",
           "slug": "ardent"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
-            "engineering": [
-              "software",
-              "infrastructure",
-              "cloud"
-            ],
-            "monetization": [
-              "payment",
-              "payments",
-              "fintech",
-              "banking",
-              "financial"
-            ]
-          },
-          "industry": "Fintech",
-          "name": "Archer",
-          "one_liner": "Global payouts for the workforce powering AI",
-          "slug": "archer"
         },
         {
           "batch": "Spring 2026",
@@ -45271,7 +45252,6 @@
             "engineering": [
               "developer",
               "infrastructure",
-              "devops",
               "developer tools"
             ],
             "sales": [
@@ -45280,7 +45260,7 @@
           },
           "industry": "B2B",
           "name": "Mirrors",
-          "one_liner": "Catch and fix AI agent regressions before they reach production",
+          "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
           "slug": "mirrors"
         },
         {
@@ -45343,6 +45323,18 @@
           "name": "Lambda Robotics",
           "one_liner": "Robotics for AI Infrastructure",
           "slug": "lambda-robotics"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "cloud"
+            ]
+          },
+          "industry": "B2B",
+          "name": "isoquant",
+          "one_liner": "Self-optimizing inference cloud for faster, cheaper AI",
+          "slug": "isoquant"
         },
         {
           "batch": "Fall 2026",
@@ -45575,6 +45567,18 @@
           "name": "Aviern",
           "one_liner": "Unmanned airplanes for geospatial intelligence",
           "slug": "aviern"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "robotics"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Asim",
+          "one_liner": "Enable robots to operate safely in the real world.",
+          "slug": "asim-group"
         },
         {
           "batch": "Fall 2026",
@@ -47105,7 +47109,7 @@
               "engineering",
               "developer",
               "software",
-              "code",
+              "coding",
               "devops",
               "developer tools"
             ],
@@ -47115,7 +47119,7 @@
           },
           "industry": "B2B",
           "name": "Struct",
-          "one_liner": "Agents that keep prod running",
+          "one_liner": "Struct keeps prod running",
           "slug": "struct-ai"
         },
         {
@@ -47726,7 +47730,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2857
+      "count": 2858
     },
     "founders": {
       "companies": [
@@ -48079,18 +48083,6 @@
           "name": "Bystreet",
           "one_liner": "Your partner for hotel ownership data. ",
           "slug": "bystreet"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "founders": [
-              "founder"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Artificial Societies",
-          "one_liner": "We build networks of AIs to simulate high-value audiences",
-          "slug": "artificial-societies"
         },
         {
           "batch": "Winter 2024",
@@ -54225,7 +54217,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 352
+      "count": 351
     },
     "marketing": {
       "companies": [
@@ -68804,6 +68796,28 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "monetization": [
+              "payment",
+              "fintech",
+              "lending",
+              "credit",
+              "financial"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Masterpiece",
+          "one_liner": "Working capital for data companies training frontier AI",
+          "slug": "masterpiece"
+        },
+        {
+          "batch": "Spring 2026",
+          "evidence": {
+            "engineering": [
               "engineer",
               "developer"
             ],
@@ -69865,7 +69879,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 877
+      "count": 878
     },
     "monetization": {
       "companies": [
@@ -103005,6 +103019,28 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "monetization": [
+              "payment",
+              "fintech",
+              "lending",
+              "credit",
+              "financial"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Masterpiece",
+          "one_liner": "Working capital for data companies training frontier AI",
+          "slug": "masterpiece"
+        },
+        {
+          "batch": "Spring 2026",
+          "evidence": {
+            "engineering": [
               "engineer",
               "developer"
             ],
@@ -103353,27 +103389,6 @@
           "name": "Arden",
           "one_liner": "AI-native internal audit firm",
           "slug": "arden"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
-            "engineering": [
-              "software",
-              "infrastructure",
-              "cloud"
-            ],
-            "monetization": [
-              "payment",
-              "payments",
-              "fintech",
-              "banking",
-              "financial"
-            ]
-          },
-          "industry": "Fintech",
-          "name": "Archer",
-          "one_liner": "Global payouts for the workforce powering AI",
-          "slug": "archer"
         },
         {
           "batch": "Spring 2026",
@@ -104577,18 +104592,6 @@
         {
           "batch": "Fall 2025",
           "evidence": {
-            "monetization": [
-              "accounting"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Nivara",
-          "one_liner": "AI agents for the finance back office.",
-          "slug": "nivara"
-        },
-        {
-          "batch": "Fall 2025",
-          "evidence": {
             "engineering": [
               "engineering",
               "code",
@@ -105022,6 +105025,18 @@
           "name": "Amera",
           "one_liner": "Automating claims processing workflows for health insurance payers.",
           "slug": "amera"
+        },
+        {
+          "batch": "Fall 2025",
+          "evidence": {
+            "monetization": [
+              "accounting"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Alder",
+          "one_liner": "AI employees for finance, starting with accounts receivable. ",
+          "slug": "alder"
         },
         {
           "batch": "Fall 2025",
@@ -105513,22 +105528,6 @@
           "name": "Sentrial",
           "one_liner": "Datadog for Agent Reliability",
           "slug": "sentrial"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "sdk",
-              "infrastructure"
-            ],
-            "product": [
-              "workflow"
-            ]
-          },
-          "industry": "B2B",
-          "name": "RunAnywhere",
-          "one_liner": "The default way of running on-device AI at Scale",
-          "slug": "runanywhere"
         },
         {
           "batch": "Winter 2026",
@@ -119733,7 +119732,7 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "robotics"
+              "engineering"
             ],
             "product": [
               "platform"
@@ -119741,7 +119740,7 @@
           },
           "industry": "B2B",
           "name": "Osseus",
-          "one_liner": "The frontier data platform for health and biological AI",
+          "one_liner": "The frontier data platform for aligned health and biological AI",
           "slug": "osseus"
         },
         {
@@ -134395,7 +134394,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1656
+      "count": 1655
     },
     "sales": {
       "companies": [
@@ -147753,7 +147752,6 @@
             "engineering": [
               "developer",
               "infrastructure",
-              "devops",
               "developer tools"
             ],
             "sales": [
@@ -147762,7 +147760,7 @@
           },
           "industry": "B2B",
           "name": "Mirrors",
-          "one_liner": "Catch and fix AI agent regressions before they reach production",
+          "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
           "slug": "mirrors"
         },
         {
@@ -149134,7 +149132,7 @@
           },
           "industry": "B2B",
           "name": "Stillwind",
-          "one_liner": "Electrical Engineering Components Compaion",
+          "one_liner": "PCB component librarian",
           "slug": "stillwind"
         },
         {
@@ -156718,25 +156716,6 @@
           "name": "Alkera AI",
           "one_liner": "Reliable and safe data engineering and data science agents",
           "slug": "alkera-ai"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "developer",
-              "coding",
-              "code",
-              "developer tools"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Agent FM",
-          "one_liner": "One group chat to hear and steer your coding agents.",
-          "slug": "agent-fm"
         },
         {
           "batch": "Summer 2025",
@@ -164664,6 +164643,18 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "ux-ui": [
+              "interface"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "Cyclon",
+          "one_liner": "a phone where AI is the interface",
+          "slug": "cyclon"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "engineering",
               "developer",
@@ -165442,7 +165433,7 @@
               "engineering",
               "developer",
               "software",
-              "code",
+              "coding",
               "devops",
               "developer tools"
             ],
@@ -165452,7 +165443,7 @@
           },
           "industry": "B2B",
           "name": "Struct",
-          "one_liner": "Agents that keep prod running",
+          "one_liner": "Struct keeps prod running",
           "slug": "struct-ai"
         },
         {
@@ -165767,7 +165758,7 @@
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1128,
+    "count": 1129,
     "slugs": [
       "1000memories",
       "100x",
@@ -165834,6 +165825,7 @@
       "ares-industries",
       "arlo-industries",
       "arnata",
+      "artificial-societies",
       "arzana",
       "asakana",
       "asha-health",

@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6245
+Companies classified: 6247
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -9,14 +9,14 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 | Role | Companies |
 | --- | ---: |
-| founders | 352 |
-| product | 1656 |
+| founders | 351 |
+| product | 1655 |
 | ux-ui | 937 |
-| engineering | 2857 |
+| engineering | 2858 |
 | sales | 751 |
-| marketing | 877 |
+| marketing | 878 |
 | monetization | 2120 |
-| Unclassified | 1128 |
+| Unclassified | 1129 |
 
 ## Recent examples
 
@@ -45,10 +45,10 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Terminal Use** (Winter 2026, B2B): AI-native transformation for operations-heavy companies [evidence: workflow]
 - **Sila** (Winter 2026, B2B): Agent Messaging Platform [evidence: platform]
 - **Sentrial** (Winter 2026, B2B): Datadog for Agent Reliability [evidence: platform]
-- **RunAnywhere** (Winter 2026, B2B): The default way of running on-device AI at Scale [evidence: workflow]
 - **Ruma Care** (Winter 2026, Healthcare): The operations stack for biologic infusion clinics [evidence: workflow, platform]
 - **Ritivel** (Winter 2026, Healthcare): AI-native platform for Life-Sciences Documentation  [evidence: platform]
 - **Rhizome AI** (Winter 2026, B2B): Agent Platform for Life Sciences [evidence: platform]
+- **Ressl AI** (Winter 2026, B2B): Train, eval and build autonomous agents [evidence: platform]
 
 ### ux-ui
 

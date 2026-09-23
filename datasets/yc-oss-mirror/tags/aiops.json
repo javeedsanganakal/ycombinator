@@ -1779,10 +1779,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740421634,
-    "long_description": "Stillwind builds AI tools for electrical engineers to aide them in the repetitive parts of the process, primarily component search, cross referencing and simple circuitry. ",
+    "long_description": "Stillwind is a fractional librarian for startups. Customers give us the parts they want to put into designs and we give them footprints, symbols and 3d models made from the manufacturers datasheet.",
     "name": "Stillwind",
     "nonprofit": false,
-    "one_liner": "Electrical Engineering Components Compaion",
+    "one_liner": "PCB component librarian",
     "question_answers": false,
     "regions": [
       "Switzerland",
@@ -1795,8 +1795,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
-      "Electronics",
-      "AI"
+      "Artificial Intelligence",
+      "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -2672,6 +2672,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/veeza-ai",
     "website": "https://veeza.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35258,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789011304,
+    "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
+    "name": "Mirrors",
+    "nonprofit": false,
+    "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mirrors",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "website": "https://www.runmirrors.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

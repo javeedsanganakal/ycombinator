@@ -17332,7 +17332,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1704853466,
     "long_description": "DraftAid is the world's first generative AI for CAD manufacturing drawings, akin to GitHub Copilot but for CAD. It drastically shortens drawing creation time, turning hours into seconds.\r\n\r\nEvery product that is manufactured - from construction to aerospace, automotive, durable goods, and electronics—relies on drawings. Currently, engineers and designers painstakingly make these essential drawings manually. Draftaid streamlines this process saving teams millions in time and quality. \r\n\r\nThe idea was born out of Abdullah's experience as a mechanical design team member, where he created thousands of drawings and longed for a more efficient process. Partnering with Tahsin, a neighbour with a PhD in AI, and Mohammed, a seasoned engineering VP with experience in construction software, they turned the dream into reality.\r\n\r\nSince their launch in August, DraftAid has engaged customers through targeted outreach and word-of-mouth, securing paid pilots with subsequent contracts valued at $150,000.\r\n\r\nBe a part of ushering in the new era of CAD designs!",
     "name": "Draftaid",
@@ -19684,7 +19684,7 @@
     ],
     "slug": "diode-computers-inc",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -20391,11 +20391,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Productivity",
       "Data Engineering",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -20465,10 +20465,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1727386579,
-    "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
+    "long_description": "Struct automatically sets up, manages, and triages alerts based on how your app is supposed to work in prod. Connect your coding agent to it to enable your software factory to fix prod on its own.\r\n\r\nOnboarding takes 5 minutes.\r\n",
     "name": "Struct",
     "nonprofit": false,
-    "one_liner": "Agents that keep prod running",
+    "one_liner": "Struct keeps prod running",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -20480,11 +20480,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -21148,10 +21148,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740421634,
-    "long_description": "Stillwind builds AI tools for electrical engineers to aide them in the repetitive parts of the process, primarily component search, cross referencing and simple circuitry. ",
+    "long_description": "Stillwind is a fractional librarian for startups. Customers give us the parts they want to put into designs and we give them footprints, symbols and 3d models made from the manufacturers datasheet.",
     "name": "Stillwind",
     "nonprofit": false,
-    "one_liner": "Electrical Engineering Components Compaion",
+    "one_liner": "PCB component librarian",
     "question_answers": false,
     "regions": [
       "Switzerland",
@@ -21164,8 +21164,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
-      "Electronics",
-      "AI"
+      "Artificial Intelligence",
+      "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -22274,7 +22274,7 @@
       "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/prism",
     "website": "https://prisminference.com"
@@ -22466,7 +22466,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1747147618,
     "long_description": "Mesmer is the operating system for agentic engineering teams.\r\n\r\nA few engineering teams are accelerating at breakneck speed, while most are stuck with incremental gains. Mesmer exists so that gap doesn't come down to who gets lucky with their AI experiments.\r\n\r\nWe help founders and CTOs turn agents into real leverage across their organization: faster delivery, better quality, less bureaucracy, and a clear view of where the bottlenecks are and what to do next.\r\n\r\nHundreds of engineering teams have used Mesmer to >2x their productivity in the first quarter using our platform.\r\n\r\nWe are a team of repeat founders and CTOs with 15+ years of experience, including leading engineering together at Origin Financial ($400M), the AI financial advisor founded by Mesmer's CEO.",
     "name": "Mesmer",
@@ -25543,7 +25543,7 @@
     "website": "https://atrisa.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json",
     "app_answers": null,
     "app_video_public": false,
@@ -25577,8 +25577,8 @@
     "one_liner": "Make software self-healing",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "superlog",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
@@ -25960,7 +25960,7 @@
     "website": "https://www.agentmuxer.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json",
     "app_answers": null,
     "app_video_public": true,
@@ -26307,7 +26307,7 @@
     "website": "https://hyperprobe.co"
   },
   {
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json",
     "app_answers": null,
     "app_video_public": false,
@@ -26339,54 +26339,13 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/openrelay",
     "website": "https://www.openrelay.inc"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/agent-fm.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 33250,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1785890886,
-    "long_description": "Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",
-    "name": "Agent FM",
-    "nonprofit": false,
-    "one_liner": "One group chat to hear and steer your coding agents.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "agent-fm",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/agent-fm",
-    "website": "https://www.agentfm.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

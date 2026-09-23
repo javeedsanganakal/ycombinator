@@ -1983,7 +1983,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1775407410,
     "long_description": "Dayjob does AI Scheduling for Short Haul Trucks. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
     "name": "Dayjob",
@@ -2258,7 +2258,7 @@
     "website": "https://lim.run"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json",
     "app_answers": null,
     "app_video_public": false,
@@ -2292,8 +2292,8 @@
     "one_liner": "Make software self-healing",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "slug": "superlog",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
@@ -3594,7 +3594,7 @@
     "website": "https://lab0.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3618,8 +3618,8 @@
     "one_liner": "AI Go-To-Market agents for B2B teams",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -3674,7 +3674,7 @@
     "website": "https://napkinmath.club"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Berlin, Berlin, Germany",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json",
     "app_answers": null,
     "app_video_public": false,
@@ -3695,8 +3695,8 @@
     "one_liner": "AI agents that interviews every employee to hand context to AI tools. ",
     "question_answers": true,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
     "slug": "ontora",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
@@ -4374,24 +4374,26 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/masterpiece.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Archer"
+    ],
     "id": 31451,
     "industries": [
       "Fintech",
-      "Payments"
+      "Credit and Lending"
     ],
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1776977656,
-    "long_description": "Archer is the financial infrastructure for the AI data economy.\r\n\r\nWe’re building global payouts, stablecoin banking, and yield infrastructure for the companies supplying data to frontier AI labs.\r\n\r\nAs demand for high-quality data grows, millions of contributors around the world are generating, labeling, validating, and improving the datasets that power modern AI systems. Yet the financial infrastructure behind these platforms remains slow, fragmented, and expensive.\r\n\r\nArcher enables data marketplaces, AI labor platforms, and reinforcement learning environment providers to onboard workers globally, pay contributors instantly, and earn yield on idle balances.\r\n\r\nToday, companies use Archer to manage contributor earnings, global payouts, and treasury operations across hundreds of countries and payment corridors.\r\n\r\nWe believe the next generation of AI companies will need purpose-built financial infrastructure. Just as cloud providers became the backbone of software, Archer is building the financial layer for the global workforce powering artificial intelligence.",
-    "name": "Archer",
+    "long_description": "We believe AI will be one of humanity’s next great masterpieces. Building it will require financial infrastructure as ambitious as the companies creating it. We're founders backed by Y Combinator building the financial rails underpinning the AI data economy.\r\n\r\nMasterpiece provides short term working capital to data vendors that sell training data, evaluation work, and reinforcement learning environments to frontier AI labs.\r\n\r\nA major financing gap exists in this market. Data vendors often need to pay contributors and fund operations before a lab has completed QA, accepted the work, and paid the invoice. This creates a 30 to 90 day cash gap between when vendors incur costs and when they receive payment. Legacy invoice lenders have little visibility into how to underwrite these assets.\r\n\r\nMasterpiece closes that gap by advancing capital against high quality lab contracts and invoices. Vendors can use the capital to scale delivery, pay contributors, and fund growth, then repay masterpiece when the lab payment arrives.",
+    "name": "Masterpiece",
     "nonprofit": false,
-    "one_liner": "Global payouts for the workforce powering AI",
+    "one_liner": "Working capital for data companies training frontier AI",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4399,23 +4401,23 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "archer",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
+    "slug": "masterpiece",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed4420b560c26926fdea2bf9ca3f82e062da887b.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "Fintech -> Credit and Lending",
     "tags": [
       "Crypto / Web3",
-      "Neobank",
+      "Lending",
       "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
     ],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/archer",
-    "website": "https://archermoney.com/"
+    "url": "https://www.ycombinator.com/companies/masterpiece",
+    "website": "https://masterpiecelabs.xyz/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -6813,10 +6815,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1778457195,
-    "long_description": "flowscope is an AI-native transformation firm that deploys agents to map, optimize, and automate companies’ processes end to end without human intervention; doing what consulting firms charge millions for at a fraction of the cost and time.",
+    "long_description": "flowscope is an AI implementation firm that deploys agents to map, optimize, and automate companies’ processes end to end",
     "name": "flowscope",
     "nonprofit": false,
-    "one_liner": "AI-native consulting to map and automate business processes",
+    "one_liner": "AI implementation firm that maps and automates business processes",
     "question_answers": false,
     "regions": [
       "United States of America",
