@@ -1158,7 +1158,7 @@
     "website": "https://unify.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Bengaluru, KA, India; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/primevault.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1182,8 +1182,8 @@
     "one_liner": "Infrastructure powering stablecoin and digital finance",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -2154,10 +2154,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1709681560,
-    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "long_description": "Zep unifies business data, documents, and conversations into shared, governed context so agents can complete tasks correctly. Its Context Lake manages millions of Context Graphs as one system, with access controls, retention policies, source traceability, and audit logs. Teams use Zep to build enterprise context graphs, agent memory, and customer and account context. Zep retrieves context in under 200 milliseconds. Graphiti, Zep’s open source framework for temporal knowledge graphs, has more than 30,000 GitHub stars.",
     "name": "Zep AI",
     "nonprofit": false,
-    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "one_liner": "The unified context layer for enterprise data",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2171,9 +2171,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -3956,7 +3956,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 30649,
     "industries": [
@@ -3982,10 +3982,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -5046,6 +5046,50 @@
     "website": "https://myunowallet.com/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "InsForge"
+    ],
+    "id": 31547,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1776234676,
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "name": "InsForge (InstaCloud)",
+    "nonprofit": false,
+    "one_liner": "The agent-native serverless cloud",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "insforge-instacloud",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
+    "website": "https://insforge.dev/"
+  },
+  {
     "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json",
     "app_answers": null,
@@ -5372,13 +5416,13 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/luca-iq",
     "website": "https://lucaiq.com/"

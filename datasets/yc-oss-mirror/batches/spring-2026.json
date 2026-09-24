@@ -834,14 +834,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "website": "https://www.superset.sh/"
@@ -3610,7 +3610,7 @@
       "Sales"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1774430148,
     "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 30% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
     "name": "Gojiberry AI",
@@ -3677,9 +3677,9 @@
     "all_locations": "Berlin, Berlin, Germany",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json",
     "app_answers": null,
-    "app_video_public": false,
+    "app_video_public": true,
     "batch": "Spring 2026",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 31428,
     "industries": [
@@ -3704,9 +3704,9 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -4533,7 +4533,7 @@
       "America / Canada"
     ],
     "slug": "tdaycom",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be18e0389cf4e054ea9daa993ce4e9131722dfb7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1049b2a12a458752491fa999a03f90cda4a5dce9.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -6708,7 +6708,7 @@
     "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/astraea",
     "website": "https://tryastraea.com"
@@ -7061,12 +7061,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "InsForge"
+    ],
     "id": 31547,
     "industries": [
       "B2B",
@@ -7075,25 +7077,30 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1776234676,
-    "long_description": "InsForge is the agent-native AWS: cloud infrastructure that AI coding agents can understand, operate, and recover from end to end.",
-    "name": "InsForge",
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "name": "InsForge (InstaCloud)",
     "nonprofit": false,
-    "one_liner": "The agent-native AWS",
+    "one_liner": "The agent-native serverless cloud",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "insforge",
+    "slug": "insforge-instacloud",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/insforge",
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
     "website": "https://insforge.dev/"
   },
   {
@@ -7337,16 +7344,15 @@
     "former_names": [],
     "id": 31561,
     "industries": [
-      "Industrials",
-      "Defense"
+      "B2B"
     ],
-    "industry": "Industrials",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1774490913,
     "long_description": "",
     "name": "Maquoketa Research",
     "nonprofit": false,
-    "one_liner": "The intelligence layer for drones",
+    "one_liner": "Automated LiveOps for Game Studios",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -7356,7 +7362,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Industrials -> Defense",
+    "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
     "team_size": 5,

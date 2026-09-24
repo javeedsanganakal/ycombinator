@@ -1,5 +1,5 @@
 {
-  "company_count": 6247,
+  "company_count": 6248,
   "roles": {
     "engineering": {
       "companies": [
@@ -3252,7 +3252,7 @@
           },
           "industry": "B2B",
           "name": "Zep AI",
-          "one_liner": "Agent Context Is Hard. We Fixed It.",
+          "one_liner": "The unified context layer for enterprise data",
           "slug": "zep-ai"
         },
         {
@@ -7729,23 +7729,23 @@
           "batch": "Winter 2023",
           "evidence": {
             "engineering": [
-              "software"
+              "software",
+              "coding"
             ],
             "monetization": [
-              "payment",
               "payments",
               "fintech",
               "accounting",
+              "banking",
               "expense management"
             ],
             "product": [
-              "workflow",
               "platform"
             ]
           },
           "industry": "Fintech",
           "name": "Alaan",
-          "one_liner": "Modern finance platform for the Middle East",
+          "one_liner": "Ai-native finance platform for the Middle East",
           "slug": "alaan"
         },
         {
@@ -11392,18 +11392,6 @@
           "name": "Rulebricks",
           "one_liner": "Add powerful decision-making capabilities to any automated workflow.",
           "slug": "rulebricks"
-        },
-        {
-          "batch": "Winter 2021",
-          "evidence": {
-            "engineering": [
-              "cloud"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Routine",
-          "one_liner": "AI-native all-in-one workspace for startups",
-          "slug": "routine"
         },
         {
           "batch": "Winter 2021",
@@ -24149,7 +24137,7 @@
           },
           "industry": "Industrials",
           "name": "Physical Turing",
-          "one_liner": "Evaluating humanoids in the real world",
+          "one_liner": "Next generation robot deployer",
           "slug": "physical-turing"
         },
         {
@@ -24353,15 +24341,16 @@
               "developer",
               "api",
               "infrastructure",
+              "cloud",
               "developer tools"
             ],
-            "product": [
-              "platform"
+            "monetization": [
+              "payments"
             ]
           },
           "industry": "B2B",
           "name": "Notte",
-          "one_liner": "Reliable Web Agents for Enterprise",
+          "one_liner": "Browser infra for AI agents: sessions, auth, proxies, payments",
           "slug": "notte"
         },
         {
@@ -25247,7 +25236,7 @@
           },
           "industry": "B2B",
           "name": "Alter",
-          "one_liner": "Secure access control and authorization platform for agent workflows",
+          "one_liner": "Privileged Access Management for AI Agents",
           "slug": "alter"
         },
         {
@@ -43139,18 +43128,21 @@
           "evidence": {
             "engineering": [
               "engineering",
-              "coding",
+              "developer",
+              "code",
               "infrastructure",
-              "cloud"
+              "devops",
+              "cloud",
+              "developer tools"
             ],
             "ux-ui": [
               "design"
             ]
           },
           "industry": "B2B",
-          "name": "InsForge",
-          "one_liner": "The agent-native AWS",
-          "slug": "insforge"
+          "name": "InsForge (InstaCloud)",
+          "one_liner": "The agent-native serverless cloud",
+          "slug": "insforge-instacloud"
         },
         {
           "batch": "Spring 2026",
@@ -44980,7 +44972,7 @@
           },
           "industry": "B2B",
           "name": "Vorelios",
-          "one_liner": "A Foundation Model for Industrial Physics Simulation",
+          "one_liner": "A foundation model for engineering physics",
           "slug": "vorelios"
         },
         {
@@ -45187,6 +45179,22 @@
           "evidence": {
             "engineering": [
               "software",
+              "robotics"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Pendulum Robotics",
+          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+          "slug": "pendulum-robotics"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
               "sdk",
               "infrastructure"
             ],
@@ -45290,6 +45298,22 @@
           "name": "Maritime",
           "one_liner": "The managed cloud for AI agents.",
           "slug": "maritime"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
+              "robotics"
+            ],
+            "monetization": [
+              "marketplace"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Mantle",
+          "one_liner": "The pit crew for deployed machines and robots.",
+          "slug": "mantle-2"
         },
         {
           "batch": "Fall 2026",
@@ -45508,18 +45532,6 @@
           "name": "ByteAsk",
           "one_liner": "The AI coding agent for C and C++",
           "slug": "byteask"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "engineering": [
-              "software"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Buildbox",
-          "one_liner": "Agent analytics for real user outcomes",
-          "slug": "buildbox"
         },
         {
           "batch": "Fall 2026",
@@ -47271,13 +47283,13 @@
             "engineering": [
               "software"
             ],
-            "marketing": [
-              "content"
+            "product": [
+              "platform"
             ]
           },
-          "industry": "B2B",
+          "industry": "Healthcare",
           "name": "Raycaster",
-          "one_liner": "AI for life sciences documents",
+          "one_liner": "Agentic AI for knowledge work",
           "slug": "raycaster"
         },
         {
@@ -47520,6 +47532,21 @@
           "batch": "Fall 2024",
           "evidence": {
             "engineering": [
+              "engineering"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "fixa",
+          "one_liner": "Fix your voice agents faster",
+          "slug": "fixa"
+        },
+        {
+          "batch": "Fall 2024",
+          "evidence": {
+            "engineering": [
               "developer",
               "cloud",
               "developer tools"
@@ -47598,21 +47625,6 @@
           "name": "Consus",
           "one_liner": "The fastest and cheapest way to use AI with ITAR or CUI data. ",
           "slug": "consus"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
-            "engineering": [
-              "engineering"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Clarus",
-          "one_liner": "LP clarity across private markets",
-          "slug": "clarus"
         },
         {
           "batch": "Fall 2024",
@@ -48081,7 +48093,7 @@
           },
           "industry": "B2B",
           "name": "Bystreet",
-          "one_liner": "Your partner for hotel ownership data. ",
+          "one_liner": "Connect with hoteliers around the world.",
           "slug": "bystreet"
         },
         {
@@ -69663,21 +69675,6 @@
         {
           "batch": "Fall 2024",
           "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "marketing": [
-              "content"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Raycaster",
-          "one_liner": "AI for life sciences documents",
-          "slug": "raycaster"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
             "marketing": [
               "content"
             ],
@@ -69879,7 +69876,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 878
+      "count": 877
     },
     "monetization": {
       "companies": [
@@ -74391,23 +74388,23 @@
           "batch": "Winter 2023",
           "evidence": {
             "engineering": [
-              "software"
+              "software",
+              "coding"
             ],
             "monetization": [
-              "payment",
               "payments",
               "fintech",
               "accounting",
+              "banking",
               "expense management"
             ],
             "product": [
-              "workflow",
               "platform"
             ]
           },
           "industry": "Fintech",
           "name": "Alaan",
-          "one_liner": "Modern finance platform for the Middle East",
+          "one_liner": "Ai-native finance platform for the Middle East",
           "slug": "alaan"
         },
         {
@@ -87642,21 +87639,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "monetization": [
-              "payments",
-              "fintech",
-              "accounting",
-              "payroll"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Definite",
-          "one_liner": "Build everyday back-office agents on one live model of your books",
-          "slug": "definite"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "engineering": [
               "software",
               "robotics",
@@ -88153,6 +88135,25 @@
           "name": "PARES AI",
           "one_liner": "AI-native real estate services firm",
           "slug": "pares-ai"
+        },
+        {
+          "batch": "Summer 2025",
+          "evidence": {
+            "engineering": [
+              "developer",
+              "api",
+              "infrastructure",
+              "cloud",
+              "developer tools"
+            ],
+            "monetization": [
+              "payments"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Notte",
+          "one_liner": "Browser infra for AI agents: sessions, auth, proxies, payments",
+          "slug": "notte"
         },
         {
           "batch": "Summer 2025",
@@ -88724,7 +88725,7 @@
           },
           "industry": "B2B",
           "name": "Alter",
-          "one_liner": "Secure access control and authorization platform for agent workflows",
+          "one_liner": "Privileged Access Management for AI Agents",
           "slug": "alter"
         },
         {
@@ -104198,6 +104199,22 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "software",
+              "robotics"
+            ],
+            "monetization": [
+              "marketplace"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Mantle",
+          "one_liner": "The pit crew for deployed machines and robots.",
+          "slug": "mantle-2"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "cloud",
               "machine learning"
             ],
@@ -104352,6 +104369,34 @@
           "evidence": {
             "monetization": [
               "fintech",
+              "credit"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Elimentary",
+          "one_liner": "Agents that run middle/back-office operations for Private Capital",
+          "slug": "elimentary"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
+              "payments",
+              "fintech",
+              "accounting",
+              "payroll"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Definite",
+          "one_liner": "Build everyday back-office agents on one live model of your books",
+          "slug": "definite"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
+              "fintech",
               "insurance"
             ]
           },
@@ -104372,6 +104417,20 @@
           "name": "Covera",
           "one_liner": "AI-native OS for insurance brokers",
           "slug": "covera"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
+              "pricing",
+              "fintech",
+              "insurance"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Ageospatial",
+          "one_liner": "Helping insurance companies value risk on properties remotely.",
+          "slug": "ageospatial"
         },
         {
           "batch": "Fall 2025",
@@ -105393,7 +105452,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2120
+      "count": 2124
     },
     "product": {
       "companies": [
@@ -109526,23 +109585,23 @@
           "batch": "Winter 2023",
           "evidence": {
             "engineering": [
-              "software"
+              "software",
+              "coding"
             ],
             "monetization": [
-              "payment",
               "payments",
               "fintech",
               "accounting",
+              "banking",
               "expense management"
             ],
             "product": [
-              "workflow",
               "platform"
             ]
           },
           "industry": "Fintech",
           "name": "Alaan",
-          "one_liner": "Modern finance platform for the Middle East",
+          "one_liner": "Ai-native finance platform for the Middle East",
           "slug": "alaan"
         },
         {
@@ -120456,24 +120515,6 @@
         {
           "batch": "Summer 2025",
           "evidence": {
-            "engineering": [
-              "developer",
-              "api",
-              "infrastructure",
-              "developer tools"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Notte",
-          "one_liner": "Reliable Web Agents for Enterprise",
-          "slug": "notte"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
             "monetization": [
               "revenue"
             ],
@@ -120896,7 +120937,7 @@
           },
           "industry": "B2B",
           "name": "Alter",
-          "one_liner": "Secure access control and authorization platform for agent workflows",
+          "one_liner": "Privileged Access Management for AI Agents",
           "slug": "alter"
         },
         {
@@ -128151,18 +128192,6 @@
             ]
           },
           "industry": "B2B",
-          "name": "Meridian Industries",
-          "one_liner": "Index is the modern business intelligence platform",
-          "slug": "meridian-industries"
-        },
-        {
-          "batch": "Summer 2019",
-          "evidence": {
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
           "name": "Localyze",
           "one_liner": "Global mobility platform for companies and employees",
           "slug": "localyze"
@@ -134197,6 +134226,21 @@
         {
           "batch": "Fall 2024",
           "evidence": {
+            "engineering": [
+              "software"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Raycaster",
+          "one_liner": "Agentic AI for knowledge work",
+          "slug": "raycaster"
+        },
+        {
+          "batch": "Fall 2024",
+          "evidence": {
             "marketing": [
               "content"
             ],
@@ -134394,7 +134438,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1655
+      "count": 1654
     },
     "sales": {
       "companies": [
@@ -163785,18 +163829,21 @@
           "evidence": {
             "engineering": [
               "engineering",
-              "coding",
+              "developer",
+              "code",
               "infrastructure",
-              "cloud"
+              "devops",
+              "cloud",
+              "developer tools"
             ],
             "ux-ui": [
               "design"
             ]
           },
           "industry": "B2B",
-          "name": "InsForge",
-          "one_liner": "The agent-native AWS",
-          "slug": "insforge"
+          "name": "InsForge (InstaCloud)",
+          "one_liner": "The agent-native serverless cloud",
+          "slug": "insforge-instacloud"
         },
         {
           "batch": "Spring 2026",
@@ -164569,6 +164616,22 @@
           "name": "RightNow",
           "one_liner": "Enabling Model-Hardware Co-Design at Scale",
           "slug": "rightnow"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
+              "robotics"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Pendulum Robotics",
+          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+          "slug": "pendulum-robotics"
         },
         {
           "batch": "Fall 2026",
@@ -165641,6 +165704,21 @@
           "batch": "Fall 2024",
           "evidence": {
             "engineering": [
+              "engineering"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "fixa",
+          "one_liner": "Fix your voice agents faster",
+          "slug": "fixa"
+        },
+        {
+          "batch": "Fall 2024",
+          "evidence": {
+            "engineering": [
               "developer",
               "cloud",
               "developer tools"
@@ -165671,21 +165749,6 @@
           "name": "Darkgrade",
           "one_liner": "Let your camera understand the world",
           "slug": "darkgrade"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
-            "engineering": [
-              "engineering"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Clarus",
-          "one_liner": "LP clarity across private markets",
-          "slug": "clarus"
         },
         {
           "batch": "Fall 2024",
@@ -165752,7 +165815,7 @@
           "slug": "alex"
         }
       ],
-      "count": 937
+      "count": 938
     }
   },
   "rules_version": 1,

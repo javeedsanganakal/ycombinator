@@ -337,12 +337,12 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/frontier-computing",
     "website": "https://frontier.site"
@@ -2077,7 +2077,7 @@
     "website": "https://hoplite.sh"
   },
   {
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/moonshot-computer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4629,51 +4629,6 @@
     "website": "https://alkera.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "id": 32286,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1782681224,
-    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
-    "name": "Definite",
-    "nonprofit": false,
-    "one_liner": "Build everyday back-office agents on one live model of your books",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "definite",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/definite",
-    "website": "https://www.usedefinite.com"
-  },
-  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/callbook-ai.json",
     "app_answers": null,
@@ -6762,13 +6717,13 @@
     "status": "Active",
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/luca-iq",
     "website": "https://lucaiq.com/"
@@ -7707,7 +7662,7 @@
       "Asset Management"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1786584832,
     "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
     "name": "Pennant",

@@ -1266,7 +1266,7 @@
       "Security"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1634074023,
     "long_description": "Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  \r\n\r\nOptery received the “Editors’ Choice” award by PCMag as the most outstanding product in the personal data removal category in 2022, 2023, 2024, 2026 and 2026, the Cybersecurity Excellence Awards for Attack Surface Management, Digital Footprint Management, and Employee Privacy Protection in 2024 and 2025, Cyber Defense Magazine’s Top InfoSec Innovator and Best Attack Surface Management awards in 2024 and 2025, the 2025 Fortress Cybersecurity Award for Privacy Enhancing Technologies, and Fast Company’s Next Big Things in Tech award for security and privacy in 2023. In 2025, Optery was also listed by Business Insider as one of 30 early-stage startups most likely to become a unicorn.\r\n\r\nOptery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, ransomware, doxxing, and prevents people's private information from showing up in Google search results. \r\n\r\nAnyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.\r\n\r\nOptery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
     "name": "Optery",
@@ -1282,7 +1282,7 @@
     "slug": "optery",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02ca984c664acd671be4123ea5824a7fbc55c95c.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Security",
     "tags": [
       "SaaS",
@@ -2137,10 +2137,10 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1671191601,
-    "long_description": "Alaan is an AI-native finance platform for businesses in the Middle East. We combine corporate cards, a business bank account*, international transfers, expense management, and accounting automation into one platform, with intelligence baked into every finance workflow.\r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We've grown rapidly, and now work with over 3,000 startups, mid-market, and enterprise customers, doing tens of millions of dollars in monthly payment volume. We've been default alive since our launch in August 2022, and raised one of the largest Series A rounds in Middle East history, backed by Peak XV (formerly Sequoia India).\r\n\r\nWant to join us? Check out alaan.com/careers\r\n\r\n*Alaan is a fintech company, not a bank. The business bank account is issued by ruya.",
+    "long_description": "Alaan is an AI-native finance platform for businesses in the Middle East. One platform for corporate cards, expense management, cross-border payments, accounting automation, treasury, business banking, and more, with AI doing the work finance teams used to do by hand: coding transactions, chasing approvals and receipts, flagging policy breaches, placing treasury deposits and closing the books.\r\n\r\nOur mission is to simplify finance for businesses so they can save time and money.\r\n\r\nOver 3,000 businesses use Alaan, from first-time founders to enterprises like Careem, G42, Tabby, Al Barari, and Rivoli. Since 2022, they have saved more than 2.2 million hours of manual finance work.\r\n\r\nAlaan raised one of the largest Series A rounds in Middle East history, backed by Peak XV (formerly Sequoia India), Y Combinator, 468 Capital, and 885 Capital, among others. Headquartered in Dubai, Alaan has more than 250 employees across its Dubai, Riyadh, and Bangalore offices, with a team that comes from Careem, McKinsey, BCG, Goldman Sachs, Amazon, Revolut, Rippling, and the world’s leading firms.\r\n\r\nAlaan has been named to the UAE Future 100 list, selected as an Endeavor company, and ranked the No. 1 spend management platform in EMEA by G2.",
     "name": "Alaan",
     "nonprofit": false,
-    "one_liner": "Modern finance platform for the Middle East",
+    "one_liner": "Ai-native finance platform for the Middle East",
     "question_answers": false,
     "regions": [
       "United Arab Emirates",
@@ -2158,7 +2158,7 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 160,
+    "team_size": 250,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/alaan",
     "website": "https://www.alaan.com/"
@@ -3607,16 +3607,15 @@
     ],
     "id": 30039,
     "industries": [
-      "B2B",
-      "Productivity"
+      "Healthcare"
     ],
-    "industry": "B2B",
+    "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1729820914,
-    "long_description": "Raycaster is an AI document workspace - think Cursor for regulated content, starting with life sciences teams to draft, edit, and review submissions much faster.",
+    "long_description": "Raycaster began as an agentic AI platform for knowledge work, serving dozens of publicly traded companies across life sciences, medical devices, energy, and oil and gas. It has since launched a division dedicated to training and evaluating AI systems in these industries, working directly with leading AI labs and enterprises to improve their ability to perform economically valuable work.",
     "name": "Raycaster",
     "nonprofit": false,
-    "one_liner": "AI for life sciences documents",
+    "one_liner": "Agentic AI for knowledge work",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3628,18 +3627,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e3854e63389e5cabd44e4b6563fefc3bd539147.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "Healthcare",
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
       "Biotech",
+      "Data Labeling",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/raycaster",
-    "website": "https://raycaster.ai"
+    "website": "https://eval.raycaster.ai"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -3894,7 +3893,7 @@
     ],
     "slug": "spott",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
@@ -5001,14 +5000,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "website": "https://www.superset.sh/"
@@ -5457,47 +5456,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/realpact",
     "website": "https://realpact.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/buildbox.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 32197,
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1785235599,
-    "long_description": "Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",
-    "name": "Buildbox",
-    "nonprofit": false,
-    "one_liner": "Agent analytics for real user outcomes",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "buildbox",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Analytics",
-    "tags": [
-      "Analytics",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/buildbox",
-    "website": "https://heybuildbox.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

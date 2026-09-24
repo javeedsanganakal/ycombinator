@@ -1995,7 +1995,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2025",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 30649,
     "industries": [
@@ -2021,10 +2021,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -2092,7 +2092,7 @@
     "long_description": "Alter is a zero-trust identity and access control platform purpose-built for AI agents. It wraps every tool call in strong authentication, fine-grained authorization, and real-time guardrails, so agents can move fast without breaking things.\r\n\r\nEach request is verified at the parameter level, authorized against granular policies, executed with least-privilege access, and fully audited in real time. Unsafe actions, whether it’s a rogue DROP TABLE or a payment above policy limits, are blocked before they touch production. Behind the scenes, Alter manages credentials, issuing ephemeral, scope-narrowed access for every interaction, then rotating or expiring it in seconds. The result: no long-lived secrets, no blind spots, and no surprises in audit.\r\n\r\nWith Alter, teams can move fast on AI agent initiatives while staying fully compliant with SOC 2, HIPAA, GDPR, and internal security standards. A CISO-ready dashboard delivers real-time visibility, detailed audit logs, and compliance-ready controls, removing silos, eliminating excessive permissions, and providing complete oversight of every agent workflow.",
     "name": "Alter",
     "nonprofit": false,
-    "one_liner": "Secure access control and authorization platform for agent workflows",
+    "one_liner": "Privileged Access Management for AI Agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3812,10 +3812,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1752283172,
-    "long_description": "Physical Turing rolls out humanoids in the real world and captures failures for benchmarking and post-training.\r\n\r\nWe procure, staff, and operate a wide range of target environments for real-world rollouts, helping robot makers, model companies, and enterprises continuously evaluate where humanoids succeed, where they fail, and what needs to improve before each deployment.",
+    "long_description": "Physical Turing is a neo robot deployer. Our hardware-agnostic operating system lets us deploy any robot fast, and every deployment produces the real-world data we use to train our own intelligence.\r\n\r\nWe're starting by automating industrial inspection and security tasks, which have historically had labor shortages due to their safety risks.",
     "name": "Physical Turing",
     "nonprofit": false,
-    "one_liner": "Evaluating humanoids in the real world",
+    "one_liner": "Next generation robot deployer",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3827,9 +3827,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -5386,10 +5386,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1752518156,
-    "long_description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
+    "long_description": "Notte is cloud browser infrastructure for AI agents. Sessions with live view and replays, residential proxies, stealth and CAPTCHA solving, authenticated profiles with account creation and 2FA, payments in the browser, and serverless functions that run next to the browser, all through one API",
     "name": "Notte",
     "nonprofit": false,
-    "one_liner": "Reliable Web Agents for Enterprise",
+    "one_liner": "Browser infra for AI agents: sessions, auth, proxies, payments",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5401,9 +5401,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Automation",
-      "AI"
+      "API",
+      "Automation"
     ],
     "tags_highlighted": [],
     "team_size": 5,

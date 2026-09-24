@@ -7257,7 +7257,7 @@
     "slug": "deepsource",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40895f9d8f2b40522c600e5eaad2d50a265b76ca.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Artificial Intelligence",
@@ -19684,7 +19684,7 @@
     ],
     "slug": "diode-computers-inc",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -19919,7 +19919,7 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/clarus.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/fixa.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2024",
@@ -19930,7 +19930,8 @@
       "pixa",
       "fixa",
       "verso",
-      "Verso"
+      "Verso",
+      "Clarus"
     ],
     "id": 30014,
     "industries": [
@@ -19941,15 +19942,15 @@
     "isHiring": false,
     "launched_at": 1731468857,
     "long_description": "",
-    "name": "Clarus",
+    "name": "fixa",
     "nonprofit": false,
-    "one_liner": "LP clarity across private markets",
+    "one_liner": "Fix your voice agents faster",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "clarus",
+    "slug": "fixa",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f17067469d8941e888938ae1ab75180ca2c2330.png",
     "stage": "Early",
     "status": "Active",
@@ -19960,8 +19961,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/clarus",
-    "website": "https://www.clarus.finance"
+    "url": "https://www.ycombinator.com/companies/fixa",
+    "website": "https://www.fixa.dev"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -24461,7 +24462,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1759962128,
-    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI.\r\n\r\n",
+    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI. Start at https://fastshot.ai/ai-app-builder\r\n\r\n",
     "name": "Fastshot",
     "nonprofit": false,
     "one_liner": "Lovable for mobile apps",
@@ -25129,14 +25130,14 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "website": "https://www.superset.sh/"
@@ -25883,12 +25884,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge.json",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "InsForge"
+    ],
     "id": 31547,
     "industries": [
       "B2B",
@@ -25897,25 +25900,30 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1776234676,
-    "long_description": "InsForge is the agent-native AWS: cloud infrastructure that AI coding agents can understand, operate, and recover from end to end.",
-    "name": "InsForge",
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "name": "InsForge (InstaCloud)",
     "nonprofit": false,
-    "one_liner": "The agent-native AWS",
+    "one_liner": "The agent-native serverless cloud",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "insforge",
+    "slug": "insforge-instacloud",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/insforge",
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
     "website": "https://insforge.dev/"
   },
   {

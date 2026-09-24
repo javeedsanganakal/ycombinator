@@ -4278,12 +4278,12 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 1,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/frontier-computing",
     "website": "https://frontier.site"
@@ -5836,6 +5836,49 @@
     "website": "https://www.viraj-aero.com/"
   },
   {
+    "all_locations": "Los Angeles, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35389,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1790141770,
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. Our first factory in LA can create thousands of motors per month up to 200mm OD.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. Hardware teams that can build and iterate at the speed of software will create elegant, reliable, ROI-positive robots and win massive markets.",
+    "name": "Pendulum Robotics",
+    "nonprofit": false,
+    "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "pendulum-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Drones",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
+    "website": "https://pendulumrobotics.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json",
     "app_answers": null,
@@ -5893,7 +5936,7 @@
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
     "name": "Vorelios",
     "nonprofit": false,
-    "one_liner": "A Foundation Model for Industrial Physics Simulation",
+    "one_liner": "A foundation model for engineering physics",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5905,9 +5948,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 2,
