@@ -12709,14 +12709,15 @@
   },
   {
     "all_locations": "Vancouver, BC, Canada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/trueplace.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/inden.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
     "demo_day_video_public": false,
     "former_names": [
       "Trueplace",
-      "Argo"
+      "Argo",
+      "Trueplace"
     ],
     "id": 25913,
     "industries": [
@@ -12725,17 +12726,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1644373814,
-    "long_description": "Trueplace's AI supercharges career preparation",
-    "name": "Trueplace",
+    "long_description": "Real people in live, high-stakes conversations with AI. We supply voice and video AI teams with human→AI conversation data: webcam video, separate human and AI audio tracks, turn timing and scores.",
+    "name": "Inden",
     "nonprofit": false,
-    "one_liner": "AI to prepare you for the future",
+    "one_liner": "How people actually talk to machines.",
     "question_answers": false,
     "regions": [
       "Canada",
       "America / Canada"
     ],
-    "slug": "trueplace",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/090425d1ebc2eddd72adac73fbef7428d9357414.png",
+    "slug": "inden",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16c3d8359a5e6781d8a200a4bfb9d014b212608a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -12743,8 +12744,8 @@
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/trueplace",
-    "website": "https://www.trueplace.ca/"
+    "url": "https://www.ycombinator.com/companies/inden",
+    "website": "https://inden.ai"
   },
   {
     "all_locations": "Atlanta, GA, USA",
@@ -17463,10 +17464,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1642195888,
-    "long_description": "Massdriver helps engineering and operations teams build secure, production-ready internal developer platforms in minutes.\r\n\r\nWith over 50+ infrastructure components engineering teams can build golden paths quickly on Kubernetes, serverless, or VMs.\r\n\r\nGet the flexibility product engineers need, with the auditing and security operations teams’ demand.\r\n\r\nWe handle all the boring parts of cloud operations like IAM, secrets, continuous deployment, alerting, and monitoring so your team can focus on the product.\r\n\r\nMassdriver supports anti-lockin, by running in your cloud, and open-sourcing all of our infrastructure components.",
+    "long_description": "Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed.\r\n\r\nPlatform teams encode their security, compliance, and cost requirements into the modules once. Developers and AI agents pick from the catalog, policy runs before anything is created, and every deploy is recorded with who proposed and who approved it.\r\n\r\nMassdriver generates an ephemeral pipeline per deploy, so there are no standing CI/CD pipelines to maintain. Run it self-hosted, on-prem, or in your cloud.",
     "name": "Massdriver",
     "nonprofit": false,
-    "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
     "question_answers": false,
     "regions": [
       "United States of America",

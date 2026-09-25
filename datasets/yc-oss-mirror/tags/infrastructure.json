@@ -3393,7 +3393,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1745276338,
     "long_description": "Blaxel is the infrastructure foundation for autonomous agents.\r\n\r\nEngineered for the way agents actually run, Blaxel gives builders deep control over compute (sandboxes), storage (shared filesystem), and networking as built-in infra primitives.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.",
     "name": "Blaxel",
@@ -3407,7 +3407,7 @@
     "slug": "blaxel",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daedc1e66e212180bb678c683cd4595f1c7cd149.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
@@ -5845,8 +5845,8 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

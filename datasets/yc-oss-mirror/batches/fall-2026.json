@@ -1381,6 +1381,49 @@
     "website": "https://www.useforward.co/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rhem-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35127,
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1790296181,
+    "long_description": "Rhem is building the connected hardware and data platform for care at home. ",
+    "name": "Rhem Labs",
+    "nonprofit": false,
+    "one_liner": "Home care technology for aging parents and their families",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rhem-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36cbf39bb5d034d7765e7ee595b7fac4dc2358e5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "tags": [
+      "Robotics",
+      "Health & Wellness",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rhem-labs",
+    "website": "https://rhem.ai"
+  },
+  {
     "all_locations": "Baltimore, MD, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json",
     "app_answers": null,
@@ -1785,8 +1828,8 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -3168,7 +3211,7 @@
       "Asset Management"
     ],
     "industry": "Fintech",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1789771499,
     "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
     "name": "Volaren Inc.",
@@ -3384,7 +3427,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1790095817,
-    "long_description": "We’re building a new kind of personal device.",
+    "long_description": "Cyclon is rebuilding the phone around AI. Instead of opening apps and tapping through screens, you tell your phone what you want and it does it for you. With one touch, you can spin up AI agents to control your phone or handle tasks in the background. AI isn’t just inside an app - it’s the phone itself.",
     "name": "Cyclon",
     "nonprofit": false,
     "one_liner": "a phone where AI is the interface",
@@ -3399,9 +3442,9 @@
     "status": "Active",
     "subindustry": "Consumer -> Consumer Electronics",
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "team_size": 2,

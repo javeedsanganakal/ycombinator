@@ -9287,9 +9287,14 @@
             "engineering": [
               "engineering",
               "developer",
-              "infrastructure",
               "cloud",
               "developer tools"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "pipeline"
             ],
             "ux-ui": [
               "design"
@@ -9297,7 +9302,7 @@
           },
           "industry": "B2B",
           "name": "Massdriver",
-          "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+          "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
           "slug": "massdriver"
         },
         {
@@ -22900,7 +22905,7 @@
           },
           "industry": "Industrials",
           "name": "Hebbian Robotics",
-          "one_liner": "APIs for robotics data teams to verify data quality for model training",
+          "one_liner": "Automate Data Evaluations for Physical AI and Robotics",
           "slug": "hebbian-robotics"
         },
         {
@@ -36205,24 +36210,6 @@
           "batch": "Summer 2019",
           "evidence": {
             "engineering": [
-              "software",
-              "machine learning"
-            ],
-            "monetization": [
-              "pricing",
-              "fintech",
-              "insurance"
-            ]
-          },
-          "industry": "Fintech",
-          "name": "Soteris",
-          "one_liner": "We write ML software to more accurately select & price insurance risk.",
-          "slug": "soteris"
-        },
-        {
-          "batch": "Summer 2019",
-          "evidence": {
-            "engineering": [
               "machine learning"
             ],
             "monetization": [
@@ -42161,7 +42148,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "coding",
               "developer tools"
             ],
             "ux-ui": [
@@ -42170,7 +42156,7 @@
           },
           "industry": "B2B",
           "name": "Zenbu",
-          "one_liner": "The extensible IDE for coding agents",
+          "one_liner": "The browser for agentic development",
           "slug": "zenbu-2"
         },
         {
@@ -45173,6 +45159,21 @@
           "name": "RightNow",
           "one_liner": "Enabling Model-Hardware Co-Design at Scale",
           "slug": "rightnow"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "robotics"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Rhem Labs",
+          "one_liner": "Home care technology for aging parents and their families",
+          "slug": "rhem-labs"
         },
         {
           "batch": "Fall 2026",
@@ -48414,21 +48415,6 @@
           "name": "ClickPe",
           "one_liner": "Finance on a Click",
           "slug": "clickpe"
-        },
-        {
-          "batch": "Winter 2023",
-          "evidence": {
-            "founders": [
-              "founder"
-            ],
-            "monetization": [
-              "fintech"
-            ]
-          },
-          "industry": "Fintech",
-          "name": "Alphawatch AI",
-          "one_liner": "Discover new opportunities (jobs, deals, investors)",
-          "slug": "alphawatch-ai"
         },
         {
           "batch": "Winter 2022",
@@ -54229,7 +54215,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 351
+      "count": 350
     },
     "marketing": {
       "companies": [
@@ -54922,6 +54908,18 @@
         {
           "batch": "Winter 2024",
           "evidence": {
+            "marketing": [
+              "content"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "Treblo",
+          "one_liner": "Create hit songs with AI",
+          "slug": "treblo"
+        },
+        {
+          "batch": "Winter 2024",
+          "evidence": {
             "engineering": [
               "software",
               "infrastructure"
@@ -54986,18 +54984,6 @@
           "name": "Soundry AI",
           "one_liner": "Remix any song into any style",
           "slug": "soundry-ai"
-        },
-        {
-          "batch": "Winter 2024",
-          "evidence": {
-            "marketing": [
-              "content"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "Sonauto",
-          "one_liner": "Create hit songs with AI",
-          "slug": "sonauto"
         },
         {
           "batch": "Winter 2024",
@@ -73801,7 +73787,7 @@
           },
           "industry": "Fintech",
           "name": "Infinia",
-          "one_liner": "Move money programmatically",
+          "one_liner": "Move money programmatically - built for developers",
           "slug": "infinia"
         },
         {
@@ -74372,16 +74358,13 @@
         {
           "batch": "Winter 2023",
           "evidence": {
-            "founders": [
-              "founder"
-            ],
             "monetization": [
               "fintech"
             ]
           },
           "industry": "Fintech",
           "name": "Alphawatch AI",
-          "one_liner": "Discover new opportunities (jobs, deals, investors)",
+          "one_liner": "Relationship Coverage for Deal Teams",
           "slug": "alphawatch-ai"
         },
         {
@@ -87991,18 +87974,6 @@
           "batch": "Summer 2025",
           "evidence": {
             "monetization": [
-              "financial"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Serafis",
-          "one_liner": "Narrative intelligence for investors",
-          "slug": "serafis"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
-            "monetization": [
               "payments",
               "fintech"
             ]
@@ -97821,24 +97792,6 @@
           "batch": "Summer 2019",
           "evidence": {
             "engineering": [
-              "software",
-              "machine learning"
-            ],
-            "monetization": [
-              "pricing",
-              "fintech",
-              "insurance"
-            ]
-          },
-          "industry": "Fintech",
-          "name": "Soteris",
-          "one_liner": "We write ML software to more accurately select & price insurance risk.",
-          "slug": "soteris"
-        },
-        {
-          "batch": "Summer 2019",
-          "evidence": {
-            "engineering": [
               "machine learning"
             ],
             "monetization": [
@@ -105452,7 +105405,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2124
+      "count": 2122
     },
     "product": {
       "companies": [
@@ -110763,6 +110716,30 @@
           "name": "Mindbase",
           "one_liner": "Build AI influencers that autonomously create content, engage fans…",
           "slug": "tradex"
+        },
+        {
+          "batch": "Winter 2022",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "developer",
+              "cloud",
+              "developer tools"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "pipeline"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Massdriver",
+          "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
+          "slug": "massdriver"
         },
         {
           "batch": "Winter 2022",
@@ -132971,6 +132948,18 @@
         {
           "batch": "Spring 2025",
           "evidence": {
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Sim",
+          "one_liner": "Build autonomous AI agents for enterprise systems",
+          "slug": "sim"
+        },
+        {
+          "batch": "Spring 2025",
+          "evidence": {
             "engineering": [
               "engineering",
               "infrastructure"
@@ -133424,6 +133413,21 @@
           "name": "RightNow",
           "one_liner": "Enabling Model-Hardware Co-Design at Scale",
           "slug": "rightnow"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "robotics"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Rhem Labs",
+          "one_liner": "Home care technology for aging parents and their families",
+          "slug": "rhem-labs"
         },
         {
           "batch": "Fall 2026",
@@ -134438,7 +134442,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1654
+      "count": 1657
     },
     "sales": {
       "companies": [
@@ -137369,6 +137373,30 @@
           "name": "Mindbase",
           "one_liner": "Build AI influencers that autonomously create content, engage fans…",
           "slug": "tradex"
+        },
+        {
+          "batch": "Winter 2022",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "developer",
+              "cloud",
+              "developer tools"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "pipeline"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Massdriver",
+          "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
+          "slug": "massdriver"
         },
         {
           "batch": "Winter 2022",
@@ -148491,7 +148519,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 751
+      "count": 752
     },
     "ux-ui": {
       "companies": [
@@ -152021,9 +152049,14 @@
             "engineering": [
               "engineering",
               "developer",
-              "infrastructure",
               "cloud",
               "developer tools"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "pipeline"
             ],
             "ux-ui": [
               "design"
@@ -152031,7 +152064,7 @@
           },
           "industry": "B2B",
           "name": "Massdriver",
-          "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+          "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
           "slug": "massdriver"
         },
         {
@@ -163540,7 +163573,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "coding",
               "developer tools"
             ],
             "ux-ui": [
@@ -163549,7 +163581,7 @@
           },
           "industry": "B2B",
           "name": "Zenbu",
-          "one_liner": "The extensible IDE for coding agents",
+          "one_liner": "The browser for agentic development",
           "slug": "zenbu-2"
         },
         {
@@ -166264,6 +166296,7 @@
       "immunity-project",
       "imperfect",
       "indee-labs",
+      "inden",
       "infera",
       "inflection-space-systems",
       "inflow",
@@ -166694,6 +166727,7 @@
       "sennu-ai",
       "sensible-biotechnologies",
       "sepsis-scout",
+      "serafis",
       "serna-bio",
       "serve-ai",
       "shape",
@@ -166705,7 +166739,6 @@
       "sidenote",
       "signatur-biosciences",
       "silver",
-      "sim",
       "simbie-ai",
       "simcare",
       "simmery",
@@ -166835,7 +166868,6 @@
       "trestle-biotherapeutics",
       "trident",
       "truemetrics",
-      "trueplace",
       "tsumobi",
       "turion-space",
       "turntable",

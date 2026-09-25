@@ -9259,6 +9259,7 @@
       "United States of America",
       "Canada",
       "America / Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -10939,10 +10940,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1642195888,
-    "long_description": "Massdriver helps engineering and operations teams build secure, production-ready internal developer platforms in minutes.\r\n\r\nWith over 50+ infrastructure components engineering teams can build golden paths quickly on Kubernetes, serverless, or VMs.\r\n\r\nGet the flexibility product engineers need, with the auditing and security operations teams’ demand.\r\n\r\nWe handle all the boring parts of cloud operations like IAM, secrets, continuous deployment, alerting, and monitoring so your team can focus on the product.\r\n\r\nMassdriver supports anti-lockin, by running in your cloud, and open-sourcing all of our infrastructure components.",
+    "long_description": "Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed.\r\n\r\nPlatform teams encode their security, compliance, and cost requirements into the modules once. Developers and AI agents pick from the catalog, policy runs before anything is created, and every deploy is recorded with who proposed and who approved it.\r\n\r\nMassdriver generates an ephemeral pipeline per deploy, so there are no standing CI/CD pipelines to maintain. Run it self-hosted, on-prem, or in your cloud.",
     "name": "Massdriver",
     "nonprofit": false,
-    "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -20141,7 +20142,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1745276338,
     "long_description": "Blaxel is the infrastructure foundation for autonomous agents.\r\n\r\nEngineered for the way agents actually run, Blaxel gives builders deep control over compute (sandboxes), storage (shared filesystem), and networking as built-in infra primitives.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.",
     "name": "Blaxel",
@@ -20155,7 +20156,7 @@
     "slug": "blaxel",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daedc1e66e212180bb678c683cd4595f1c7cd149.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
@@ -22011,7 +22012,7 @@
     ],
     "slug": "luminal",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
@@ -23205,10 +23206,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1780458165,
-    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
+    "long_description": "https://github.com/zenbu-labs/terminal-browser",
     "name": "Zenbu",
     "nonprofit": false,
-    "one_liner": "The extensible IDE for coding agents",
+    "one_liner": "The browser for agentic development",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -23222,9 +23223,9 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 1,

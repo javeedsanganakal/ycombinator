@@ -10531,6 +10531,7 @@
       "United States of America",
       "Canada",
       "America / Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -11949,10 +11950,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1642195888,
-    "long_description": "Massdriver helps engineering and operations teams build secure, production-ready internal developer platforms in minutes.\r\n\r\nWith over 50+ infrastructure components engineering teams can build golden paths quickly on Kubernetes, serverless, or VMs.\r\n\r\nGet the flexibility product engineers need, with the auditing and security operations teams’ demand.\r\n\r\nWe handle all the boring parts of cloud operations like IAM, secrets, continuous deployment, alerting, and monitoring so your team can focus on the product.\r\n\r\nMassdriver supports anti-lockin, by running in your cloud, and open-sourcing all of our infrastructure components.",
+    "long_description": "Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed.\r\n\r\nPlatform teams encode their security, compliance, and cost requirements into the modules once. Developers and AI agents pick from the catalog, policy runs before anything is created, and every deploy is recorded with who proposed and who approved it.\r\n\r\nMassdriver generates an ephemeral pipeline per deploy, so there are no standing CI/CD pipelines to maintain. Run it self-hosted, on-prem, or in your cloud.",
     "name": "Massdriver",
     "nonprofit": false,
-    "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -24071,7 +24072,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1759385382,
     "long_description": "We work with frontier AI labs to help train their agents to become AI research scientists",
     "name": "hillclimb",
@@ -25475,10 +25476,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1780458165,
-    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
+    "long_description": "https://github.com/zenbu-labs/terminal-browser",
     "name": "Zenbu",
     "nonprofit": false,
-    "one_liner": "The extensible IDE for coding agents",
+    "one_liner": "The browser for agentic development",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -25492,9 +25493,9 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -26339,7 +26340,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "openrelay",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c5dcebff59e38045b8e976d964cbe43ec732a9e.png",
@@ -26347,7 +26350,7 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "team_size": 2,
