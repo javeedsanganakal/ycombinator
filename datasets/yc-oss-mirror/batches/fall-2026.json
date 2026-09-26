@@ -264,7 +264,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1779474756,
-    "long_description": "RightNow AI is a research lab building GPU infrastructure that lets teams own their AI stack instead of depending on closed-source APIs. Our platform RunInfra takes any HuggingFace model, auto-generates optimized GPU kernels, and deploys it serverlessly with pay-per-token pricing\r\n\r\nRightNow AI lab: https://rightnowai.co\r\nRunInfra platform: https://runinfra.ai.",
+    "long_description": "RightNow AI is a research lab for GPU kernel optimization. Our platform RunInfra serves top open-source models optimized for AI agents at a fraction of the cost of closed-source APIs\r\n\r\nRightNow AI lab: https://rightnowai.co\r\nRunInfra platform: https://runinfra.ai.",
     "name": "RightNow",
     "nonprofit": false,
     "one_liner": "Enabling Model-Hardware Co-Design at Scale",
@@ -715,6 +715,45 @@
     "website": "https://lambdarobotics.ai"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hue.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34431,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790353230,
+    "long_description": "Hue turns production usage of agents into repeatable tests that preserve the tools, data, and state behind the real run. As AI agents take on real work, their behavior depends increasingly on the nuances of the world around them. With Hue, teams can test and improve their agents under conditions that mimic real usage.",
+    "name": "Hue",
+    "nonprofit": false,
+    "one_liner": "Test agents in realistic worlds built from production usage",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "hue",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c5e6f96d14890d7f03f32c22ceed76e4fc923f2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hue",
+    "website": "https://hue.run/"
+  },
+  {
     "all_locations": "Ankara, Ankara, Turkey",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json",
     "app_answers": null,
@@ -854,7 +893,7 @@
     "long_description": "Billions of people need tourist visas to travel the world. We use AI agents to prepare applications, verify documents, secure appointments, and handle the visa process end to end.\r\n",
     "name": "Veeza AI",
     "nonprofit": false,
-    "one_liner": "AI travel agent for people with weak passports, starting with visas.",
+    "one_liner": "AI tourist visa agent for people with weak passports.",
     "question_answers": false,
     "regions": [
       "Unspecified"
@@ -866,8 +905,8 @@
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1828,8 +1867,8 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -1851,7 +1890,7 @@
       "Supply Chain and Logistics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1790031761,
     "long_description": "TrueMile is an AI operations team for midsize trucking carriers. Our agents work together to source freight, plan the week, assign loads to drivers, and keep customers, drivers, and dispatchers informed.\r\n\r\nWhen a driver calls out, a truck gets delayed, or a load cancels, TrueMile coordinates the assignments, plan changes, and communications that follow. It connects to the systems carriers already use, with dispatchers in control.",
     "name": "TrueMile",
@@ -2912,6 +2951,51 @@
     "website": "https://usevyra.com"
   },
   {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/opera.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Op-Era"
+    ],
+    "id": 36577,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790381980,
+    "long_description": "Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture and more, delivering solutions for VP of Operations, supply chain leaders, plant managers and COOs to improve efficiency and decision-making.",
+    "name": "OpEra",
+    "nonprofit": false,
+    "one_liner": "Automated operations research (OR) lab",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "opera",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ab2731276f4a748d3087f83aa4d1ed311a0690b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/opera",
+    "website": "https://operatechnologies.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json",
     "app_answers": null,
@@ -3241,6 +3325,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/volaren-inc",
     "website": "https://www.volaren.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/spine.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37236,
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1790378229,
+    "long_description": "Spine runs benefits, payroll, and compliance for startups for free.\r\n\r\nWe do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 10% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.\r\n\r\n30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. \r\nLearn more at joinspine.co.",
+    "name": "Spine",
+    "nonprofit": false,
+    "one_liner": "We run benefits, payroll & compliance for startups, for free",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "spine",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e227fdb2c6620d1b088142bc179befd86c865fee.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Human Resources",
+    "tags": [
+      "Human Resources",
+      "Insurance",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/spine",
+    "website": "https://www.joinspine.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -3616,6 +3743,47 @@
     "website": "https://trylark.ai"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openhack.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37864,
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790387763,
+    "long_description": "OpenHack is an always on AI Security Engineer. OpenHack understands your business, system design and developer intent like a real security engineer. It ingests all this context to find the hardest vulnerabilities through AI codebase scanning, AI pentesting and Supply Chain Security. It verifies and prioritizes vulnerabilities automatically, and filters out false positives like a real security engineer drastically reducing overhead.",
+    "name": "OpenHack",
+    "nonprofit": false,
+    "one_liner": "Always-on AI security engineer",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "openhack",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3665e2fbd95736778f3748429060face49d74d6d.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Security",
+    "tags": [
+      "Artificial Intelligence",
+      "DevSecOps",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/openhack",
+    "website": "https://openhack.com"
+  },
+  {
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json",
     "app_answers": null,
@@ -3761,7 +3929,7 @@
     "long_description": "Mantle is a full-stack field service company that deploys, fixes and maintains machines for the companies that build them. We're not a marketplace or software tool, we own uptime directly to provide better, more reliable service without burdening your engineers on support calls. \r\n\r\n$500B+ a year is spent to keep machines running in the US, we're coming for all of it.\r\n",
     "name": "Mantle",
     "nonprofit": false,
-    "one_liner": "The pit crew for deployed machines and robots.",
+    "one_liner": "The pit crew for machines and robots.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3773,9 +3941,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

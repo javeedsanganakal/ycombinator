@@ -2897,6 +2897,49 @@
     "website": "https://www.maingen.com/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/musicarena.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Origami Research",
+      "Catapult"
+    ],
+    "id": 32160,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790372687,
+    "long_description": "https://musicarena.io/",
+    "name": "MusicArena",
+    "nonprofit": false,
+    "one_liner": "The crowdsourced benchmark for AI-generated music and music production",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "musicarena",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97ef82ddda796191842e9ee0fb976e3ccf939dca.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Music",
+      "Crowdsourcing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": -1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/musicarena",
+    "website": "https://musicarena.io/"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/bernard.json",
     "app_answers": null,
@@ -3877,7 +3920,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1786563914,
     "long_description": "Physical AI — robots and world models — is bottlenecked on one thing: diverse,\r\nreal-world data at massive scale showing how humans actually do work in the\r\nphysical world. It was never written down, and you can't buy it, because no one\r\nhas ever captured it. Only real local experts, the people who do this work every\r\nday, can produce data this authentic and valuable.\r\n\r\nDeepReach builds the network that reaches them. We design and manufacture\r\nwearable stereo capture devices, then place them with local data partners who\r\nrun collection as their own business — in warehouses, workshops, farms, kitchens\r\nand repair shops. They own the local relationships; we supply the hardware, the\r\nsoftware platform, the quality pipeline and the payments. Anyone can run a data\r\nbusiness.\r\n\r\nThat structure is what produces diversity. Instead of thousands of hours inside\r\none environment, we deliver hours spread across thousands of environments —\r\nwhich is what actually makes robot policies generalize.\r\n\r\n475 devices in the field and 100+ data partners are live across 7 countries, adding new\r\npartners every week. They've collected nearly 150,000 clips in the past three\r\nmonths, with volume roughly doubling month over month. Our data is in production\r\nwith multiple frontier model and robotics companies, and we're scaling to\r\n10,000+ devices across 50 countries.",
     "name": "DeepReach Inc.",
@@ -5762,7 +5805,7 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1784175637,
-    "long_description": "Operate any robot, anywhere in the world.",
+    "long_description": "Enabling robot deployment & autonomy ",
     "name": "Aktoria Robotics",
     "nonprofit": false,
     "one_liner": "Human as API for robots",
@@ -5781,7 +5824,7 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/aktoria-robotics",
     "website": "https://aktoria.com/"
@@ -6951,7 +6994,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1786181708,
-    "long_description": "Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB).\r\n\r\nMarengo is backed by YC, Exor, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.\r\n\r\nOur team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+    "long_description": "Marengo is the AI-native engineering firm automating engineering design, starting with data centers. We’ve generated $70K in revenue in our first month, with $4M in contracts to deliver.\r\n\r\nMarengo is backed by YC, Exor, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.\r\n\r\nOur team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
     "name": "Marengo",
     "nonprofit": false,
     "one_liner": "AI-Native Engineering Firm designing Data Centers ",
@@ -6966,10 +7009,10 @@
     "status": "Active",
     "subindustry": "Industrials -> Energy",
     "tags": [
-      "Artificial Intelligence",
       "Construction",
       "Design",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
@@ -9328,7 +9371,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1783740069,
-    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.\r\n\r\nWe work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",
+    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
     "name": "Osseus",
     "nonprofit": false,
     "one_liner": "The frontier data platform for aligned health and biological AI",
@@ -9342,11 +9385,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Biotech",
       "Healthcare",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

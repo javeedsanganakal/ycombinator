@@ -1100,7 +1100,7 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/drama-drama.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -1110,40 +1110,43 @@
       "Muse Card",
       "OnScale",
       "Muse - OnScale",
-      "Moots AI"
+      "Moots AI",
+      "Moots"
     ],
     "id": 25279,
     "industries": [
-      "B2B"
+      "Consumer",
+      "Content"
     ],
-    "industry": "B2B",
+    "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1644842544,
-    "long_description": "Moots is the Guest Intelligence platform. We engineer the room so every guest walks away with the conversation they came for, and with a relationship that lasts beyond it. Built for the events where the room matters: brand activations, advisory retreats, investor gatherings, members clubs, donor cultivation, political fundraisers, and recurring tech communities on Luma.",
-    "name": "Moots",
+    "long_description": "Drama Drama is building the monetization platform for AI character and drama creators.\r\n\r\nCreators are already building AI characters and serialized stories that attract audiences on TikTok, Instagram, YouTube and other social platforms, but turning that fandom into direct revenue is still difficult.\r\n\r\nDrama Drama lets creators monetize their existing characters and series through gated episodes, paid AI character chat across text, voice and video, personalized fan experiences and other direct-to-fan products.\r\n\r\nCreators can bring the content and audience they already have. For selected creators who want help producing a series, we also offer optional co-production.",
+    "name": "Drama Drama",
     "nonprofit": false,
-    "one_liner": "The guest intelligence platform for high-value client events",
+    "one_liner": "Monetization platform for AI characters and dramas",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "slug": "moots",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fde6c91673da136f18472357605fb80d656f17b9.png",
+    "slug": "drama-drama",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c317c036345682d427208c925256d74c3cc72666.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Consumer -> Content",
     "tags": [
       "Artificial Intelligence",
-      "Collaboration"
+      "Payments",
+      "Entertainment",
+      "Advertising",
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/moots",
-    "website": "https://www.moots.ai/"
+    "url": "https://www.ycombinator.com/companies/drama-drama",
+    "website": "https://dramadrama.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -12726,7 +12729,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1644373814,
-    "long_description": "Real people in live, high-stakes conversations with AI. We supply voice and video AI teams with human→AI conversation data: webcam video, separate human and AI audio tracks, turn timing and scores.",
+    "long_description": "Real people in live, high-stakes conversations with AI. We supply voice and video AI teams with human + AI conversation data: webcam video, separate human and AI audio tracks, turn timing and scores.",
     "name": "Inden",
     "nonprofit": false,
     "one_liner": "How people actually talk to machines.",

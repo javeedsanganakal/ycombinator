@@ -1,6 +1,6 @@
 # YC top-company founder index
 
-Companies: 91 | Public founders found: 160 | Fetch errors: 7
+Companies: 91 | Public founders found: 177 | Fetch errors: 0
 
 This directory joins the local YC company mirror to public founder fields on official YC company profile pages. The selection follows YC's `top_company=true` field. That field is useful for discovery, but it is not an independent ranking or a claim that these are the world's best founders.
 
@@ -84,7 +84,7 @@ Winter 2017 | Active | B2B
 
 One place to run all your HR, IT, and Finance. Globally.
 
-Founders: No public founder record returned
+Founders: Parker Conrad (Founder/CEO), Prasanna S (Founder/CTO)
 
 ## [Faire](https://www.ycombinator.com/companies/faire)
 
@@ -140,7 +140,7 @@ Winter 2016 | Acquired | Fintech
 
 Modern payments infrastructure for Africa
 
-Founders: No public founder record returned
+Founders: Shola Akinlade (Founder/CEO), Ezra Olubi (Founder/CTO)
 
 ## [NURX](https://www.ycombinator.com/companies/nurx)
 
@@ -180,7 +180,7 @@ Winter 2015 | Public | Healthcare
 
 Personalized drug discovery for blood cancer.
 
-Founders: No public founder record returned
+Founders: Matthew De Silva (Founder/CEO), Pete Quinzio (Founder)
 
 ## [GrubMarket](https://www.ycombinator.com/companies/grubmarket)
 
@@ -252,7 +252,7 @@ Winter 2013 | Acquired | Consumer
 
 Wearable computing hardware: biosignal gesture recognition
 
-Founders: No public founder record returned
+Founders: Stephen Lake (Founder/CEO), Matthew Bailey (Founder), Aaron Grant (Founder)
 
 ## [Heap](https://www.ycombinator.com/companies/heap)
 
@@ -308,7 +308,7 @@ Winter 2012 | Active | B2B
 
 Provides growing businesses with everything to take care of their team
 
-Founders: No public founder record returned
+Founders: Josh Reeves (Founder/CEO), Edward Kim (Founder/Empowering Gusto's Engineering Team), Tomer London (Founder/; Empowering Gusto's Product and Design Teams)
 
 ## [Amplitude](https://www.ycombinator.com/companies/amplitude)
 
@@ -572,7 +572,7 @@ Summer 2013 | Public | Consumer
 
 Restaurant delivery.
 
-Founders: No public founder record returned
+Founders: Tony Xu (Founder/CEO), Andy Fang (Founder), Stanley Tang (Founder)
 
 ## [CoreOS](https://www.ycombinator.com/companies/coreos)
 
@@ -708,7 +708,7 @@ Summer 2007 | Public | B2B
 
 Backup and share files in the cloud.
 
-Founders: No public founder record returned
+Founders: Drew Houston (Founder/CEO), Arash Ferdowsi (Founder)
 
 ## [Scribd](https://www.ycombinator.com/companies/scribd)
 
@@ -733,15 +733,3 @@ Summer 2005 | Acquired | Consumer
 The frontpage of the internet.
 
 Founders: Steve Huffman (Founder)
-
-## Refresh errors
-
-Some profile pages could not be read during the last refresh:
-
-- `gusto`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `dropbox`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `north`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `doordash`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `notable-labs`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `paystack`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `rippling`: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

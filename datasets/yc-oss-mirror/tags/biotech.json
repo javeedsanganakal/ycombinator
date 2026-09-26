@@ -4712,6 +4712,51 @@
     "website": "https://www.tamarind.bio"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/gloglo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Markprompt",
+      "14.ai"
+    ],
+    "id": 29341,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": true,
+    "launched_at": 1700867535,
+    "long_description": "Our mission: eradicate type 1 diabetes.\r\nGloGlo is building an AI-native therapeutics company focused on accelerating the discovery of treatments that can prevent, stop, and ultimately cure type 1 diabetes.\r\nWe are developing AI research agents that continuously analyze scientific literature and biological datasets, generate and challenge hypotheses, design experiments, and run them in a wet lab to learn from experimental results.\r\nWe are building a tight \"in silico <> in vitro/vivo\" feedback loop that helps us identify better targets, run experiments more efficiently, and move faster toward therapies for type 1 diabetes.\r\n",
+    "name": "GloGlo",
+    "nonprofit": false,
+    "one_liner": "Curing and preventing type 1 diabetes",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "gloglo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Biotech",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/gloglo",
+    "website": "https://gloglo.com"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/acx.json",
     "app_answers": null,
@@ -6434,7 +6479,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1783740069,
-    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.\r\n\r\nWe work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",
+    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
     "name": "Osseus",
     "nonprofit": false,
     "one_liner": "The frontier data platform for aligned health and biological AI",
@@ -6448,11 +6493,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Biotech",
       "Healthcare",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
