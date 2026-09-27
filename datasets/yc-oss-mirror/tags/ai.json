@@ -2611,7 +2611,7 @@
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/patternfast-former-tailornovacouturme.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/patternfast-prior-tailornovacouturme.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2019",
@@ -2622,7 +2622,8 @@
       "TAILORNOVA /COUTURME",
       "TAILORNOVA / PatternFast",
       "PatternFast",
-      "Tailornova/Couturme"
+      "Tailornova/Couturme",
+      "PatternFast (former Tailornova/Couturme)"
     ],
     "id": 11986,
     "industries": [
@@ -2633,7 +2634,7 @@
     "isHiring": false,
     "launched_at": 1541192584,
     "long_description": "PatternFast is building the fashion product engineering intelligence layer between design and manufacturing, turning design ideas into factory-ready products in minutes instead of months. PatternFast is made specifically for large fashion corporations, SMBs and independent designers. Unlike the current manual 3D, CAD and AI technologies, we provide hyper intelligent solutions for everything needed to go from idea into production seamlessly, saving large fashion conglomerates $20M or more.\r\n",
-    "name": "PatternFast (former Tailornova/Couturme)",
+    "name": "PatternFast (prior: Tailornova/Couturme)",
     "nonprofit": false,
     "one_liner": "The fashion product engineering intelligence  ",
     "question_answers": false,
@@ -2643,7 +2644,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "patternfast-former-tailornovacouturme",
+    "slug": "patternfast-prior-tailornovacouturme",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f7e8748f2ada643a0c24c1264549c3781e4e8ff.png",
     "stage": "Early",
     "status": "Active",
@@ -2657,7 +2658,7 @@
     "tags_highlighted": [],
     "team_size": 23,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/patternfast-former-tailornovacouturme",
+    "url": "https://www.ycombinator.com/companies/patternfast-prior-tailornovacouturme",
     "website": "http://patternfast.com"
   },
   {
@@ -27888,49 +27889,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/swerve.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Sapien",
-      "Goldfinch"
-    ],
-    "id": 30246,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1753392491,
-    "long_description": "Swerve is an AI character chat app that immerses users in rich stories and conversations. Users discover unique AI characters, choose their own persona, and dive into one-on-one or group chats that evolve naturally with no scripts and no limits. Our goal is to make Swerve the most entertaining part of your phone, a place where you step into any world, build stories with characters you connect with, and let every conversation go wherever it leads.",
-    "name": "Swerve",
-    "nonprofit": false,
-    "one_liner": "Chat with AI Characters",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "swerve",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Consumer",
-      "Entertainment",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/swerve",
-    "website": "https://www.getswerve.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json",
     "app_answers": null,
     "app_video_public": false,
@@ -31920,6 +31878,56 @@
     "website": "https://www.riverbank.sh/"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/conviction.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Parachute",
+      "Parachute AI",
+      "Parachute",
+      "Parachute AI",
+      "Parachute"
+    ],
+    "id": 30681,
+    "industries": [
+      "Fintech"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1752533752,
+    "long_description": "Conviction lets you create and discover trading ideas, then monitors the market and acts on them for you.\r\n\r\nStart with any idea you have - or discover one from traders you follow on X or Reddit - and turn it into a strategy in natural language. Backtest it, paper trade it, deploy it and share what you learn.",
+    "name": "Conviction",
+    "nonprofit": false,
+    "one_liner": "Anyone Can Trade",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "conviction",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech",
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/conviction",
+    "website": "https://convictiontrade.ai"
+  },
+  {
     "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json",
     "app_answers": null,
@@ -32046,6 +32054,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ghosteye",
     "website": "https://ghosteye.ai"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/physical-turing.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Riff",
+      "GoRiff"
+    ],
+    "id": 30703,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1752283172,
+    "long_description": "Physical Turing is a neo robot deployer. Our core tech lets us deploy any robot fast, and every deployment produces the real-world data we use to train our own intelligence.\r\n\r\nWe're starting by automating industrial inspection and security tasks, which have historically had labor shortages due to their safety risks.",
+    "name": "Physical Turing",
+    "nonprofit": false,
+    "one_liner": "Next generation robot deployer",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "physical-turing",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/physical-turing",
+    "website": "https://physicalturing.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -39448,49 +39500,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hesper-ai",
     "website": "https://gethesperai.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 36348,
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1786922449,
-    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.\r\n\r\nReserve early access at https://www.antimattr.one/project-mnemosyne\r\n[use code YC at checkout]",
-    "name": "antimattr",
-    "nonprofit": false,
-    "one_liner": "voice-first hardware interface for human-agent interaction",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "slug": "antimattr",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "tags": [
-      "Hardware",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/antimattr",
-    "website": "https://antimattr.one/"
   },
   {
     "all_locations": "New York City, NY, USA",

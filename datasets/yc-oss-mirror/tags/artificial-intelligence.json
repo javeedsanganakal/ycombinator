@@ -4213,7 +4213,7 @@
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/patternfast-former-tailornovacouturme.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/patternfast-prior-tailornovacouturme.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2019",
@@ -4224,7 +4224,8 @@
       "TAILORNOVA /COUTURME",
       "TAILORNOVA / PatternFast",
       "PatternFast",
-      "Tailornova/Couturme"
+      "Tailornova/Couturme",
+      "PatternFast (former Tailornova/Couturme)"
     ],
     "id": 11986,
     "industries": [
@@ -4235,7 +4236,7 @@
     "isHiring": false,
     "launched_at": 1541192584,
     "long_description": "PatternFast is building the fashion product engineering intelligence layer between design and manufacturing, turning design ideas into factory-ready products in minutes instead of months. PatternFast is made specifically for large fashion corporations, SMBs and independent designers. Unlike the current manual 3D, CAD and AI technologies, we provide hyper intelligent solutions for everything needed to go from idea into production seamlessly, saving large fashion conglomerates $20M or more.\r\n",
-    "name": "PatternFast (former Tailornova/Couturme)",
+    "name": "PatternFast (prior: Tailornova/Couturme)",
     "nonprofit": false,
     "one_liner": "The fashion product engineering intelligence  ",
     "question_answers": false,
@@ -4245,7 +4246,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "slug": "patternfast-former-tailornovacouturme",
+    "slug": "patternfast-prior-tailornovacouturme",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f7e8748f2ada643a0c24c1264549c3781e4e8ff.png",
     "stage": "Early",
     "status": "Active",
@@ -4259,7 +4260,7 @@
     "tags_highlighted": [],
     "team_size": 23,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/patternfast-former-tailornovacouturme",
+    "url": "https://www.ycombinator.com/companies/patternfast-prior-tailornovacouturme",
     "website": "http://patternfast.com"
   },
   {
@@ -31590,6 +31591,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/swerve.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Sapien",
+      "Goldfinch"
+    ],
+    "id": 30246,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1753392491,
+    "long_description": "Swerve is an AI character chat app that immerses users in rich stories and conversations. Users discover unique AI characters, choose their own persona, and dive into one-on-one or group chats that evolve naturally with no scripts and no limits. Our goal is to make Swerve the most entertaining part of your phone, a place where you step into any world, build stories with characters you connect with, and let every conversation go wherever it leads.",
+    "name": "Swerve",
+    "nonprofit": false,
+    "one_liner": "AI Chat & Stories",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "swerve",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Entertainment"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/swerve",
+    "website": "https://www.getswerve.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json",
     "app_answers": null,
     "app_video_public": false,
@@ -35674,56 +35718,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/conviction.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI",
-      "Parachute"
-    ],
-    "id": 30681,
-    "industries": [
-      "Fintech"
-    ],
-    "industry": "Fintech",
-    "isHiring": true,
-    "launched_at": 1752533752,
-    "long_description": "Conviction lets you create and discover trading ideas, then monitors the market and acts on them for you.\r\n\r\nStart with any idea you have - or discover one from traders you follow on X or Reddit - and turn it into a strategy in natural language. Backtest it, paper trade it, deploy it and share what you learn.",
-    "name": "Conviction",
-    "nonprofit": false,
-    "one_liner": "Anyone Can Trade",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "conviction",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech",
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Crypto / Web3",
-      "Consumer Finance",
-      "Stocks"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/conviction",
-    "website": "https://convictiontrade.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/doe.json",
     "app_answers": null,
     "app_video_public": false,
@@ -36057,50 +36051,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/twentytwo",
     "website": "https://twentytwo.bio/"
-  },
-  {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/physical-turing.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Riff",
-      "GoRiff"
-    ],
-    "id": 30703,
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "industry": "Industrials",
-    "isHiring": false,
-    "launched_at": 1752283172,
-    "long_description": "Physical Turing is a neo robot deployer. Our hardware-agnostic operating system lets us deploy any robot fast, and every deployment produces the real-world data we use to train our own intelligence.\r\n\r\nWe're starting by automating industrial inspection and security tasks, which have historically had labor shortages due to their safety risks.",
-    "name": "Physical Turing",
-    "nonprofit": false,
-    "one_liner": "Next generation robot deployer",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "physical-turing",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/physical-turing",
-    "website": "https://physicalturing.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -44286,6 +44236,48 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/petrarch.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33310,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1782965522,
+    "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
+    "name": "Petrarch",
+    "nonprofit": false,
+    "one_liner": "Internal industrial company data for frontier labs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "petrarch",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/091a0f9893d5a0f66b65399660fc8041716acd4e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "B2B",
+      "Privacy",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/petrarch",
+    "website": "https://petrarch.co/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json",
     "app_answers": null,
     "app_video_public": false,
@@ -45427,6 +45419,49 @@
     "website": "https://dreamscalelabs.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36348,
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1786922449,
+    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.\r\n\r\nReserve early access at https://www.antimattr.one/project-mnemosyne\r\n[use code YC at checkout]",
+    "name": "antimattr",
+    "nonprofit": false,
+    "one_liner": "voice-first hardware interface for human-agent interaction",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "antimattr",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/antimattr",
+    "website": "https://www.antimattr.one/project-mnemosyne"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json",
     "app_answers": null,
@@ -45572,10 +45607,10 @@
     "industry": "Fintech",
     "isHiring": false,
     "launched_at": 1790148781,
-    "long_description": "Ageospatial helps insurers value the risk on their properties remotely using satellite imagery.\r\n\r\n97% of commercial properties are never physically inspected because it's too slow and expensive. So insurers price risk based on what the client or broker tells them, and about half the time at least one of those records is wrong. The result is mispricing, fraud, and an estimated $36B in premium leakage every year in the US alone, which gets exposed the moment a disaster hits.\r\n\r\nUpload a list of addresses and their GeoAI reads satellite and street-level imagery, maps, real-time data, public records and the insurer's own data to determine what's really there, which natural and human hazards surround it, what changed over time, and which properties are worth inspecting. Each property becomes a living record that underwriting, claims and pricing teams can trace from past to present. Ageospatial deploys inside carriers and MGAs as an AI-native service, so insurers get outcomes delivered.",
+    "long_description": "Ageospatial helps organizations value the risk on their physical assets (properties, land, infrastructure) remotely using satellite imagery.\r\n\r\n97% of commercial properties are never physically inspected because it's too slow and expensive. So insurers price risk based on what the client or broker tells them, and about half the time at least one of those records is wrong. The result is mispricing, fraud, and an estimated $36B in premium leakage every year in the US alone, which gets exposed the moment a disaster hits.\r\n\r\nUpload a list of addresses and their GeoAI reads satellite and street-level imagery, maps, real-time data, public records and the insurer's own data to determine what's really there, which natural and human hazards surround it, what changed over time, and which properties are worth inspecting. Each property becomes a living record that underwriting, claims and pricing teams can trace from past to present. Ageospatial deploys inside carriers and MGAs as an AI-native service, so insurers get outcomes delivered.",
     "name": "Ageospatial",
     "nonprofit": false,
-    "one_liner": "Helping insurance companies value risk on properties remotely.",
+    "one_liner": "Physical intelligence for every decision with Geospatial AI.",
     "question_answers": false,
     "regions": [
       "United States of America",
