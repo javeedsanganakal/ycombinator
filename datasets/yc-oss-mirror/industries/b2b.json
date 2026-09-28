@@ -57610,7 +57610,6 @@
       "United States of America",
       "Canada",
       "America / Canada",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -87679,10 +87678,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1700355696,
-    "long_description": "Momentic is the agentic quality platform for web and mobile. \r\n\r\nEngineering teams write end-to-end tests in plain English, run them in CI, and use AI agents to triage failures, maintain coverage, and catch regressions before they reach users. \r\n\r\nNotion, Bilt, Quora, Xero, Webflow, and 100+ teams use Momentic to test critical user flows across web and mobile.\r\n\r\nLearn more at momentic.ai",
+    "long_description": "Momentic makes Mo, the AI QA engineer. Point Mo at your app with a goal and a swarm of agents bug-bashes it the way your team would, then reports every bug with repro steps, logs, and a video replay.\r\n\r\nNotion, Whatnot, Retool, Webflow, Framer, and 1,600+ teams use Momentic.\r\n\r\nTeams also use Momentic to write end-to-end tests in plain English, run them in CI, and let agents triage and maintain the suite across web and mobile.\r\n\r\nLearn more at momentic.ai",
     "name": "Momentic",
     "nonprofit": false,
-    "one_liner": "The agentic quality platform for web and mobile",
+    "one_liner": "Mo, the AI QA engineer that bug-bashes your app before every release",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -87694,13 +87693,13 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 18,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/momentic",
     "website": "https://momentic.ai"
@@ -105656,10 +105655,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1739847539,
-    "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
+    "long_description": "Mundo develops data, evaluations, and applied research for frontier labs and AI companies to advance perceptual intelligence across audio, video, and emerging modalities.",
     "name": "Mundo AI",
     "nonprofit": false,
-    "one_liner": "High Quality Multilingual Training Data for AI Models",
+    "one_liner": "The data layer for perceptual intelligence",
     "question_answers": false,
     "regions": [
       "Canada",
@@ -106468,7 +106467,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1739843143,
     "long_description": "Simulate decisions that matter.\r\n\r\nArtificial Societies builds a foundational model of human societies so enterprises and sovereigns can explore how people may respond before making consequential decisions. We combine behavioural science with simulations grounded in real-world behaviour to understand individual perspectives and how opinions develop across connected groups.\r\n\r\nTeams use our simulations to test communications, prepare for crises, explore new markets, and assess investor and public-policy reactions. They can run surveys, focus groups, interviews and experiments with simulated audiences, including stakeholders who are difficult to reach through traditional research, and decisions too sensitive to test otherwise.\r\n\r\nOur mission is to pioneer socially intelligent technology that shape the decisions that shape the world.",
     "name": "Artificial Societies",
@@ -121936,7 +121935,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1771920641,
-    "long_description": "/dev/fast is the AI-native code forge. We're building 'Review', an open-source Cursor for code review.\r\n\r\nThe Review app is designed to give you confidence in your code. Critique interactive visualizations, diffs, and agent traces, all from one interface. \r\n\r\nLearn more at https://dev.fast",
+    "long_description": "/dev/fast is the AI-native code forge. We're building Whiteboard, an open-source canvas for thoughtful software design.\r\n\r\nThe Whiteboard app is designed to give you confidence in your code. Critique interactive visualizations, diffs, and agent traces, all from one interface. \r\n\r\nLearn more at https://dev.fast",
     "name": "/dev/fast",
     "nonprofit": false,
     "one_liner": "/dev/fast is the AI-native code forge",
@@ -128650,7 +128649,7 @@
     "website": "https://foaster.ai"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json",
     "app_answers": null,
     "app_video_public": false,
@@ -128673,8 +128672,8 @@
     "one_liner": "Test your app with AI, catch bugs before users do",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Poland",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -135455,6 +135454,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "website": "https://onepatch.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/asakana.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35261,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1788189674,
+    "long_description": "Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",
+    "name": "Asakana",
+    "nonprofit": false,
+    "one_liner": "AI order entry for food distributors: emails and texts to ERP",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "asakana",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "SaaS",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/asakana",
+    "website": "https://www.asakana.co/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
