@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6253
+Companies classified: 6260
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -10,13 +10,13 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 | Role | Companies |
 | --- | ---: |
 | founders | 350 |
-| product | 1657 |
+| product | 1654 |
 | ux-ui | 939 |
-| engineering | 2859 |
-| sales | 754 |
-| marketing | 877 |
+| engineering | 2860 |
+| sales | 753 |
+| marketing | 876 |
 | monetization | 2124 |
-| Unclassified | 1132 |
+| Unclassified | 1136 |
 
 ## Recent examples
 

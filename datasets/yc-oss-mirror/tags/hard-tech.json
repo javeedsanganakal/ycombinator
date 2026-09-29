@@ -2637,7 +2637,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1645729600,
     "long_description": "AirMyne is building machines to capture & remove carbon dioxide from ambient atmospheric air so it can be utilized or sequestered downstream. Our team is based in Berkeley, CA. ",
     "name": "AirMyne",
@@ -4324,13 +4324,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/darwin",
     "website": "https://darwinrobotics.ai"
@@ -5892,7 +5892,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1786491305,
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
     "name": "Hemlock",
@@ -5996,5 +5996,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/the-subvocal-company",
     "website": "https://subvocal.company"
+  },
+  {
+    "all_locations": "Phoenix, AZ, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/habu.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37533,
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "industry": "Real Estate and Construction",
+    "isHiring": false,
+    "launched_at": 1790618614,
+    "long_description": "HABU is an AI-native real estate development firm that helps real estate investors deploy capital to build housing faster, at lower cost, and with higher yield. \r\n\r\nWe're building an internal AI-native operating system that completes 90%+ of development tasks at 95% faster processing speeds while delivering the same outcomes customers expect externally: high yield, low risk projects. We're selling the outcome, not the inputs to the outcome. \r\n\r\nDevelopers are service providers for white-collar investors: they find land, construct buildings, and operate and sell them for a profit. Our customers don't care how the projects are sourced or managed, only that they are completed on time and produce the forecasted returns. \r\n\r\nWe use agentic workflows, geospatial analysis and mapping, and development-specific workflow automation to manage the end-to-end process. The result is 5x more projects per FTE compared to a non-AI developer, 20% faster project schedules, and 10-15% lower total project costs. \r\n\r\nWe're *not* long term property owners, strictly the service provider (fee/merchant developer).\r\n\r\n$160B was deployed into multifamily in 2025 and $534B into commercial real estate overall. Developers naturally have high operating margins and we are building to be the most operationally and capital efficient developer in the country. \r\n\r\nStarting first with multifamily in Phoenix and then expanding nationally.  ",
+    "name": "HABU",
+    "nonprofit": false,
+    "one_liner": "Like Crosby, but for real estate development",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "habu",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afbe75a6c02bccd51c23fca509a7ba3de70f6920.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Real Estate and Construction",
+    "tags": [
+      "Hard Tech",
+      "Real Estate",
+      "Housing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/habu",
+    "website": "https://buildhabu.com"
   }
 ]

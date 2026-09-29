@@ -8083,7 +8083,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1625492255,
     "long_description": "hotglue is a tool that helps developers embed user-facing native SaaS integrations into their product with minimal development work, all while allowing the developers to remain in control of the data. hotglue also features a configurable Python-powered transformation layer for you to control how your product receives your customers' data. ",
     "name": "hotglue",
@@ -16989,52 +16989,6 @@
     "website": "https://www.fileforge.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/openfoundry.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "FlowState",
-      "Unidata"
-    ],
-    "id": 29466,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1711038198,
-    "long_description": "OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.\r\n\r\nLearn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",
-    "name": "OpenFoundry",
-    "nonprofit": false,
-    "one_liner": "The fastest developer experience for building on open source AI.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "openfoundry",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ce4129c96ae12a1f36222fb4e03f8ee4c1b0306.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/openfoundry",
-    "website": "https://www.openfoundry.ai/"
-  },
-  {
     "all_locations": "New York City, NY, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/silogy.json",
     "app_answers": null,
@@ -21104,7 +21058,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "traceroot-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
@@ -21112,12 +21068,13 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Open Source",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/traceroot-ai",
     "website": "https://traceroot.ai"
@@ -23541,7 +23498,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 1,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/gitcafe",
     "website": "https://git.cafe"
@@ -23693,7 +23650,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1786012852,
-    "long_description": "We produce the most capable, fast, and efficient coding agent harness. Our harness has 20k+ github stars, and $1m+/month of inference throughput.",
+    "long_description": "Jcode is a high-performance coding-agent harness that makes it possible for developers to scale up multi-agent/swarm workflows. It's built from the ground up with a different architecture to solve the memory bottleneck (it's 20x more memory efficient than Claude Code) that has kept agent swarms from going mainstream. It has 20K GitHub stars, and throughputs $1mil per month of inference spend",
     "name": "Jcode",
     "nonprofit": false,
     "one_liner": "High performance coding agents",
@@ -24701,5 +24658,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/maritime",
     "website": "https://maritime.sh/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boxesdev.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 38391,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790643542,
+    "long_description": "Port your development environment to the cloud. Give every coding agent on its own cloud computer, bring your Codex or Claude subscription, start agents from Slack and Linear, and manage them from your desktop, phone, or terminal.",
+    "name": "Boxes.dev",
+    "nonprofit": false,
+    "one_liner": "Cloud development environments for AI coding",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "boxesdev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9949c6b8484314fd6471d7e95c251af659528195.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/boxesdev",
+    "website": "https://boxes.dev"
   }
 ]

@@ -8920,7 +8920,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1645729600,
     "long_description": "AirMyne is building machines to capture & remove carbon dioxide from ambient atmospheric air so it can be utilized or sequestered downstream. Our team is based in Berkeley, CA. ",
     "name": "AirMyne",
@@ -11973,7 +11973,7 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "website": "https://bucket.bot"
@@ -14281,7 +14281,7 @@
     "long_description": "In the home services industry, field technicians are expected to handle three key tasks: diagnosing issues, making sales, and completing paperwork. It's rare to find individuals who excel at all three. We build AI agents to support technicians by improving diagnostic accuracy and helping them capture sales opportunities.",
     "name": "NOSO LABS",
     "nonprofit": false,
-    "one_liner": "Build AI agents for field technicians to diagnose and sell 10x better",
+    "one_liner": "AGI for home service",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -14293,7 +14293,7 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -14598,13 +14598,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/darwin",
     "website": "https://darwinrobotics.ai"
@@ -18517,7 +18517,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/marengo",
     "website": "https://marengox.com"
@@ -19762,7 +19762,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1786491305,
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
     "name": "Hemlock",

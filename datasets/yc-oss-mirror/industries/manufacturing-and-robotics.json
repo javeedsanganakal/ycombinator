@@ -2835,7 +2835,7 @@
       "Manufacturing"
     ],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "website": "https://bucket.bot"
@@ -4105,13 +4105,13 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/darwin",
     "website": "https://darwinrobotics.ai"
@@ -6363,7 +6363,7 @@
       "Manufacturing and Robotics"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1786491305,
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
     "name": "Hemlock",

@@ -5351,7 +5351,7 @@
       "B2B"
     ],
     "tags_highlighted": [],
-    "team_size": 60,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/instrumentl",
     "website": "https://www.instrumentl.com"
@@ -6563,7 +6563,7 @@
       "Recruiting and Talent"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1495675236,
     "long_description": "Gem’s talent engagement platform helps recruiting teams use data and automation to improve hiring speed, quality, and diversity.\r\n\r\nGem unifies data and context from the tools recruiters use every day, including email, applicant tracking systems, LinkedIn, and other social networks, to create a source of truth for all talent relationships. Armed with insights about the entire recruiting process, automation to reach out to talent at scale, and true cross-functional collaboration tools, TA teams can proactively and strategically plan for what’s ahead.\r\n\r\nGem's customers are savvy recruiting teams from industry-leading companies — like Wayfair, Dropbox, Nasdaq, Cisco, and Doordash — who understand that hiring the best talent in the market is key to maintaining their competitive advantage.",
     "name": "Gem",
@@ -6578,8 +6578,8 @@
     ],
     "slug": "gem",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a37f8c6b6d3cddaee978aab62ebe0f6bacec7db.png",
-    "stage": "Growth",
-    "status": "Active",
+    "stage": "Early",
+    "status": "Acquired",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
       "SaaS",
@@ -21833,7 +21833,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1625492255,
     "long_description": "hotglue is a tool that helps developers embed user-facing native SaaS integrations into their product with minimal development work, all while allowing the developers to remain in control of the data. hotglue also features a configurable Python-powered transformation layer for you to control how your product receives your customers' data. ",
     "name": "hotglue",
@@ -47337,11 +47337,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -48557,6 +48557,52 @@
     "website": "https://hyperprobe.co"
   },
   {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ufoai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Metalcraft",
+      "ufo.ai"
+    ],
+    "id": 33674,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790567216,
+    "long_description": "UFO is the operating platform for your business built by the creators of Github Copilot and Perplexity Computer. \r\n\r\nUFO learns your company, goals, tools, and workflows. UFO builds what your team needs to keep work moving.",
+    "name": "UFO.ai",
+    "nonprofit": false,
+    "one_liner": "Next-generation agent operating system",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "ufoai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ufoai",
+    "website": "https://ufo.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json",
     "app_answers": null,
@@ -48766,5 +48812,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/byteask",
     "website": "https://byteask.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37137,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790642577,
+    "long_description": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
+    "name": "Clean",
+    "nonprofit": false,
+    "one_liner": "Origination engine for deal transactional flow.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "clean",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e4d496ee0d1967a7b7483c4981a450e6b1130e7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Deep Learning",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/clean",
+    "website": "http://tryclean.ai"
   }
 ]
