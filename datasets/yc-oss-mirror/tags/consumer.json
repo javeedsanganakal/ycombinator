@@ -7154,15 +7154,15 @@
     "former_names": [],
     "id": 29247,
     "industries": [
-      "B2B"
+      "Consumer"
     ],
-    "industry": "B2B",
+    "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1703187990,
-    "long_description": "Precip uses AI to make hyperlocal weather observations. We’re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won’t get stuck in muddy fields.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
+    "long_description": "Precip uses deep-learning to make the most accurate rain forecast in the US. We started by using high-resolution radar to measure what actually fell, and built our minute-by-minute forecast on top of it. The result is a forecast that's 85% more accurate than Apple Weather and 52% more accurate than Google Weather, plus an API (with MCP) for developers.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
     "name": "Precip",
     "nonprofit": false,
-    "one_liner": "High precision AI weather models",
+    "one_liner": "High precision AI weather ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -7174,13 +7174,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce5bdc762563a51d03ff83ec08044222b14c450e.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Climate",
       "API",
-      "Agriculture"
+      "Agriculture",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -7451,7 +7451,7 @@
     "slug": "focal",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ec08eef8dbe4db1ca30529a97bf9fde4e2b61aa.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Consumer -> Content",
     "tags": [
       "Artificial Intelligence",
@@ -10669,7 +10669,7 @@
       "Health & Wellness"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/gutgutgoose",
     "website": "https://gutgutgoose.com/"
@@ -10861,7 +10861,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1786922449,
-    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.\r\n\r\nReserve early access at https://www.antimattr.one/project-mnemosyne\r\n[use code YC at checkout]",
+    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
     "name": "antimattr",
     "nonprofit": false,
     "one_liner": "voice-first hardware interface for human-agent interaction",
@@ -10880,7 +10880,8 @@
     "tags": [
       "Artificial Intelligence",
       "Hardware",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

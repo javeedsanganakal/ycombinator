@@ -21824,7 +21824,7 @@
     "website": "https://startplayinggames.com/"
   },
   {
-    "all_locations": "New York City, NY, USA; New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/racer.json",
     "app_answers": null,
     "app_video_public": false,
@@ -31449,6 +31449,50 @@
     "website": "https://happenstance.ai"
   },
   {
+    "all_locations": "Ann Arbor, MI, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/precip.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29247,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1703187990,
+    "long_description": "Precip uses deep-learning to make the most accurate rain forecast in the US. We started by using high-resolution radar to measure what actually fell, and built our minute-by-minute forecast on top of it. The result is a forecast that's 85% more accurate than Apple Weather and 52% more accurate than Google Weather, plus an API (with MCP) for developers.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
+    "name": "Precip",
+    "nonprofit": false,
+    "one_liner": "High precision AI weather ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "precip",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce5bdc762563a51d03ff83ec08044222b14c450e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Consumer",
+      "Climate",
+      "API",
+      "Agriculture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/precip",
+    "website": "https://precip.ai"
+  },
+  {
     "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/nuanced.json",
     "app_answers": null,
@@ -32004,7 +32048,7 @@
     "slug": "focal",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ec08eef8dbe4db1ca30529a97bf9fde4e2b61aa.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Acquired",
     "subindustry": "Consumer -> Content",
     "tags": [
       "Artificial Intelligence",
@@ -34715,7 +34759,7 @@
     "website": "https://www.askonestop.com"
   },
   {
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/costream.json",
     "app_answers": null,
     "app_video_public": false,
@@ -34748,7 +34792,7 @@
     "subindustry": "Consumer",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 7,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/costream",
     "website": "https://www.costream.ai"
@@ -37029,7 +37073,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1786922449,
-    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.\r\n\r\nReserve early access at https://www.antimattr.one/project-mnemosyne\r\n[use code YC at checkout]",
+    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
     "name": "antimattr",
     "nonprofit": false,
     "one_liner": "voice-first hardware interface for human-agent interaction",
@@ -37048,7 +37092,8 @@
     "tags": [
       "Artificial Intelligence",
       "Hardware",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

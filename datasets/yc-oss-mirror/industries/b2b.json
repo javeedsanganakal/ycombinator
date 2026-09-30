@@ -23052,7 +23052,7 @@
     ],
     "slug": "gem",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a37f8c6b6d3cddaee978aab62ebe0f6bacec7db.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Acquired",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
@@ -35093,7 +35093,7 @@
       "Sales"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1646371716,
     "long_description": "If you beat your competitors in head to head bakeoffs, you should want to get into every active evaluation of them possible. Letterdrop makes that possible so you can sell customers on your better solution.",
     "name": "Letterdrop",
@@ -35250,7 +35250,7 @@
     ],
     "slug": "taiv",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
@@ -60813,7 +60813,7 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/iron-leap.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/embedded-labs.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2022",
@@ -60823,7 +60823,8 @@
       "Iron Leap",
       "ZeusCloud",
       "Iron Leap",
-      "Viva Labs"
+      "Viva Labs",
+      "Iron Leap"
     ],
     "id": 25511,
     "industries": [
@@ -60833,7 +60834,7 @@
     "isHiring": false,
     "launched_at": 1648099991,
     "long_description": "",
-    "name": "Iron Leap",
+    "name": "Embedded Labs",
     "nonprofit": false,
     "one_liner": "Enteprise AI",
     "question_answers": false,
@@ -60843,18 +60844,18 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "iron-leap",
+    "slug": "embedded-labs",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 5,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/iron-leap",
+    "url": "https://www.ycombinator.com/companies/embedded-labs",
     "website": "https://getironleap.io/"
   },
   {
@@ -61290,7 +61291,7 @@
     "slug": "rehook-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53da24c36b479dbe73257b4e0460bbc902e023bf.png",
     "stage": "Early",
-    "status": "Active",
+    "status": "Inactive",
     "subindustry": "B2B -> Marketing",
     "tags": [
       "SaaS",
@@ -71056,10 +71057,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
+    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "The web data API for searching and scraping. 🔥",
+    "one_liner": "Give your AI agents web data and beyond.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -71073,9 +71074,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -75732,7 +75733,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673911015,
-    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse joined Clickhouse in Jan 2026 where the founders now continue to build the team.",
     "name": "Langfuse",
     "nonprofit": false,
     "one_liner": "Open source LLM engineering platform",
@@ -75756,7 +75757,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 26,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/langfuse",
     "website": "https://langfuse.com"
@@ -85212,7 +85213,7 @@
       "America / Canada"
     ],
     "slug": "sante",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a2b4571e1045f35c0ba2461c33ab3553502aba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d10be62025bd08a71a16a6b40cd46744ed418b47.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Retail",
@@ -85223,7 +85224,7 @@
       "Retail"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sante",
     "website": "https://santehq.com/"
@@ -85535,12 +85536,12 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tiptap",
     "website": "https://tiptap.dev/"
@@ -87488,50 +87489,6 @@
     "website": "https://tracecat.com"
   },
   {
-    "all_locations": "Ann Arbor, MI, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/precip.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29247,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1703187990,
-    "long_description": "Precip uses AI to make hyperlocal weather observations. We’re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won’t get stuck in muddy fields.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
-    "name": "Precip",
-    "nonprofit": false,
-    "one_liner": "High precision AI weather models",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "precip",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce5bdc762563a51d03ff83ec08044222b14c450e.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Climate",
-      "API",
-      "Agriculture"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/precip",
-    "website": "https://precip.ai"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/poka-labs.json",
     "app_answers": null,
@@ -88221,7 +88178,7 @@
     "website": "https://usecarousel.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/leaping.json",
     "app_answers": null,
     "app_video_public": false,
@@ -99751,7 +99708,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1724803143,
     "long_description": "",
     "name": "Serve AI",
@@ -104625,12 +104582,12 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
-    "team_size": 14,
+    "team_size": 16,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/weave-3",
     "website": "https://weaveos.com"
@@ -111081,7 +111038,7 @@
     "website": "https://mindfort.ai/?utm_source=ycombinator&utm_medium=referral&utm_campaign=yc"
   },
   {
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/probo.json",
     "app_answers": null,
     "app_video_public": false,
@@ -111102,8 +111059,8 @@
     "one_liner": "We help you get compliant while you focus on your business.",
     "question_answers": false,
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -112153,10 +112110,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1756399069,
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
+    "long_description": "Dedalus Labs builds persistent compute for AI agents. Our flagship product, Dedalus Machines, gives agents isolated computers where they can run software, keep files and state, and do useful work over time.\r\n\r\nWe build across virtualization, distributed storage, networking, scheduling, and orchestration. Our goal is to make persistent compute dependable and straightforward to use through APIs and developer tools, so developers can build agents that work with real software and maintain a working environment across sessions.",
     "name": "Dedalus Labs",
     "nonprofit": false,
-    "one_liner": "Compute substrate for AI agents",
+    "one_liner": "Persistent computers for AI agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -112168,13 +112125,14 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dedalus-labs",
     "website": "https://www.dedaluslabs.ai/"
@@ -114274,7 +114232,7 @@
       "Security"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1753230986,
     "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
     "name": "GhostEye",
@@ -124628,7 +124586,7 @@
     "subindustry": "B2B -> Finance and Accounting",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/getbalance",
     "website": "https://getbalance.ai"
@@ -125466,6 +125424,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/polymorph",
     "website": "https://usepolymorph.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensortest.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Ritivel",
+      "ritivel",
+      "Ritivel"
+    ],
+    "id": 31276,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1768402832,
+    "long_description": "TensorTest (formerly Ritivel) builds evaluations, reinforcement-learning environments, and expert training data for AI labs developing creative agents, starting with video editing.\r\n\r\nAn agent can produce a valid video file without delivering an edit that meets the client’s brief. Labs need reliable ways to measure creative quality, identify failures, and give agents feedback they can learn from.\r\n\r\nOur first benchmark, TimelineBench, gives agents client video-editing jobs with raw footage, audio, and a brief. It evaluates the finished work using a verifier calibrated on thousands of blind judgments from professional editors. Across 16 agents we tested, the best passed only 26.8% of jobs. Most failures came down to creative craft rather than broken output.\r\n\r\nWe offer labs private evaluations to identify where their models fail, training environments that use our verifier’s scores as rewards, and expert-created training data, including professional editing demonstrations, preference pairs, and grading rubrics. These offerings connect evaluation to training: identify what an agent gets wrong, provide feedback on its attempts, and supply examples of better work.\r\n\r\nOur team comes from IIT Bombay and has trained language models and built agentic systems at Microsoft Research.",
+    "name": "TensorTest",
+    "nonprofit": false,
+    "one_liner": "Evals, RL environments and training data for creative tasks",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tensortest",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d28967db9fc99eca39bf1e1c109e9fdfea90d7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tensortest",
+    "website": "https://www.tensortest.com"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -128176,7 +128178,7 @@
       "America / Canada"
     ],
     "slug": "tdaycom",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ec63fc78e093a5b7f3e3bd3fa5d9b3e40ec232.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56be7129960cd50835ff96f316fe88a3f6bbbc3a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -130847,7 +130849,7 @@
     "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI models. We autonomously collect your data via trace SDK / app MCP / CUA agents and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
     "name": "Belvedir",
     "nonprofit": false,
-    "one_liner": "The custom AI model factories",
+    "one_liner": "Your custom AI model factory",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -130859,8 +130861,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "team_size": 1,
@@ -131764,7 +131766,7 @@
     "website": "https://www.getcoach.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/joinmarble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -134714,13 +134716,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/neomatter.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "Lightfield, Inc."
+      "Lightfield, Inc.",
+      "Lightfield"
     ],
     "id": 33804,
     "industries": [
@@ -134730,8 +134733,8 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1786835532,
-    "long_description": "Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
-    "name": "Lightfield",
+    "long_description": "Neomatter connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
+    "name": "Neomatter",
     "nonprofit": false,
     "one_liner": "AI that works for in-house legal teams",
     "question_answers": false,
@@ -134739,8 +134742,8 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "lightfield",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
+    "slug": "neomatter",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a30dd6a7d86e342da32a42b330195358721c4571.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Legal",
@@ -134752,8 +134755,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/lightfield",
-    "website": "https://trylightfield.ai"
+    "url": "https://www.ycombinator.com/companies/neomatter",
+    "website": "https://neomatter.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -134969,6 +134972,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/opentag",
     "website": "https://www.tryopentag.com/"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "moda.app"
+    ],
+    "id": 34134,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1790709958,
+    "long_description": "",
+    "name": "Moda",
+    "nonprofit": false,
+    "one_liner": "Fully editable slides, designs and video.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "moda-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "AI-Enhanced Learning",
+      "Design",
+      "Sales",
+      "Video",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/moda-2",
+    "website": ""
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -136001,6 +136049,51 @@
     "website": "https://vorelios.com"
   },
   {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Every App"
+    ],
+    "id": 36088,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790725906,
+    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
+    "name": "OpenSEO",
+    "nonprofit": false,
+    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "openseo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Open Source",
+      "Marketing",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/openseo",
+    "website": "https://openseo.so/"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/opera.json",
     "app_answers": null,
@@ -136266,7 +136359,7 @@
     "long_description": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
     "name": "Clean",
     "nonprofit": false,
-    "one_liner": "Origination engine for deal transactional flow.",
+    "one_liner": "We tell sellers exactly when a company is ready to buy.",
     "question_answers": false,
     "regions": [
       "United States of America",

@@ -2158,7 +2158,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2018",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 1970,
     "industries": [
@@ -2192,7 +2192,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
     "website": "https://www.alphavantage.co/"
@@ -8986,6 +8986,53 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/embedded-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Resolutely",
+      "Iron Leap",
+      "ZeusCloud",
+      "Iron Leap",
+      "Viva Labs",
+      "Iron Leap"
+    ],
+    "id": 25511,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1648099991,
+    "long_description": "",
+    "name": "Embedded Labs",
+    "nonprofit": false,
+    "one_liner": "Enteprise AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "embedded-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 5,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/embedded-labs",
+    "website": "https://getironleap.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/roomplays.json",
     "app_answers": null,
     "app_video_public": false,
@@ -12590,6 +12637,53 @@
     "website": "https://invofox.com?utm_source=yc"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "SideGuide",
+      "Mendable",
+      "SideGuide",
+      "Mendable"
+    ],
+    "id": 27152,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1661283698,
+    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "name": "Firecrawl",
+    "nonprofit": false,
+    "one_liner": "Give your AI agents web data and beyond.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "firecrawl",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "website": "https://www.firecrawl.dev"
+  },
+  {
     "all_locations": "Amsterdam, NH, Netherlands",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/oneleet.json",
     "app_answers": null,
@@ -14050,7 +14144,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673911015,
-    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse joined Clickhouse in Jan 2026 where the founders now continue to build the team.",
     "name": "Langfuse",
     "nonprofit": false,
     "one_liner": "Open source LLM engineering platform",
@@ -14074,7 +14168,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 26,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/langfuse",
     "website": "https://langfuse.com"
@@ -15655,6 +15749,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kapa-ai",
     "website": "https://www.kapa.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/ora-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Synaptiq"
+    ],
+    "id": 28776,
+    "industries": [
+      "Education"
+    ],
+    "industry": "Education",
+    "isHiring": false,
+    "launched_at": 1691697045,
+    "long_description": "Ora is an AI-native healthcare education platform that students and faculty love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
+    "name": "Ora AI",
+    "nonprofit": false,
+    "one_liner": "The AI Platform for Medical Education",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "ora-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e986c79fdf04d121008f6f06d79ac622e40609d2.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Education",
+    "tags": [
+      "Education",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ora-ai",
+    "website": "https://www.oraai.com/"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -17842,6 +17980,49 @@
     "website": "https://www.fiber.ai/apis"
   },
   {
+    "all_locations": "Berlin, Berlin, Germany",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/tiptap.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2023",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29079,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1687103873,
+    "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
+    "name": "Tiptap",
+    "nonprofit": false,
+    "one_liner": "The open-source document editor for humans and AI agents.",
+    "question_answers": false,
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "tiptap",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ea1ff4314cdf63ee3867e1d262f8d1119847e40.png",
+    "stage": "Growth",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 20,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tiptap",
+    "website": "https://tiptap.dev/"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json",
     "app_answers": null,
@@ -19037,6 +19218,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "website": "https://www.kabilah.com"
+  },
+  {
+    "all_locations": "Ann Arbor, MI, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/precip.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29247,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1703187990,
+    "long_description": "Precip uses deep-learning to make the most accurate rain forecast in the US. We started by using high-resolution radar to measure what actually fell, and built our minute-by-minute forecast on top of it. The result is a forecast that's 85% more accurate than Apple Weather and 52% more accurate than Google Weather, plus an API (with MCP) for developers.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
+    "name": "Precip",
+    "nonprofit": false,
+    "one_liner": "High precision AI weather ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "precip",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce5bdc762563a51d03ff83ec08044222b14c450e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Consumer",
+      "Climate",
+      "API",
+      "Agriculture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/precip",
+    "website": "https://precip.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -22817,6 +23042,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/networkocean.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29663,
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1722891266,
+    "long_description": "We build floating solar data centers to reduce time-to-first-power by 10x. We powered an H100 in the bay, from a paper sketch to serving a customer within 60 days.",
+    "name": "NetworkOcean",
+    "nonprofit": false,
+    "one_liner": "We build floating solar data centers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "networkocean",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea43063c4846025feacfa937099e20519f804c8.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Climate",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Cloud Computing",
+      "ClimateTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/networkocean",
+    "website": "https://networkocean.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/cloudglue.json",
     "app_answers": null,
     "app_video_public": false,
@@ -25058,7 +25326,7 @@
       "Operations"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1724803143,
     "long_description": "",
     "name": "Serve AI",
@@ -27573,49 +27841,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/verbiflow",
     "website": "https://verbiflow.com"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/weave-3.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "WorkWeave"
-    ],
-    "id": 30228,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1738683202,
-    "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
-    "name": "Weave",
-    "nonprofit": false,
-    "one_liner": "AI to understand and then route engineering work",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "weave-3",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 14,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/weave-3",
-    "website": "https://weaveos.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -31178,6 +31403,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30605,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1756399069,
+    "long_description": "Dedalus Labs builds persistent compute for AI agents. Our flagship product, Dedalus Machines, gives agents isolated computers where they can run software, keep files and state, and do useful work over time.\r\n\r\nWe build across virtualization, distributed storage, networking, scheduling, and orchestration. Our goal is to make persistent compute dependable and straightforward to use through APIs and developer tools, so developers can build agents that work with real software and maintain a working environment across sessions.",
+    "name": "Dedalus Labs",
+    "nonprofit": false,
+    "one_liner": "Persistent computers for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "dedalus-labs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 8,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/dedalus-labs",
+    "website": "https://www.dedaluslabs.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mangodesk.json",
     "app_answers": null,
     "app_video_public": false,
@@ -32055,7 +32323,7 @@
       "Security"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1753230986,
     "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
     "name": "GhostEye",
@@ -34420,47 +34688,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/origin-bio.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 31064,
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1770167044,
-    "long_description": "We produce patient-derived cancer datasets for licensing to pharmaceutical and AI companies. Our data comprises matched spatial transcriptomics, H&E and clinical labels. We operate our own laboratory, where samples are processed. Samples are sourced from leading biobank / hospital networks.\r\n\r\nAs R&D workflows increasingly rely on frontier AI systems, we believe there is critical need for real world datapoints so that findings translate in the clinic.",
-    "name": "Origin",
-    "nonprofit": false,
-    "one_liner": "AI and Data for Cancer Therapeutics",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "origin-bio",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/origin-bio",
-    "website": "https://origin.bio/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json",
     "app_answers": null,
     "app_video_public": false,
@@ -36670,51 +36897,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/belvedir.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Fractal",
-      "Fractal Research",
-      "Fractal Machine Research",
-      "Belvedir",
-      "Fractal Machine Research"
-    ],
-    "id": 32133,
-    "industries": [
-      "B2B"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1784319754,
-    "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI models. We autonomously collect your data via trace SDK / app MCP / CUA agents and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
-    "name": "Belvedir",
-    "nonprofit": false,
-    "one_liner": "The custom AI model factories",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "belvedir",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B",
-    "tags": [
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 1,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/belvedir",
-    "website": "https://belvedir.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json",
     "app_answers": null,
     "app_video_public": false,
@@ -37438,7 +37620,7 @@
     "website": "https://audun.co"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/joinmarble.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39540,6 +39722,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35454,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1789000982,
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks. We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We also provide integration into customers’ existing workflows, starting with data center construction and operations, electrical manufacturing and testing, and electronics manufacturing, where traditional automation struggles with variability, dexterity, and changing environments. ",
+    "name": "Shepherd Robotics",
+    "nonprofit": false,
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "shepherd-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "website": "https://shepherdrobotics.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39664,6 +39889,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hesper-ai",
     "website": "https://gethesperai.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36348,
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1786922449,
+    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
+    "name": "antimattr",
+    "nonprofit": false,
+    "one_liner": "voice-first hardware interface for human-agent interaction",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "antimattr",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/antimattr",
+    "website": "https://www.antimattr.one/project-mnemosyne"
   },
   {
     "all_locations": "New York City, NY, USA",

@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6260
+Companies classified: 6265
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -9,14 +9,14 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 | Role | Companies |
 | --- | ---: |
-| founders | 350 |
+| founders | 349 |
 | product | 1654 |
-| ux-ui | 939 |
-| engineering | 2860 |
-| sales | 753 |
-| marketing | 876 |
+| ux-ui | 940 |
+| engineering | 2859 |
+| sales | 755 |
+| marketing | 878 |
 | monetization | 2124 |
-| Unclassified | 1136 |
+| Unclassified | 1137 |
 
 ## Recent examples
 
@@ -45,10 +45,10 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Terminal Use** (Winter 2026, B2B): AI-native transformation for operations-heavy companies [evidence: workflow]
 - **Sentrial** (Winter 2026, B2B): Datadog for Agent Reliability [evidence: platform]
 - **Ruma Care** (Winter 2026, Healthcare): The operations stack for biologic infusion clinics [evidence: workflow, platform]
-- **Ritivel** (Winter 2026, Healthcare): AI-native platform for Life-Sciences Documentation  [evidence: platform]
 - **Rhizome AI** (Winter 2026, B2B): Agent Platform for Life Sciences [evidence: platform]
 - **Ressl AI** (Winter 2026, B2B): Train, eval and build autonomous agents [evidence: platform]
 - **Quotient Labs** (Winter 2026, B2B): Use Claude Code at 47% less cost in one line of installation. [evidence: workflow]
+- **Pax Historia** (Winter 2026, Consumer): The first AI-powered worldbuilding and gameplay platform [evidence: platform]
 
 ### ux-ui
 
@@ -91,9 +91,9 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Shofo** (Winter 2026, B2B): The World's Largest Video Library [evidence: pipeline]
 - **Samora AI** (Winter 2026, B2B): Multilingual voice agents that outperform humans [evidence: outbound]
 - **Robby** (Winter 2026, B2B): AI agents that grow revenue for home services businesses [evidence: revenue]
-- **Ritivel** (Winter 2026, Healthcare): AI-native platform for Life-Sciences Documentation  [evidence: revenue]
 - **Revion** (Winter 2026, B2B): Intelligence for Automotive Operations [evidence: revenue]
 - **Q2Q** (Winter 2026, B2B): We help private equity teams find acquisition targets faster [evidence: outbound]
+- **Pollen** (Winter 2026, B2B): AI agents that automate customer success [evidence: crm]
 
 ### marketing
 

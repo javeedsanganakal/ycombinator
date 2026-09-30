@@ -1125,15 +1125,15 @@
     "former_names": [],
     "id": 29247,
     "industries": [
-      "B2B"
+      "Consumer"
     ],
-    "industry": "B2B",
+    "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1703187990,
-    "long_description": "Precip uses AI to make hyperlocal weather observations. We’re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won’t get stuck in muddy fields.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
+    "long_description": "Precip uses deep-learning to make the most accurate rain forecast in the US. We started by using high-resolution radar to measure what actually fell, and built our minute-by-minute forecast on top of it. The result is a forecast that's 85% more accurate than Apple Weather and 52% more accurate than Google Weather, plus an API (with MCP) for developers.\r\n\r\nOur highly rated mobile app is the best way to see rain and snow totals anywhere. \r\n",
     "name": "Precip",
     "nonprofit": false,
-    "one_liner": "High precision AI weather models",
+    "one_liner": "High precision AI weather ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -1145,13 +1145,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce5bdc762563a51d03ff83ec08044222b14c450e.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B",
+    "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Climate",
       "API",
-      "Agriculture"
+      "Agriculture",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -1309,7 +1309,7 @@
       "Agriculture"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1768433444,
     "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
     "name": "Brumby (Formerly GrazeMate)",

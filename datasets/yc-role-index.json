@@ -1,5 +1,5 @@
 {
-  "company_count": 6260,
+  "company_count": 6265,
   "roles": {
     "engineering": {
       "companies": [
@@ -508,27 +508,6 @@
           "name": "Robby",
           "one_liner": "AI agents that grow revenue for home services businesses",
           "slug": "robby"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Ritivel",
-          "one_liner": "AI-native platform for Life-Sciences Documentation ",
-          "slug": "ritivel"
         },
         {
           "batch": "Winter 2026",
@@ -3881,9 +3860,9 @@
               "api"
             ]
           },
-          "industry": "B2B",
+          "industry": "Consumer",
           "name": "Precip",
-          "one_liner": "High precision AI weather models",
+          "one_liner": "High precision AI weather ",
           "slug": "precip"
         },
         {
@@ -23466,7 +23445,7 @@
           },
           "industry": "B2B",
           "name": "Belvedir",
-          "one_liner": "The custom AI model factories",
+          "one_liner": "Your custom AI model factory",
           "slug": "belvedir"
         },
         {
@@ -24932,17 +24911,16 @@
           "evidence": {
             "engineering": [
               "developer",
+              "software",
               "infrastructure",
               "devops",
+              "cloud",
               "developer tools"
-            ],
-            "product": [
-              "workflow"
             ]
           },
           "industry": "B2B",
           "name": "Dedalus Labs",
-          "one_liner": "Compute substrate for AI agents",
+          "one_liner": "Persistent computers for AI agents",
           "slug": "dedalus-labs"
         },
         {
@@ -26364,7 +26342,7 @@
           },
           "industry": "Industrials",
           "name": "NetworkOcean",
-          "one_liner": "We build and operate underwater data centers.",
+          "one_liner": "We build floating solar data centers",
           "slug": "networkocean"
         },
         {
@@ -30821,16 +30799,12 @@
             "engineering": [
               "developer",
               "api",
-              "infrastructure",
               "developer tools"
-            ],
-            "founders": [
-              "company building"
             ]
           },
           "industry": "B2B",
           "name": "Firecrawl",
-          "one_liner": "The web data API for searching and scraping. 🔥",
+          "one_liner": "Give your AI agents web data and beyond.",
           "slug": "firecrawl"
         },
         {
@@ -45589,6 +45563,18 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Archangel Health",
+          "one_liner": "Infra to make AI safe enough to practice medicine",
+          "slug": "archangel-health"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "robotics"
             ]
           },
@@ -45596,21 +45582,6 @@
           "name": "Antropi Robotics",
           "one_liner": "Autonomous CNC factories for faster hardware",
           "slug": "antropi-robotics"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "engineering": [
-              "code"
-            ],
-            "ux-ui": [
-              "interface"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "antimattr",
-          "one_liner": "voice-first hardware interface for human-agent interaction",
-          "slug": "antimattr"
         },
         {
           "batch": "Fall 2026",
@@ -47752,7 +47723,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2860
+      "count": 2859
     },
     "founders": {
       "companies": [
@@ -51864,24 +51835,6 @@
           "batch": "Summer 2022",
           "evidence": {
             "engineering": [
-              "developer",
-              "api",
-              "infrastructure",
-              "developer tools"
-            ],
-            "founders": [
-              "company building"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Firecrawl",
-          "one_liner": "The web data API for searching and scraping. 🔥",
-          "slug": "firecrawl"
-        },
-        {
-          "batch": "Summer 2022",
-          "evidence": {
-            "engineering": [
               "software"
             ],
             "founders": [
@@ -54218,7 +54171,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 350
+      "count": 349
     },
     "marketing": {
       "companies": [
@@ -69268,6 +69221,37 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "marketing": [
+              "marketing",
+              "seo"
+            ]
+          },
+          "industry": "B2B",
+          "name": "OpenSEO",
+          "one_liner": "Open source alternative to Semrush and Ahrefs",
+          "slug": "openseo"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "marketing": [
+              "marketing"
+            ],
+            "sales": [
+              "sales"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Moda",
+          "one_liner": "Fully editable slides, designs and video.",
+          "slug": "moda-2"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "engineer"
             ],
@@ -69848,7 +69832,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 876
+      "count": 878
     },
     "monetization": {
       "companies": [
@@ -70098,27 +70082,6 @@
           "name": "Robby",
           "one_liner": "AI agents that grow revenue for home services businesses",
           "slug": "robby"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Ritivel",
-          "one_liner": "AI-native platform for Life-Sciences Documentation ",
-          "slug": "ritivel"
         },
         {
           "batch": "Winter 2026",
@@ -104381,6 +104344,25 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "monetization": [
+              "revenue",
+              "financial"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Ascenix",
+          "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+          "slug": "ascenix"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "infrastructure"
             ],
@@ -105556,27 +105538,6 @@
           "name": "Ruma Care",
           "one_liner": "The operations stack for biologic infusion clinics",
           "slug": "ruma-care"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Ritivel",
-          "one_liner": "AI-native platform for Life-Sciences Documentation ",
-          "slug": "ritivel"
         },
         {
           "batch": "Winter 2026",
@@ -120742,24 +120703,6 @@
           "batch": "Summer 2025",
           "evidence": {
             "engineering": [
-              "developer",
-              "infrastructure",
-              "devops",
-              "developer tools"
-            ],
-            "product": [
-              "workflow"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Dedalus Labs",
-          "one_liner": "Compute substrate for AI agents",
-          "slug": "dedalus-labs"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
-            "engineering": [
               "engineer",
               "engineering",
               "developer",
@@ -133457,6 +133400,41 @@
           "slug": "dreamscale-labs"
         },
         {
+          "batch": "Fall 2026",
+          "evidence": {
+            "product": [
+              "workflow",
+              "platform"
+            ],
+            "sales": [
+              "sales"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "CONUS",
+          "one_liner": "The AI knowledge layer for medical devices",
+          "slug": "conus"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
+              "revenue",
+              "financial"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Ascenix",
+          "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+          "slug": "ascenix"
+        },
+        {
           "batch": "Fall 2025",
           "evidence": {
             "product": [
@@ -134532,27 +134510,6 @@
           "name": "Robby",
           "one_liner": "AI agents that grow revenue for home services businesses",
           "slug": "robby"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Ritivel",
-          "one_liner": "AI-native platform for Life-Sciences Documentation ",
-          "slug": "ritivel"
         },
         {
           "batch": "Winter 2026",
@@ -147779,6 +147736,24 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "marketing": [
+              "marketing"
+            ],
+            "sales": [
+              "sales"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Moda",
+          "one_liner": "Fully editable slides, designs and video.",
+          "slug": "moda-2"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "developer",
               "infrastructure",
@@ -147837,6 +147812,22 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "product": [
+              "workflow",
+              "platform"
+            ],
+            "sales": [
+              "sales"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "CONUS",
+          "one_liner": "The AI knowledge layer for medical devices",
+          "slug": "conus"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "infrastructure"
             ],
@@ -147848,6 +147839,25 @@
           "name": "Aviern",
           "one_liner": "Unmanned airplanes for geospatial intelligence",
           "slug": "aviern"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
+              "revenue",
+              "financial"
+            ],
+            "product": [
+              "platform"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Ascenix",
+          "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+          "slug": "ascenix"
         },
         {
           "batch": "Fall 2025",
@@ -148461,7 +148471,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 753
+      "count": 755
     },
     "ux-ui": {
       "companies": [
@@ -164620,6 +164630,24 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "marketing": [
+              "marketing"
+            ],
+            "sales": [
+              "sales"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Moda",
+          "one_liner": "Fully editable slides, designs and video.",
+          "slug": "moda-2"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "engineering": [
               "engineering"
             ],
@@ -164725,9 +164753,6 @@
         {
           "batch": "Fall 2026",
           "evidence": {
-            "engineering": [
-              "code"
-            ],
             "ux-ui": [
               "interface"
             ]
@@ -165802,13 +165827,13 @@
           "slug": "alex"
         }
       ],
-      "count": 939
+      "count": 940
     }
   },
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1136,
+    "count": 1137,
     "slugs": [
       "1000memories",
       "100x",
@@ -166097,6 +166122,7 @@
       "elyos-ai",
       "elythea",
       "emailio",
+      "embedded-labs",
       "encepheal-therapeutics",
       "endpoint-health",
       "engage-bio",
@@ -166275,7 +166301,6 @@
       "intryc",
       "inversion-space",
       "invo",
-      "iron-leap",
       "issen",
       "ixora",
       "jamiphy",
@@ -166342,7 +166367,6 @@
       "lemonslice",
       "lexius",
       "lifelike",
-      "lightfield",
       "likebetter",
       "lilia",
       "linkgrep",
@@ -166449,6 +166473,7 @@
       "nebusec",
       "necto",
       "nectome",
+      "neomatter",
       "netter",
       "new-incentives",
       "nexa-labs",
@@ -166796,6 +166821,7 @@
       "telli",
       "ten-lives",
       "tenant-turner",
+      "tensortest",
       "tergle",
       "terranox-ai",
       "terusama",

@@ -5919,52 +5919,6 @@
     "website": "https://patientdesk.ai/"
   },
   {
-    "all_locations": "Bengaluru, KA, India",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Ritivel",
-      "ritivel"
-    ],
-    "id": 31276,
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1768402832,
-    "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "name": "Ritivel",
-    "nonprofit": false,
-    "one_liner": "AI-native platform for Life-Sciences Documentation ",
-    "question_answers": false,
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "slug": "ritivel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "tags": [
-      "Generative AI",
-      "Compliance",
-      "Enterprise Software",
-      "Regtech",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/ritivel",
-    "website": "https://www.ritivel.com"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json",
     "app_answers": null,
@@ -6083,5 +6037,45 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hubble-ai",
     "website": "https://hubble.ai/"
+  },
+  {
+    "all_locations": "Toronto, ON, Canada",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascenix.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37434,
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1790728301,
+    "long_description": "Ascenix is the all-in-one incident platform that turns unstructured EHR data into automated reporting, reimbursement recovery, compliance flagging, and clinical insight. We’re already live in 50 homes and scaling across North America. We connect to systems like PointClickCare and analyze the notes nurses already write, adapting to any note structure and any compliance or reporting requirement.\r\n\r\nWe help teams identify documentation gaps, uncover missed revenue opportunities and spot emerging resident risks, while reducing time spent reviewing charts and building spreadsheets. Our goal is to improve residents’ quality of life by helping care homes reach their full clinical, financial and operational potential.",
+    "name": "Ascenix",
+    "nonprofit": false,
+    "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+    "question_answers": false,
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "slug": "ascenix",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9df54ccfcc3e9d39a078433b991341cfb364eb78.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "tags": [
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/ascenix",
+    "website": "https://www.ascenix.co/"
   }
 ]

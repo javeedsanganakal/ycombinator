@@ -8451,7 +8451,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1643912064,
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "name": "Seabound",
@@ -8920,7 +8920,7 @@
       "Climate"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1645729600,
     "long_description": "AirMyne is building machines to capture & remove carbon dioxide from ambient atmospheric air so it can be utilized or sequestered downstream. Our team is based in Berkeley, CA. ",
     "name": "AirMyne",
@@ -11145,26 +11145,26 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1722891266,
-    "long_description": "We build underwater data centers to cut power usage by up to 30%, operating GPUs cheaper and more sustainably. Our 1 MW capsule is being tested underwater in the SF Bay\r\n",
+    "long_description": "We build floating solar data centers to reduce time-to-first-power by 10x. We powered an H100 in the bay, from a paper sketch to serving a customer within 60 days.",
     "name": "NetworkOcean",
     "nonprofit": false,
-    "one_liner": "We build and operate underwater data centers.",
+    "one_liner": "We build floating solar data centers",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "networkocean",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9218c4f6be619084edb67499824064edfcb87f57.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea43063c4846025feacfa937099e20519f804c8.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Climate",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Cloud Computing",
-      "ClimateTech"
+      "ClimateTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -16142,7 +16142,7 @@
       "Agriculture"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1768433444,
     "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
     "name": "Brumby (Formerly GrazeMate)",
@@ -19642,7 +19642,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1789000982,
-    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks. We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We also provide integration into customers’ existing workflows, starting with data center construction and operations, electrical manufacturing and testing, and electronics manufacturing, where traditional automation struggles with variability, dexterity, and changing environments. ",
     "name": "Shepherd Robotics",
     "nonprofit": false,
     "one_liner": "Robots for high skilled labor powering AI infrastructure",
@@ -19657,11 +19657,11 @@
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,

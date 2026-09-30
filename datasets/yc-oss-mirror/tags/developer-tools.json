@@ -2812,7 +2812,7 @@
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2018",
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "former_names": [],
     "id": 1970,
     "industries": [
@@ -2846,7 +2846,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 25,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
     "website": "https://www.alphavantage.co/"
@@ -11853,10 +11853,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
+    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "The web data API for searching and scraping. 🔥",
+    "one_liner": "Give your AI agents web data and beyond.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -11870,9 +11870,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -13042,7 +13042,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673911015,
-    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse joined Clickhouse in Jan 2026 where the founders now continue to build the team.",
     "name": "Langfuse",
     "nonprofit": false,
     "one_liner": "Open source LLM engineering platform",
@@ -13066,7 +13066,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 26,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/langfuse",
     "website": "https://langfuse.com"
@@ -15458,12 +15458,12 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tiptap",
     "website": "https://tiptap.dev/"
@@ -16230,7 +16230,7 @@
     "website": "https://agenticlabs.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/leaping.json",
     "app_answers": null,
     "app_video_public": false,
@@ -21007,10 +21007,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1756399069,
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
+    "long_description": "Dedalus Labs builds persistent compute for AI agents. Our flagship product, Dedalus Machines, gives agents isolated computers where they can run software, keep files and state, and do useful work over time.\r\n\r\nWe build across virtualization, distributed storage, networking, scheduling, and orchestration. Our goal is to make persistent compute dependable and straightforward to use through APIs and developer tools, so developers can build agents that work with real software and maintain a working environment across sessions.",
     "name": "Dedalus Labs",
     "nonprofit": false,
-    "one_liner": "Compute substrate for AI agents",
+    "one_liner": "Persistent computers for AI agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -21022,13 +21022,14 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 8,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/dedalus-labs",
     "website": "https://www.dedaluslabs.ai/"

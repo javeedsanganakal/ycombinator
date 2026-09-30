@@ -3949,10 +3949,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
+    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "The web data API for searching and scraping. 🔥",
+    "one_liner": "Give your AI agents web data and beyond.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3966,9 +3966,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -4313,7 +4313,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1673911015,
-    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse joined Clickhouse in Jan 2026 where the founders now continue to build the team.",
     "name": "Langfuse",
     "nonprofit": false,
     "one_liner": "Open source LLM engineering platform",
@@ -4337,7 +4337,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 26,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/langfuse",
     "website": "https://langfuse.com"
@@ -5281,12 +5281,12 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 19,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tiptap",
     "website": "https://tiptap.dev/"
@@ -7818,5 +7818,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/robocurve",
     "website": "https://robocurve.org"
+  },
+  {
+    "all_locations": "Boston, MA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Every App"
+    ],
+    "id": 36088,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790725906,
+    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
+    "name": "OpenSEO",
+    "nonprofit": false,
+    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "openseo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "Open Source",
+      "Marketing",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/openseo",
+    "website": "https://openseo.so/"
   }
 ]
