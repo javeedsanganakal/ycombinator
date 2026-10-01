@@ -1433,7 +1433,7 @@
     "website": "https://buildwithpre.com"
   },
   {
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hamming-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1455,7 +1455,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "hamming-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
@@ -1464,7 +1466,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hamming-ai",
     "website": "https://hamming.ai/"
@@ -2068,7 +2070,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1725431613,
-    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Sora, Veo, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Seedance, Veo, ElevenLabs, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
     "name": "VideoGen",
     "nonprofit": false,
     "one_liner": "Create professional videos in minutes with AI, online or via API",
@@ -5564,13 +5566,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/titanio.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "Talk To Users AI"
+      "Talk To Users AI",
+      "Seals AI"
     ],
     "id": 29748,
     "industries": [
@@ -5579,10 +5582,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1725683549,
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "name": "Seals AI",
+    "long_description": "Titanio is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "name": "Titanio",
     "nonprofit": false,
-    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "one_liner": "AI Employees for Distributors",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -5590,8 +5593,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "seals-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "slug": "titanio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b929e31ab64052ab433ff5445d5704e41934381.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -5603,7 +5606,7 @@
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
+    "url": "https://www.ycombinator.com/companies/titanio",
     "website": "https://www.titanio.ai/"
   },
   {
@@ -10026,15 +10029,15 @@
     "id": 29966,
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1720831958,
-    "long_description": "Mica's AI agents replace the data ops teams fixing bad data.\r\n\r\nWhen bad or missing data breaks the pipeline, and orchestration, retries, and monitoring fail, painful manual review work kicks in, pulling humans in to investigate and patch data issues across systems. Mica does what those humans do: gathering the right information from internal docs and external systems, reasoning across context, and resolving errors autonomously to get the pipeline moving again.\r\n\r\nThe result: dramatically reduce time, cost, and operational drag as your data pipelines scale without scaling ops headcount. Mica turns judgment-heavy data fixes from a manual bottleneck into an automated background process with full auditability.\r\n",
+    "long_description": "Today, as employees teach AI how to perform valuable company work, the resulting capabilities often remain trapped on individual laptops or scattered across chats and repositories. \r\n\r\nMica gives each company a managed, agent-native internal marketplace where employees can publish capabilities, discover them by describing the task they need help with, and install them through the AI tools they already use. Mica tracks ownership, requirements, permissions, and team customizations while letting employees contribute improvements back to the shared version for evaluation and approval.\r\n\r\nThe result: employees stop rebuilding workflows their coworkers have already solved, useful improvements spread across the organization without overwriting team-specific customizations, and security gains visibility without blocking bottom-up innovation. Mica turns scattered AI work into institutional knowledge that compounds.",
     "name": "Mica AI",
     "nonprofit": false,
-    "one_liner": "Replace the humans fixing bad data",
+    "one_liner": "Turn employees' AI skills into shared company infrastructure",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -10044,11 +10047,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Data Science",
-      "Data Engineering",
-      "Enterprise Software"
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,

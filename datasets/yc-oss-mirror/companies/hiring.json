@@ -3851,7 +3851,7 @@
     ],
     "slug": "billiontoone",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7374f48e30f2dabadb3413903af69fcda589d67f.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Public",
     "subindustry": "Healthcare -> Diagnostics",
     "tags": [
@@ -4845,7 +4845,7 @@
     ],
     "slug": "ledger-investing",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3326697b08953d5914d07d4d39f5bca122a18fa8.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Fintech -> Insurance",
     "tags": [
@@ -7568,7 +7568,7 @@
     ],
     "slug": "jetlenses",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [],
@@ -19018,45 +19018,6 @@
     "website": "https://waydev.co/"
   },
   {
-    "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/authologic.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2021",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 23531,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1616831029,
-    "long_description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
-    "name": "Authologic",
-    "nonprofit": false,
-    "one_liner": "Stripe for online identity verification",
-    "question_answers": false,
-    "regions": [
-      "Poland",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "authologic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3450b6c428a44cabbdb63fad99fdd8860317192.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 44,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/authologic",
-    "website": "https://authologic.com"
-  },
-  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/triomics.json",
     "app_answers": null,
@@ -21533,7 +21494,7 @@
       "Productivity"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/stardex",
     "website": "https://www.stardex.com"
@@ -24424,6 +24385,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/flagright",
     "website": "https://flagright.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/gauss.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Placid Money",
+      "Gauss Money"
+    ],
+    "id": 25613,
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1646153163,
+    "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers’ debt.\r\n\r\nThe product connects to a user’s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
+    "name": "Gauss",
+    "nonprofit": false,
+    "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "gauss",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Consumer Finance",
+    "tags": [
+      "Fintech",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "team_size": 16,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/gauss",
+    "website": "https://gauss.money"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -30393,7 +30399,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ohm-2",
     "website": "https://www.ohm.ai"
@@ -30542,10 +30548,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1677779443,
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
     "name": "Omnistrate",
     "nonprofit": false,
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -37013,48 +37019,6 @@
     "website": "https://www.relari.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/scritch.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29196,
-    "industries": [
-      "Healthcare"
-    ],
-    "industry": "Healthcare",
-    "isHiring": true,
-    "launched_at": 1707453846,
-    "long_description": "Scritch is building the leading AI systems for veterinary medicine, starting with voice agents that automate front-desk operations in veterinary practices.",
-    "name": "Scritch",
-    "nonprofit": false,
-    "one_liner": "AI operating system for veterinary care",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "scritch",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1417e27622750e5a7c5f574c3d27db4ba86723ae.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare",
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer Health Services",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "team_size": null,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/scritch",
-    "website": "https://www.scritchai.com"
-  },
-  {
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/legora.json",
     "app_answers": null,
@@ -37171,7 +37135,7 @@
     ],
     "slug": "ubicloud",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/621ac44e76ec8f002f47c567b4533df1d318abcc.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
@@ -37846,17 +37810,17 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1708365250,
-    "long_description": "At Arini, we’re building the operating system for dental groups. Phones are the backbone of dental operations — 80% of appointments are still booked over the phone — yet practices miss 20–30% of inbound calls. That’s millions in lost revenue every month.\r\n\r\nPatient engagement is the biggest bottleneck to growth in dentistry, and we’ve built the most comprehensive AI-powered patient engagement suite in the industry. Arini manages calls, texts, and bookings.\r\n\r\nWe’re going after a $220B, overlooked industry that still runs on legacy systems and outdated workflows. Arini is bringing AI to every part of the dental stack.",
+    "long_description": "Arini is building the single platform to run all healthcare operations.\r\n\r\nHealthcare has spent the last decade consolidating, but operations are still fragmented, manual, and expensive. A large group runs dozens of disconnected systems for scheduling, billing, insurance, payables, and reporting, with people moving data between them by phone, fax, and spreadsheet.\r\n\r\n\r\nWe partner with some of the largest healthcare enterprises in the country through a Forward Deployed Engineering model. Engineers sit with the customer, find their biggest operational problems, and ship systems that solve them end to end. The best of that work becomes the platform that scales across enterprises.\r\n\r\nOur goal is to deliver the operating leverage healthcare consolidation has promised for decades, so providers can focus on patient care. We obsess over improving patient outcomes, and we are building the platform to run all operations for a $620B industry.",
     "name": "Arini",
     "nonprofit": false,
-    "one_liner": "AI receptionist for dentists",
+    "one_liner": "The single platform to run all healthcare operations",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "arini",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1592d841d2bf7a7c1bbe388bce6eed056114383b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcb5cc5f47d4cd58aab24de81261482dd66020a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -41256,7 +41220,7 @@
     "website": "https://www.prohost.ai/"
   },
   {
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hamming-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -41278,7 +41242,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "hamming-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
@@ -41287,7 +41253,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hamming-ai",
     "website": "https://hamming.ai/"
@@ -41552,7 +41518,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1725431613,
-    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Sora, Veo, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Seedance, Veo, ElevenLabs, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
     "name": "VideoGen",
     "nonprofit": false,
     "one_liner": "Create professional videos in minutes with AI, online or via API",
@@ -45925,6 +45891,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freebuff.json",
+    "app_answers": null,
+    "app_video_public": true,
+    "batch": "Fall 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Manicode",
+      "Codebuff"
+    ],
+    "id": 30063,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1728685475,
+    "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
+    "name": "Freebuff",
+    "nonprofit": false,
+    "one_liner": "The free coding agent",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "freebuff",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/freebuff",
+    "website": "https://freebuff.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/unusual.json",
     "app_answers": null,
     "app_video_public": false,
@@ -49203,6 +49212,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/atlog",
     "website": "https://atlog.ai"
+  },
+  {
+    "all_locations": "Seattle, WA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Platter",
+      "CopyCat"
+    ],
+    "id": 30338,
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1734580429,
+    "long_description": "CopyCat builds AI for commercial, personal & benefits insurance brokers. It turns carrier quotes and policy documents into branded proposals, quote comparisons, and coverage reviews, and helps teams check policies and review insurance contracts, flagging discrepancies and documenting findings with source references. ",
+    "name": "CopyCat AI",
+    "nonprofit": false,
+    "one_liner": "AI for Commercial Insurance Agencies",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "copycat-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0b6fa2626fafdcdd87ec75360df8375ffa48bb3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Insurance",
+    "tags": [
+      "Artificial Intelligence",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/copycat-ai",
+    "website": "https://runcopycat.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -55480,45 +55532,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/cranston-ai.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Cranston Group"
-    ],
-    "id": 30878,
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1759732290,
-    "long_description": "Cranston is AI tax prep and bookkeeping for CPA firms.\r\n\r\nOur tax agents prepare returns the way a strong staff accountant would: they read the source documents, work the return in your tax software, and hand your reviewer a return that holds up, with workpapers attached. Our bookkeeping agents keep client books current all year, so tax season starts from clean numbers instead of cleanup.\r\n\r\nPrep and books are the start. We're building Cranston into the system a firm runs on: the place where prep, review, client requests, and the rest of the practice get done.",
-    "name": "Cranston AI",
-    "nonprofit": false,
-    "one_liner": "AI Tax prep and accounting software for CPA firms",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "cranston-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88689b5dae77948437304c27aefbb12261dcacb3.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/cranston-ai",
-    "website": "https://www.cranston.ai"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hypercubic.json",
     "app_answers": null,
     "app_video_public": false,
@@ -61481,7 +61494,7 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1779834493,
-    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+    "long_description": "We are changing the way that people pay...\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
     "name": "Uno Wallet",
     "nonprofit": false,
     "one_liner": "The AI mobile wallet that replaces Apple Pay",
@@ -61496,11 +61509,11 @@
     "status": "Active",
     "subindustry": "Fintech -> Payments",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "Consumer",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -61524,10 +61537,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1776869663,
-    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
+    "long_description": "Revnu does the growth work founders never get round to. Connect your tools and it researches buyers, prepares outreach, runs ads and publishes search content. It watches the results and uses what it learns across every channel. You approve the work that needs your judgment and hear what moved every morning. You build. We grow.",
     "name": "Revnu",
     "nonprofit": false,
-    "one_liner": "The growth infrastructure for the autonomous business",
+    "one_liner": "Your AI growth hire.",
     "question_answers": false,
     "regions": [
       "United Kingdom",
@@ -61539,12 +61552,12 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "website": "https://revnu.com"
@@ -62147,6 +62160,48 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/parasma",
     "website": "https://parasma.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32155,
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1779903831,
+    "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "name": "Rex",
+    "nonprofit": false,
+    "one_liner": "AI-native BPO for enterprise order-to-cash",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rex-inc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Finance and Accounting",
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "website": "https://www.rex.inc"
   },
   {
     "all_locations": "Durham, NC, USA",
@@ -63113,17 +63168,17 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics",
-      "AI"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/simantic",
-    "website": "https://simantic.dev"
+    "website": "https://simantic.com"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -63297,7 +63352,7 @@
     "website": "https://workers.io"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json",
     "app_answers": null,
     "app_video_public": false,
@@ -63318,7 +63373,8 @@
     "one_liner": "Precision navigation for UAVs operating without GPS. ",
     "question_answers": false,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "streamline-systems",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",

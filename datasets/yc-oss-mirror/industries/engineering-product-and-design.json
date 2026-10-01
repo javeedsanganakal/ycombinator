@@ -3109,7 +3109,7 @@
     "website": "https://luciq.ai"
   },
   {
-    "all_locations": "Kihei, HI, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/quilt-data.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7104,6 +7104,44 @@
     "website": "https://www.infield.ai"
   },
   {
+    "all_locations": "",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/reframe-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2020",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 13210,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790739463,
+    "long_description": "Shutdown to pursue fundamental computing research",
+    "name": "Reframe",
+    "nonprofit": false,
+    "one_liner": "Zoomable generative UI for codebase architecture",
+    "question_answers": false,
+    "regions": [
+      "Unspecified"
+    ],
+    "slug": "reframe-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/880705b835d5a12c59be031e53d0493e21e5b49c.png",
+    "stage": "Early",
+    "status": "Inactive",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/reframe-2",
+    "website": "https://reframe.dev/"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/metaplane.json",
     "app_answers": null,
@@ -9336,7 +9374,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1616831029,
     "long_description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
     "name": "Authologic",
@@ -17781,10 +17819,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1711038198,
-    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
     "name": "Overheard",
     "nonprofit": false,
-    "one_liner": "An AI product researcher that interviews your users.",
+    "one_liner": "AI-led user interviews for product teams.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -17796,11 +17834,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -18418,7 +18456,7 @@
     "website": "https://comfydeploy.com"
   },
   {
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hamming-ai.json",
     "app_answers": null,
     "app_video_public": false,
@@ -18440,7 +18478,9 @@
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "hamming-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
@@ -18449,7 +18489,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hamming-ai",
     "website": "https://hamming.ai/"
@@ -20260,7 +20300,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1728685475,
     "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
     "name": "Freebuff",
@@ -23170,10 +23210,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1751905744,
-    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
     "name": "Magnitude",
     "nonprofit": false,
-    "one_liner": "Open source inference server for local models",
+    "one_liner": "Run open models as fast as your hardware allows",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -24503,7 +24543,7 @@
     "website": "https://antigen.sh/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Thessaloniki, Greece",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json",
     "app_answers": null,
     "app_video_public": false,
@@ -24524,8 +24564,8 @@
     "one_liner": "Lovable for mobile apps",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Greece",
+      "Europe"
     ],
     "slug": "fastshot",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
@@ -25060,11 +25100,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Enterprise",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -26494,17 +26534,17 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics",
-      "AI"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/simantic",
-    "website": "https://simantic.dev"
+    "website": "https://simantic.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

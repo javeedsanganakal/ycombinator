@@ -1,5 +1,5 @@
 {
-  "company_count": 6265,
+  "company_count": 6268,
   "roles": {
     "engineering": {
       "companies": [
@@ -1466,18 +1466,6 @@
           "batch": "Winter 2026",
           "evidence": {
             "engineering": [
-              "infrastructure"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Cascade",
-          "one_liner": "Distilling Proprietary Intelligence",
-          "slug": "cascade"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
               "engineer",
               "engineering",
               "developer",
@@ -2707,6 +2695,25 @@
           "name": "Flowtel",
           "one_liner": "The AI Voice agents for hotels",
           "slug": "flowtel"
+        },
+        {
+          "batch": "Winter 2025",
+          "evidence": {
+            "engineering": [
+              "api"
+            ],
+            "monetization": [
+              "fintech",
+              "financial"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "Fintech",
+          "name": "Finbar",
+          "one_liner": "Financial intelligence for every investor",
+          "slug": "finbar"
         },
         {
           "batch": "Winter 2025",
@@ -4011,7 +4018,7 @@
           },
           "industry": "B2B",
           "name": "Overheard",
-          "one_liner": "An AI product researcher that interviews your users.",
+          "one_liner": "AI-led user interviews for product teams.",
           "slug": "overheard"
         },
         {
@@ -5041,6 +5048,25 @@
           "name": "atopile",
           "one_liner": "We make tools to design electronics circuit boards with code",
           "slug": "atopile"
+        },
+        {
+          "batch": "Winter 2024",
+          "evidence": {
+            "engineering": [
+              "engineering"
+            ],
+            "monetization": [
+              "billing",
+              "insurance"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Arini",
+          "one_liner": "The single platform to run all healthcare operations",
+          "slug": "arini"
         },
         {
           "batch": "Winter 2024",
@@ -6163,14 +6189,11 @@
               "infrastructure",
               "cloud",
               "developer tools"
-            ],
-            "product": [
-              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Omnistrate",
-          "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+          "one_liner": "Build your control plane to deploy your product in your customer VPC…",
           "slug": "omnistrate"
         },
         {
@@ -6710,21 +6733,6 @@
           "name": "Inkeep",
           "one_liner": "Build AI Agent teammates and automations in code or no-code",
           "slug": "inkeep"
-        },
-        {
-          "batch": "Winter 2023",
-          "evidence": {
-            "engineering": [
-              "developer",
-              "infrastructure",
-              "cloud",
-              "developer tools"
-            ]
-          },
-          "industry": "B2B",
-          "name": "infra.new",
-          "one_liner": "AI Agent for Cloud Infrastructure",
-          "slug": "infranew"
         },
         {
           "batch": "Winter 2023",
@@ -13422,6 +13430,24 @@
           "name": "Release",
           "one_liner": "Environments as a service",
           "slug": "release"
+        },
+        {
+          "batch": "Winter 2020",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "developer",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "ui",
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Reframe",
+          "one_liner": "Zoomable generative UI for codebase architecture",
+          "slug": "reframe-2"
         },
         {
           "batch": "Winter 2020",
@@ -24395,7 +24421,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "code",
               "infrastructure",
               "developer tools"
             ],
@@ -24405,7 +24430,7 @@
           },
           "industry": "B2B",
           "name": "Magnitude",
-          "one_liner": "Open source inference server for local models",
+          "one_liner": "Run open models as fast as your hardware allows",
           "slug": "magnitude"
         },
         {
@@ -25486,6 +25511,30 @@
           "batch": "Summer 2024",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "founders": [
+              "startup"
+            ],
+            "monetization": [
+              "payments",
+              "revenue",
+              "payroll"
+            ],
+            "sales": [
+              "sales",
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Titanio",
+          "one_liner": "AI Employees for Distributors",
+          "slug": "titanio"
+        },
+        {
+          "batch": "Summer 2024",
+          "evidence": {
+            "engineering": [
               "developer",
               "infrastructure",
               "cloud",
@@ -25769,30 +25818,6 @@
           "name": "Sensei",
           "one_liner": "Robotic Training Data at Scale",
           "slug": "sensei"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "founders": [
-              "startup"
-            ],
-            "monetization": [
-              "payments",
-              "revenue",
-              "payroll"
-            ],
-            "sales": [
-              "sales",
-              "revenue"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Seals AI",
-          "one_liner": "AI Employees for Wholesalers & Distributors",
-          "slug": "seals-ai"
         },
         {
           "batch": "Summer 2024",
@@ -26401,16 +26426,15 @@
           "batch": "Summer 2024",
           "evidence": {
             "engineering": [
-              "engineering",
-              "software"
+              "infrastructure"
             ],
-            "sales": [
-              "pipeline"
+            "monetization": [
+              "marketplace"
             ]
           },
           "industry": "B2B",
           "name": "Mica AI",
-          "one_liner": "Replace the humans fixing bad data",
+          "one_liner": "Turn employees' AI skills into shared company infrastructure",
           "slug": "mica-ai"
         },
         {
@@ -42500,28 +42524,6 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
-              "infrastructure"
-            ],
-            "marketing": [
-              "marketing",
-              "growth",
-              "seo",
-              "advertising"
-            ],
-            "sales": [
-              "gtm",
-              "outbound"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Revnu",
-          "one_liner": "The growth infrastructure for the autonomous business",
-          "slug": "revnu"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
-            "engineering": [
               "engineering",
               "developer",
               "coding",
@@ -44123,6 +44125,21 @@
           "batch": "Spring 2025",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "sales": [
+              "sales"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Lapel",
+          "one_liner": "Infrastructure to power every customer interaction.",
+          "slug": "lapel"
+        },
+        {
+          "batch": "Spring 2025",
+          "evidence": {
+            "engineering": [
               "coding"
             ]
           },
@@ -44927,6 +44944,20 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "software",
+              "api",
+              "infrastructure"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Terse",
+          "one_liner": "Durable state for AI agents",
+          "slug": "useterse"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "infrastructure"
             ]
           },
@@ -45283,6 +45314,20 @@
           "name": "Invertix",
           "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
           "slug": "invertix"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
+              "robotics",
+              "machine learning"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Hundred",
+          "one_liner": "100% automated inspection for consumer electronics parts",
+          "slug": "hundred"
         },
         {
           "batch": "Fall 2026",
@@ -47723,7 +47768,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2859
+      "count": 2862
     },
     "founders": {
       "companies": [
@@ -51309,25 +51354,6 @@
               "software"
             ],
             "founders": [
-              "owners"
-            ],
-            "monetization": [
-              "accounting",
-              "financial"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Tabula",
-          "one_liner": "Autonomous Accounting Software",
-          "slug": "tabula"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "founders": [
               "startup"
             ],
             "monetization": [
@@ -51341,9 +51367,28 @@
             ]
           },
           "industry": "B2B",
-          "name": "Seals AI",
-          "one_liner": "AI Employees for Wholesalers & Distributors",
-          "slug": "seals-ai"
+          "name": "Titanio",
+          "one_liner": "AI Employees for Distributors",
+          "slug": "titanio"
+        },
+        {
+          "batch": "Summer 2024",
+          "evidence": {
+            "engineering": [
+              "software"
+            ],
+            "founders": [
+              "owners"
+            ],
+            "monetization": [
+              "accounting",
+              "financial"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Tabula",
+          "one_liner": "Autonomous Accounting Software",
+          "slug": "tabula"
         },
         {
           "batch": "Summer 2024",
@@ -55230,24 +55275,6 @@
           "name": "Browser Buddy",
           "one_liner": "A recommendation system for the Internet",
           "slug": "browser-buddy"
-        },
-        {
-          "batch": "Winter 2024",
-          "evidence": {
-            "marketing": [
-              "growth"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Arini",
-          "one_liner": "AI receptionist for dentists",
-          "slug": "arini"
         },
         {
           "batch": "Winter 2023",
@@ -68628,23 +68655,16 @@
         {
           "batch": "Spring 2026",
           "evidence": {
-            "engineering": [
-              "infrastructure"
-            ],
             "marketing": [
               "marketing",
               "growth",
-              "seo",
+              "content",
               "advertising"
-            ],
-            "sales": [
-              "gtm",
-              "outbound"
             ]
           },
           "industry": "B2B",
           "name": "Revnu",
-          "one_liner": "The growth infrastructure for the autonomous business",
+          "one_liner": "Your AI growth hire.",
           "slug": "revnu"
         },
         {
@@ -69832,7 +69852,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 878
+      "count": 877
     },
     "monetization": {
       "companies": [
@@ -71272,6 +71292,9 @@
         {
           "batch": "Winter 2025",
           "evidence": {
+            "engineering": [
+              "api"
+            ],
             "monetization": [
               "fintech",
               "financial"
@@ -71281,8 +71304,8 @@
             ]
           },
           "industry": "Fintech",
-          "name": "finbar",
-          "one_liner": "The AI investment analyst",
+          "name": "Finbar",
+          "one_liner": "Financial intelligence for every investor",
           "slug": "finbar"
         },
         {
@@ -72509,19 +72532,20 @@
         {
           "batch": "Winter 2024",
           "evidence": {
-            "marketing": [
-              "growth"
+            "engineering": [
+              "engineering"
             ],
             "monetization": [
-              "revenue"
+              "billing",
+              "insurance"
             ],
-            "sales": [
-              "revenue"
+            "product": [
+              "platform"
             ]
           },
           "industry": "Healthcare",
           "name": "Arini",
-          "one_liner": "AI receptionist for dentists",
+          "one_liner": "The single platform to run all healthcare operations",
           "slug": "arini"
         },
         {
@@ -78084,21 +78108,6 @@
           "name": "Rinsed",
           "one_liner": "Software to run car washes moving to a monthly subscription model",
           "slug": "rinsed"
-        },
-        {
-          "batch": "Winter 2021",
-          "evidence": {
-            "monetization": [
-              "revenue"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Remora",
-          "one_liner": "Carbon capture for vehicles",
-          "slug": "remora"
         },
         {
           "batch": "Winter 2021",
@@ -88774,6 +88783,30 @@
         {
           "batch": "Summer 2024",
           "evidence": {
+            "engineering": [
+              "software"
+            ],
+            "founders": [
+              "startup"
+            ],
+            "monetization": [
+              "payments",
+              "revenue",
+              "payroll"
+            ],
+            "sales": [
+              "sales",
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Titanio",
+          "one_liner": "AI Employees for Distributors",
+          "slug": "titanio"
+        },
+        {
+          "batch": "Summer 2024",
+          "evidence": {
             "monetization": [
               "billing",
               "fintech",
@@ -88938,30 +88971,6 @@
           "name": "Sensei",
           "one_liner": "Robotic Training Data at Scale",
           "slug": "sensei"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "founders": [
-              "startup"
-            ],
-            "monetization": [
-              "payments",
-              "revenue",
-              "payroll"
-            ],
-            "sales": [
-              "sales",
-              "revenue"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Seals AI",
-          "one_liner": "AI Employees for Wholesalers & Distributors",
-          "slug": "seals-ai"
         },
         {
           "batch": "Summer 2024",
@@ -89314,6 +89323,21 @@
           "name": "Midship",
           "one_liner": "AI for SOX testing",
           "slug": "midship"
+        },
+        {
+          "batch": "Summer 2024",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
+            "monetization": [
+              "marketplace"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Mica AI",
+          "one_liner": "Turn employees' AI skills into shared company infrastructure",
+          "slug": "mica-ai"
         },
         {
           "batch": "Summer 2024",
@@ -106423,6 +106447,9 @@
         {
           "batch": "Winter 2025",
           "evidence": {
+            "engineering": [
+              "api"
+            ],
             "monetization": [
               "fintech",
               "financial"
@@ -106432,8 +106459,8 @@
             ]
           },
           "industry": "Fintech",
-          "name": "finbar",
-          "one_liner": "The AI investment analyst",
+          "name": "Finbar",
+          "one_liner": "Financial intelligence for every investor",
           "slug": "finbar"
         },
         {
@@ -107918,6 +107945,25 @@
             "engineering": [
               "engineering"
             ],
+            "monetization": [
+              "billing",
+              "insurance"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Arini",
+          "one_liner": "The single platform to run all healthcare operations",
+          "slug": "arini"
+        },
+        {
+          "batch": "Winter 2024",
+          "evidence": {
+            "engineering": [
+              "engineering"
+            ],
             "product": [
               "platform"
             ],
@@ -108528,25 +108574,6 @@
           "name": "OpenMeter",
           "one_liner": "Usage Metering, AI & API Monetization",
           "slug": "openmeter"
-        },
-        {
-          "batch": "Winter 2023",
-          "evidence": {
-            "engineering": [
-              "developer",
-              "software",
-              "infrastructure",
-              "cloud",
-              "developer tools"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Omnistrate",
-          "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
-          "slug": "omnistrate"
         },
         {
           "batch": "Winter 2023",
@@ -135926,24 +135953,6 @@
         {
           "batch": "Winter 2024",
           "evidence": {
-            "marketing": [
-              "growth"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Arini",
-          "one_liner": "AI receptionist for dentists",
-          "slug": "arini"
-        },
-        {
-          "batch": "Winter 2024",
-          "evidence": {
             "engineering": [
               "engineering"
             ],
@@ -138128,21 +138137,6 @@
           "name": "Resquared",
           "one_liner": "Marketing automation platform for selling to local businesses.",
           "slug": "resquared"
-        },
-        {
-          "batch": "Winter 2021",
-          "evidence": {
-            "monetization": [
-              "revenue"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Remora",
-          "one_liner": "Carbon capture for vehicles",
-          "slug": "remora"
         },
         {
           "batch": "Winter 2021",
@@ -141883,6 +141877,30 @@
           "batch": "Summer 2024",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "founders": [
+              "startup"
+            ],
+            "monetization": [
+              "payments",
+              "revenue",
+              "payroll"
+            ],
+            "sales": [
+              "sales",
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Titanio",
+          "one_liner": "AI Employees for Distributors",
+          "slug": "titanio"
+        },
+        {
+          "batch": "Summer 2024",
+          "evidence": {
+            "engineering": [
               "engineering"
             ],
             "monetization": [
@@ -141964,30 +141982,6 @@
           "name": "Simple AI",
           "one_liner": "AI voice that sells",
           "slug": "simple-ai"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "founders": [
-              "startup"
-            ],
-            "monetization": [
-              "payments",
-              "revenue",
-              "payroll"
-            ],
-            "sales": [
-              "sales",
-              "revenue"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Seals AI",
-          "one_liner": "AI Employees for Wholesalers & Distributors",
-          "slug": "seals-ai"
         },
         {
           "batch": "Summer 2024",
@@ -142253,22 +142247,6 @@
           "name": "Modus",
           "one_liner": "Unlock revenue per employee with AI-powered headcount management",
           "slug": "modus"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "software"
-            ],
-            "sales": [
-              "pipeline"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Mica AI",
-          "one_liner": "Replace the humans fixing bad data",
-          "slug": "mica-ai"
         },
         {
           "batch": "Summer 2024",
@@ -147083,28 +147061,6 @@
         {
           "batch": "Spring 2026",
           "evidence": {
-            "engineering": [
-              "infrastructure"
-            ],
-            "marketing": [
-              "marketing",
-              "growth",
-              "seo",
-              "advertising"
-            ],
-            "sales": [
-              "gtm",
-              "outbound"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Revnu",
-          "one_liner": "The growth infrastructure for the autonomous business",
-          "slug": "revnu"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
             "marketing": [
               "marketing"
             ],
@@ -147485,13 +147441,16 @@
         {
           "batch": "Spring 2025",
           "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
             "sales": [
               "sales"
             ]
           },
           "industry": "B2B",
           "name": "Lapel",
-          "one_liner": "Bringing hospitality to the internet.",
+          "one_liner": "Infrastructure to power every customer interaction.",
           "slug": "lapel"
         },
         {
@@ -148471,7 +148430,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 755
+      "count": 751
     },
     "ux-ui": {
       "companies": [
@@ -149917,7 +149876,7 @@
           },
           "industry": "B2B",
           "name": "Overheard",
-          "one_liner": "An AI product researcher that interviews your users.",
+          "one_liner": "AI-led user interviews for product teams.",
           "slug": "overheard"
         },
         {
@@ -153310,6 +153269,24 @@
           "name": "Release",
           "one_liner": "Environments as a service",
           "slug": "release"
+        },
+        {
+          "batch": "Winter 2020",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "developer",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "ui",
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Reframe",
+          "one_liner": "Zoomable generative UI for codebase architecture",
+          "slug": "reframe-2"
         },
         {
           "batch": "Winter 2020",
@@ -156962,7 +156939,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "code",
               "infrastructure",
               "developer tools"
             ],
@@ -156972,7 +156948,7 @@
           },
           "industry": "B2B",
           "name": "Magnitude",
-          "one_liner": "Open source inference server for local models",
+          "one_liner": "Run open models as fast as your hardware allows",
           "slug": "magnitude"
         },
         {
@@ -165827,13 +165803,13 @@
           "slug": "alex"
         }
       ],
-      "count": 940
+      "count": 941
     }
   },
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1137,
+    "count": 1140,
     "slugs": [
       "1000memories",
       "100x",
@@ -166105,6 +166081,7 @@
       "drive-pulse",
       "driver",
       "duffl",
+      "dydema",
       "earth-ai",
       "eat-blueprint",
       "edexia",
@@ -166361,6 +166338,7 @@
       "lark-2",
       "lato",
       "lattice-health",
+      "launchflow",
       "launchpad-toys",
       "leada",
       "leeroo",
@@ -166658,6 +166636,7 @@
       "remail",
       "remedy",
       "remi",
+      "remora",
       "rendalomaq",
       "repacket",
       "replenish",

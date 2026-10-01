@@ -1355,10 +1355,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1677779443,
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
     "name": "Omnistrate",
     "nonprofit": false,
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2032,7 +2032,7 @@
     ],
     "slug": "ubicloud",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/621ac44e76ec8f002f47c567b4533df1d318abcc.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
@@ -2762,6 +2762,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pipeshift",
     "website": "https://pipeshift.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/mica-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29966,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1720831958,
+    "long_description": "Today, as employees teach AI how to perform valuable company work, the resulting capabilities often remain trapped on individual laptops or scattered across chats and repositories. \r\n\r\nMica gives each company a managed, agent-native internal marketplace where employees can publish capabilities, discover them by describing the task they need help with, and install them through the AI tools they already use. Mica tracks ownership, requirements, permissions, and team customizations while letting employees contribute improvements back to the shared version for evaluation and approval.\r\n\r\nThe result: employees stop rebuilding workflows their coworkers have already solved, useful improvements spread across the organization without overwriting team-specific customizations, and security gains visibility without blocking bottom-up innovation. Mica turns scattered AI work into institutional knowledge that compounds.",
+    "name": "Mica AI",
+    "nonprofit": false,
+    "one_liner": "Turn employees' AI skills into shared company infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mica-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mica-ai",
+    "website": "https://usemica.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4013,10 +4056,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1751905744,
-    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
     "name": "Magnitude",
     "nonprofit": false,
-    "one_liner": "Open source inference server for local models",
+    "one_liner": "Run open models as fast as your hardware allows",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -4961,7 +5004,7 @@
     "website": "https://hub.xyz"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4982,8 +5025,8 @@
     "one_liner": "Unlock wasted GPU capacity.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "expanse",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
@@ -5018,7 +5061,7 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1779834493,
-    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+    "long_description": "We are changing the way that people pay...\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
     "name": "Uno Wallet",
     "nonprofit": false,
     "one_liner": "The AI mobile wallet that replaces Apple Pay",
@@ -5033,11 +5076,11 @@
     "status": "Active",
     "subindustry": "Fintech -> Payments",
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "Consumer",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -6100,7 +6143,50 @@
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tilion",
-    "website": "https://tilion.dev"
+    "website": "https://tilion.com"
+  },
+  {
+    "all_locations": "New York City, NY, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/useterse.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Terse Inc. dba Terse AI"
+    ],
+    "id": 37238,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790745772,
+    "long_description": "We build infrastructure to power agentic systems such as software factories, multiplayer agent frameworks and agent coordination.",
+    "name": "Terse",
+    "nonprofit": false,
+    "one_liner": "Durable state for AI agents",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "useterse",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/useterse",
+    "website": "https://www.useterse.ai/"
   },
   {
     "all_locations": "Toronto, ON, Canada",

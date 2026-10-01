@@ -4923,6 +4923,44 @@
     "website": "http://www.logarithmlabs.com"
   },
   {
+    "all_locations": "",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/reframe-2.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2020",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 13210,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790739463,
+    "long_description": "Shutdown to pursue fundamental computing research",
+    "name": "Reframe",
+    "nonprofit": false,
+    "one_liner": "Zoomable generative UI for codebase architecture",
+    "question_answers": false,
+    "regions": [
+      "Unspecified"
+    ],
+    "slug": "reframe-2",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/880705b835d5a12c59be031e53d0493e21e5b49c.png",
+    "stage": "Early",
+    "status": "Inactive",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/reframe-2",
+    "website": "https://reframe.dev/"
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/metaplane.json",
     "app_answers": null,
@@ -12709,10 +12747,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1677779443,
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
     "name": "Omnistrate",
     "nonprofit": false,
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -12737,56 +12775,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/omnistrate",
     "website": "http://www.omnistrate.com"
-  },
-  {
-    "all_locations": "Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": false,
-    "former_names": [
-      "FlowState",
-      "Inlet",
-      "launchflow",
-      "LaunchFlow",
-      "infra.new",
-      "LaunchFlow / infra.new"
-    ],
-    "id": 27820,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1675872738,
-    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "name": "infra.new",
-    "nonprofit": false,
-    "one_liner": "AI Agent for Cloud Infrastructure",
-    "question_answers": false,
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "infranew",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "team_size": 3,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/infranew",
-    "website": "https://infra.new"
   },
   {
     "all_locations": "London, England, United Kingdom",
@@ -18954,7 +18942,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1728685475,
     "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
     "name": "Freebuff",
@@ -21401,10 +21389,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1751905744,
-    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
     "name": "Magnitude",
     "nonprofit": false,
-    "one_liner": "Open source inference server for local models",
+    "one_liner": "Run open models as fast as your hardware allows",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -22458,7 +22446,7 @@
     "website": "https://www.uselemma.ai/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Thessaloniki, Greece",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json",
     "app_answers": null,
     "app_video_public": false,
@@ -22479,8 +22467,8 @@
     "one_liner": "Lovable for mobile apps",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Greece",
+      "Europe"
     ],
     "slug": "fastshot",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
@@ -24228,17 +24216,17 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics",
-      "AI"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/simantic",
-    "website": "https://simantic.dev"
+    "website": "https://simantic.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

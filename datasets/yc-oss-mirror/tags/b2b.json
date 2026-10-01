@@ -3004,7 +3004,7 @@
     ],
     "slug": "bulletin",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc5b1d8e8af272683b9ec7ca250589f26e9ae0fa.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Acquired",
     "subindustry": "B2B -> Retail",
     "tags": [
@@ -25053,7 +25053,7 @@
     "website": "https://erad.co/"
   },
   {
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Porto, Porto District, Portugal; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/blitz.json",
     "app_answers": null,
     "app_video_public": false,
@@ -25074,8 +25074,8 @@
     "one_liner": "Lovable for non-tech users: Build no-code internal and customer apps",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Portugal",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -29551,10 +29551,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1677779443,
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
     "name": "Omnistrate",
     "nonprofit": false,
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -29673,7 +29673,7 @@
   },
   {
     "all_locations": "Remote",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Winter 2023",
@@ -29684,42 +29684,43 @@
       "launchflow",
       "LaunchFlow",
       "infra.new",
-      "LaunchFlow / infra.new"
+      "LaunchFlow / infra.new",
+      "infra.new"
     ],
     "id": 27820,
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1675872738,
-    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "name": "infra.new",
+    "long_description": "Still cooking...\r\n\r\nReach out to josh@launchflow.com if you'd like early access.",
+    "name": "LaunchFlow",
     "nonprofit": false,
-    "one_liner": "AI Agent for Cloud Infrastructure",
+    "one_liner": "Collaborative workspace for internal tools and agents",
     "question_answers": false,
     "regions": [
       "Remote",
       "Fully Remote"
     ],
-    "slug": "infranew",
+    "slug": "launchflow",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 3,
+    "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/infranew",
-    "website": "https://infra.new"
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "website": "https://www.launchflow.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -35001,7 +35002,7 @@
       "Healthcare"
     ],
     "industry": "Healthcare",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1707453846,
     "long_description": "Scritch is building the leading AI systems for veterinary medicine, starting with voice agents that automate front-desk operations in veterinary practices.",
     "name": "Scritch",
@@ -37159,10 +37160,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1711038198,
-    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
     "name": "Overheard",
     "nonprofit": false,
-    "one_liner": "An AI product researcher that interviews your users.",
+    "one_liner": "AI-led user interviews for product teams.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -37174,11 +37175,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -38818,13 +38819,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/titanio.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2024",
     "demo_day_video_public": false,
     "former_names": [
-      "Talk To Users AI"
+      "Talk To Users AI",
+      "Seals AI"
     ],
     "id": 29748,
     "industries": [
@@ -38833,10 +38835,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1725683549,
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "name": "Seals AI",
+    "long_description": "Titanio is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "name": "Titanio",
     "nonprofit": false,
-    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "one_liner": "AI Employees for Distributors",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -38844,8 +38846,8 @@
       "Remote",
       "Partly Remote"
     ],
-    "slug": "seals-ai",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "slug": "titanio",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b929e31ab64052ab433ff5445d5704e41934381.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -38857,7 +38859,7 @@
     "tags_highlighted": [],
     "team_size": 4,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
+    "url": "https://www.ycombinator.com/companies/titanio",
     "website": "https://www.titanio.ai/"
   },
   {
@@ -40141,6 +40143,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/formula-insight",
     "website": "https://www.formulainsight.io/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/mica-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 29966,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1720831958,
+    "long_description": "Today, as employees teach AI how to perform valuable company work, the resulting capabilities often remain trapped on individual laptops or scattered across chats and repositories. \r\n\r\nMica gives each company a managed, agent-native internal marketplace where employees can publish capabilities, discover them by describing the task they need help with, and install them through the AI tools they already use. Mica tracks ownership, requirements, permissions, and team customizations while letting employees contribute improvements back to the shared version for evaluation and approval.\r\n\r\nThe result: employees stop rebuilding workflows their coworkers have already solved, useful improvements spread across the organization without overwriting team-specific customizations, and security gains visibility without blocking bottom-up innovation. Mica turns scattered AI work into institutional knowledge that compounds.",
+    "name": "Mica AI",
+    "nonprofit": false,
+    "one_liner": "Turn employees' AI skills into shared company infrastructure",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mica-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mica-ai",
+    "website": "https://usemica.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -47795,7 +47840,7 @@
     "website": "https://tryalchemize.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json",
     "app_answers": null,
     "app_video_public": false,
@@ -47816,8 +47861,8 @@
     "one_liner": "Unlock wasted GPU capacity.",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "slug": "expanse",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
@@ -47852,10 +47897,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1776869663,
-    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
+    "long_description": "Revnu does the growth work founders never get round to. Connect your tools and it researches buyers, prepares outreach, runs ads and publishes search content. It watches the results and uses what it learns across every channel. You approve the work that needs your judgment and hear what moved every morning. You build. We grow.",
     "name": "Revnu",
     "nonprofit": false,
-    "one_liner": "The growth infrastructure for the autonomous business",
+    "one_liner": "Your AI growth hire.",
     "question_answers": false,
     "regions": [
       "United Kingdom",
@@ -47867,12 +47912,12 @@
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "website": "https://revnu.com"
@@ -47895,7 +47940,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1779929226,
-    "long_description": "I run Enjamb. We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
+    "long_description": "We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
     "name": "Enjamb Labs",
     "nonprofit": false,
     "one_liner": "The AI Workforce for Biopharma",
@@ -47910,11 +47955,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -48321,7 +48366,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1779903831,
     "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
     "name": "Rex",
@@ -50415,7 +50460,7 @@
     "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/tilion",
-    "website": "https://tilion.dev"
+    "website": "https://tilion.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -50492,15 +50537,15 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lark-2",
-    "website": "https://trylark.ai"
+    "website": "https://larkagents.com"
   },
   {
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
