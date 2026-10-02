@@ -13168,7 +13168,7 @@
     "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
     "name": "Familiar",
     "nonprofit": false,
-    "one_liner": "Movies in Every Language. Better than Humans.",
+    "one_liner": "Multimodal Translation",
     "question_answers": false,
     "regions": [
       "Canada",
@@ -13180,10 +13180,10 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -13316,6 +13316,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/decawork",
     "website": "https://decawork.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tokenless.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Tokenless",
+      "Touchy"
+    ],
+    "id": 33051,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786732497,
+    "long_description": "Tokenless is an applied AI research lab. Our goal is to end reward hacking. We do research and build tools to detect issues with environments and evals, understand model behavior in those environments, and prevent those issues from happening. Correcting them makes training more effective, makes model performance easier to interpret, and is crucial to solving the AI alignment problem.\r\n\r\nIf you’re training models with RL, building environments, or running agent evals, and want more confidence in your environments, we're here to help.",
+    "name": "Tokenless",
+    "nonprofit": false,
+    "one_liner": "We find flaws in RL environments and evals and help you fix them.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tokenless",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f250ec6cc81104148d8bd5bafdd6b96bc77d023.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tokenless",
+    "website": "https://usetokenless.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -13501,7 +13547,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1782807553,
     "long_description": "Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",
     "name": "Edviro",

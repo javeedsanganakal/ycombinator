@@ -3004,7 +3004,7 @@
     ],
     "slug": "bulletin",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc5b1d8e8af272683b9ec7ca250589f26e9ae0fa.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Acquired",
     "subindustry": "B2B -> Retail",
     "tags": [
@@ -40825,7 +40825,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1728389519,
     "long_description": "Lingo.dev is the localization engineering platform: the best way to translate with LLMs, measure translation quality, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "name": "Lingo.dev",
@@ -41769,6 +41769,55 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD",
+      "hud"
+    ],
+    "id": 30254,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1740930546,
+    "long_description": "HUD is the platform for building high quality post training datasets. Over 50 businesses use HUD to build RL environments, sell them to AI labs, or train their own models from them.\r\n\r\nOur mission is to enable a generation of data entrepreneurs. The previous generation built apps to impact the world. We believe people will build infrastructure around data, both digital and physical, that align AIs to their specific goals.",
+    "name": "HUD",
+    "nonprofit": false,
+    "one_liner": "Platform and marketplace for RL environments and AI data",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "hud",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "team_size": 24,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "website": "https://www.hud.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gale.json",
     "app_answers": null,
     "app_video_public": false,
@@ -42614,17 +42663,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1737484568,
-    "long_description": "Ergo is the revenue infrastructure for teams growing faster than their systems can keep up. We connect the conversations your team is already having, across calls, email, Slack, and more, and build a unified data layer that moves deals forward.",
+    "long_description": "Ergo is AI revenue infrastructure for B2B sales teams. It ingests every customer interaction (calls, email, Slack, calendar) and turns it into deal health scores, forecasts, ready-to-send follow-ups, rep coaching, and clean pipeline data, automatically. Reps skip the admin, deals stop slipping, and leaders get a pipeline they can actually trust.\r\n\r\nTeams can use Ergo to consolidate and replace tools like Gong, Attention, Superhuman, Vitally, call recorders, and more. Onboarding backfills your historical calls, emails, and deal data, so you don't start from scratch.\r\n\r\nErgo is backed by Y Combinator and FundersClub, and trusted by sales teams at Pylon, Rho, Retell AI, Warp, Oneleet, and Whop.\r\n\r\nBook a demo at joinergo.com.",
     "name": "Ergo",
     "nonprofit": false,
-    "one_liner": "AI agents and unified data layer for revenue teams",
+    "one_liner": "Ergo is the context layer that helps revenue teams close more deals.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "ergo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2d5f1e26b979ee4eabfed131c5f771fc09a4639.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Sales",
@@ -42635,7 +42684,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 0,
+    "team_size": 9,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/ergo",
     "website": "https://joinergo.com"
@@ -47468,10 +47517,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1773339255,
-    "long_description": "",
+    "long_description": "Korso is an intuitive AI assistant that can work alongside you on your computer. It can operate apps, conduct research, and guide you when you are stuck, all by voice",
     "name": "Korso",
     "nonprofit": false,
-    "one_liner": "The last assistant you'll need",
+    "one_liner": "Your Capable Desktop AI Companion",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -49258,7 +49307,7 @@
     "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
     "name": "Familiar",
     "nonprofit": false,
-    "one_liner": "Movies in Every Language. Better than Humans.",
+    "one_liner": "Multimodal Translation",
     "question_answers": false,
     "regions": [
       "Canada",
@@ -49270,10 +49319,10 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "team_size": 8,
@@ -49447,6 +49496,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/decawork",
     "website": "https://decawork.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tokenless.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Tokenless",
+      "Touchy"
+    ],
+    "id": 33051,
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1786732497,
+    "long_description": "Tokenless is an applied AI research lab. Our goal is to end reward hacking. We do research and build tools to detect issues with environments and evals, understand model behavior in those environments, and prevent those issues from happening. Correcting them makes training more effective, makes model performance easier to interpret, and is crucial to solving the AI alignment problem.\r\n\r\nIf you’re training models with RL, building environments, or running agent evals, and want more confidence in your environments, we're here to help.",
+    "name": "Tokenless",
+    "nonprofit": false,
+    "one_liner": "We find flaws in RL environments and evals and help you fix them.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "tokenless",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f250ec6cc81104148d8bd5bafdd6b96bc77d023.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Infrastructure",
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/tokenless",
+    "website": "https://usetokenless.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -49885,7 +49980,7 @@
       "Infrastructure"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1782807553,
     "long_description": "Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",
     "name": "Edviro",
@@ -50052,8 +50147,7 @@
     "former_names": [],
     "id": 34895,
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
@@ -50061,7 +50155,7 @@
     "long_description": "",
     "name": "Sigma",
     "nonprofit": false,
-    "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
+    "one_liner": "Lakehouse-as-a-Service (LaaS)",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -50071,11 +50165,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B",
     "tags": [
-      "Finance",
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 2,

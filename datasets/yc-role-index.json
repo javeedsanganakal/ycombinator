@@ -1,5 +1,5 @@
 {
-  "company_count": 6268,
+  "company_count": 6267,
   "roles": {
     "engineering": {
       "companies": [
@@ -2626,6 +2626,9 @@
               "engineering",
               "infrastructure"
             ],
+            "monetization": [
+              "marketplace"
+            ],
             "product": [
               "platform"
             ],
@@ -2635,7 +2638,7 @@
           },
           "industry": "B2B",
           "name": "HUD",
-          "one_liner": "Platform for building RL environments and evals ",
+          "one_liner": "Platform and marketplace for RL environments and AI data",
           "slug": "hud"
         },
         {
@@ -2750,12 +2753,13 @@
             ],
             "sales": [
               "sales",
-              "revenue"
+              "revenue",
+              "pipeline"
             ]
           },
           "industry": "B2B",
           "name": "Ergo",
-          "one_liner": "AI agents and unified data layer for revenue teams",
+          "one_liner": "Ergo is the context layer that helps revenue teams close more deals.",
           "slug": "ergo"
         },
         {
@@ -9368,11 +9372,8 @@
               "engineering",
               "infrastructure"
             ],
-            "founders": [
-              "owners"
-            ],
-            "monetization": [
-              "insurance"
+            "product": [
+              "platform"
             ]
           },
           "industry": "Industrials",
@@ -13991,12 +13992,13 @@
               "seo"
             ],
             "monetization": [
+              "pricing",
               "marketplace"
             ]
           },
           "industry": "Consumer",
           "name": "LFcarry",
-          "one_liner": "AI workspace for professional gamers",
+          "one_liner": "Marketplace for game boosting, carries and coaching",
           "slug": "lfcarry"
         },
         {
@@ -21656,6 +21658,21 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
+              "developer",
+              "infrastructure",
+              "machine learning",
+              "developer tools"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Tokenless",
+          "one_liner": "We find flaws in RL environments and evals and help you fix them.",
+          "slug": "tokenless"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "engineering": [
               "robotics"
             ]
           },
@@ -22588,19 +22605,6 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "infrastructure",
-              "robotics"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Locke",
-          "one_liner": "Locke powers agentic government work.",
-          "slug": "locke"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
               "engineering",
               "software"
             ]
@@ -22693,21 +22697,6 @@
           "name": "Isengard Industries Inc",
           "one_liner": "Mass-produced AI strike systems and Counter-UAS",
           "slug": "isengard-industries-inc"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "coding"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "Instaplay",
-          "one_liner": "AI-native gaming platform turning every game into an RL environment",
-          "slug": "instaplay"
         },
         {
           "batch": "Summer 2026",
@@ -23016,7 +23005,7 @@
           },
           "industry": "B2B",
           "name": "Familiar",
-          "one_liner": "Movies in Every Language. Better than Humans.",
+          "one_liner": "Multimodal Translation",
           "slug": "familiar"
         },
         {
@@ -24700,17 +24689,12 @@
             "engineering": [
               "software"
             ],
-            "marketing": [
-              "marketing"
-            ],
             "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
+              "revenue",
+              "insurance",
+              "financial"
             ],
             "sales": [
-              "sales",
               "revenue"
             ]
           },
@@ -42225,7 +42209,7 @@
           },
           "industry": "Industrials",
           "name": "Tenet Industries",
-          "one_liner": "AI-automated PCB assembly factories",
+          "one_liner": "AI-automated factory for PCBAs",
           "slug": "tenet-industries"
         },
         {
@@ -42479,7 +42463,7 @@
               "engineering"
             ],
             "monetization": [
-              "financial"
+              "payment"
             ],
             "ux-ui": [
               "design"
@@ -42487,7 +42471,7 @@
           },
           "industry": "B2B",
           "name": "Runtime",
-          "one_liner": "AI agents for financial operations",
+          "one_liner": "The AI agent harness for payment teams",
           "slug": "runtime"
         },
         {
@@ -45710,7 +45694,7 @@
           },
           "industry": "B2B",
           "name": "Velvet",
-          "one_liner": "World model datasets and research",
+          "one_liner": "Conversational datasets and models",
           "slug": "velvet"
         },
         {
@@ -47768,7 +47752,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2862
+      "count": 2861
     },
     "founders": {
       "companies": [
@@ -48608,25 +48592,6 @@
           "name": "Kular",
           "one_liner": "AI Lead Generator",
           "slug": "kular"
-        },
-        {
-          "batch": "Winter 2022",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "infrastructure"
-            ],
-            "founders": [
-              "owners"
-            ],
-            "monetization": [
-              "insurance"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "KorrAI",
-          "one_liner": "Traceable AI for billion-dollar infrastructure.",
-          "slug": "korrai"
         },
         {
           "batch": "Winter 2022",
@@ -54216,7 +54181,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 349
+      "count": 348
     },
     "marketing": {
       "companies": [
@@ -58075,12 +58040,13 @@
               "seo"
             ],
             "monetization": [
+              "pricing",
               "marketplace"
             ]
           },
           "industry": "Consumer",
           "name": "LFcarry",
-          "one_liner": "AI workspace for professional gamers",
+          "one_liner": "Marketplace for game boosting, carries and coaching",
           "slug": "lfcarry"
         },
         {
@@ -61473,6 +61439,21 @@
           "evidence": {
             "marketing": [
               "content"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "General Context Labs",
+          "one_liner": "Building Products and Datasets for Frontier Models",
+          "slug": "general-context-labs"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "marketing": [
+              "content"
             ]
           },
           "industry": "Industrials",
@@ -61741,31 +61722,6 @@
           "name": "Imprezia",
           "one_liner": "The World's First AI Ad Network.",
           "slug": "imprezia"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "marketing": [
-              "marketing"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "sales",
-              "revenue"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Halluminate",
-          "one_liner": "Data and RL environments to automate knowledge work",
-          "slug": "halluminate"
         },
         {
           "batch": "Summer 2025",
@@ -71208,6 +71164,28 @@
         {
           "batch": "Winter 2025",
           "evidence": {
+            "engineering": [
+              "engineering",
+              "infrastructure"
+            ],
+            "monetization": [
+              "marketplace"
+            ],
+            "product": [
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "HUD",
+          "one_liner": "Platform and marketplace for RL environments and AI data",
+          "slug": "hud"
+        },
+        {
+          "batch": "Winter 2025",
+          "evidence": {
             "monetization": [
               "revenue"
             ],
@@ -71319,12 +71297,13 @@
             ],
             "sales": [
               "sales",
-              "revenue"
+              "revenue",
+              "pipeline"
             ]
           },
           "industry": "B2B",
           "name": "Ergo",
-          "one_liner": "AI agents and unified data layer for revenue teams",
+          "one_liner": "Ergo is the context layer that helps revenue teams close more deals.",
           "slug": "ergo"
         },
         {
@@ -76146,25 +76125,6 @@
         {
           "batch": "Winter 2022",
           "evidence": {
-            "engineering": [
-              "engineering",
-              "infrastructure"
-            ],
-            "founders": [
-              "owners"
-            ],
-            "monetization": [
-              "insurance"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "KorrAI",
-          "one_liner": "Traceable AI for billion-dollar infrastructure.",
-          "slug": "korrai"
-        },
-        {
-          "batch": "Winter 2022",
-          "evidence": {
             "monetization": [
               "marketplace"
             ],
@@ -80585,12 +80545,13 @@
               "seo"
             ],
             "monetization": [
+              "pricing",
               "marketplace"
             ]
           },
           "industry": "Consumer",
           "name": "LFcarry",
-          "one_liner": "AI workspace for professional gamers",
+          "one_liner": "Marketplace for game boosting, carries and coaching",
           "slug": "lfcarry"
         },
         {
@@ -87590,7 +87551,7 @@
           },
           "industry": "Fintech",
           "name": "Denta",
-          "one_liner": "Dental Insurance",
+          "one_liner": "Dental Benefits for Startups",
           "slug": "denta"
         },
         {
@@ -88315,17 +88276,12 @@
             "engineering": [
               "software"
             ],
-            "marketing": [
-              "marketing"
-            ],
             "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
+              "revenue",
+              "insurance",
+              "financial"
             ],
             "sales": [
-              "sales",
               "revenue"
             ]
           },
@@ -102806,7 +102762,7 @@
               "engineering"
             ],
             "monetization": [
-              "financial"
+              "payment"
             ],
             "ux-ui": [
               "design"
@@ -102814,7 +102770,7 @@
           },
           "industry": "B2B",
           "name": "Runtime",
-          "one_liner": "AI agents for financial operations",
+          "one_liner": "The AI agent harness for payment teams",
           "slug": "runtime"
         },
         {
@@ -103767,12 +103723,13 @@
           "batch": "Spring 2025",
           "evidence": {
             "monetization": [
-              "accounting"
+              "accounting",
+              "payroll"
             ]
           },
           "industry": "B2B",
           "name": "Combinely",
-          "one_liner": "AI coworker for Accountants",
+          "one_liner": "AI Coworker for Accountants",
           "slug": "combinely"
         },
         {
@@ -104034,18 +103991,6 @@
           "name": "Sintropix",
           "one_liner": "Autonomous accounting platform for global companies",
           "slug": "sintropix"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "monetization": [
-              "accounting"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Sigma",
-          "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
-          "slug": "sigma-2"
         },
         {
           "batch": "Fall 2026",
@@ -105421,7 +105366,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2124
+      "count": 2123
     },
     "product": {
       "companies": [
@@ -106354,6 +106299,9 @@
               "engineering",
               "infrastructure"
             ],
+            "monetization": [
+              "marketplace"
+            ],
             "product": [
               "platform"
             ],
@@ -106363,7 +106311,7 @@
           },
           "industry": "B2B",
           "name": "HUD",
-          "one_liner": "Platform for building RL environments and evals ",
+          "one_liner": "Platform and marketplace for RL environments and AI data",
           "slug": "hud"
         },
         {
@@ -110742,6 +110690,22 @@
           "name": "Lenk",
           "one_liner": "The next-gen lending platform for the banking system in LATAM.",
           "slug": "lenk"
+        },
+        {
+          "batch": "Winter 2022",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "infrastructure"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "KorrAI",
+          "one_liner": "Traceable AI for billion-dollar infrastructure.",
+          "slug": "korrai"
         },
         {
           "batch": "Winter 2022",
@@ -119842,21 +119806,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "engineering": [
-              "coding"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "Instaplay",
-          "one_liner": "AI-native gaming platform turning every game into an RL environment",
-          "slug": "instaplay"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "product": [
               "platform"
             ]
@@ -119906,6 +119855,21 @@
           "name": "Grocalo",
           "one_liner": "AI brain for creators that runs their social content",
           "slug": "grocalo"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "marketing": [
+              "content"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "General Context Labs",
+          "one_liner": "Building Products and Datasets for Frontier Models",
+          "slug": "general-context-labs"
         },
         {
           "batch": "Summer 2026",
@@ -120577,31 +120541,6 @@
           "name": "Janet AI",
           "one_liner": "Agents that learn your company and work 24/7",
           "slug": "tryjanet"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "marketing": [
-              "marketing"
-            ],
-            "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "sales",
-              "revenue"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Halluminate",
-          "one_liner": "Data and RL environments to automate knowledge work",
-          "slug": "halluminate"
         },
         {
           "batch": "Summer 2025",
@@ -135234,12 +135173,13 @@
             ],
             "sales": [
               "sales",
-              "revenue"
+              "revenue",
+              "pipeline"
             ]
           },
           "industry": "B2B",
           "name": "Ergo",
-          "one_liner": "AI agents and unified data layer for revenue teams",
+          "one_liner": "Ergo is the context layer that helps revenue teams close more deals.",
           "slug": "ergo"
         },
         {
@@ -141555,17 +141495,12 @@
             "engineering": [
               "software"
             ],
-            "marketing": [
-              "marketing"
-            ],
             "monetization": [
-              "revenue"
-            ],
-            "product": [
-              "platform"
+              "revenue",
+              "insurance",
+              "financial"
             ],
             "sales": [
-              "sales",
               "revenue"
             ]
           },
@@ -149243,6 +149178,9 @@
               "engineering",
               "infrastructure"
             ],
+            "monetization": [
+              "marketplace"
+            ],
             "product": [
               "platform"
             ],
@@ -149252,7 +149190,7 @@
           },
           "industry": "B2B",
           "name": "HUD",
-          "one_liner": "Platform for building RL environments and evals ",
+          "one_liner": "Platform and marketplace for RL environments and AI data",
           "slug": "hud"
         },
         {
@@ -163648,7 +163586,7 @@
               "engineering"
             ],
             "monetization": [
-              "financial"
+              "payment"
             ],
             "ux-ui": [
               "design"
@@ -163656,7 +163594,7 @@
           },
           "industry": "B2B",
           "name": "Runtime",
-          "one_liner": "AI agents for financial operations",
+          "one_liner": "The AI agent harness for payment teams",
           "slug": "runtime"
         },
         {
@@ -166355,6 +166293,7 @@
       "liv-labs-inc",
       "livedocs",
       "living-carbon",
+      "locke",
       "logical",
       "logosguard",
       "loop-support",
@@ -166604,7 +166543,6 @@
       "pyrls",
       "pyxai",
       "qokedas",
-      "qomplement",
       "quadrant-health",
       "quippy",
       "racer",
@@ -166700,6 +166638,7 @@
       "shiok-meats",
       "siasto",
       "sidenote",
+      "sigma-2",
       "signatur-biosciences",
       "sila",
       "silver",
@@ -166822,7 +166761,6 @@
       "tivara",
       "together-video-chat",
       "torpedo-therapeutics",
-      "touchy",
       "tractian",
       "tradewind-bioscience",
       "trainzen",
