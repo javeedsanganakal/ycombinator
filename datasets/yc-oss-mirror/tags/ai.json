@@ -1626,7 +1626,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1580421990,
     "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
     "name": "Fondo",
@@ -8891,6 +8891,53 @@
     "website": "https://gymclass.com"
   },
   {
+    "all_locations": "Raleigh, NC, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Rownd",
+      "LlamaFarm"
+    ],
+    "id": 25402,
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1643295526,
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
+    "name": "Rownd",
+    "nonprofit": false,
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "rownd",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3fb21e9b70226a262919d3a7737f14e63ee8352.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Drones",
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 9,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "website": "https://rownd.ai"
+  },
+  {
     "all_locations": "Dubai, United Arab Emirates",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kaso.json",
     "app_answers": null,
@@ -10104,7 +10151,7 @@
     ],
     "slug": "broccoli-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -10118,6 +10165,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/broccoli-ai",
     "website": "https://www.broccoli.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rome.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2022",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 25822,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1648261394,
+    "long_description": "We started Rome AI in 2022 as a freight marketplace for truck drivers, helping 80+ drivers earn up to 40% more by finding 10x more loads. What we learned there pointed us toward something bigger, and that's what we're building now, in stealth. More soon.",
+    "name": "Rome",
+    "nonprofit": false,
+    "one_liner": "The marketplace for truckers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rome",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Marketplace",
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rome",
+    "website": "https://rome.ai"
   },
   {
     "all_locations": "Stockholm, Stockholm County, Sweden",
@@ -16398,17 +16486,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689093789,
-    "long_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
+    "long_description": "SID is an AI research center based in San Francisco. We train models that can retrieve and reason over any data source.",
     "name": "SID",
     "nonprofit": false,
-    "one_liner": "AI research lab for retrieval",
+    "one_liner": "AI research center for retrieval",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "sid",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/572a5971c1a0245d7008a992165eb1146a0f145c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac6ad037170806bce925f0d0ed9373eec18f576.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23629,47 +23717,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/mito-health.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 29706,
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "industry": "Healthcare",
-    "isHiring": false,
-    "launched_at": 1721173093,
-    "long_description": "Most health companies profit when you buy more tests. Mito profits when you make better decisions. Take a 60-second quiz → get a personalized recommendation: what to test, what to skip, what it costs. Every lab at our published cost (members pay exactly that; non-members +10%). Clinician-reviewed next steps, longitudinal tracking, and an AI Concierge that builds you a panel. $9/mo, cancel anytime. HSA/FSA eligible.",
-    "name": "Mito Health",
-    "nonprofit": false,
-    "one_liner": "At-cost lab testing marketplace that profits when you test less",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "mito-health",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7d5b3d9d49d514698e3998f8986079a0af9f826.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "tags": [
-      "Consumer Health Services",
-      "Digital Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 5,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mito-health",
-    "website": "https://mitohealth.com/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/fazeshift.json",
     "app_answers": null,
     "app_video_public": false,
@@ -28102,46 +28149,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cardamon",
     "website": "https://cardamon.ai/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30242,
-    "industries": [
-      "Consumer"
-    ],
-    "industry": "Consumer",
-    "isHiring": false,
-    "launched_at": 1739303977,
-    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, with your data and personal AI on hardware you own.",
-    "name": "Oki",
-    "nonprofit": false,
-    "one_liner": "The memory computer for your digital life.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "oki",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Consumer",
-    "tags": [
-      "Hardware",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 6,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "website": "https://okihome.ai"
   },
   {
     "all_locations": "Bogotá, Bogota, Colombia; Remote",
@@ -32624,49 +32631,6 @@
     "website": "https://www.evergrovelabs.com/"
   },
   {
-    "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2025",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Eden"
-    ],
-    "id": 30739,
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1753907556,
-    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
-    "name": "Quotain",
-    "nonprofit": false,
-    "one_liner": "AI sales simulations using your real deals",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "quotain",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37a5e96e86c6ccc42f303588c30f27f31a1fad2d.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Sales",
-    "tags": [
-      "Sales",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/quotain",
-    "website": "https://quotain.com"
-  },
-  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sigmanticai.json",
     "app_answers": null,
@@ -33730,7 +33694,7 @@
       "America / Canada"
     ],
     "slug": "helonic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336d43aeb77b236c25b003848175a054e780ccbc.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -34924,7 +34888,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1767637338,
     "long_description": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost.\r\n\r\nWe work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances.\r\n\r\nV1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly.\r\n\r\nWe manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
     "name": "Visibl Semiconductors",
@@ -35138,7 +35102,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1765975223,
     "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
     "name": "Ressl AI",
@@ -36465,6 +36429,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/degla-inc",
     "website": "https://degla.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Collar AI"
+    ],
+    "id": 31461,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1777111023,
+    "long_description": "Collar is the AI for Investor Relations.\r\nIt feeds the CEO the right number the moment an investor asks on call, answers investor questions around the clock, and remembers every investor relationship since IPO. \r\nBuilt by second time founders from buy side investing and military intelligence.",
+    "name": "Collar",
+    "nonprofit": false,
+    "one_liner": "AI for Investor Relations",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "collar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/collar",
+    "website": "https://usecollarai.com"
   },
   {
     "all_locations": "Paris, Île-de-France, France",
@@ -39864,47 +39869,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/papaya",
     "website": "https://papaya.fyi/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 36777,
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1788994017,
-    "long_description": "Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.\r\n\r\nDuring the implementation, the agent goes back to the employees involved after each initiative and asks whether it was implemented and what changed. The result is a project management office that has talked to every employee. Today consulting firms buy it for the stakeholder interviews at the start of an engagement. Transformation and corporate development teams buy it to run the implementation of a change program.\r\n\r\nOver time this becomes the way a company knows how it runs. Sona8 reads the systems the company already uses, connects them to what employees said, and keeps the picture current by asking again. Before a decision, you ask what it would do across sites and teams and get an answer from the whole company. A small team steers a company-wide program that used to need a large one. And AI agents inside the company come here first to learn how the work is done before they change anything.",
-    "name": "Sona8",
-    "nonprofit": false,
-    "one_liner": "Voice agents that talk to employees enabling transformations ",
-    "question_answers": true,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "sona8",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Operations",
-    "tags": [
-      "HR Tech",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/sona8",
-    "website": "https://sona8.com"
   },
   {
     "all_locations": "New York City, NY, USA",

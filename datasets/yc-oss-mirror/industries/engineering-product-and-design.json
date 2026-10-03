@@ -10431,7 +10431,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1627056154,
     "long_description": "Give your Ops teams the power to build the tools your business needs, with native data, logic, automation, and AI — without code",
     "name": "Noloco",
@@ -11355,7 +11355,7 @@
     ],
     "slug": "broccoli-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -15317,17 +15317,17 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689093789,
-    "long_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
+    "long_description": "SID is an AI research center based in San Francisco. We train models that can retrieve and reason over any data source.",
     "name": "SID",
     "nonprofit": false,
-    "one_liner": "AI research lab for retrieval",
+    "one_liner": "AI research center for retrieval",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "sid",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/572a5971c1a0245d7008a992165eb1146a0f145c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac6ad037170806bce925f0d0ed9373eec18f576.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24473,7 +24473,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1761703288,
-    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
+    "long_description": "Lemma is production monitoring for AI agents. We catch the silent failures your observability tools and evals miss (think bad tool calls, lost context, and infinite loops) before your users find them.",
     "name": "Lemma",
     "nonprofit": false,
     "one_liner": "Production Monitoring for AI agents",
@@ -25085,7 +25085,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1767637338,
     "long_description": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost.\r\n\r\nWe work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances.\r\n\r\nV1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly.\r\n\r\nWe manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
     "name": "Visibl Semiconductors",
@@ -26875,6 +26875,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/oro-ai",
     "website": "https://www.oroagents.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rystic.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Rystic, Inc."
+    ],
+    "id": 35751,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1790916343,
+    "long_description": "",
+    "name": "Rystic",
+    "nonprofit": false,
+    "one_liner": "API simulators for testing and training agents locally",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "rystic",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/rystic",
+    "website": "https://rystic.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
