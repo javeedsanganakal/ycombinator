@@ -11377,7 +11377,7 @@
     ],
     "slug": "curri",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed2e7167e1eff92b17d32c0735b56ffe5d4ef549.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
@@ -23351,10 +23351,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1642541270,
-    "long_description": "We're building the financial ops platform for construction, a $12T global industry run by software built 20-40 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 3 years building the rails to read and write across those systems, and we use them to deploy AI for invoicing, expenses, compliance, billing, and more.\r\n\r\nWe have 500+ customers and have been profitable & cashflow positive for over two years. We're backed by Accel and Y Combinator, with investors from Procore, Autodesk, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon.",
+    "long_description": "Agave builds applied AI for construction, a $12T global industry run on financial software built 20-50 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 4 years building proprietary rails that read and write across those systems. Our AI agents run on those rails and take over the back-office work contractors still do by hand: invoice matching, expenses, compliance, billing, and financial reporting. Contractors keep the systems they already use; our agents work across them.\r\n\r\n600+ contractors run on Agave, including teams building hyperscaler data centers, mass transit systems, and other critical infrastructure. We're backed by Accel and Y Combinator, who both reinvested in our $15M Series A, plus execs from Procore, Autodesk, PlanGrid, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon, and started Agave in YC's W22 batch.",
     "name": "Agave",
     "nonprofit": false,
-    "one_liner": "AI Financial Operations for Construction",
+    "one_liner": "Applied AI for Construction",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -23368,10 +23368,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 50,
@@ -25327,7 +25327,7 @@
     ],
     "slug": "broccoli-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -27816,18 +27816,18 @@
     ],
     "slug": "juicebox",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 80,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
@@ -28959,10 +28959,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "long_description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥\r\n\r\nSearch and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "Give your AI agents web data and beyond.",
+    "one_liner": "Building the library for superintelligence.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -28976,9 +28976,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -54809,6 +54809,47 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30806,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1750590533,
+    "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
+    "name": "Uplift AI",
+    "nonprofit": false,
+    "one_liner": "Foundational Voice Models for regional languages",
+    "question_answers": true,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "uplift-ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Speech Recognition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/uplift-ai",
+    "website": "https://upliftai.org/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/digipals.json",
     "app_answers": null,
     "app_video_public": false,
@@ -61245,6 +61286,43 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/plena-health.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Spring 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31493,
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "industry": "Healthcare",
+    "isHiring": true,
+    "launched_at": 1780106406,
+    "long_description": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
+    "name": "Plena Health",
+    "nonprofit": false,
+    "one_liner": "Plena is the AI operating system for specialty medical practices",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "plena-health",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3904753c66e12d522cb76c36f26a8325b7a90c7e.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "tags": [],
+    "tags_highlighted": [],
+    "team_size": null,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/plena-health",
+    "website": "https://www.plena.health/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/amboras.json",
     "app_answers": null,
     "app_video_public": false,
@@ -62764,7 +62842,7 @@
     "industry": "Fintech",
     "isHiring": true,
     "launched_at": 1782407143,
-    "long_description": "Denta is a full-stack insurance carrier rewriting healthcare. Starting with dental insurance, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost.",
+    "long_description": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
     "name": "Denta",
     "nonprofit": false,
     "one_liner": "Dental Benefits for Startups",
@@ -62779,10 +62857,10 @@
     "status": "Active",
     "subindustry": "Fintech -> Insurance",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Healthcare",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "team_size": 1,

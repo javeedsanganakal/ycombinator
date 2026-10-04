@@ -13,10 +13,10 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 | product | 1653 |
 | ux-ui | 941 |
 | engineering | 2866 |
-| sales | 750 |
+| sales | 749 |
 | marketing | 877 |
-| monetization | 2124 |
-| Unclassified | 1140 |
+| monetization | 2126 |
+| Unclassified | 1139 |
 
 ## Recent examples
 
@@ -38,6 +38,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 ### product
 
 - **Rote** (Winter 2027, B2B): AI-native insurance department for auto body shops [evidence: workflow]
+- **LinkLane** (Winter 2027, B2B): AI-powered freight brokerage. Quote, book, and track loads in seconds. [evidence: workflow]
 - **Voltair** (Winter 2026, Industrials): Autonomous Drones for Earth Observation [evidence: platform]
 - **Vela** (Winter 2026, B2B): AI Recruiting Coordinator for Executive Search [evidence: workflow]
 - **Valgo** (Winter 2026, B2B): Insurance risk layer for physical AI [evidence: platform]
@@ -48,7 +49,6 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Rhizome AI** (Winter 2026, B2B): Agent Platform for Life Sciences [evidence: platform]
 - **Ressl AI** (Winter 2026, B2B): Train, eval and build autonomous agents [evidence: platform]
 - **Quotient Labs** (Winter 2026, B2B): Use Claude Code at 47% less cost in one line of installation. [evidence: workflow]
-- **Pax Historia** (Winter 2026, Consumer): The first AI-powered worldbuilding and gameplay platform [evidence: platform]
 
 ### ux-ui
 
@@ -113,6 +113,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 ### monetization
 
 - **Rote** (Winter 2027, B2B): AI-native insurance department for auto body shops [evidence: revenue, insurance]
+- **LinkLane** (Winter 2027, B2B): AI-powered freight brokerage. Quote, book, and track loads in seconds. [evidence: marketplace]
 - **ZeroSettle** (Winter 2026, Fintech): Drop-in Direct Billing SDK for In-App Purchases [evidence: billing, payments, fintech]
 - **VOYGR** (Winter 2026, B2B): Real-world place intelligence for AI apps and agents [evidence: commerce]
 - **Voltair** (Winter 2026, Industrials): Autonomous Drones for Earth Observation [evidence: insurance]
@@ -123,7 +124,6 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **SpotPay** (Winter 2026, Fintech): Stablecoin Global Bank Account [evidence: payments, fintech]
 - **Sponge** (Winter 2026, B2B): Financial infrastructure for the agent economy [evidence: payments, financial]
 - **Signals** (Winter 2026, B2B): iMessage revenue channel for DTC brands that brings customers back [evidence: revenue]
-- **Sequence Markets** (Winter 2026, Fintech): Low-latency execution across crypto, prediction, and tokenized assets [evidence: fintech]
 
 ## Search commands
 

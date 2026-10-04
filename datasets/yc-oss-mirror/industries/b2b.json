@@ -59106,10 +59106,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1642541270,
-    "long_description": "We're building the financial ops platform for construction, a $12T global industry run by software built 20-40 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 3 years building the rails to read and write across those systems, and we use them to deploy AI for invoicing, expenses, compliance, billing, and more.\r\n\r\nWe have 500+ customers and have been profitable & cashflow positive for over two years. We're backed by Accel and Y Combinator, with investors from Procore, Autodesk, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon.",
+    "long_description": "Agave builds applied AI for construction, a $12T global industry run on financial software built 20-50 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 4 years building proprietary rails that read and write across those systems. Our AI agents run on those rails and take over the back-office work contractors still do by hand: invoice matching, expenses, compliance, billing, and financial reporting. Contractors keep the systems they already use; our agents work across them.\r\n\r\n600+ contractors run on Agave, including teams building hyperscaler data centers, mass transit systems, and other critical infrastructure. We're backed by Accel and Y Combinator, who both reinvested in our $15M Series A, plus execs from Procore, Autodesk, PlanGrid, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon, and started Agave in YC's W22 batch.",
     "name": "Agave",
     "nonprofit": false,
-    "one_liner": "AI Financial Operations for Construction",
+    "one_liner": "Applied AI for Construction",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -59123,10 +59123,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 50,
@@ -64246,7 +64246,7 @@
     ],
     "slug": "broccoli-ai",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -68964,18 +68964,18 @@
     ],
     "slug": "juicebox",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
-    "team_size": 80,
+    "team_size": 100,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/juicebox",
     "website": "https://juicebox.ai/"
@@ -71097,10 +71097,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1661283698,
-    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "long_description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥\r\n\r\nSearch and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
     "name": "Firecrawl",
     "nonprofit": false,
-    "one_liner": "Give your AI agents web data and beyond.",
+    "one_liner": "Building the library for superintelligence.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -71114,9 +71114,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -102920,45 +102920,6 @@
     "website": "https://www.metreecs.com"
   },
   {
-    "all_locations": "New York City, NY, USA; Remote",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/revi.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2024",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30104,
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1731904830,
-    "long_description": "Revi helps Investment Banks, PE firms, and Corporate Development teams source new deals.\r\n\r\nWe do this by using agentic workflows to replicate their end-to-end deal origination process, entirely removing the trade-off between precision and scalability.\r\n\r\nWe released the first version of Revi in September 2023 and now have companies like KPMG and platforms backed by KKR and Nordic Capital using our product.",
-    "name": "Revi",
-    "nonprofit": false,
-    "one_liner": "AI-enabled M&A deal origination",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "slug": "revi",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c5e4db7724db9cc411212c0a36b0c2b276b67e7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Sales",
-    "tags": [],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/revi",
-    "website": "https://www.revi.ai/"
-  },
-  {
     "all_locations": "Lehi, UT, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/surge.json",
     "app_answers": null,
@@ -111029,7 +110990,7 @@
       "America / Canada"
     ],
     "slug": "chrt",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b277e76a793543c1eca6d025b35d9a2909a75cd2.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -116611,7 +116572,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1750590533,
     "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
     "name": "Uplift AI",
@@ -119527,7 +119488,7 @@
       "Advertising"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 10,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/absurd",
     "website": "https://absurd.com/"
@@ -128156,7 +128117,7 @@
       "America / Canada"
     ],
     "slug": "tdaycom",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/245e0417e254483c5d2213e33598312271a5bbd8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0ffe6b713cd1d09640befb7d9ecff3dd9facdb.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
@@ -132078,6 +132039,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/alkera-ai",
     "website": "https://alkera.ai"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/linklane.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2027",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 32263,
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1791055548,
+    "long_description": "LinkLane helps businesses move freight with a click. Anyone can get a quote and book instantly, while our AI agents find the carrier, negotiate the rate, and manage every load from pickup to delivery. Trucking is a nearly $1 trillion market still run by call centers of brokers working the phones. We're bringing the Amazon experience to freight, making shipping cheaper and easier for every business.",
+    "name": "LinkLane",
+    "nonprofit": false,
+    "one_liner": "AI-powered freight brokerage. Quote, book, and track loads in seconds.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "linklane",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/622f0cd8620407da036d7d0809c1bb429c984f34.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "tags": [
+      "Digital Freight Brokerage",
+      "Marketplace",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/linklane",
+    "website": "https://linklane.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

@@ -10742,19 +10742,17 @@
           "batch": "Winter 2022",
           "evidence": {
             "engineering": [
-              "software"
+              "software",
+              "infrastructure"
             ],
             "monetization": [
               "billing",
               "financial"
-            ],
-            "product": [
-              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Agave",
-          "one_liner": "AI Financial Operations for Construction",
+          "one_liner": "Applied AI for Construction",
           "slug": "agave"
         },
         {
@@ -30832,7 +30830,7 @@
           },
           "industry": "B2B",
           "name": "Firecrawl",
-          "one_liner": "Give your AI agents web data and beyond.",
+          "one_liner": "Building the library for superintelligence.",
           "slug": "firecrawl"
         },
         {
@@ -69913,6 +69911,21 @@
           "slug": "rote"
         },
         {
+          "batch": "Winter 2027",
+          "evidence": {
+            "monetization": [
+              "marketplace"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "B2B",
+          "name": "LinkLane",
+          "one_liner": "AI-powered freight brokerage. Quote, book, and track loads in seconds.",
+          "slug": "linklane"
+        },
+        {
           "batch": "Winter 2026",
           "evidence": {
             "engineering": [
@@ -77675,19 +77688,17 @@
           "batch": "Winter 2022",
           "evidence": {
             "engineering": [
-              "software"
+              "software",
+              "infrastructure"
             ],
             "monetization": [
               "billing",
               "financial"
-            ],
-            "product": [
-              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Agave",
-          "one_liner": "AI Financial Operations for Construction",
+          "one_liner": "Applied AI for Construction",
           "slug": "agave"
         },
         {
@@ -105140,6 +105151,18 @@
             ]
           },
           "industry": "Fintech",
+          "name": "Thornwick",
+          "one_liner": "Buy-side M&A Advisory",
+          "slug": "thornwick"
+        },
+        {
+          "batch": "Fall 2024",
+          "evidence": {
+            "monetization": [
+              "fintech"
+            ]
+          },
+          "industry": "Fintech",
           "name": "Sunset",
           "one_liner": "Find and move money after a death",
           "slug": "sunset"
@@ -105466,7 +105489,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2124
+      "count": 2126
     },
     "product": {
       "companies": [
@@ -105488,6 +105511,21 @@
           "name": "Rote",
           "one_liner": "AI-native insurance department for auto body shops",
           "slug": "rote"
+        },
+        {
+          "batch": "Winter 2027",
+          "evidence": {
+            "monetization": [
+              "marketplace"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "B2B",
+          "name": "LinkLane",
+          "one_liner": "AI-powered freight brokerage. Quote, book, and track loads in seconds.",
+          "slug": "linklane"
         },
         {
           "batch": "Winter 2026",
@@ -111941,25 +111979,6 @@
           "name": "Agency",
           "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
           "slug": "agency"
-        },
-        {
-          "batch": "Winter 2022",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "monetization": [
-              "billing",
-              "financial"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Agave",
-          "one_liner": "AI Financial Operations for Construction",
-          "slug": "agave"
         },
         {
           "batch": "Winter 2021",
@@ -148285,18 +148304,6 @@
         {
           "batch": "Fall 2024",
           "evidence": {
-            "sales": [
-              "sales"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Revi",
-          "one_liner": "AI-enabled M&A deal origination",
-          "slug": "revi"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
             "marketing": [
               "content"
             ],
@@ -148435,7 +148442,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 750
+      "count": 749
     },
     "ux-ui": {
       "companies": [
@@ -165818,7 +165825,7 @@
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1140,
+    "count": 1139,
     "slugs": [
       "1000memories",
       "100x",
@@ -166126,7 +166133,6 @@
       "ethos-space-resources",
       "eugit-therapeutics",
       "eventjoy",
-      "everest",
       "everyday-me",
       "everyme",
       "evolvere-biosciences",
