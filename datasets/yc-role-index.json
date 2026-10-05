@@ -45260,17 +45260,18 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "engineer",
+              "engineering",
               "developer",
-              "infrastructure",
               "developer tools"
             ],
-            "sales": [
-              "outbound"
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "B2B",
           "name": "Mirrors",
-          "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
+          "one_liner": "Steer AI agents in real time using lessons from production runs",
           "slug": "mirrors"
         },
         {
@@ -47605,6 +47606,18 @@
           "batch": "Fall 2024",
           "evidence": {
             "engineering": [
+              "robotics"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Forerunner",
+          "one_liner": "Quick-turn bent tube shop for aerospace, energy, industrials",
+          "slug": "forerunner"
+        },
+        {
+          "batch": "Fall 2024",
+          "evidence": {
+            "engineering": [
               "engineering"
             ],
             "ux-ui": [
@@ -47831,7 +47844,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2866
+      "count": 2867
     },
     "founders": {
       "companies": [
@@ -70364,22 +70377,6 @@
           "batch": "Winter 2026",
           "evidence": {
             "monetization": [
-              "accounting",
-              "financial"
-            ],
-            "sales": [
-              "crm"
-            ]
-          },
-          "industry": "B2B",
-          "name": "o11",
-          "one_liner": "The AI Data Warehouse For Financial Firms",
-          "slug": "o11"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "monetization": [
               "financial"
             ]
           },
@@ -87639,7 +87636,7 @@
           },
           "industry": "Fintech",
           "name": "Denta",
-          "one_liner": "Dental Benefits for Startups",
+          "one_liner": "Fortune 500 Dental Benefits for Startups",
           "slug": "denta"
         },
         {
@@ -105489,7 +105486,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2126
+      "count": 2125
     },
     "product": {
       "companies": [
@@ -134317,18 +134314,6 @@
         {
           "batch": "Fall 2024",
           "evidence": {
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Forerunner AI",
-          "one_liner": "AI that gets aircraft flying faster",
-          "slug": "forerunner-ai"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
             "monetization": [
               "revenue",
               "financial"
@@ -134419,7 +134404,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1653
+      "count": 1652
     },
     "sales": {
       "companies": [
@@ -134641,17 +134626,13 @@
         {
           "batch": "Winter 2026",
           "evidence": {
-            "monetization": [
-              "accounting",
-              "financial"
-            ],
             "sales": [
-              "crm"
+              "sales"
             ]
           },
           "industry": "B2B",
           "name": "o11",
-          "one_liner": "The AI Data Warehouse For Financial Firms",
+          "one_liner": "AI account managers for consumer/self-serve apps",
           "slug": "o11"
         },
         {
@@ -147753,23 +147734,6 @@
         {
           "batch": "Fall 2026",
           "evidence": {
-            "engineering": [
-              "developer",
-              "infrastructure",
-              "developer tools"
-            ],
-            "sales": [
-              "outbound"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Mirrors",
-          "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
-          "slug": "mirrors"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
             "monetization": [
               "fintech",
               "insurance",
@@ -148442,7 +148406,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 749
+      "count": 748
     },
     "ux-ui": {
       "companies": [
@@ -164641,6 +164605,24 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "engineer",
+              "engineering",
+              "developer",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Mirrors",
+          "one_liner": "Steer AI agents in real time using lessons from production runs",
+          "slug": "mirrors"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineering"
             ],
             "ux-ui": [
@@ -165819,7 +165801,7 @@
           "slug": "alex"
         }
       ],
-      "count": 941
+      "count": 942
     }
   },
   "rules_version": 1,

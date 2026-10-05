@@ -10,12 +10,12 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 | Role | Companies |
 | --- | ---: |
 | founders | 348 |
-| product | 1653 |
-| ux-ui | 941 |
-| engineering | 2866 |
-| sales | 749 |
+| product | 1652 |
+| ux-ui | 942 |
+| engineering | 2867 |
+| sales | 748 |
 | marketing | 877 |
-| monetization | 2126 |
+| monetization | 2125 |
 | Unclassified | 1139 |
 
 ## Recent examples

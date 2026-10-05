@@ -66554,7 +66554,7 @@
     "website": "https://credibook.com/"
   },
   {
-    "all_locations": "Guadalajara, Jal., Mexico; Remote",
+    "all_locations": "Heidelberg, BW, Germany; Guadalajara, Jal., Mexico; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/lizza.json",
     "app_answers": null,
     "app_video_public": false,
@@ -66577,7 +66577,9 @@
     "one_liner": "AI-assitant for managing creator-brand partnerships",
     "question_answers": false,
     "regions": [
+      "Germany",
       "Mexico",
+      "Europe",
       "Latin America",
       "Remote",
       "Fully Remote"
@@ -68964,7 +68966,7 @@
     ],
     "slug": "juicebox",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Recruiting and Talent",
     "tags": [
@@ -77898,7 +77900,7 @@
     "website": "http://www.muffindata.com"
   },
   {
-    "all_locations": "Bridgeton, MO, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pylon-2.json",
     "app_answers": null,
     "app_video_public": false,
@@ -77928,10 +77930,10 @@
     "status": "Active",
     "subindustry": "B2B -> Operations",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "team_size": 120,
@@ -88631,10 +88633,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Automation",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -94721,7 +94723,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1721954121,
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
+    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to retrieve & analyze docs for law firms, providers, and more. ",
     "name": "Codes Health",
     "nonprofit": false,
     "one_liner": "Medical Record Retrieval with Zero Human Error",
@@ -95722,12 +95724,12 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/deepsim-inc",
     "website": "https://www.deepsim.io"
@@ -105329,7 +105331,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1734639467,
     "long_description": "Asteroid is the AI-powered integration layer for healthcare. One connector for EHRs, payer portals, and legacy desktop systems, with 100+ pre-built integrations that go live in days, not months. Built for developers and operations teams, with integrations that maintain themselves.",
     "name": "Asteroid",
@@ -105346,14 +105348,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 8,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/asteroid",
     "website": "https://asteroid.ai"
@@ -109856,12 +109858,12 @@
     "status": "Active",
     "subindustry": "B2B -> Legal",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Legal",
-      "AI"
+      "Legal"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 7,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/crimson",
     "website": "https://crimson.law"
@@ -118107,7 +118109,7 @@
     "website": "https://meetalder.com/"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sf-tensor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -118130,7 +118132,8 @@
     "one_liner": "Infrastructure for AI labs to focus on research.",
     "question_answers": true,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "sf-tensor",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524a578009f692a6daadfe853089aabd437361d4.png",
@@ -124415,15 +124418,15 @@
     "id": 31230,
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Sales"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1765258468,
-    "long_description": "o11 is the AI data warehouse for financial firms. The largest firms build a moat around their data. Today, they pay engineers $200k a year each to spend years organizing/maintaining disconnected sources in a legacy data warehouse. The business intelligence that results is the key unlock, but it's time effort and money that would be better spent elsewhere.\r\n\r\no11 brings a custom ontology and data model to firms of any size allowing them to unify CRM, email, files, data rooms, market data, M365, etc. all in one place. We help firms architect their own data warehouse, and then from their AI maintains it. No engineers, no legacy solutions, no complex migration. o11 is built for security and complex permissions from the ground up allowing it to safely connect directly into any agent including Claude, ChatGPT, and Copilot.\r\n\r\nLeverage your proprietary data -- it's the deal, relationship, and business intelligence that makes your firm special",
+    "long_description": "o11 is the AI account manager for consumer and self-serve applications, helping teams treat every customer like a flagship client. It brings email and iMessage conversations together, suggests personal replies, and turns customer signals into timely follow-ups. Teams can tailor each persona’s voice and review response plans before turning them on.",
     "name": "o11",
     "nonprofit": false,
-    "one_liner": "The AI Data Warehouse For Financial Firms",
+    "one_liner": "AI account managers for consumer/self-serve apps",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -124433,12 +124436,12 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Sales",
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Finance",
       "B2B",
-      "AI"
+      "Customer Success"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -125199,7 +125202,7 @@
     "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 15,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vela",
     "website": "https://tryvela.ai"
@@ -125888,7 +125891,7 @@
     "website": "https://openvector.com"
   },
   {
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/litmus-hiring.json",
     "app_answers": null,
     "app_video_public": false,
@@ -127768,7 +127771,7 @@
     "website": "https://www.oddpool.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json",
     "app_answers": null,
     "app_video_public": false,
@@ -128718,7 +128721,7 @@
     "website": "https://tester.army"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Cairo, Cairo Governorate, Egypt",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json",
     "app_answers": null,
     "app_video_public": false,
@@ -128739,8 +128742,8 @@
     "one_liner": "Autonomous Runtime Security",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Egypt",
+      "Middle East and North Africa"
     ],
     "slug": "raspire",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
@@ -133322,7 +133325,7 @@
     "website": "https://thefamiliarlab.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json",
     "app_answers": null,
     "app_video_public": false,
@@ -133343,8 +133346,8 @@
     "one_liner": "Expert computer-use data for frontier AI labs",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "slug": "markov",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
@@ -135589,15 +135592,15 @@
     "id": 35258,
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1789011304,
-    "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
     "name": "Mirrors",
     "nonprofit": false,
-    "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
+    "one_liner": "Steer AI agents in real time using lessons from production runs",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -135607,7 +135610,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
       "Artificial Intelligence",

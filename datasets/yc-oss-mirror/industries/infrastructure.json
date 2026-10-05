@@ -10781,7 +10781,7 @@
     "website": "https://hyperspell.com"
   },
   {
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sf-tensor.json",
     "app_answers": null,
     "app_video_public": false,
@@ -10804,7 +10804,8 @@
     "one_liner": "Infrastructure for AI labs to focus on research.",
     "question_answers": true,
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "slug": "sf-tensor",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524a578009f692a6daadfe853089aabd437361d4.png",
@@ -13192,7 +13193,7 @@
     "website": "https://thefamiliarlab.com"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json",
     "app_answers": null,
     "app_video_public": false,
@@ -13213,8 +13214,8 @@
     "one_liner": "Expert computer-use data for frontier AI labs",
     "question_answers": false,
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "slug": "markov",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
@@ -13703,49 +13704,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/boat",
     "website": "https://boat.dev"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 35258,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1789011304,
-    "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
-    "name": "Mirrors",
-    "nonprofit": false,
-    "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "mirrors",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "website": "https://www.runmirrors.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
