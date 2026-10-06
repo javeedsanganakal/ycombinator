@@ -321,15 +321,16 @@
     "website": "https://tryprism.com/"
   },
   {
-    "all_locations": "Adelaide, SA, Australia",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json",
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/teaflask.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Spring 2026",
     "demo_day_video_public": false,
     "former_names": [
       "Something Labs",
-      "Waffer"
+      "Waffer",
+      "TakeCareOS"
     ],
     "id": 30963,
     "industries": [
@@ -338,17 +339,17 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1760645046,
-    "long_description": "TakeCareOS is building the infrastructure for the AI-native long term care providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
-    "name": "TakeCareOS",
+    "long_description": "Teaflask is the AI layer for software companies. It lets any SaaS company put an agent inside its product that carries out tasks for its users, with the controls enterprises require. Customers go live in a day, without a rebuild.\r\n\r\nCalling a model is the easy part of shipping an in-product agent. The hard part is everything around it: streaming, crash recovery, scaling, guardrails, interfaces that match the product, and knowledge that stays current as the code changes. Teaflask handles all of it with no backend changes, and gives product teams visibility into how their users actually use the product.",
+    "name": "Teaflask",
     "nonprofit": false,
-    "one_liner": "AI-native operating system for long term care providers",
+    "one_liner": "Make your product AI native by tomorrow.",
     "question_answers": false,
     "regions": [
-      "Australia",
-      "Oceania"
+      "United States of America",
+      "America / Canada"
     ],
-    "slug": "takecareos",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
+    "slug": "teaflask",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60aeb885d926aa8c00319dc0338da8f9a62f3786.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -356,8 +357,8 @@
     "tags_highlighted": [],
     "team_size": 1,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/takecareos",
-    "website": "https://takecareos.com"
+    "url": "https://www.ycombinator.com/companies/teaflask",
+    "website": "https://teaflask.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1106,16 +1107,18 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1778267831,
-    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 8,300 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
+    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 12,300 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
     "name": "Klarify",
     "nonprofit": false,
     "one_liner": "AI Agent for Therapists",
     "question_answers": false,
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "slug": "klarify",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
@@ -1124,7 +1127,7 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 3,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/klarify",
     "website": "https://www.klarify.ca/"

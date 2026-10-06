@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6269
+Companies classified: 6273
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -9,14 +9,14 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 | Role | Companies |
 | --- | ---: |
-| founders | 348 |
-| product | 1652 |
-| ux-ui | 942 |
-| engineering | 2867 |
+| founders | 347 |
+| product | 1650 |
+| ux-ui | 943 |
+| engineering | 2868 |
 | sales | 748 |
-| marketing | 877 |
-| monetization | 2125 |
-| Unclassified | 1139 |
+| marketing | 876 |
+| monetization | 2123 |
+| Unclassified | 1142 |
 
 ## Recent examples
 
@@ -31,7 +31,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Kita** (Winter 2026, Fintech): Underwrite borrowers around the world in minutes [evidence: founder]
 - **Hlabs** (Winter 2026, Industrials): US-Made Parts for Robots [evidence: founder]
 - **End Close** (Winter 2026, B2B): AI powered reconciliation for high-volume payments companies [evidence: founder]
-- **Corvera** (Winter 2026, B2B): The AI sales engine for CPG brands [evidence: founder]
+- **Corvera** (Winter 2026, B2B): The AI sales agent for CPG brands [evidence: founder]
 - **Cardinal** (Winter 2026, B2B): Revenue Agents for GTM teams [evidence: founder]
 - **Cardboard** (Winter 2026, B2B): Agentic video editor [evidence: founder]
 

@@ -1,5 +1,5 @@
 {
-  "company_count": 6269,
+  "company_count": 6273,
   "roles": {
     "engineering": {
       "companies": [
@@ -1353,7 +1353,7 @@
           },
           "industry": "B2B",
           "name": "Corvera",
-          "one_liner": "The AI sales engine for CPG brands",
+          "one_liner": "The AI sales agent for CPG brands",
           "slug": "corvera"
         },
         {
@@ -1522,19 +1522,12 @@
             "engineering": [
               "engineering",
               "api",
-              "infrastructure",
-              "cloud"
-            ],
-            "marketing": [
-              "content"
-            ],
-            "sales": [
-              "pipeline"
+              "infrastructure"
             ]
           },
           "industry": "B2B",
           "name": "Captain",
-          "one_liner": "Self-tuning file search for AI agents",
+          "one_liner": "Self-tuning search for products and files",
           "slug": "captain"
         },
         {
@@ -2406,7 +2399,7 @@
           },
           "industry": "B2B",
           "name": "Onlook",
-          "one_liner": "Cursor for Designers",
+          "one_liner": "The Developer tool for Designers",
           "slug": "onlook"
         },
         {
@@ -21424,6 +21417,21 @@
           "batch": "Winter 2007",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Parakey",
+          "one_liner": "",
+          "slug": "parakey"
+        },
+        {
+          "batch": "Winter 2007",
+          "evidence": {
+            "engineering": [
               "engineering",
               "robotics"
             ],
@@ -21566,24 +21574,6 @@
           "name": "Verdict Machine",
           "one_liner": "AI cybersecurity for financial institutions' digital assets",
           "slug": "verdict-machine"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "code",
-              "api"
-            ],
-            "ux-ui": [
-              "ui",
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Vendo",
-          "one_liner": "Let your users build their own features on top of your product",
-          "slug": "vendo"
         },
         {
           "batch": "Summer 2026",
@@ -21934,7 +21924,9 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
+              "engineering",
               "developer",
+              "coding",
               "infrastructure",
               "developer tools"
             ]
@@ -22232,6 +22224,21 @@
           "name": "Orchestra",
           "one_liner": "Self-optimizing neocloud that cuts LLM costs by 100x",
           "slug": "orchestra"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Operon",
+          "one_liner": "Agentic data layer for manufacturing & process industries. ",
+          "slug": "operon"
         },
         {
           "batch": "Summer 2026",
@@ -22756,31 +22763,6 @@
           "name": "HyperProbe",
           "one_liner": "AI engineer that debugs and fixes production incidents in realtime",
           "slug": "hyperprobe"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "api"
-            ],
-            "founders": [
-              "cofounder"
-            ],
-            "monetization": [
-              "revenue",
-              "insurance"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Hubble",
-          "one_liner": "AI-native retrieval engine for medical records",
-          "slug": "hubble-ai"
         },
         {
           "batch": "Summer 2026",
@@ -42048,21 +42030,6 @@
           "batch": "Summer 2005",
           "evidence": {
             "engineering": [
-              "infrastructure"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Parakey",
-          "one_liner": "",
-          "slug": "parakey"
-        },
-        {
-          "batch": "Summer 2005",
-          "evidence": {
-            "engineering": [
               "software"
             ],
             "marketing": [
@@ -42253,6 +42220,19 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
+              "software",
+              "code"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Teaflask",
+          "one_liner": "Make your product AI native by tomorrow.",
+          "slug": "teaflask"
+        },
+        {
+          "batch": "Spring 2026",
+          "evidence": {
+            "engineering": [
               "software"
             ],
             "marketing": [
@@ -42287,21 +42267,6 @@
           "name": "Tasklet",
           "one_liner": "Agents that own the work",
           "slug": "tasklet-2"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
-            "engineering": [
-              "infrastructure"
-            ],
-            "monetization": [
-              "billing"
-            ]
-          },
-          "industry": "B2B",
-          "name": "TakeCareOS",
-          "one_liner": "AI-native operating system for long term care providers",
-          "slug": "takecareos"
         },
         {
           "batch": "Spring 2026",
@@ -44912,12 +44877,13 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "infrastructure",
               "machine learning"
             ]
           },
           "industry": "B2B",
           "name": "TrueMile",
-          "one_liner": "AI agents that run trucking operations.",
+          "one_liner": "An AI-operated logistics company.",
           "slug": "truemile"
         },
         {
@@ -45164,17 +45130,17 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "software",
-              "robotics"
+              "api",
+              "infrastructure"
             ],
-            "ux-ui": [
-              "design"
+            "sales": [
+              "sales"
             ]
           },
-          "industry": "Industrials",
-          "name": "Pendulum Robotics",
-          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
-          "slug": "pendulum-robotics"
+          "industry": "B2B",
+          "name": "Ploid",
+          "one_liner": "The people data company for the agent era",
+          "slug": "ploid"
         },
         {
           "batch": "Fall 2026",
@@ -45226,6 +45192,22 @@
           "name": "OpenHack",
           "one_liner": "Always-on AI security engineer",
           "slug": "openhack"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
+              "robotics"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Open Actuation",
+          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+          "slug": "open-actuation"
         },
         {
           "batch": "Fall 2026",
@@ -45785,6 +45767,21 @@
           "name": "Unsiloed AI",
           "one_liner": "API for parsing multimodal unstructured data",
           "slug": "unsiloed-ai"
+        },
+        {
+          "batch": "Fall 2025",
+          "evidence": {
+            "engineering": [
+              "software"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Trelium",
+          "one_liner": "AI Agents for Enterprise Wide Operations",
+          "slug": "trelium"
         },
         {
           "batch": "Fall 2025",
@@ -47844,7 +47841,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2867
+      "count": 2868
     },
     "founders": {
       "companies": [
@@ -48033,7 +48030,7 @@
           },
           "industry": "B2B",
           "name": "Corvera",
-          "one_liner": "The AI sales engine for CPG brands",
+          "one_liner": "The AI sales agent for CPG brands",
           "slug": "corvera"
         },
         {
@@ -50993,31 +50990,6 @@
           "name": "LemonLime",
           "one_liner": "Fully automated GTM for small business",
           "slug": "lemonlime"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "api"
-            ],
-            "founders": [
-              "cofounder"
-            ],
-            "monetization": [
-              "revenue",
-              "insurance"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Hubble",
-          "one_liner": "AI-native retrieval engine for medical records",
-          "slug": "hubble-ai"
         },
         {
           "batch": "Summer 2026",
@@ -54273,7 +54245,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 348
+      "count": 347
     },
     "marketing": {
       "companies": [
@@ -54488,7 +54460,7 @@
           },
           "industry": "B2B",
           "name": "Corvera",
-          "one_liner": "The AI sales engine for CPG brands",
+          "one_liner": "The AI sales agent for CPG brands",
           "slug": "corvera"
         },
         {
@@ -54594,27 +54566,6 @@
           "name": "Cardboard",
           "one_liner": "Agentic video editor",
           "slug": "cardboard"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "api",
-              "infrastructure",
-              "cloud"
-            ],
-            "marketing": [
-              "content"
-            ],
-            "sales": [
-              "pipeline"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Captain",
-          "one_liner": "Self-tuning file search for AI agents",
-          "slug": "captain"
         },
         {
           "batch": "Winter 2026",
@@ -54772,7 +54723,7 @@
           },
           "industry": "B2B",
           "name": "Onlook",
-          "one_liner": "Cursor for Designers",
+          "one_liner": "The Developer tool for Designers",
           "slug": "onlook"
         },
         {
@@ -69900,7 +69851,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 877
+      "count": 876
     },
     "monetization": {
       "companies": [
@@ -70644,7 +70595,7 @@
           },
           "industry": "B2B",
           "name": "Corvera",
-          "one_liner": "The AI sales engine for CPG brands",
+          "one_liner": "The AI sales agent for CPG brands",
           "slug": "corvera"
         },
         {
@@ -87520,31 +87471,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "engineering": [
-              "api"
-            ],
-            "founders": [
-              "cofounder"
-            ],
-            "monetization": [
-              "revenue",
-              "insurance"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Hubble",
-          "one_liner": "AI-native retrieval engine for medical records",
-          "slug": "hubble-ai"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "monetization": [
               "fintech",
               "insurance"
@@ -102791,21 +102717,6 @@
         {
           "batch": "Spring 2026",
           "evidence": {
-            "engineering": [
-              "infrastructure"
-            ],
-            "monetization": [
-              "billing"
-            ]
-          },
-          "industry": "B2B",
-          "name": "TakeCareOS",
-          "one_liner": "AI-native operating system for long term care providers",
-          "slug": "takecareos"
-        },
-        {
-          "batch": "Spring 2026",
-          "evidence": {
             "monetization": [
               "billing",
               "revenue",
@@ -105486,7 +105397,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2125
+      "count": 2123
     },
     "product": {
       "companies": [
@@ -106373,18 +106284,6 @@
           "name": "Mentra",
           "one_liner": "Building the open source smart glasses operating system.",
           "slug": "mentra"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Maive",
-          "one_liner": "AI for Home Services",
-          "slug": "maive"
         },
         {
           "batch": "Winter 2025",
@@ -109623,7 +109522,7 @@
           },
           "industry": "Healthcare",
           "name": "WhiteLab Genomics",
-          "one_liner": "Unleashing the potential of DNA and RNA based therapies using AI",
+          "one_liner": "Unleash the potential of genomic medicine using AI",
           "slug": "whitelab-genomics"
         },
         {
@@ -119449,6 +119348,21 @@
           "batch": "Winter 2007",
           "evidence": {
             "engineering": [
+              "infrastructure"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Parakey",
+          "one_liner": "",
+          "slug": "parakey"
+        },
+        {
+          "batch": "Winter 2007",
+          "evidence": {
+            "engineering": [
               "engineering",
               "robotics"
             ],
@@ -119914,31 +119828,6 @@
           "name": "Illume Labs",
           "one_liner": "24/7 Personal Health & Longevity Companion",
           "slug": "illume-labs"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "api"
-            ],
-            "founders": [
-              "cofounder"
-            ],
-            "monetization": [
-              "revenue",
-              "insurance"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Hubble",
-          "one_liner": "AI-native retrieval engine for medical records",
-          "slug": "hubble-ai"
         },
         {
           "batch": "Summer 2026",
@@ -132219,21 +132108,6 @@
           "slug": "jumpchat"
         },
         {
-          "batch": "Summer 2005",
-          "evidence": {
-            "engineering": [
-              "infrastructure"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Parakey",
-          "one_liner": "",
-          "slug": "parakey"
-        },
-        {
           "batch": "Spring 2026",
           "evidence": {
             "monetization": [
@@ -133492,13 +133366,16 @@
         {
           "batch": "Fall 2025",
           "evidence": {
+            "engineering": [
+              "software"
+            ],
             "product": [
               "workflow"
             ]
           },
           "industry": "B2B",
           "name": "Trelium",
-          "one_liner": "The Agent to Build Your Agents",
+          "one_liner": "AI Agents for Enterprise Wide Operations",
           "slug": "trelium"
         },
         {
@@ -134404,7 +134281,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1652
+      "count": 1650
     },
     "sales": {
       "companies": [
@@ -134747,7 +134624,7 @@
           },
           "industry": "B2B",
           "name": "Corvera",
-          "one_liner": "The AI sales engine for CPG brands",
+          "one_liner": "The AI sales agent for CPG brands",
           "slug": "corvera"
         },
         {
@@ -134826,27 +134703,6 @@
           "name": "Cardinal",
           "one_liner": "Revenue Agents for GTM teams",
           "slug": "trycardinal-ai"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "api",
-              "infrastructure",
-              "cloud"
-            ],
-            "marketing": [
-              "content"
-            ],
-            "sales": [
-              "pipeline"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Captain",
-          "one_liner": "Self-tuning file search for AI agents",
-          "slug": "captain"
         },
         {
           "batch": "Winter 2026",
@@ -135183,6 +135039,18 @@
           "name": "Leaping AI",
           "one_liner": "AI voice and texting agents",
           "slug": "leaping-ai"
+        },
+        {
+          "batch": "Winter 2025",
+          "evidence": {
+            "sales": [
+              "sales"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Ladder",
+          "one_liner": "AI personal assistant for in-home sales",
+          "slug": "ladderai"
         },
         {
           "batch": "Winter 2025",
@@ -141145,31 +141013,6 @@
           "name": "LemonLime",
           "one_liner": "Fully automated GTM for small business",
           "slug": "lemonlime"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
-              "api"
-            ],
-            "founders": [
-              "cofounder"
-            ],
-            "monetization": [
-              "revenue",
-              "insurance"
-            ],
-            "product": [
-              "platform"
-            ],
-            "sales": [
-              "revenue"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Hubble",
-          "one_liner": "AI-native retrieval engine for medical records",
-          "slug": "hubble-ai"
         },
         {
           "batch": "Summer 2026",
@@ -147716,6 +147559,22 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "engineering": [
+              "api",
+              "infrastructure"
+            ],
+            "sales": [
+              "sales"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Ploid",
+          "one_liner": "The people data company for the agent era",
+          "slug": "ploid"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "marketing": [
               "marketing"
             ],
@@ -149175,7 +149034,7 @@
           },
           "industry": "B2B",
           "name": "Onlook",
-          "one_liner": "Cursor for Designers",
+          "one_liner": "The Developer tool for Designers",
           "slug": "onlook"
         },
         {
@@ -151511,7 +151370,7 @@
           },
           "industry": "Healthcare",
           "name": "WhiteLab Genomics",
-          "one_liner": "Unleashing the potential of DNA and RNA based therapies using AI",
+          "one_liner": "Unleash the potential of genomic medicine using AI",
           "slug": "whitelab-genomics"
         },
         {
@@ -156304,24 +156163,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "engineering": [
-              "engineering",
-              "code",
-              "api"
-            ],
-            "ux-ui": [
-              "ui",
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Vendo",
-          "one_liner": "Let your users build their own features on top of your product",
-          "slug": "vendo"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "ux-ui": [
               "design"
             ]
@@ -156403,6 +156244,21 @@
           "name": "Palisade",
           "one_liner": "AI-native sales agents that run marketplaces",
           "slug": "palisade"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Operon",
+          "one_liner": "Agentic data layer for manufacturing & process industries. ",
+          "slug": "operon"
         },
         {
           "batch": "Summer 2026",
@@ -156895,6 +156751,18 @@
           "name": "Omnara",
           "one_liner": "The Open-Source Alternative to Claude Managed Agents",
           "slug": "omnara"
+        },
+        {
+          "batch": "Summer 2025",
+          "evidence": {
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Normal",
+          "one_liner": "Applied research lab for hardware design",
+          "slug": "normal"
         },
         {
           "batch": "Summer 2025",
@@ -164521,22 +164389,6 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "software",
-              "robotics"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Pendulum Robotics",
-          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
-          "slug": "pendulum-robotics"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "engineering": [
               "engineering"
             ],
             "monetization": [
@@ -164566,6 +164418,22 @@
           "name": "OpenHack",
           "one_liner": "Always-on AI security engineer",
           "slug": "openhack"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "software",
+              "robotics"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Open Actuation",
+          "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+          "slug": "open-actuation"
         },
         {
           "batch": "Fall 2026",
@@ -165801,13 +165669,13 @@
           "slug": "alex"
         }
       ],
-      "count": 942
+      "count": 943
     }
   },
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1139,
+    "count": 1142,
     "slugs": [
       "1000memories",
       "100x",
@@ -166240,6 +166108,7 @@
       "hippo-scribe",
       "homli",
       "hop-aero",
+      "hubble-ai",
       "hum",
       "humance",
       "humanly",
@@ -166302,6 +166171,7 @@
       "kebra",
       "keet",
       "kenota",
+      "keres",
       "kernal-biologics",
       "kidato",
       "kidpass",
@@ -166403,6 +166273,7 @@
       "meetanyway",
       "meetingbird",
       "meetyu",
+      "melty-gg",
       "memamp",
       "mentum",
       "merrymint",
@@ -166464,7 +166335,6 @@
       "nobell-foods",
       "noora-health",
       "nori",
-      "normal",
       "norra",
       "northwind",
       "novaflow",
@@ -166831,6 +166701,7 @@
       "trestle-biotherapeutics",
       "trident",
       "truemetrics",
+      "trylatent",
       "tsumobi",
       "turion-space",
       "turntable",

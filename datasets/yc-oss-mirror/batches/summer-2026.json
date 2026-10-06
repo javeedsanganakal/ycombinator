@@ -3374,7 +3374,7 @@
       "Defense"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1785702345,
     "long_description": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
     "name": "IMPACT Drones",
@@ -3670,7 +3670,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1785872995,
-    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "long_description": "Riften builds model routing, evaluations, private models, and training environments for AI labs, AI-native companies, and enterprises.\r\n\r\nWe help teams choose models for their workloads, evaluate how they perform, and build private models around company-specific work. We’re also developing coding environments where agents learn through backend engineering tasks.",
     "name": "Riften",
     "nonprofit": false,
     "one_liner": "Earned intelligence for every company",
@@ -3680,14 +3680,13 @@
       "America / Canada"
     ],
     "slug": "riften",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3c58cea1afce06f81a0352c8f3ecc8554d707c7.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
       "Developer Tools",
       "Reinforcement Learning",
-      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -5748,48 +5747,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/vendo.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 32620,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1784444284,
-    "long_description": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code.\r\n\r\nEverything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
-    "name": "Vendo",
-    "nonprofit": false,
-    "one_liner": "Let your users build their own features on top of your product",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "vendo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/vendo",
-    "website": "https://vendo.run/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/aktoria-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7190,6 +7147,46 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33013,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1782593141,
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "name": "Operon",
+    "nonprofit": false,
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "operon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "website": "https://operonsolutions.com/en"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json",
     "app_answers": null,
     "app_video_public": false,
@@ -8090,9 +8087,9 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1784648214,
-    "long_description": "Hubble is the AI-native retrieval engine for medical records, delivered in one API. I scaled Grow Therapy to a $3B valuation; my cofounder built One Medical's first AI agents, now used by millions of patients. Four weeks in, we already have ten signed customers and 7-figure year-one revenue across platform and usage fees. Every new agentic use case across industries like legal, clinical trials, consumer health, insurance, needs a complete medical record, and today that still means faxes and phone calls. Hubble fixes that with voice and browser agents that reach the providers APIs can't, in a market worth $45B just in the verticals we've mapped so far.",
+    "long_description": "Hubble’s mission is to unify the patient medical record and remove the barriers to accessing it. Today, a person’s health history is scattered across disconnected systems, leaving patients and the people helping them to piece it together. We’re building a future where one authorization unlocks a more complete record, regardless of where someone received care.\r\n\r\nOur founders previously built healthcare and AI products at Grow Therapy and Amazon One Medical, and we’re backed by Y Combinator, Madrona, and Basis Set. We’re building our team in Seattle, with the opportunity to work directly with the founders and shape how people access and use their health information.",
     "name": "Hubble",
     "nonprofit": false,
     "one_liner": "AI-native retrieval engine for medical records",

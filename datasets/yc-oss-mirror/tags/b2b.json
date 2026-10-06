@@ -6721,7 +6721,7 @@
     ],
     "slug": "curri",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed2e7167e1eff92b17d32c0735b56ffe5d4ef549.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
@@ -12067,7 +12067,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614629753,
     "long_description": "Bluelight gives home service contractors the power of real-time data to optimize and scale their business.",
     "name": "Bluelight",
@@ -14933,7 +14933,7 @@
     "website": "https://nextpay.world"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/humance.json",
     "app_answers": null,
     "app_video_public": false,
@@ -14960,6 +14960,8 @@
     "one_liner": "AI that keeps complex construction projects on schedule.",
     "question_answers": false,
     "regions": [
+      "South Korea",
+      "East Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -38216,7 +38218,7 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1717027194,
-    "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
+    "long_description": "Tandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "name": "Tandem",
     "nonprofit": false,
     "one_liner": "AI-native office leasing broker",
@@ -39160,7 +39162,7 @@
     ],
     "slug": "soff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
@@ -45791,10 +45793,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1759277752,
-    "long_description": "",
+    "long_description": "Trelium lets enterprise teams build AI agents in simple English to automate back-office work. We serve companies handling custom and bulk operations, including distributors, suppliers, and decorators across the print, merch, and apparel industries, automating workflows like order entry, purchase order creation, PO-invoice matching, order-status follow-ups, and many more.",
     "name": "Trelium",
     "nonprofit": false,
-    "one_liner": "The Agent to Build Your Agents",
+    "one_liner": "AI Agents for Enterprise Wide Operations",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -45803,17 +45805,18 @@
       "Fully Remote"
     ],
     "slug": "trelium",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf7ff003fba8201e539d2872cb8344bd10cf9b4.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
       "B2B",
       "Workflow Automation",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 6,
+    "team_size": 11,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trelium",
     "website": "https://www.trelium.com"
@@ -46137,10 +46140,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1762492786,
-    "long_description": "Captain syncs complex, multimodal files and cloud storage from sources like S3, SharePoint, and Google Drive, and makes that knowledge searchable for your agents.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, Captain self-tunes the retrieval pipeline to your data and workloads.\r\n\r\nOn benchmarks, this improves accuracy from roughly 78% with standard RAG to over 97% by tuning retrieval to the unique structure and content of your data.\r\n\r\nCaptain is purpose-built for complex, regulated, and high-stakes file search workloads.\r\n\r\nLearn more at https://captain.dev",
+    "long_description": "Captain makes product catalogs and complex, multimodal files searchable for customers and AI agents. It syncs files from sources like S3, SharePoint, and Google Drive and tunes search to your data and workloads.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, developers use Captain to power product search and file retrieval through managed APIs.\r\n\r\nOn evaluated file-search benchmarks, Captain’s tuning improved retrieval accuracy from roughly 78% with standard RAG to over 97%.\r\n\r\nBuilt for complex catalogs and demanding file-search workloads, including regulated and high-stakes applications.",
     "name": "Captain",
     "nonprofit": false,
-    "one_liner": "Self-tuning file search for AI agents",
+    "one_liner": "Self-tuning search for products and files",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -46155,6 +46158,7 @@
       "B2B",
       "API",
       "Data Engineering",
+      "Search",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -46830,10 +46834,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1763141207,
-    "long_description": "Corvera (YC W26) is the AI sales engine for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
     "name": "Corvera",
     "nonprofit": false,
-    "one_liner": "The AI sales engine for CPG brands",
+    "one_liner": "The AI sales agent for CPG brands",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -46845,11 +46849,11 @@
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Consumer",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -47142,10 +47146,10 @@
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Customer Success"
+      "Customer Success",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -47551,6 +47555,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/marker",
     "website": "https://onmarker.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31378,
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1777151399,
+    "long_description": "GodHands learns how your teams actually work, capturing the steps, decisions, and exceptions that never get written down. It turns that knowledge into living playbooks and answers with sources, so people and AI agents can put it to work. Teams use GodHands to run operations, onboard employees, hand over roles, integrate acquisitions, and automate work.",
+    "name": "GodHands",
+    "nonprofit": false,
+    "one_liner": "Your company’s operating model, learned from the work.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "slug": "godhands",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Operations",
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "website": "https://godhands.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -48959,48 +49006,6 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/vendo.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 32620,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1784444284,
-    "long_description": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code.\r\n\r\nEverything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
-    "name": "Vendo",
-    "nonprofit": false,
-    "one_liner": "Let your users build their own features on top of your product",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "vendo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/vendo",
-    "website": "https://vendo.run/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rational.json",
     "app_answers": null,
     "app_video_public": false,
@@ -49605,9 +49610,9 @@
       "Healthcare IT"
     ],
     "industry": "Healthcare",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1784648214,
-    "long_description": "Hubble is the AI-native retrieval engine for medical records, delivered in one API. I scaled Grow Therapy to a $3B valuation; my cofounder built One Medical's first AI agents, now used by millions of patients. Four weeks in, we already have ten signed customers and 7-figure year-one revenue across platform and usage fees. Every new agentic use case across industries like legal, clinical trials, consumer health, insurance, needs a complete medical record, and today that still means faxes and phone calls. Hubble fixes that with voice and browser agents that reach the providers APIs can't, in a market worth $45B just in the verticals we've mapped so far.",
+    "long_description": "Hubble’s mission is to unify the patient medical record and remove the barriers to accessing it. Today, a person’s health history is scattered across disconnected systems, leaving patients and the people helping them to piece it together. We’re building a future where one authorization unlocks a more complete record, regardless of where someone received care.\r\n\r\nOur founders previously built healthcare and AI products at Grow Therapy and Amazon One Medical, and we’re backed by Y Combinator, Madrona, and Basis Set. We’re building our team in Seattle, with the opportunity to work directly with the founders and shape how people access and use their health information.",
     "name": "Hubble",
     "nonprofit": false,
     "one_liner": "AI-native retrieval engine for medical records",

@@ -13029,7 +13029,7 @@
       "Finance and Accounting"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1594318518,
     "long_description": "Kinter empowers leading organizations to supplement their workforce with AI Accountants that execute the accounting close. Trusted by global leaders including Amazon, Mastercard, and UPS, Kinter is backed by a16z, Bain Capital Ventures, Y Combinator and dozens of career operators and founders.",
     "name": "Kinter",
@@ -17691,7 +17691,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1614629753,
     "long_description": "Bluelight gives home service contractors the power of real-time data to optimize and scale their business.",
     "name": "Bluelight",
@@ -38384,7 +38384,7 @@
     ],
     "slug": "artie",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973d2f0c6c4d07505113e974a08d18864eb95d54.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
@@ -38394,7 +38394,7 @@
       "Enterprise Software"
     ],
     "tags_highlighted": [],
-    "team_size": 16,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/artie",
     "website": "https://www.artie.com/"
@@ -46980,10 +46980,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1763141207,
-    "long_description": "Corvera (YC W26) is the AI sales engine for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
     "name": "Corvera",
     "nonprofit": false,
-    "one_liner": "The AI sales engine for CPG brands",
+    "one_liner": "The AI sales agent for CPG brands",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -46995,11 +46995,11 @@
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Consumer",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 4,
@@ -47251,10 +47251,10 @@
     "status": "Active",
     "subindustry": "B2B -> Sales",
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Customer Success"
+      "Customer Success",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -48810,6 +48810,6 @@
     "team_size": 5,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/clean",
-    "website": "http://tryclean.ai"
+    "website": "http://www.tryclean.ai"
   }
 ]

@@ -2243,7 +2243,7 @@
     ],
     "slug": "soff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
@@ -3273,10 +3273,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1754954871,
-    "long_description": "Testing and certifying the hardware of the future",
+    "long_description": "",
     "name": "Normal",
     "nonprofit": false,
-    "one_liner": "Testing and certifying the hardware of the future",
+    "one_liner": "Applied research lab for hardware design",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3288,16 +3288,16 @@
     "status": "Active",
     "subindustry": "Industrials",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/normal",
-    "website": "https://www.normalfactory.com/"
+    "website": "https://www.normal.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -4246,6 +4246,46 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 33013,
+    "industries": [
+      "Industrials"
+    ],
+    "industry": "Industrials",
+    "isHiring": true,
+    "launched_at": 1782593141,
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "name": "Operon",
+    "nonprofit": false,
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "operon",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials",
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "website": "https://operonsolutions.com/en"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/provenmetal.json",
     "app_answers": null,
     "app_video_public": false,
@@ -4502,12 +4542,14 @@
   },
   {
     "all_locations": "Los Angeles, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/open-actuation.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
-    "former_names": [],
+    "former_names": [
+      "Pendulum Robotics"
+    ],
     "id": 35389,
     "industries": [
       "Industrials",
@@ -4516,8 +4558,8 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1790141770,
-    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
-    "name": "Pendulum Robotics",
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nOpen Actuation designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
+    "name": "Open Actuation",
     "nonprofit": false,
     "one_liner": "Quick-turn, purpose-built motors & actuators for all",
     "question_answers": false,
@@ -4525,7 +4567,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "slug": "pendulum-robotics",
+    "slug": "open-actuation",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
     "stage": "Early",
     "status": "Active",
@@ -4540,8 +4582,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
-    "website": "https://pendulumrobotics.com"
+    "url": "https://www.ycombinator.com/companies/open-actuation",
+    "website": "https://openactuation.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
