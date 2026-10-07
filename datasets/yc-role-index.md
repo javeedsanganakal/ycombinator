@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6273
+Companies classified: 6277
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -9,14 +9,14 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 | Role | Companies |
 | --- | ---: |
-| founders | 347 |
-| product | 1650 |
+| founders | 346 |
+| product | 1651 |
 | ux-ui | 943 |
-| engineering | 2868 |
-| sales | 748 |
+| engineering | 2871 |
+| sales | 747 |
 | marketing | 876 |
 | monetization | 2123 |
-| Unclassified | 1142 |
+| Unclassified | 1144 |
 
 ## Recent examples
 
@@ -93,7 +93,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Robby** (Winter 2026, B2B): AI agents that grow revenue for home services businesses [evidence: revenue]
 - **Revion** (Winter 2026, B2B): Intelligence for Automotive Operations [evidence: revenue]
 - **Q2Q** (Winter 2026, B2B): We help private equity teams find acquisition targets faster [evidence: outbound]
-- **Pollen** (Winter 2026, B2B): AI agents that automate customer success [evidence: crm]
+- **Orthogonal** (Winter 2026, B2B): Agentic Payments for APIs [evidence: sales]
 
 ### marketing
 

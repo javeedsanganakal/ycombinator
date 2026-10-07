@@ -4882,7 +4882,7 @@
     "industry": "Consumer",
     "isHiring": false,
     "launched_at": 1739303977,
-    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, with your data and personal AI on hardware you own.",
+    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, keeping your data and personal intelligence on hardware you own.\r\n\r\nA future of limitless, personalized tokens for every consumer.",
     "name": "Oki",
     "nonprofit": false,
     "one_liner": "The memory computer for your digital life.",
@@ -4897,9 +4897,9 @@
     "status": "Active",
     "subindustry": "Consumer",
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -5010,10 +5010,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1736891737,
-    "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
+    "long_description": "Axal is a quick-turn PCB assembly shop in San Francisco. Samai and Nand build every board themselves, and both are IPC certified. For quantities under 10, we assemble boards in under 48 hours. Order online in 2 minutes at axal.ai.\r\n\r\nSend us your board files and we handle the parts, bare boards, assembly, inspection, and delivery. ",
     "name": "Axal",
     "nonprofit": false,
-    "one_liner": "We design, assemble, and test custom PCBs fast.",
+    "one_liner": "We assemble PCBs in under 48 hours for quantities under 10",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -7116,6 +7116,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/saccade.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 34862,
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "industry": "Healthcare",
+    "isHiring": false,
+    "launched_at": 1791296673,
+    "long_description": "Alzheimer's testing today is bottlenecked around the onset of symptoms, when the damage is already done. Current treatments, including the FDA-approved drugs released in 2024, don't reverse the disease; they only slow it down. Earlier detection means earlier intervention.\r\n\r\nEye movement changes linked to Alzheimer's surface sooner than any other biomarker, up to 15 years before symptoms appear.\r\n\r\nWe deliver a 15-minute VR assessment delivered to patients in longevity clinics:\r\n• Tasks: patients perform visual tasks designed by neurologists to trigger a distinct oculomotor response in people with Alzheimer's or on its path\r\n• Hardware: our patent-pending attachment connects to any VR headset on the market and captures these eye movement patterns.\r\n• Analysis: the patterns are compared against our ML model to produce a risk analysis.\r\n\r\nOnce classified, patients can access new interventions, such as the FDA-approved drugs. They're also referred to longevity practices, neurology practices or both, depending on their stage of decline.\r\n\r\nTesting for the earliest biomarkers allows the earliest possible intervention. In some cases, that slows the disease enough that patients outlive the onset of symptoms and never face memory loss in their lifetime.",
+    "name": "Saccade",
+    "nonprofit": false,
+    "one_liner": "World's Earliest Test for Alzheimer's Biomarkers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "saccade",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751432518cccc3177c9fa321a442fcfaf7e00fdd.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/saccade",
+    "website": "https://saccade.health"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -7196,6 +7239,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/hemlock",
     "website": "https://hemlock.inc"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35950,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1791317892,
+    "long_description": "Resin is an AI-native ECAD tool. It lets engineers:\r\n- research designs\r\n- generate schematics\r\n- generate any symbols/footprints\r\n- route simple to complex boards\r\n\r\n",
+    "name": "Resin Technologies",
+    "nonprofit": false,
+    "one_liner": "Resin helps engineers design electronics faster and more reliably",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "resin-technologies",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc5f059ee240037dfd1bb651a9c69886e3dceef6.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/resin-technologies",
+    "website": "https://resineda.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

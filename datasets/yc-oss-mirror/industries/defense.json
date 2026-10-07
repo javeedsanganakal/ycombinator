@@ -146,10 +146,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1738284252,
-    "long_description": "Conntour enables organizations to query thousands of security cameras using natural language.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics limited to pre-defined parameters (like a weapon, bag, or license plate), Conntour supports unlimited, highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israeli Military. Tomer (CTO) is a second-time founder and former director of engineering. Our team also includes computer vision experts from Israel’s elite 8200 intelligence unit and former top officials from the Mossad.\r\n\r\nConntour is backed by General Catalyst, selected for the first-ever Palantir fellowship, and advised by Bob Flores, former CTO at the CIA.",
+    "long_description": "Conntour enables organizations to query video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes the technology unique is its ability to process video at scale, fully on-prem, with minimal hardware requirements.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, selected for the first-ever Palantir Fellowship, and advised by Bob Flores - former CTO of the CIA.",
     "name": "Conntour",
     "nonprofit": false,
-    "one_liner": "AI to monitor thousands of security cameras.",
+    "one_liner": "Query mission-critical video",
     "question_answers": false,
     "regions": [
       "Israel",
@@ -160,9 +160,13 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Defense",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Defense"
+    ],
     "tags_highlighted": [],
-    "team_size": 15,
+    "team_size": 20,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/conntour",
     "website": "https://www.conntour.com/"

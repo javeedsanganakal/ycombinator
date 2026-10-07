@@ -7615,7 +7615,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1624988056,
     "long_description": "Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. \r\n\r\n**Chat with your Data Warehouse**\r\n\r\nAnswer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards.\r\n\r\nDot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material.\r\n\r\nUsers can interact via Slack, Teams or our native web app.\r\n\r\n➡️  https://getdot.ai/",
     "name": "GetDot",
@@ -13465,10 +13465,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1677171652,
-    "long_description": "AI made execution faster. The bottleneck has shifted to deciding what to build while the knowledge behind those decisions is scattered across people, tools, and AI chats. Backdrop provides AI coworkers for projects and operations that understand your company, work with your team,and build shared company context. Across Slack, GitHub, Linear, Notion, Asana, Google Workspace and more, they synthesize customer feedback, create plans and specs, manage tickets, draft documents, and keep work moving.",
+    "long_description": "Backdrop is a platform for building AI coworkers around the work you actually need done.\r\n\r\nStart with an existing coworker or create your own for almost anything. Research a market, prepare client updates, run outreach, create campaigns, analyze customer feedback, build dashboards, monitor orders, coordinate projects, test products, handle recurring admin, or build a workflow completely specific to your business.\r\n\r\nConnect the systems where the work already happens, including Slack, Gmail, Google Drive, HubSpot, Shopify, Jira, Asana, Linear, GitHub, Notion, and more. You control what each coworker can access, what it can do, and which actions need approval.\r\n\r\nBackdrop works just as well when one person wants to hand off a job to AI. But it is also built for something today’s 1:1 AI doesn’t handle well: working together.\r\n\r\nEmployees, AI coworkers, clients, and partners can collaborate in shared conversations and workflows. One agent can bring in another. Work can move between people and agents without everyone starting a new chat and rebuilding the context from scratch.\r\n\r\nBackdrop builds shared company memory from the work happening across your company. Decisions, conversations, feedback, documents, project history, and activity across connected tools can become context that people and AI coworkers can use later. A coworker can understand what happened before, another agent can build on what was already learned, and a teammate can understand why something was done without digging through old threads or systems.\r\n\r\nThe result is AI that works for an individual when that’s all you need, but can also become part of how the whole company works.\r\n\r\nBackdrop can support businesses ranging from agencies and e-commerce companies to manufacturers, service businesses, SaaS teams, and more, because you build the coworkers around your work, not a fixed template.",
     "name": "Backdrop",
     "nonprofit": false,
-    "one_liner": "AI coworkers for running projects and operations",
+    "one_liner": "Building your AI coworkers for any team, workflow, or industry. ",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -13477,7 +13477,7 @@
       "Partly Remote"
     ],
     "slug": "backdrop",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef96baea5567e19f4ad9f5f92c3cb740d9f0f09f.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
@@ -14889,54 +14889,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/sherloq",
     "website": "http://sherloqdata.io/"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/finic.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2023",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Triton",
-      "Buff",
-      "Sidekick",
-      "Psychic",
-      "Dealwise"
-    ],
-    "id": 27952,
-    "industries": [
-      "Fintech"
-    ],
-    "industry": "Fintech",
-    "isHiring": false,
-    "launched_at": 1677272534,
-    "long_description": "Finic helps fraud teams catch organized fraud earlier, act on it faster, and turn discoveries into lasting defenses. Our AI agent analyzes structured and unstructured data across your systems to proactively surface the fraud that rules and scoring models miss.",
-    "name": "Finic",
-    "nonprofit": false,
-    "one_liner": "The AI fraud hunter",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "finic",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06180819ad31c1d2ee1b4b62d506fd5e7655aec4.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "Fintech",
-    "tags": [
-      "Compliance",
-      "Enterprise",
-      "Automation",
-      "Fraud Detection",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 4,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/finic",
-    "website": "https://www.finic.ai"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -16793,10 +16745,10 @@
     "industry": "Healthcare",
     "isHiring": true,
     "launched_at": 1690927737,
-    "long_description": "Shasta Health builds AI agents that run the healthcare front office. We handle calls, texts, insurance verification, prior authorizations, and more - helping turn patient interest into completed, billable visits. Your team gets more time to focus on the patients in front of them.",
+    "long_description": "Shasta Health builds AI agents that run the front office for rehab therapy groups. We handle calls, texts, insurance verification, prior authorizations, and more - helping turn patient interest into completed, billable visits. Your team gets more time to focus on the patients in front of them.",
     "name": "Shasta Health",
     "nonprofit": false,
-    "one_liner": "The last healthcare admin hire",
+    "one_liner": "Helping rehab practices book more patients",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -20163,6 +20115,50 @@
     "website": "https://www.withglimmer.com/"
   },
   {
+    "all_locations": "Lehi, UT, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/zaymo.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Zaymo Inc."
+    ],
+    "id": 29323,
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1701370559,
+    "long_description": "Zaymo is a full-stack retention marketing agency for the largest brands on Shopify. We bring all your data in house, remove the guess work, and automate the busy work. Agents find opportunities, build content, and iterate autonomously while expert retention marketers help you set strategy and oversee outputs.",
+    "name": "Zaymo",
+    "nonprofit": false,
+    "one_liner": "Zaymo is building an AI marketing agency",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "zaymo",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5f257204d98f9d544a5265e0aac1efeeae4f1f3.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Marketing",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "Email",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 18,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/zaymo",
+    "website": "https://zaymo.com"
+  },
+  {
     "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/promptarmor.json",
     "app_answers": null,
@@ -22971,10 +22967,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1716914094,
-    "long_description": "Party is the secure workspace for your team and agents to build together, in the open. Agent Flows handle 95% of the work and your team can see it all happen and step in when needed to steer. It's built for teams, but caters to the solo builder as well. Use any harness/model - your keys or ours. Cost observability. Memory. Dual-level session sandboxing.\r\nSlack/Teams are comm-first with agents as second-class citizens. Party is work-first and the communication happens where the work is being done. Party is for teams who want to build better and faster than their competition. ",
+    "long_description": "Party is the secure workspace for your team and agents to build together, in the open. Agent Flows handle 95% of the work and your team can see it all happen and step in when needed to steer. It's built for teams and collaboration first, but caters to the solo builder as well. Use any harness/model - your keys or ours. Cost observability. Memory. Dual-level session sandboxing.\r\nSlack/Teams are comm-first with agents as second-class citizens. Party is work-first and the communication happens where the work is being done. Party is for teams who want to build better and faster than their competition. ",
     "name": "Party",
     "nonprofit": false,
-    "one_liner": "Secure multiplayer software factory for your whole team in minutes",
+    "one_liner": "Secure multiplayer workspace for teams building with agents",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -28061,6 +28057,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/cardamon",
     "website": "https://cardamon.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30242,
+    "industries": [
+      "Consumer"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1739303977,
+    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, keeping your data and personal intelligence on hardware you own.\r\n\r\nA future of limitless, personalized tokens for every consumer.",
+    "name": "Oki",
+    "nonprofit": false,
+    "one_liner": "The memory computer for your digital life.",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "oki",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer",
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 6,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/oki",
+    "website": "https://okihome.ai"
   },
   {
     "all_locations": "Bogotá, Bogota, Colombia; Remote",
@@ -33330,7 +33366,7 @@
       "Human Resources"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1759034914,
     "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
     "name": "Sorce",
@@ -33708,49 +33744,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/redapto",
     "website": "https://www.redapto.com/"
-  },
-  {
-    "all_locations": "Berlin, Berlin, Germany",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2025",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 30918,
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "industry": "B2B",
-    "isHiring": true,
-    "launched_at": 1759460278,
-    "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
-    "name": "ComplyDo",
-    "nonprofit": false,
-    "one_liner": "Global Compliance for Enterprises",
-    "question_answers": true,
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "slug": "complydo",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Legal",
-    "tags": [
-      "B2B",
-      "Compliance",
-      "LegalTech",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 10,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/complydo",
-    "website": "https://www.complydo.io/"
   },
   {
     "all_locations": "BY, Germany",
@@ -36960,6 +36953,52 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/belvedir.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Fractal",
+      "Fractal Research",
+      "Fractal Machine Research",
+      "Belvedir",
+      "Fractal Machine Research"
+    ],
+    "id": 32133,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1784319754,
+    "long_description": "Custom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them. We autonomously collect raw data, train models, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n",
+    "name": "Belvedir",
+    "nonprofit": false,
+    "one_liner": "The custom AI model factory",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "belvedir",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/belvedir",
+    "website": "https://belvedir.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39203,6 +39242,53 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/opentag.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Gini Agent",
+      "Gini",
+      "OpenTag",
+      "Open Tag"
+    ],
+    "id": 33969,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1787093671,
+    "long_description": "OpenTag is an AI coworker in your Slack with full context on your company. It answers questions and takes real work off your plate. It also keeps your wiki up to date automatically, so knowledge never goes stale.",
+    "name": "OpenTag",
+    "nonprofit": false,
+    "one_liner": "Model Agnostic AI coworker in Slack",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "opentag",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c893158d06fb0a2865c30711a691fd486b8a7dcf.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/opentag",
+    "website": "https://www.tryopentag.com/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39492,6 +39578,49 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35258,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1789011304,
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "name": "Mirrors",
+    "nonprofit": false,
+    "one_liner": "Steer AI agents in real time using lessons from production runs",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "mirrors",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "website": "https://www.mirrors.dev"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json",
     "app_answers": null,
     "app_video_public": false,
@@ -39530,48 +39659,6 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "website": "https://onepatch.dev"
-  },
-  {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/bryel.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Fall 2026",
-    "demo_day_video_public": false,
-    "former_names": [
-      "Bryel Labs"
-    ],
-    "id": 35262,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1790013807,
-    "long_description": "",
-    "name": "Bryel",
-    "nonprofit": false,
-    "one_liner": "Devin for AI Research Engineering",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "bryel",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d6a77d9b2b1e807ae20d6e37b65cac4cbdcc89c.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/bryel",
-    "website": "https://www.bryel.ai/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -39955,6 +40042,47 @@
     "website": "https://www.antimattr.one/project-mnemosyne"
   },
   {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36510,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1791309539,
+    "long_description": "",
+    "name": "Preload",
+    "nonprofit": false,
+    "one_liner": "Motor cortex for physical AI",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "preload",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b263628afee781ad6a54e9c6db03225c28f419f.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Neurotechnology",
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 3,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/preload",
+    "website": ""
+  },
+  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/opera.json",
     "app_answers": null,
@@ -40126,6 +40254,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/useterse",
     "website": "https://www.useterse.ai/"
+  },
+  {
+    "all_locations": "Salt Lake City, UT, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/redoubt-insurance.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37600,
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "industry": "Fintech",
+    "isHiring": false,
+    "launched_at": 1787707764,
+    "long_description": "Redoubt is a commercial insurance agency for small businesses. We believe our customers are our most important business partners, and they deserve our full attention. Machines can already handle the boring parts, the next step is to continually learn from experience. ",
+    "name": "Redoubt Insurance",
+    "nonprofit": false,
+    "one_liner": "Commercial insurance for small businesses",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "redoubt-insurance",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Insurance",
+    "tags": [
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 0,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/redoubt-insurance",
+    "website": "https://www.redoubt.insure"
   },
   {
     "all_locations": "San Francisco, CA, USA",

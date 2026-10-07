@@ -1,5 +1,5 @@
 {
-  "company_count": 6273,
+  "company_count": 6277,
   "roles": {
     "engineering": {
       "companies": [
@@ -2850,21 +2850,6 @@
           "batch": "Winter 2025",
           "evidence": {
             "engineering": [
-              "engineering"
-            ],
-            "founders": [
-              "founder"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Conntour",
-          "one_liner": "AI to monitor thousands of security cameras.",
-          "slug": "conntour"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "engineering": [
               "engineering",
               "developer",
               "infrastructure",
@@ -3044,14 +3029,11 @@
           "evidence": {
             "engineering": [
               "robotics"
-            ],
-            "ux-ui": [
-              "design"
             ]
           },
           "industry": "Industrials",
           "name": "Axal",
-          "one_liner": "We design, assemble, and test custom PCBs fast.",
+          "one_liner": "We assemble PCBs in under 48 hours for quantities under 10",
           "slug": "axal"
         },
         {
@@ -7578,12 +7560,17 @@
               "software"
             ],
             "monetization": [
-              "fintech"
+              "fintech",
+              "commerce"
+            ],
+            "product": [
+              "workflow",
+              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Backdrop",
-          "one_liner": "AI coworkers for running projects and operations",
+          "one_liner": "Building your AI coworkers for any team, workflow, or industry. ",
           "slug": "backdrop"
         },
         {
@@ -9947,7 +9934,7 @@
           },
           "industry": "B2B",
           "name": "Fieldproxy",
-          "one_liner": "Retool for 20 Million Field Teams",
+          "one_liner": "Building AI agents for complex operations",
           "slug": "fieldproxy"
         },
         {
@@ -23433,14 +23420,13 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "sdk",
               "infrastructure",
               "machine learning"
             ]
           },
           "industry": "B2B",
           "name": "Belvedir",
-          "one_liner": "Your custom AI model factory",
+          "one_liner": "The custom AI model factory",
           "slug": "belvedir"
         },
         {
@@ -26202,7 +26188,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "software",
               "developer tools"
             ],
             "ux-ui": [
@@ -26211,7 +26196,7 @@
           },
           "industry": "B2B",
           "name": "Party",
-          "one_liner": "Secure multiplayer software factory for your whole team in minutes",
+          "one_liner": "Secure multiplayer workspace for teams building with agents",
           "slug": "party"
         },
         {
@@ -45069,6 +45054,18 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "machine learning"
+            ]
+          },
+          "industry": "Healthcare",
+          "name": "Saccade",
+          "one_liner": "World's Earliest Test for Alzheimer's Biomarkers",
+          "slug": "saccade"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineering",
               "developer",
               "software",
@@ -45125,6 +45122,33 @@
           "name": "Rhem Labs",
           "one_liner": "Home care technology for aging parents and their families",
           "slug": "rhem-labs"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "engineering"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Resin Technologies",
+          "one_liner": "Resin helps engineers design electronics faster and more reliably",
+          "slug": "resin-technologies"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "robotics"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Preload",
+          "one_liner": "Motor cortex for physical AI",
+          "slug": "preload"
         },
         {
           "batch": "Fall 2026",
@@ -45569,13 +45593,12 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "engineering",
               "infrastructure"
             ]
           },
           "industry": "B2B",
           "name": "Bryel",
-          "one_liner": "Devin for AI Research Engineering",
+          "one_liner": "Building in-house, frontier AI labs for companies",
           "slug": "bryel"
         },
         {
@@ -45726,6 +45749,18 @@
           "name": "Agent 37",
           "one_liner": "Persistent sandboxes for agents like hermes, openclaw, claude code",
           "slug": "agent-37"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Acyclic Labs",
+          "one_liner": "building infra for scaling agent swarms efficiently",
+          "slug": "acyclic"
         },
         {
           "batch": "Fall 2025",
@@ -47841,7 +47876,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2868
+      "count": 2871
     },
     "founders": {
       "companies": [
@@ -48155,21 +48190,6 @@
           "name": "Ovlo",
           "one_liner": "Founder led hiring for London startups",
           "slug": "ovlo"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "engineering": [
-              "engineering"
-            ],
-            "founders": [
-              "founder"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Conntour",
-          "one_liner": "AI to monitor thousands of security cameras.",
-          "slug": "conntour"
         },
         {
           "batch": "Winter 2025",
@@ -54245,7 +54265,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 347
+      "count": 346
     },
     "marketing": {
       "companies": [
@@ -54860,7 +54880,8 @@
           "batch": "Winter 2024",
           "evidence": {
             "marketing": [
-              "marketing"
+              "marketing",
+              "content"
             ],
             "monetization": [
               "commerce"
@@ -54868,7 +54889,7 @@
           },
           "industry": "B2B",
           "name": "Zaymo",
-          "one_liner": "Interactive email builder for ecommerce brands",
+          "one_liner": "Zaymo is building an AI marketing agency",
           "slug": "zaymo"
         },
         {
@@ -71584,7 +71605,8 @@
           "batch": "Winter 2024",
           "evidence": {
             "marketing": [
-              "marketing"
+              "marketing",
+              "content"
             ],
             "monetization": [
               "commerce"
@@ -71592,7 +71614,7 @@
           },
           "industry": "B2B",
           "name": "Zaymo",
-          "one_liner": "Interactive email builder for ecommerce brands",
+          "one_liner": "Zaymo is building an AI marketing agency",
           "slug": "zaymo"
         },
         {
@@ -73940,12 +73962,13 @@
           "batch": "Winter 2023",
           "evidence": {
             "monetization": [
-              "fintech"
+              "fintech",
+              "financial"
             ]
           },
           "industry": "Fintech",
           "name": "Finic",
-          "one_liner": "The AI fraud hunter",
+          "one_liner": "Frontier AI to stop fraud, abuse, and financial crimes.",
           "slug": "finic"
         },
         {
@@ -74287,12 +74310,17 @@
               "software"
             ],
             "monetization": [
-              "fintech"
+              "fintech",
+              "commerce"
+            ],
+            "product": [
+              "workflow",
+              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Backdrop",
-          "one_liner": "AI coworkers for running projects and operations",
+          "one_liner": "Building your AI coworkers for any team, workflow, or industry. ",
           "slug": "backdrop"
         },
         {
@@ -90305,7 +90333,7 @@
           },
           "industry": "Healthcare",
           "name": "Shasta Health",
-          "one_liner": "The last healthcare admin hire",
+          "one_liner": "Helping rehab practices book more patients",
           "slug": "shasta-health"
         },
         {
@@ -93287,7 +93315,7 @@
           },
           "industry": "Fintech",
           "name": "Truss",
-          "one_liner": "Banking for construction",
+          "one_liner": "Truss is a banking and payments network for blue-collar trades.",
           "slug": "truss"
         },
         {
@@ -109363,6 +109391,26 @@
           "batch": "Winter 2023",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "monetization": [
+              "fintech",
+              "commerce"
+            ],
+            "product": [
+              "workflow",
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Backdrop",
+          "one_liner": "Building your AI coworkers for any team, workflow, or industry. ",
+          "slug": "backdrop"
+        },
+        {
+          "batch": "Winter 2023",
+          "evidence": {
+            "engineering": [
               "engineering",
               "developer",
               "api",
@@ -124758,7 +124806,7 @@
           },
           "industry": "Fintech",
           "name": "Truss",
-          "one_liner": "Banking for construction",
+          "one_liner": "Truss is a banking and payments network for blue-collar trades.",
           "slug": "truss"
         },
         {
@@ -134281,7 +134329,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1650
+      "count": 1651
     },
     "sales": {
       "companies": [
@@ -134468,18 +134516,6 @@
           "name": "Q2Q",
           "one_liner": "We help private equity teams find acquisition targets faster",
           "slug": "q2q"
-        },
-        {
-          "batch": "Winter 2026",
-          "evidence": {
-            "sales": [
-              "crm"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Pollen",
-          "one_liner": "AI agents that automate customer success",
-          "slug": "pollen"
         },
         {
           "batch": "Winter 2026",
@@ -148265,7 +148301,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 748
+      "count": 747
     },
     "ux-ui": {
       "companies": [
@@ -149231,21 +149267,6 @@
           "name": "Cedar",
           "one_liner": "Execute the best sales playbook in industry",
           "slug": "cedar"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "engineering": [
-              "robotics"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Axal",
-          "one_liner": "We design, assemble, and test custom PCBs fast.",
-          "slug": "axal"
         },
         {
           "batch": "Winter 2025",
@@ -157525,7 +157546,6 @@
             "engineering": [
               "engineering",
               "developer",
-              "software",
               "developer tools"
             ],
             "ux-ui": [
@@ -157534,7 +157554,7 @@
           },
           "industry": "B2B",
           "name": "Party",
-          "one_liner": "Secure multiplayer software factory for your whole team in minutes",
+          "one_liner": "Secure multiplayer workspace for teams building with agents",
           "slug": "party"
         },
         {
@@ -164391,6 +164411,21 @@
             "engineering": [
               "engineering"
             ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Resin Technologies",
+          "one_liner": "Resin helps engineers design electronics faster and more reliably",
+          "slug": "resin-technologies"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "engineering"
+            ],
             "monetization": [
               "commerce"
             ],
@@ -165675,7 +165710,7 @@
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1142,
+    "count": 1144,
     "slugs": [
       "1000memories",
       "100x",
@@ -165880,6 +165915,7 @@
       "complydo",
       "compose-ai",
       "congruent",
+      "conntour",
       "constructvr",
       "contextfort",
       "conus",
@@ -166440,6 +166476,7 @@
       "plurchase",
       "plutis",
       "poliglota",
+      "pollen",
       "pollground",
       "polly",
       "polymath",
