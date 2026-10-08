@@ -1656,7 +1656,7 @@
     "website": "https://affogato.ai"
   },
   {
-    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mobileboost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -1673,14 +1673,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1628867687,
-    "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Salesforce and Groupon.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
+    "long_description": "MobileBoost is an AI SDET for iOS and Android apps. An agent turns a plain-language test spec into test code, runs it on simulators and real devices, and fixes it when your app changes. Nobody on your team maintains test scripts by hand. The test code is accessible at any time if your team wants that level of access.\r\n\r\nYou can start runs from your CI pipeline with the MobileBoost GitHub Action, or let your coding agent start them over MCP while you build.\r\n\r\nMobile teams at Duolingo, Lyft, Wayfair, Flo Health, Noom, Compass, and Redfin use MobileBoost. Duolingo cut manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/",
     "name": "MobileBoost",
     "nonprofit": false,
-    "one_liner": "AI native mobile testing.",
+    "one_liner": "AI SDET for mobile apps",
     "question_answers": false,
     "regions": [
-      "Germany",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1690,11 +1690,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -11204,6 +11204,50 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/wondertx",
     "website": "https://wondertx.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [
+      "Collar AI"
+    ],
+    "id": 31461,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1777111023,
+    "long_description": "Collar is the AI for Investor Relations.\r\nIt feeds the CEO the right number the moment an investor asks on call, answers investor questions around the clock, and remembers every investor relationship since IPO. \r\nBuilt by second time founders from buy side investing and military intelligence.",
+    "name": "Collar",
+    "nonprofit": false,
+    "one_liner": "AI for Investor Relations",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "collar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Finance",
+      "Enterprise",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/collar",
+    "website": "https://usecollarai.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",

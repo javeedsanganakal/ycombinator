@@ -455,7 +455,7 @@
     "subindustry": "Consumer",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 5,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/pingo",
     "website": "https://pingo.ai"
@@ -555,15 +555,15 @@
     "former_names": [],
     "id": 30602,
     "industries": [
-      "Consumer"
+      "B2B"
     ],
-    "industry": "Consumer",
+    "industry": "B2B",
     "isHiring": false,
     "launched_at": 1754469732,
-    "long_description": "Meet Meteor: a Chrome-alternative that can actually do your work for you.\r\n\r\nWith agents getting better by the day (literally), we realize that it’s time to automate the boring, tedious work.\r\n\r\nWe use your browser session to empower agents to act like your personal assistants (ex. book a calendar, find cheaper flights, buy clothes on amazon etc.)\r\n\r\nSome of Meteor’s features:\r\n\r\n- Chat with any page\r\n- Integrate with popular apps like Gmail, Google Calendar, Twitter etc.\r\n- Browser agent to autonomously navigate the web and perform tasks\r\n- More coming soon!\r\n\r\nWe're excited to usher in a new era of browsing.",
+    "long_description": "Meteor Labs is a research company focused on providing a granular view of the data center supply chain.\r\n\r\nWe track upstream of the major data center buildout to understand the OEMs winning the market, the bottlenecks, and supply chain links.\r\n\r\nOur expertise in browser agents and AI helps us source this information from esoteric public filings across the web.",
     "name": "Meteor",
     "nonprofit": false,
-    "one_liner": "An AI-Native Browser",
+    "one_liner": "We provide hedge funds with information they can trade on",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -573,17 +573,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "Consumer",
+    "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
-      "AI Assistant"
+      "Big Data",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/meteor",
-    "website": "https://browse.dev"
+    "website": "https://meteorlabs.ai"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -3363,7 +3363,7 @@
     "long_description": "Building AI agents for autonomous embedded software development.",
     "name": "Embedder",
     "nonprofit": false,
-    "one_liner": "The Enterprise AI Platform for Embedded Software",
+    "one_liner": "Hardware-Aware AI for Embedded Software",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -3375,10 +3375,10 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -5761,7 +5761,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1751997318,
     "long_description": "stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing Git workflows. Developers can run agents in parallel, use their preferred models or existing coding subscriptions, and keep agents connected to browser/runtime context as well as the broader codebase, from APIs and tests to docs and deployment paths.",
     "name": "stagewise",

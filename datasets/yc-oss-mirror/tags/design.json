@@ -755,31 +755,30 @@
     ],
     "id": 29466,
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1711038198,
-    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "long_description": "Tell Overheard what you're deciding, like how to fix churn or which feature to build next. It writes the interview, talks to your customers by voice, and comes back with answers.\r\n\r\nMost teams make these calls without hearing from customers because setting up interviews takes weeks and nobody owns it. Overheard gets you answers in days - no researcher needed.\r\n\r\nTeams use Overheard to find out why customers churn, test concepts and prototypes, set pricing, and run win/loss interviews.",
     "name": "Overheard",
     "nonprofit": false,
-    "one_liner": "AI-led user interviews for product teams.",
+    "one_liner": "Know what your customers want, because they told you.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "overheard",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8cc29d94168b1ca418d0d8737e0185bb99095a7.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Productivity",
+      "SaaS",
       "Design",
+      "Feedback",
       "Market Research"
     ],
     "tags_highlighted": [],
@@ -787,6 +786,52 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/overheard",
     "website": "https://withoverheard.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2024",
+    "demo_day_video_public": false,
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
+    "id": 29992,
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "industry": "B2B",
+    "isHiring": true,
+    "launched_at": 1721673756,
+    "long_description": "We’re about to see an influx in the AI-led discovery of new medicines, specialty chemicals, and materials. This means the bottleneck will shift from R&D, to the scale-up of these new recipes. Unfortunately, designing these production systems and making sure they can be operated safely is an expensive and labor-intensive ordeal that involves thousands of pages of drawings where one mistake can cause millions of dollars in rework or even disasters. Outerport solves this by helping engineering firms automate the design of the industrial control systems needed for production scale-up, using a domain-specific language for electrical design with thousands of unit tests that verify performance, and building simulators that can ingest already built schematics of plants to help automate comissioning and help train operators to prevent costly mistakes.",
+    "name": "Outerport",
+    "nonprofit": false,
+    "one_liner": "Design automation for industrial electrical controls",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "outerport",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2fd2342d3ea6b9592dfb0ad90c6249ad7c9ee05.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "tags": [
+      "Hardware",
+      "Design",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "team_size": 4,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/outerport",
+    "website": "https://outerport.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -1400,13 +1445,14 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/voyager.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "moda.app"
+      "moda.app",
+      "Moda"
     ],
     "id": 34134,
     "industries": [
@@ -1416,31 +1462,29 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1790709958,
-    "long_description": "",
-    "name": "Moda",
+    "long_description": "Most AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\r\n\r\nIt comes bundled with free motion graphics, music and video editing tools - or, it can drive Blender, DaVinci Resolve, After Effects, Ableton and 100+ others.\r\n\r\nFrom the team behind Moda (moda.app, 100k+ users).",
+    "name": "Voyager",
     "nonprofit": false,
-    "one_liner": "Fully editable slides, designs and video.",
+    "one_liner": "Open harness for video and other creative work.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "moda-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
+    "slug": "voyager",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c6a49b867492868c7c12a9622e59839c26e0b5a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "AI-Enhanced Learning",
       "Design",
-      "Sales",
       "Video",
       "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/moda-2",
-    "website": ""
+    "url": "https://www.ycombinator.com/companies/voyager",
+    "website": "https://voyager.so"
   }
 ]

@@ -48655,7 +48655,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1614624956,
     "long_description": "Stayflexi is a revolutionary platform designed to simplify hotel and vacation rental operations, while increasing revenues from unsold rooms and amenities. By harnessing the power of automation, Stayflexi eliminates the need for manual processes and provides a seamless, positive customer experience for guests. \r\n\r\nFounded by computer science majors from Carnegie Mellon and Cornell, Stayflexi was born out of the need to solve the problems experienced by hosts and travelers. With Stayflexi, you can rest assured that your guests will be given the best possible experience and that you will be able to maximize profits on your unsold rooms.\r\n\r\nStayflexi platform is helping over 3000 hotels in 16 different countries and growing rapidly.",
     "name": "Stayflexi",
@@ -50288,7 +50288,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1616831029,
     "long_description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
     "name": "Authologic",
@@ -52491,7 +52491,7 @@
     "website": "https://getswipe.in"
   },
   {
-    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mobileboost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -52508,14 +52508,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1628867687,
-    "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Salesforce and Groupon.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
+    "long_description": "MobileBoost is an AI SDET for iOS and Android apps. An agent turns a plain-language test spec into test code, runs it on simulators and real devices, and fixes it when your app changes. Nobody on your team maintains test scripts by hand. The test code is accessible at any time if your team wants that level of access.\r\n\r\nYou can start runs from your CI pipeline with the MobileBoost GitHub Action, or let your coding agent start them over MCP while you build.\r\n\r\nMobile teams at Duolingo, Lyft, Wayfair, Flo Health, Noom, Compass, and Redfin use MobileBoost. Duolingo cut manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/",
     "name": "MobileBoost",
     "nonprofit": false,
-    "one_liner": "AI native mobile testing.",
+    "one_liner": "AI SDET for mobile apps",
     "question_answers": false,
     "regions": [
-      "Germany",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -52525,11 +52525,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -62227,14 +62227,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
-    "team_size": 31,
+    "team_size": 58,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/flagright",
     "website": "https://flagright.com"
@@ -74642,7 +74642,7 @@
     "website": "https://www.flexwash.com/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Eugene, OR, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -74671,6 +74671,8 @@
     "one_liner": "Collaborative workspace for internal tools and agents",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -75273,10 +75275,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1667592357,
-    "long_description": "Goose is an AI creative engine that turns your brand into a continuous stream of on-brand ads. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer, then generate short-form creative for Meta and TikTok at the volume performance marketing actually requires.\r\n\r\nThe engine compounds: the agent learns from ad performance, competitors, trends, and human feedback, so your creative gets better every month. Run as a human-guided, done-for-you service.",
+    "long_description": "Goose is an AI marketing brain that understands your company's marketing context deeply and makes it accessible to agents. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer that AI agents can then use to make creatives, webpages, write emails, social content and more.\r\n\r\nThe engine compounds: the agent learns from campaign performance, competitors, trends, and human feedback, so your creative gets better every month.",
     "name": "Gooseworks",
     "nonprofit": false,
-    "one_liner": "Self-Improving Ad Creative Engines",
+    "one_liner": "Self-Improving Marketing Harness",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -92875,31 +92877,30 @@
     ],
     "id": 29466,
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1711038198,
-    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "long_description": "Tell Overheard what you're deciding, like how to fix churn or which feature to build next. It writes the interview, talks to your customers by voice, and comes back with answers.\r\n\r\nMost teams make these calls without hearing from customers because setting up interviews takes weeks and nobody owns it. Overheard gets you answers in days - no researcher needed.\r\n\r\nTeams use Overheard to find out why customers churn, test concepts and prototypes, set pricing, and run win/loss interviews.",
     "name": "Overheard",
     "nonprofit": false,
-    "one_liner": "AI-led user interviews for product teams.",
+    "one_liner": "Know what your customers want, because they told you.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "overheard",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8cc29d94168b1ca418d0d8737e0185bb99095a7.png",
     "stage": "Early",
     "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Productivity",
+      "SaaS",
       "Design",
+      "Feedback",
       "Market Research"
     ],
     "tags_highlighted": [],
@@ -98282,7 +98283,7 @@
     ],
     "slug": "soff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
@@ -100840,24 +100841,24 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1721673756,
-    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
+    "long_description": "We’re about to see an influx in the AI-led discovery of new medicines, specialty chemicals, and materials. This means the bottleneck will shift from R&D, to the scale-up of these new recipes. Unfortunately, designing these production systems and making sure they can be operated safely is an expensive and labor-intensive ordeal that involves thousands of pages of drawings where one mistake can cause millions of dollars in rework or even disasters. Outerport solves this by helping engineering firms automate the design of the industrial control systems needed for production scale-up, using a domain-specific language for electrical design with thousands of unit tests that verify performance, and building simulators that can ingest already built schematics of plants to help automate comissioning and help train operators to prevent costly mistakes.",
     "name": "Outerport",
     "nonprofit": false,
-    "one_liner": "EDA for Industrial Control Systems",
+    "one_liner": "Design automation for industrial electrical controls",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "outerport",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2fd2342d3ea6b9592dfb0ad90c6249ad7c9ee05.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Hardware",
+      "Design",
       "Manufacturing",
-      "Semiconductors",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -105353,11 +105354,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -105884,10 +105885,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1740032946,
-    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "long_description": "",
     "name": "Agentin AI",
     "nonprofit": false,
-    "one_liner": "AI Agents that automate enterprise software processes",
+    "one_liner": "Foundational model research",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -105899,9 +105900,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Reinforcement Learning",
-      "Enterprise",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -110958,10 +110958,10 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "Sales",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 14,
@@ -112070,6 +112070,46 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/getasap",
     "website": "https://www.getasap.us"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/meteor.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Summer 2025",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 30602,
+    "industries": [
+      "B2B"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1754469732,
+    "long_description": "Meteor Labs is a research company focused on providing a granular view of the data center supply chain.\r\n\r\nWe track upstream of the major data center buildout to understand the OEMs winning the market, the bottlenecks, and supply chain links.\r\n\r\nOur expertise in browser agents and AI helps us source this information from esoteric public filings across the web.",
+    "name": "Meteor",
+    "nonprofit": false,
+    "one_liner": "We provide hedge funds with information they can trade on",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "meteor",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B",
+    "tags": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/meteor",
+    "website": "https://meteorlabs.ai"
   },
   {
     "all_locations": "New York City, NY, USA",
@@ -114174,7 +114214,7 @@
     "long_description": "Building AI agents for autonomous embedded software development.",
     "name": "Embedder",
     "nonprofit": false,
-    "one_liner": "The Enterprise AI Platform for Embedded Software",
+    "one_liner": "Hardware-Aware AI for Embedded Software",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -114186,10 +114226,10 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -115956,7 +115996,7 @@
       "Engineering, Product and Design"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1751997318,
     "long_description": "stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing Git workflows. Developers can run agents in parallel, use their preferred models or existing coding subscriptions, and keep agents connected to browser/runtime context as well as the broader codebase, from APIs and tests to docs and deployment paths.",
     "name": "stagewise",
@@ -124688,10 +124728,10 @@
     "subindustry": "B2B",
     "tags": [],
     "tags_highlighted": [],
-    "team_size": 2,
+    "team_size": 4,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/booko",
-    "website": "https://bookoapp.com"
+    "website": "https://booko.com"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -126057,6 +126097,51 @@
     "website": "https://trycardinal.com"
   },
   {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/databuddy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31318,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1791412796,
+    "long_description": "Databuddy gives you your very own data analyst, always watching over your data, combining all your context to investigate and paint a full picture on every product issue that emerges in real-time; conversion drops, user frustration and churn.\r\n\r\nIt makes your product better without needing to have you look at a dashboard and spend hours figuring out the why. one click to install or switch from any dated analytics provider.",
+    "name": "Databuddy",
+    "nonprofit": false,
+    "one_liner": "AI Data Analyst for fast-growing teams",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "databuddy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41cf5cb7088967b39be98f97d7bb5d8f97df5aac.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/databuddy",
+    "website": "https://www.databuddy.cc"
+  },
+  {
     "all_locations": "Irvine, CA, USA",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json",
     "app_answers": null,
@@ -127068,9 +127153,15 @@
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B",
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Collaboration",
+      "Design Tools",
+      "No-code"
+    ],
     "tags_highlighted": [],
-    "team_size": 4,
+    "team_size": 6,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/deep-interactions",
     "website": "https://deepinteractions.ai/"
@@ -128255,8 +128346,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Finance",
-      "AI"
+      "Enterprise",
+      "Operations"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -134971,13 +135065,14 @@
   },
   {
     "all_locations": "New York City, NY, USA",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/voyager.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Fall 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "moda.app"
+      "moda.app",
+      "Moda"
     ],
     "id": 34134,
     "industries": [
@@ -134987,32 +135082,30 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1790709958,
-    "long_description": "",
-    "name": "Moda",
+    "long_description": "Most AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\r\n\r\nIt comes bundled with free motion graphics, music and video editing tools - or, it can drive Blender, DaVinci Resolve, After Effects, Ableton and 100+ others.\r\n\r\nFrom the team behind Moda (moda.app, 100k+ users).",
+    "name": "Voyager",
     "nonprofit": false,
-    "one_liner": "Fully editable slides, designs and video.",
+    "one_liner": "Open harness for video and other creative work.",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "moda-2",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
+    "slug": "voyager",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c6a49b867492868c7c12a9622e59839c26e0b5a.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Marketing",
     "tags": [
-      "AI-Enhanced Learning",
       "Design",
-      "Sales",
       "Video",
       "Marketing"
     ],
     "tags_highlighted": [],
     "team_size": 6,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/moda-2",
-    "website": ""
+    "url": "https://www.ycombinator.com/companies/voyager",
+    "website": "https://voyager.so"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -135191,10 +135284,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1785795073,
-    "long_description": "Wet labs for AI Agents to run real experiments, collect the data, and get better at biology.",
+    "long_description": "Real biology requires a wet lab, and building one takes years and a team most AI companies don't have. Petrichor runs their experiments at scale and sends back the dense, clean data their models need to learn from.",
     "name": "Petrichor Bio",
     "nonprofit": false,
-    "one_liner": "Wet labs for AI",
+    "one_liner": "Wet lab infrastructure that turns AI experiments into training data.",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -135206,8 +135299,8 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
-      "Artificial Intelligence",
-      "Deep Learning"
+      "Deep Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -135785,8 +135878,8 @@
     "status": "Active",
     "subindustry": "B2B -> Infrastructure",
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 2,

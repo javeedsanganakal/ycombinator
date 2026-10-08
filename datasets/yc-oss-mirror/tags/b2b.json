@@ -14954,7 +14954,7 @@
     "industry": "Real Estate and Construction",
     "isHiring": false,
     "launched_at": 1614638320,
-    "long_description": "Humance is building an AI-powered project management tool for the construction industry, where work is highly coordinated and delays are costly.\r\n\r\nLarge projects involve dozens of interdependent workstreams where a single setback can cascade unpredictably through the entire timeline. Today, most project managers track this manually — tracing dependencies by hand, updating schedules, and notifying stakeholders one by one. It's slow, error-prone, and pulls focus away from the higher-order decisions that demand real expertise.\r\n\r\nExperienced project managers carry deep knowledge — of sequencing, trade-offs, site realities, and stakeholder dynamics — that no tool can replicate. Humance is built around that expertise. By handling the mechanical work of dependency tracking and schedule coordination, it frees project managers to do what they're actually skilled at: exercising judgment, managing complexity, and keeping the big picture in view.",
+    "long_description": "Humance builds and integrates custom AI agents for construction teams, helping them review project documents, identify potential conflicts, and prepare next steps within the tools and workflows they already use.\r\n\r\nConstruction projects generate a constant flow of drawings, specifications, submittals, RFIs, change orders, and emails. Reviewing that information and connecting it across a project takes time, while overlooked details can lead to delays, rework, and unexpected costs. Humance handles the first pass through this paperwork, surfacing relevant findings and linking them to supporting project information so teams can verify the evidence and act with confidence.\r\n\r\nEvery implementation starts with understanding how a team works—its review processes, approval requirements, and existing systems. Humance then tailors and deploys AI agents around those needs, refining them through real-world use and feedback.\r\n\r\nConstruction expertise remains central. AI prepares the review; people apply their judgment and make the decisions. By reducing routine document work, Humance gives teams more time to resolve issues and keep projects moving.",
     "name": "Humance",
     "nonprofit": false,
     "one_liner": "AI that keeps complex construction projects on schedule.",
@@ -14971,10 +14971,10 @@
     "status": "Active",
     "subindustry": "Real Estate and Construction -> Construction",
     "tags": [
-      "Artificial Intelligence",
       "Construction",
       "B2B",
-      "Scheduling"
+      "Scheduling",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
@@ -16169,7 +16169,7 @@
     "website": "https://appx.co.in"
   },
   {
-    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mobileboost.json",
     "app_answers": null,
     "app_video_public": false,
@@ -16186,14 +16186,14 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1628867687,
-    "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Salesforce and Groupon.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
+    "long_description": "MobileBoost is an AI SDET for iOS and Android apps. An agent turns a plain-language test spec into test code, runs it on simulators and real devices, and fixes it when your app changes. Nobody on your team maintains test scripts by hand. The test code is accessible at any time if your team wants that level of access.\r\n\r\nYou can start runs from your CI pipeline with the MobileBoost GitHub Action, or let your coding agent start them over MCP while you build.\r\n\r\nMobile teams at Duolingo, Lyft, Wayfair, Flo Health, Noom, Compass, and Redfin use MobileBoost. Duolingo cut manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/",
     "name": "MobileBoost",
     "nonprofit": false,
-    "one_liner": "AI native mobile testing.",
+    "one_liner": "AI SDET for mobile apps",
     "question_answers": false,
     "regions": [
-      "Germany",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -16203,11 +16203,11 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 15,
@@ -21356,14 +21356,14 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
-    "team_size": 31,
+    "team_size": 58,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/flagright",
     "website": "https://flagright.com"
@@ -29674,7 +29674,7 @@
     "website": "https://www.flexwash.com/"
   },
   {
-    "all_locations": "Remote",
+    "all_locations": "Eugene, OR, USA; Remote",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json",
     "app_answers": null,
     "app_video_public": false,
@@ -29703,6 +29703,8 @@
     "one_liner": "Collaborative workspace for internal tools and agents",
     "question_answers": false,
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -37143,53 +37145,6 @@
     "website": "https://www.rysemarket.com/"
   },
   {
-    "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/overheard.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Winter 2024",
-    "demo_day_video_public": false,
-    "former_names": [
-      "FlowState",
-      "Unidata",
-      "OpenFoundry"
-    ],
-    "id": 29466,
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1711038198,
-    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
-    "name": "Overheard",
-    "nonprofit": false,
-    "one_liner": "AI-led user interviews for product teams.",
-    "question_answers": false,
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "slug": "overheard",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Design",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "team_size": 2,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/overheard",
-    "website": "https://withoverheard.com"
-  },
-  {
     "all_locations": "New York City, NY, USA",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/spur.json",
     "app_answers": null,
@@ -39162,7 +39117,7 @@
     ],
     "slug": "soff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
@@ -41893,11 +41848,11 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -44586,7 +44541,7 @@
     "long_description": "Building AI agents for autonomous embedded software development.",
     "name": "Embedder",
     "nonprofit": false,
-    "one_liner": "The Enterprise AI Platform for Embedded Software",
+    "one_liner": "Hardware-Aware AI for Embedded Software",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -44598,10 +44553,10 @@
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 6,
@@ -47420,6 +47375,51 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/carrot-labs",
     "website": "https://superpenguin.ai/"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/databuddy.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 31318,
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "industry": "B2B",
+    "isHiring": false,
+    "launched_at": 1791412796,
+    "long_description": "Databuddy gives you your very own data analyst, always watching over your data, combining all your context to investigate and paint a full picture on every product issue that emerges in real-time; conversion drops, user frustration and churn.\r\n\r\nIt makes your product better without needing to have you look at a dashboard and spend hours figuring out the why. one click to install or switch from any dated analytics provider.",
+    "name": "Databuddy",
+    "nonprofit": false,
+    "one_liner": "AI Data Analyst for fast-growing teams",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "slug": "databuddy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41cf5cb7088967b39be98f97d7bb5d8f97df5aac.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "B2B -> Analytics",
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "team_size": 1,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/databuddy",
+    "website": "https://www.databuddy.cc"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -50526,6 +50526,49 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/vorelios",
     "website": "https://vorelios.com"
+  },
+  {
+    "all_locations": "San Francisco, CA, USA",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/covera.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 36084,
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "industry": "Fintech",
+    "isHiring": true,
+    "launched_at": 1787324338,
+    "long_description": "Covera is the AI-native operating system for independent P&C insurance agencies. It lives inside the agency's AMS and inbox and runs agentic AI workflows across the whole client journey, from the first email to the next renewal. Producers quote first and win more business; CSRs and account managers stop retyping data.\r\n\r\nSubmissions, for producers: every new request becomes a ready file, one click keys every carrier portal for a first quote during the call, quotes come back side by side, and binding updates the AMS with no double entry.\r\n\r\nServicing, for CSRs and account managers: answers about any account with their source, COIs and follow-ups drafted, renewal reminders 90, 60 and 30 days out with remarketing when premiums jump, and coverage gaps across the book turned into cross-sell leads.\r\n\r\nAgencies using Covera go from lead to quote in 5 minutes, save 10 hours a week per user and win 20% more deals against competitors. Every action is reviewed by the agency team and logged for E&O. Works with Applied Epic, AMS360, QQCatalyst, HawkSoft, EZLynx, Momentum, Gmail and Outlook.\r\n\r\nBuilt by the founders of Simio (conversational AI, acquired in 2024).",
+    "name": "Covera",
+    "nonprofit": false,
+    "one_liner": "AI-native OS for insurance brokers",
+    "question_answers": false,
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "slug": "covera",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Fintech -> Insurance",
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B",
+      "Insurance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/covera",
+    "website": "https://www.covera-agents.com/?utm_source=ycombinator&utm_medium=company_profile&utm_campaign=yc_f26"
   },
   {
     "all_locations": "San Francisco, CA, USA",

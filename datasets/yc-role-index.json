@@ -1,5 +1,5 @@
 {
-  "company_count": 6277,
+  "company_count": 6279,
   "roles": {
     "engineering": {
       "companies": [
@@ -3119,18 +3119,6 @@
           "batch": "Winter 2025",
           "evidence": {
             "engineering": [
-              "software"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Agentin AI",
-          "one_liner": "AI Agents that automate enterprise software processes",
-          "slug": "agentin-ai"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "engineering": [
               "infrastructure"
             ]
           },
@@ -3983,22 +3971,6 @@
           "name": "Panelytic",
           "one_liner": "Payment infrastructure for machines",
           "slug": "panelytic"
-        },
-        {
-          "batch": "Winter 2024",
-          "evidence": {
-            "engineering": [
-              "engineering",
-              "software"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Overheard",
-          "one_liner": "AI-led user interviews for product teams.",
-          "slug": "overheard"
         },
         {
           "batch": "Winter 2024",
@@ -22825,13 +22797,13 @@
           "evidence": {
             "engineering": [
               "engineering",
-              "code",
+              "infrastructure",
               "robotics"
             ]
           },
           "industry": "Industrials",
           "name": "Hebbian Robotics",
-          "one_liner": "Automate Data Evaluations for Physical AI and Robotics",
+          "one_liner": "Foundational infrastructure for Physical AI",
           "slug": "hebbian-robotics"
         },
         {
@@ -24372,6 +24344,18 @@
           "batch": "Summer 2025",
           "evidence": {
             "engineering": [
+              "engineering"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Meteor",
+          "one_liner": "We provide hedge funds with information they can trade on",
+          "slug": "meteor"
+        },
+        {
+          "batch": "Summer 2025",
+          "evidence": {
+            "engineering": [
               "developer",
               "sdk",
               "infrastructure",
@@ -24860,16 +24844,13 @@
               "software",
               "developer tools"
             ],
-            "product": [
-              "platform"
-            ],
             "ux-ui": [
               "design"
             ]
           },
           "industry": "B2B",
           "name": "Embedder",
-          "one_liner": "The Enterprise AI Platform for Embedded Software",
+          "one_liner": "Hardware-Aware AI for Embedded Software",
           "slug": "embedder"
         },
         {
@@ -26252,8 +26233,7 @@
           "batch": "Summer 2024",
           "evidence": {
             "engineering": [
-              "engineering",
-              "api"
+              "engineering"
             ],
             "ux-ui": [
               "design"
@@ -26261,7 +26241,7 @@
           },
           "industry": "B2B",
           "name": "Outerport",
-          "one_liner": "EDA for Industrial Control Systems",
+          "one_liner": "Design automation for industrial electrical controls",
           "slug": "outerport"
         },
         {
@@ -32691,8 +32671,12 @@
             "engineering": [
               "engineering",
               "developer",
+              "coding",
               "code",
               "developer tools"
+            ],
+            "sales": [
+              "pipeline"
             ],
             "ux-ui": [
               "design"
@@ -32700,7 +32684,7 @@
           },
           "industry": "B2B",
           "name": "MobileBoost",
-          "one_liner": "AI native mobile testing.",
+          "one_liner": "AI SDET for mobile apps",
           "slug": "mobileboost"
         },
         {
@@ -43242,7 +43226,12 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
-              "code"
+              "developer",
+              "code",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "B2B",
@@ -44837,6 +44826,24 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "coding"
+            ],
+            "marketing": [
+              "marketing"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Voyager",
+          "one_liner": "Open harness for video and other creative work.",
+          "slug": "voyager"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineering"
             ]
           },
@@ -44844,6 +44851,22 @@
           "name": "Vorelios",
           "one_liner": "A foundation model for engineering physics",
           "slug": "vorelios"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "developer",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "interface"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "UXDuck",
+          "one_liner": "Android for drones",
+          "slug": "uxduck"
         },
         {
           "batch": "Fall 2026",
@@ -44935,18 +44958,6 @@
           "name": "Talos",
           "one_liner": "Predictive maintenance for power infrastructure.",
           "slug": "talos-us"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "engineering": [
-              "robotics"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "SuperRadiant",
-          "one_liner": "Embodied Scientific Intelligence",
-          "slug": "superradiant"
         },
         {
           "batch": "Fall 2026",
@@ -45145,6 +45156,18 @@
               "robotics"
             ]
           },
+          "industry": "Industrials",
+          "name": "Primordiant (Formerly SuperRadiant)",
+          "one_liner": "Embodied Scientific Intelligence",
+          "slug": "primordiant"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "robotics"
+            ]
+          },
           "industry": "B2B",
           "name": "Preload",
           "one_liner": "Motor cortex for physical AI",
@@ -45165,6 +45188,18 @@
           "name": "Ploid",
           "one_liner": "The people data company for the agent era",
           "slug": "ploid"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Petrichor Bio",
+          "one_liner": "Wet lab infrastructure that turns AI experiments into training data.",
+          "slug": "petrichor-bio"
         },
         {
           "batch": "Fall 2026",
@@ -45385,6 +45420,7 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "engineer",
               "software",
               "robotics",
               "machine learning"
@@ -45556,6 +45592,19 @@
           "name": "Deploy",
           "one_liner": "The generalist robot deployment company.",
           "slug": "deploy"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "infrastructure"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Databuddy",
+          "one_liner": "AI Data Analyst for fast-growing teams",
+          "slug": "databuddy"
         },
         {
           "batch": "Fall 2026",
@@ -47876,7 +47925,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2871
+      "count": 2874
     },
     "founders": {
       "companies": [
@@ -55584,13 +55633,14 @@
           "evidence": {
             "marketing": [
               "marketing",
+              "content",
               "advertising",
-              "brand"
+              "campaign"
             ]
           },
           "industry": "B2B",
           "name": "Gooseworks",
-          "one_liner": "Self-Improving Ad Creative Engines",
+          "one_liner": "Self-Improving Marketing Harness",
           "slug": "gooseworks"
         },
         {
@@ -69227,6 +69277,24 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "engineering": [
+              "coding"
+            ],
+            "marketing": [
+              "marketing"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Voyager",
+          "one_liner": "Open harness for video and other creative work.",
+          "slug": "voyager"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "marketing": [
               "creator"
             ],
@@ -69270,24 +69338,6 @@
           "name": "OpenSEO",
           "one_liner": "Open source alternative to Semrush and Ahrefs",
           "slug": "openseo"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "marketing": [
-              "marketing"
-            ],
-            "sales": [
-              "sales"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Moda",
-          "one_liner": "Fully editable slides, designs and video.",
-          "slug": "moda-2"
         },
         {
           "batch": "Fall 2026",
@@ -71960,6 +72010,21 @@
         {
           "batch": "Winter 2024",
           "evidence": {
+            "monetization": [
+              "pricing"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Overheard",
+          "one_liner": "Know what your customers want, because they told you.",
+          "slug": "overheard"
+        },
+        {
+          "batch": "Winter 2024",
+          "evidence": {
             "founders": [
               "small business",
               "owners"
@@ -73671,7 +73736,9 @@
           "batch": "Winter 2023",
           "evidence": {
             "monetization": [
-              "fintech"
+              "billing",
+              "fintech",
+              "financial"
             ],
             "product": [
               "workflow"
@@ -89314,21 +89381,6 @@
           "name": "Modus",
           "one_liner": "Unlock revenue per employee with AI-powered headcount management",
           "slug": "modus"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "monetization": [
-              "marketplace"
-            ],
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Mito Health",
-          "one_liner": "At-cost lab testing marketplace that profits when you test less",
-          "slug": "mito-health"
         },
         {
           "batch": "Summer 2024",
@@ -108828,7 +108880,9 @@
           "batch": "Winter 2023",
           "evidence": {
             "monetization": [
-              "fintech"
+              "billing",
+              "fintech",
+              "financial"
             ],
             "product": [
               "workflow"
@@ -115239,18 +115293,6 @@
         {
           "batch": "Winter 2019",
           "evidence": {
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Bunkerhill Health",
-          "one_liner": "Bunkerhill is the agentic AI platform for health systems",
-          "slug": "bunkerhill-health"
-        },
-        {
-          "batch": "Winter 2019",
-          "evidence": {
             "engineering": [
               "developer",
               "sdk",
@@ -120685,27 +120727,6 @@
           "batch": "Summer 2025",
           "evidence": {
             "engineering": [
-              "engineering",
-              "developer",
-              "software",
-              "developer tools"
-            ],
-            "product": [
-              "platform"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Embedder",
-          "one_liner": "The Enterprise AI Platform for Embedded Software",
-          "slug": "embedder"
-        },
-        {
-          "batch": "Summer 2025",
-          "evidence": {
-            "engineering": [
               "engineer",
               "engineering",
               "developer",
@@ -121195,16 +121216,13 @@
         {
           "batch": "Summer 2024",
           "evidence": {
-            "monetization": [
-              "marketplace"
-            ],
             "product": [
               "platform"
             ]
           },
           "industry": "Healthcare",
           "name": "Mito Health",
-          "one_liner": "At-cost lab testing marketplace that profits when you test less",
+          "one_liner": "At-cost preventive health: Labs, Scans, Genetics, Supplements and Rx",
           "slug": "mito-health"
         },
         {
@@ -134329,7 +134347,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1651
+      "count": 1649
     },
     "sales": {
       "companies": [
@@ -144404,6 +144422,28 @@
         {
           "batch": "Summer 2021",
           "evidence": {
+            "engineering": [
+              "engineering",
+              "developer",
+              "coding",
+              "code",
+              "developer tools"
+            ],
+            "sales": [
+              "pipeline"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "MobileBoost",
+          "one_liner": "AI SDET for mobile apps",
+          "slug": "mobileboost"
+        },
+        {
+          "batch": "Summer 2021",
+          "evidence": {
             "sales": [
               "pipeline"
             ]
@@ -147611,24 +147651,6 @@
         {
           "batch": "Fall 2026",
           "evidence": {
-            "marketing": [
-              "marketing"
-            ],
-            "sales": [
-              "sales"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Moda",
-          "one_liner": "Fully editable slides, designs and video.",
-          "slug": "moda-2"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
             "monetization": [
               "fintech",
               "insurance",
@@ -149725,9 +149747,8 @@
         {
           "batch": "Winter 2024",
           "evidence": {
-            "engineering": [
-              "engineering",
-              "software"
+            "monetization": [
+              "pricing"
             ],
             "ux-ui": [
               "design"
@@ -149735,7 +149756,7 @@
           },
           "industry": "B2B",
           "name": "Overheard",
-          "one_liner": "AI-led user interviews for product teams.",
+          "one_liner": "Know what your customers want, because they told you.",
           "slug": "overheard"
         },
         {
@@ -157010,16 +157031,13 @@
               "software",
               "developer tools"
             ],
-            "product": [
-              "platform"
-            ],
             "ux-ui": [
               "design"
             ]
           },
           "industry": "B2B",
           "name": "Embedder",
-          "one_liner": "The Enterprise AI Platform for Embedded Software",
+          "one_liner": "Hardware-Aware AI for Embedded Software",
           "slug": "embedder"
         },
         {
@@ -157561,8 +157579,7 @@
           "batch": "Summer 2024",
           "evidence": {
             "engineering": [
-              "engineering",
-              "api"
+              "engineering"
             ],
             "ux-ui": [
               "design"
@@ -157570,7 +157587,7 @@
           },
           "industry": "B2B",
           "name": "Outerport",
-          "one_liner": "EDA for Industrial Control Systems",
+          "one_liner": "Design automation for industrial electrical controls",
           "slug": "outerport"
         },
         {
@@ -160000,8 +160017,12 @@
             "engineering": [
               "engineering",
               "developer",
+              "coding",
               "code",
               "developer tools"
+            ],
+            "sales": [
+              "pipeline"
             ],
             "ux-ui": [
               "design"
@@ -160009,7 +160030,7 @@
           },
           "industry": "B2B",
           "name": "MobileBoost",
-          "one_liner": "AI native mobile testing.",
+          "one_liner": "AI SDET for mobile apps",
           "slug": "mobileboost"
         },
         {
@@ -163714,6 +163735,23 @@
           "batch": "Spring 2026",
           "evidence": {
             "engineering": [
+              "developer",
+              "code",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Deep Interactions",
+          "one_liner": "Collaborative AI app builder for teams",
+          "slug": "deep-interactions"
+        },
+        {
+          "batch": "Spring 2026",
+          "evidence": {
+            "engineering": [
               "engineering"
             ],
             "ux-ui": [
@@ -164345,6 +164383,40 @@
         {
           "batch": "Fall 2026",
           "evidence": {
+            "engineering": [
+              "coding"
+            ],
+            "marketing": [
+              "marketing"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Voyager",
+          "one_liner": "Open harness for video and other creative work.",
+          "slug": "voyager"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "developer",
+              "developer tools"
+            ],
+            "ux-ui": [
+              "interface"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "UXDuck",
+          "one_liner": "Android for drones",
+          "slug": "uxduck"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
             "ux-ui": [
               "design"
             ]
@@ -164485,24 +164557,6 @@
           "name": "OnePatch",
           "one_liner": "Automate on-call at agent-scale.",
           "slug": "onepatch"
-        },
-        {
-          "batch": "Fall 2026",
-          "evidence": {
-            "marketing": [
-              "marketing"
-            ],
-            "sales": [
-              "sales"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Moda",
-          "one_liner": "Fully editable slides, designs and video.",
-          "slug": "moda-2"
         },
         {
           "batch": "Fall 2026",
@@ -165704,7 +165758,7 @@
           "slug": "alex"
         }
       ],
-      "count": 943
+      "count": 945
     }
   },
   "rules_version": 1,
@@ -165732,6 +165786,7 @@
       "aerotime",
       "aftercare",
       "agape",
+      "agentin-ai",
       "ai-2",
       "aidy",
       "airgoods",
@@ -165846,6 +165901,7 @@
       "brumby",
       "bump",
       "bump-2",
+      "bunkerhill-health",
       "bunting-labs",
       "burt",
       "cabal",
@@ -166317,7 +166373,6 @@
       "meson",
       "messageparty",
       "meta",
-      "meteor",
       "meteoric",
       "micro-meat",
       "microeval",
@@ -166454,7 +166509,6 @@
       "perfectly",
       "perlara",
       "permitportal",
-      "petrichor-bio",
       "pharos",
       "phase-biolabs",
       "phykos",

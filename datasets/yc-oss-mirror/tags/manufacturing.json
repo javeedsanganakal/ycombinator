@@ -1309,7 +1309,7 @@
     ],
     "slug": "industrial-next",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77b3fae4e9032c53ab1dabf92d2dde1c13be9a0.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "tags": [
@@ -2243,7 +2243,7 @@
     ],
     "slug": "soff",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "tags": [
@@ -2496,24 +2496,24 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1721673756,
-    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
+    "long_description": "We’re about to see an influx in the AI-led discovery of new medicines, specialty chemicals, and materials. This means the bottleneck will shift from R&D, to the scale-up of these new recipes. Unfortunately, designing these production systems and making sure they can be operated safely is an expensive and labor-intensive ordeal that involves thousands of pages of drawings where one mistake can cause millions of dollars in rework or even disasters. Outerport solves this by helping engineering firms automate the design of the industrial control systems needed for production scale-up, using a domain-specific language for electrical design with thousands of unit tests that verify performance, and building simulators that can ingest already built schematics of plants to help automate comissioning and help train operators to prevent costly mistakes.",
     "name": "Outerport",
     "nonprofit": false,
-    "one_liner": "EDA for Industrial Control Systems",
+    "one_liner": "Design automation for industrial electrical controls",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "slug": "outerport",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2fd2342d3ea6b9592dfb0ad90c6249ad7c9ee05.png",
     "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "Hardware",
+      "Design",
       "Manufacturing",
-      "Semiconductors",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -4051,7 +4051,7 @@
     "industry": "Healthcare",
     "isHiring": false,
     "launched_at": 1785736030,
-    "long_description": "We builds foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs.\r\n\r\nDesigning a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab.\r\n\r\nOur models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three.\r\n\r\nWe are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+    "long_description": "We build foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs.\r\n\r\nDesigning a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab.\r\n\r\nOur models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three.\r\n\r\nWe are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
     "name": "Rasyn",
     "nonprofit": false,
     "one_liner": "Making chemicals 100,000x faster",
@@ -4066,10 +4066,10 @@
     "status": "Active",
     "subindustry": "Healthcare",
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Biotech",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 3,
