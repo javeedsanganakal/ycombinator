@@ -2906,7 +2906,7 @@
     ],
     "slug": "growthbook",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c060531ea33b3550b25532f59de594cc620f374.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
@@ -2916,7 +2916,7 @@
       "Open Source"
     ],
     "tags_highlighted": [],
-    "team_size": 40,
+    "team_size": 46,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/growthbook",
     "website": "https://www.growthbook.io"
@@ -4234,7 +4234,7 @@
     ],
     "slug": "trigger-dev",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737382941e8e44eb83d28fa6b26854131dcdfcf9.png",
-    "stage": "Growth",
+    "stage": "Early",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -4245,7 +4245,7 @@
       "AI"
     ],
     "tags_highlighted": [],
-    "team_size": 9,
+    "team_size": 17,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/trigger-dev",
     "website": "https://trigger.dev"
@@ -5308,10 +5308,10 @@
     "industry": "B2B",
     "isHiring": true,
     "launched_at": 1689280457,
-    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
     "name": "ParadeDB",
     "nonprofit": false,
-    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+    "one_liner": "You should just use Postgres.",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -7735,6 +7735,46 @@
     "website": "https://robocurve.org"
   },
   {
+    "all_locations": "Milan, Lombardy, Italy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/lucebox.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Winter 2027",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 35456,
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "industry": "Consumer",
+    "isHiring": false,
+    "launched_at": 1791469959,
+    "long_description": "Lucebox makes workstations for local AI inference. They're private, always-on machines that arrive with Lucebox's inference engine installed and tuned, so developers point Claude Code, Codex or OpenCode on their own hardware. Lucebox is building toward a new category of self-improving personal AI computers that learn from the work you do every day, training small models on your own context until they're faster and better than the cloud at your tasks. The engine is open source, with 2.9K stars on GitHub and 95K+ downloads on Hugging Face.",
+    "name": "Lucebox",
+    "nonprofit": false,
+    "one_liner": "Self-improving inference workstation",
+    "question_answers": false,
+    "regions": [
+      "Italy",
+      "Europe"
+    ],
+    "slug": "lucebox",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/398710e85d03147369f3aa9dc04488ccb8c9c530.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "tags": [
+      "Hardware",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "team_size": 2,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/lucebox",
+    "website": "https://www.lucebox.com/"
+  },
+  {
     "all_locations": "Boston, MA, USA",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json",
     "app_answers": null,
@@ -7795,10 +7835,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1791261091,
-    "long_description": "",
+    "long_description": "Acyclic runs agent swarms. Hand it a task from the CLI, the dashboard, or a coding agent over MCP, and it splits the work across many agents, each in its own sandbox, then merges what they produce into one result. Long agentic workflows finish in a fraction of the wall-clock time. Bring your own model keys or run the sandboxes in your own cloud; the harness underneath is open source. Coding is the first workload, and research and data work run the same way. Founded by Ram Vinjamuri and Varun Latthe. YC F26, London.",
     "name": "Acyclic Labs",
     "nonprofit": false,
-    "one_liner": "building infra for scaling agent swarms efficiently",
+    "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
     "question_answers": false,
     "regions": [
       "United Kingdom",

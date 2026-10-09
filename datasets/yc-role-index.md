@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6279
+Companies classified: 6283
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -10,13 +10,13 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 | Role | Companies |
 | --- | ---: |
 | founders | 346 |
-| product | 1649 |
-| ux-ui | 945 |
-| engineering | 2874 |
-| sales | 747 |
+| product | 1651 |
+| ux-ui | 946 |
+| engineering | 2877 |
+| sales | 748 |
 | marketing | 876 |
-| monetization | 2123 |
-| Unclassified | 1144 |
+| monetization | 2122 |
+| Unclassified | 1146 |
 
 ## Recent examples
 
@@ -67,6 +67,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 ### engineering
 
+- **Lucebox** (Winter 2027, Consumer): Self-improving inference workstation [evidence: code, cloud]
 - **ZeroSettle** (Winter 2026, Fintech): Drop-in Direct Billing SDK for In-App Purchases [evidence: sdk]
 - **Zatanna** (Winter 2026, B2B): Turning all software into agent-first APIs [evidence: engineering, software, cloud]
 - **Wideframe** (Winter 2026, B2B): AI coworker for video editors to ship more video faster [evidence: cloud]
@@ -78,7 +79,6 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Valgo** (Winter 2026, B2B): Insurance risk layer for physical AI [evidence: engineering]
 - **Valence** (Winter 2026, Fintech): Unified prediction markets trading platform [evidence: api, infrastructure]
 - **Unisson** (Winter 2026, B2B): AI agents that automate B2B software implementation [evidence: engineering, software]
-- **Unifold** (Winter 2026, Fintech): Multi-chain deposit and payment infrastructure [evidence: developer, code, api, sdk, infrastructure]
 
 ### sales
 

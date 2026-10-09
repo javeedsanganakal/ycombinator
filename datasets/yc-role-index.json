@@ -1,8 +1,21 @@
 {
-  "company_count": 6279,
+  "company_count": 6283,
   "roles": {
     "engineering": {
       "companies": [
+        {
+          "batch": "Winter 2027",
+          "evidence": {
+            "engineering": [
+              "code",
+              "cloud"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "Lucebox",
+          "one_liner": "Self-improving inference workstation",
+          "slug": "lucebox"
+        },
         {
           "batch": "Winter 2026",
           "evidence": {
@@ -880,7 +893,7 @@
           },
           "industry": "B2B",
           "name": "Maven",
-          "one_liner": "Payments Infrastructure for Conversational Agents",
+          "one_liner": "Payments for Conversational Agents",
           "slug": "maven"
         },
         {
@@ -15381,6 +15394,18 @@
           "batch": "Winter 2019",
           "evidence": {
             "engineering": [
+              "machine learning"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "In The Room",
+          "one_liner": "Connect with people around you—IRL",
+          "slug": "in-the-room"
+        },
+        {
+          "batch": "Winter 2019",
+          "evidence": {
+            "engineering": [
               "software"
             ],
             "monetization": [
@@ -15845,21 +15870,6 @@
           "name": "Avalanche",
           "one_liner": "Referral program SDK for startups",
           "slug": "avalanche"
-        },
-        {
-          "batch": "Winter 2019",
-          "evidence": {
-            "engineering": [
-              "machine learning"
-            ],
-            "monetization": [
-              "financial"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "Autodial prev Qwest",
-          "one_liner": "Skip Busy Phone Lines",
-          "slug": "autodial-prev-qwest"
         },
         {
           "batch": "Winter 2019",
@@ -22761,25 +22771,6 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "developer",
-              "infrastructure",
-              "cloud",
-              "machine learning",
-              "developer tools"
-            ],
-            "marketing": [
-              "campaign"
-            ]
-          },
-          "industry": "B2B",
-          "name": "hiloop",
-          "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
-          "slug": "hiloop"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
               "engineering",
               "robotics"
             ],
@@ -23427,6 +23418,25 @@
           "name": "Avoca Systems",
           "one_liner": "The AI operating system for radiology networks",
           "slug": "avoca-systems"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "engineering": [
+              "developer",
+              "infrastructure",
+              "cloud",
+              "machine learning",
+              "developer tools"
+            ],
+            "marketing": [
+              "campaign"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Autoresearch, Inc.",
+          "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
+          "slug": "autoresearch-inc"
         },
         {
           "batch": "Summer 2026",
@@ -28277,7 +28287,7 @@
           },
           "industry": "B2B",
           "name": "ParadeDB",
-          "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+          "one_liner": "You should just use Postgres.",
           "slug": "paradedb"
         },
         {
@@ -43108,7 +43118,7 @@
           },
           "industry": "Industrials",
           "name": "General Instinct",
-          "one_liner": "Inference Infrastructure for Physical AI",
+          "one_liner": "Deployment infrastructure for Physical AI",
           "slug": "general-instinct"
         },
         {
@@ -45153,6 +45163,24 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "monetization": [
+              "revenue"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Quivly AI",
+          "one_liner": "AI agents that run onboarding, adoption, and renewals",
+          "slug": "quivly-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "robotics"
             ]
           },
@@ -45610,6 +45638,21 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "developer",
+              "code",
+              "cloud",
+              "developer tools"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Composal",
+          "one_liner": "Swarms of agents acting like users to find bugs before release",
+          "slug": "composal"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "infrastructure"
             ]
           },
@@ -45803,12 +45846,17 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "infrastructure"
+              "coding",
+              "infrastructure",
+              "cloud"
+            ],
+            "product": [
+              "workflow"
             ]
           },
           "industry": "B2B",
           "name": "Acyclic Labs",
-          "one_liner": "building infra for scaling agent swarms efficiently",
+          "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
           "slug": "acyclic"
         },
         {
@@ -45836,7 +45884,7 @@
           },
           "industry": "B2B",
           "name": "Velvet",
-          "one_liner": "Conversational datasets and models",
+          "one_liner": "Expressive conversational AI",
           "slug": "velvet"
         },
         {
@@ -47925,7 +47973,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2874
+      "count": 2877
     },
     "founders": {
       "companies": [
@@ -61516,25 +61564,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "engineering": [
-              "developer",
-              "infrastructure",
-              "cloud",
-              "machine learning",
-              "developer tools"
-            ],
-            "marketing": [
-              "campaign"
-            ]
-          },
-          "industry": "B2B",
-          "name": "hiloop",
-          "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
-          "slug": "hiloop"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "marketing": [
               "content",
               "creator"
@@ -61574,6 +61603,25 @@
           "name": "Exosat",
           "one_liner": "Building a neutral, sovereign alternative to Starlink",
           "slug": "exosat"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "engineering": [
+              "developer",
+              "infrastructure",
+              "cloud",
+              "machine learning",
+              "developer tools"
+            ],
+            "marketing": [
+              "campaign"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Autoresearch, Inc.",
+          "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
+          "slug": "autoresearch-inc"
         },
         {
           "batch": "Summer 2025",
@@ -63501,15 +63549,19 @@
           "batch": "Summer 2022",
           "evidence": {
             "marketing": [
-              "content"
+              "content",
+              "social media"
             ],
             "product": [
               "platform"
+            ],
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "Consumer",
           "name": "Craze",
-          "one_liner": "Plan, edit and turn creative direction into videos people watch",
+          "one_liner": "The AI video platform where creatives make something people watch",
           "slug": "craze"
         },
         {
@@ -70458,7 +70510,7 @@
           },
           "industry": "B2B",
           "name": "Maven",
-          "one_liner": "Payments Infrastructure for Conversational Agents",
+          "one_liner": "Payments for Conversational Agents",
           "slug": "maven"
         },
         {
@@ -82398,21 +82450,6 @@
           "name": "AXDRAFT",
           "one_liner": "AXDRAFT helps corporations draft, negotiate and approve documents 10x…",
           "slug": "axdraft"
-        },
-        {
-          "batch": "Winter 2019",
-          "evidence": {
-            "engineering": [
-              "machine learning"
-            ],
-            "monetization": [
-              "financial"
-            ]
-          },
-          "industry": "Consumer",
-          "name": "Autodial prev Qwest",
-          "one_liner": "Skip Busy Phone Lines",
-          "slug": "autodial-prev-qwest"
         },
         {
           "batch": "Winter 2019",
@@ -104138,6 +104175,24 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "monetization": [
+              "revenue"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Quivly AI",
+          "one_liner": "AI agents that run onboarding, adoption, and renewals",
+          "slug": "quivly-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineering"
             ],
             "monetization": [
@@ -104271,11 +104326,14 @@
           "evidence": {
             "monetization": [
               "fintech"
+            ],
+            "product": [
+              "platform"
             ]
           },
           "industry": "B2B",
           "name": "Grep AI",
-          "one_liner": "AI agents that automate high-stakes knowledge work you can't afford…",
+          "one_liner": "Self-improving agents that automate tedious operational work",
           "slug": "grep-ai"
         },
         {
@@ -105421,18 +105479,6 @@
           "batch": "Fall 2024",
           "evidence": {
             "monetization": [
-              "financial"
-            ]
-          },
-          "industry": "B2B",
-          "name": "AutoComputer",
-          "one_liner": "Desktop RPA with AI computer use",
-          "slug": "autocomputer"
-        },
-        {
-          "batch": "Fall 2024",
-          "evidence": {
-            "monetization": [
               "fintech",
               "financial"
             ]
@@ -105477,7 +105523,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2123
+      "count": 2122
     },
     "product": {
       "companies": [
@@ -124122,15 +124168,19 @@
           "batch": "Summer 2022",
           "evidence": {
             "marketing": [
-              "content"
+              "content",
+              "social media"
             ],
             "product": [
               "platform"
+            ],
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "Consumer",
           "name": "Craze",
-          "one_liner": "Plan, edit and turn creative direction into videos people watch",
+          "one_liner": "The AI video platform where creatives make something people watch",
           "slug": "craze"
         },
         {
@@ -133369,6 +133419,21 @@
           "batch": "Fall 2026",
           "evidence": {
             "monetization": [
+              "fintech"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Grep AI",
+          "one_liner": "Self-improving agents that automate tedious operational work",
+          "slug": "grep-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "monetization": [
               "fintech",
               "credit"
             ],
@@ -133416,6 +133481,23 @@
           "name": "Ascenix",
           "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
           "slug": "ascenix"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "coding",
+              "infrastructure",
+              "cloud"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Acyclic Labs",
+          "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
+          "slug": "acyclic"
         },
         {
           "batch": "Fall 2025",
@@ -134347,7 +134429,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1649
+      "count": 1651
     },
     "sales": {
       "companies": [
@@ -147636,6 +147718,24 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "software"
+            ],
+            "monetization": [
+              "revenue"
+            ],
+            "sales": [
+              "revenue"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Quivly AI",
+          "one_liner": "AI agents that run onboarding, adoption, and renewals",
+          "slug": "quivly-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "api",
               "infrastructure"
             ],
@@ -148323,7 +148423,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 747
+      "count": 748
     },
     "ux-ui": {
       "companies": [
@@ -159495,6 +159595,25 @@
         {
           "batch": "Summer 2022",
           "evidence": {
+            "marketing": [
+              "content",
+              "social media"
+            ],
+            "product": [
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "Consumer",
+          "name": "Craze",
+          "one_liner": "The AI video platform where creatives make something people watch",
+          "slug": "craze"
+        },
+        {
+          "batch": "Summer 2022",
+          "evidence": {
             "engineering": [
               "engineering"
             ],
@@ -165758,13 +165877,13 @@
           "slug": "alex"
         }
       ],
-      "count": 945
+      "count": 946
     }
   },
   "rules_version": 1,
   "source": "datasets/yc-oss-mirror/companies/all.json",
   "unclassified": {
-    "count": 1144,
+    "count": 1146,
     "slugs": [
       "1000memories",
       "100x",
@@ -165849,6 +165968,7 @@
       "atomarine",
       "attack-capital",
       "aurabeat",
+      "autocomputer",
       "automatic",
       "automax-ai",
       "avora",
@@ -166712,6 +166832,7 @@
       "springwit",
       "squad",
       "stacksi",
+      "stacktrace",
       "stamp",
       "starcity",
       "stardrift",
