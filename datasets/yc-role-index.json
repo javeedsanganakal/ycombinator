@@ -1,5 +1,5 @@
 {
-  "company_count": 6283,
+  "company_count": 6285,
   "roles": {
     "engineering": {
       "companies": [
@@ -1206,7 +1206,7 @@
           },
           "industry": "B2B",
           "name": "Fixture",
-          "one_liner": "An AI-first CRM built for Startups",
+          "one_liner": "An agentic CRM built for Startups",
           "slug": "fixture"
         },
         {
@@ -3066,18 +3066,6 @@
           "name": "awen",
           "one_liner": "awen translates intent into exceptional visuals through conversation",
           "slug": "awen"
-        },
-        {
-          "batch": "Winter 2025",
-          "evidence": {
-            "engineering": [
-              "developer"
-            ]
-          },
-          "industry": "Industrials",
-          "name": "Astro",
-          "one_liner": "The world’s first AI energy developer",
-          "slug": "astro"
         },
         {
           "batch": "Winter 2025",
@@ -13404,13 +13392,12 @@
               "developer tools"
             ],
             "ux-ui": [
-              "ui",
               "design"
             ]
           },
           "industry": "B2B",
           "name": "Reframe",
-          "one_liner": "Zoomable generative UI for codebase architecture",
+          "one_liner": "Model and visualize codebase architecture",
           "slug": "reframe-2"
         },
         {
@@ -22930,18 +22917,6 @@
           "batch": "Summer 2026",
           "evidence": {
             "engineering": [
-              "infrastructure"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Familiar",
-          "one_liner": "Multimodal Translation",
-          "slug": "familiar"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
-            "engineering": [
               "software",
               "code"
             ],
@@ -23389,7 +23364,7 @@
           },
           "industry": "B2B",
           "name": "Belvedir",
-          "one_liner": "The custom AI model factory",
+          "one_liner": "The autonomous AI model factory",
           "slug": "belvedir"
         },
         {
@@ -26236,7 +26211,7 @@
           },
           "industry": "B2B",
           "name": "Oway",
-          "one_liner": "The coordination OS for the physical economy. ",
+          "one_liner": "Building the open operating system for the automated physical economy.",
           "slug": "oway"
         },
         {
@@ -26924,7 +26899,8 @@
           "evidence": {
             "engineering": [
               "engineering",
-              "software"
+              "software",
+              "infrastructure"
             ],
             "ux-ui": [
               "design"
@@ -44935,6 +44911,18 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "robotics"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Theseus Robotics",
+          "one_liner": "Humanoids to restock retail shelves & pick orders",
+          "slug": "theseus-robotics"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "infrastructure"
             ]
           },
@@ -44968,6 +44956,18 @@
           "name": "Talos",
           "one_liner": "Predictive maintenance for power infrastructure.",
           "slug": "talos-us"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Stacktrace",
+          "one_liner": "See and control what your agents actually do",
+          "slug": "stacktrace"
         },
         {
           "batch": "Fall 2026",
@@ -45329,6 +45329,45 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "machine learning"
+            ],
+            "marketing": [
+              "marketing",
+              "social media"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Native",
+          "one_liner": "Artificial Intuition for marketing",
+          "slug": "native"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "api",
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Munito AI",
+          "one_liner": "Open-model inference provider for Europe, private by default.",
+          "slug": "munito-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineer",
               "engineering",
               "developer",
@@ -45340,7 +45379,7 @@
           },
           "industry": "B2B",
           "name": "Mirrors",
-          "one_liner": "Steer AI agents in real time using lessons from production runs",
+          "one_liner": "Give AI agents the right instructions at the right moment",
           "slug": "mirrors"
         },
         {
@@ -45846,17 +45885,21 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "coding",
-              "infrastructure",
-              "cloud"
+              "infrastructure"
+            ],
+            "monetization": [
+              "accounting"
             ],
             "product": [
-              "workflow"
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "B2B",
           "name": "Acyclic Labs",
-          "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
+          "one_liner": "Agent swarms that make long-running tasks exponentially faster",
           "slug": "acyclic"
         },
         {
@@ -46059,21 +46102,6 @@
           "name": "Semiotic",
           "one_liner": "Studio-Grade Design at Scale",
           "slug": "semiotic"
-        },
-        {
-          "batch": "Fall 2025",
-          "evidence": {
-            "engineering": [
-              "software"
-            ],
-            "ux-ui": [
-              "design"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Semble",
-          "one_liner": "The all-in-one software for integrators.",
-          "slug": "semble"
         },
         {
           "batch": "Fall 2025",
@@ -46816,13 +46844,17 @@
           "batch": "Fall 2025",
           "evidence": {
             "engineering": [
+              "infrastructure",
               "robotics",
               "machine learning"
+            ],
+            "product": [
+              "workflow"
             ]
           },
           "industry": "Industrials",
           "name": "Darwin",
-          "one_liner": "Humanoid robots",
+          "one_liner": "Robots to build civilization",
           "slug": "darwin"
         },
         {
@@ -47447,7 +47479,7 @@
           },
           "industry": "Fintech",
           "name": "RiskCube",
-          "one_liner": "America’s first AI-native reinsurer for emerging risks.",
+          "one_liner": "The new American reinsurance company.",
           "slug": "riskcube"
         },
         {
@@ -47973,7 +48005,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2877
+      "count": 2878
     },
     "founders": {
       "companies": [
@@ -48311,6 +48343,18 @@
           "name": "Bystreet",
           "one_liner": "Connect with hotel owners around the world.",
           "slug": "bystreet"
+        },
+        {
+          "batch": "Winter 2025",
+          "evidence": {
+            "founders": [
+              "founder"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Astro",
+          "one_liner": "Power-ready land for AI data centers",
+          "slug": "astro"
         },
         {
           "batch": "Winter 2024",
@@ -54362,7 +54406,7 @@
           "slug": "tiny"
         }
       ],
-      "count": 346
+      "count": 347
     },
     "marketing": {
       "companies": [
@@ -54552,7 +54596,7 @@
           },
           "industry": "B2B",
           "name": "Fixture",
-          "one_liner": "An AI-first CRM built for Startups",
+          "one_liner": "An agentic CRM built for Startups",
           "slug": "fixture"
         },
         {
@@ -69357,7 +69401,7 @@
           },
           "industry": "Fintech",
           "name": "Volaren Inc.",
-          "one_liner": "Volaren collapses the hedge fund model and making it accessible to…",
+          "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands…",
           "slug": "volaren-inc"
         },
         {
@@ -69390,6 +69434,45 @@
           "name": "OpenSEO",
           "one_liner": "Open source alternative to Semrush and Ahrefs",
           "slug": "openseo"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "machine learning"
+            ],
+            "marketing": [
+              "marketing",
+              "social media"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Native",
+          "one_liner": "Artificial Intuition for marketing",
+          "slug": "native"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "engineering",
+              "api",
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Munito AI",
+          "one_liner": "Open-model inference provider for Europe, private by default.",
+          "slug": "munito-ai"
         },
         {
           "batch": "Fall 2026",
@@ -69974,7 +70057,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 876
+      "count": 878
     },
     "monetization": {
       "companies": [
@@ -89335,7 +89418,7 @@
           },
           "industry": "B2B",
           "name": "Oway",
-          "one_liner": "The coordination OS for the physical economy. ",
+          "one_liner": "Building the open operating system for the automated physical economy.",
           "slug": "oway"
         },
         {
@@ -104067,7 +104150,7 @@
           },
           "industry": "Fintech",
           "name": "Volaren Inc.",
-          "one_liner": "Volaren collapses the hedge fund model and making it accessible to…",
+          "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands…",
           "slug": "volaren-inc"
         },
         {
@@ -104502,6 +104585,27 @@
           "name": "Ageospatial",
           "one_liner": "Physical intelligence for every decision with Geospatial AI.",
           "slug": "ageospatial"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
+            "monetization": [
+              "accounting"
+            ],
+            "product": [
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Acyclic Labs",
+          "one_liner": "Agent swarms that make long-running tasks exponentially faster",
+          "slug": "acyclic"
         },
         {
           "batch": "Fall 2025",
@@ -105280,7 +105384,7 @@
           },
           "industry": "Fintech",
           "name": "RiskCube",
-          "one_liner": "America’s first AI-native reinsurer for emerging risks.",
+          "one_liner": "The new American reinsurance company.",
           "slug": "riskcube"
         },
         {
@@ -105523,7 +105627,7 @@
           "slug": "abundant"
         }
       ],
-      "count": 2122
+      "count": 2123
     },
     "product": {
       "companies": [
@@ -120107,18 +120211,6 @@
         {
           "batch": "Summer 2026",
           "evidence": {
-            "product": [
-              "workflow"
-            ]
-          },
-          "industry": "B2B",
-          "name": "Chromie",
-          "one_liner": "We help startups win gov contracts",
-          "slug": "chromie"
-        },
-        {
-          "batch": "Summer 2026",
-          "evidence": {
             "engineering": [
               "engineering",
               "software",
@@ -120138,6 +120230,18 @@
           "name": "Caution",
           "one_liner": "Hosting platform for software you can't afford to have hacked",
           "slug": "caution"
+        },
+        {
+          "batch": "Summer 2026",
+          "evidence": {
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Capto",
+          "one_liner": "Helping startups win gov contracts",
+          "slug": "capto"
         },
         {
           "batch": "Summer 2026",
@@ -121258,18 +121362,6 @@
           "name": "Ontra Mobility",
           "one_liner": "Platform for cities to optimize transit ",
           "slug": "ontra-mobility"
-        },
-        {
-          "batch": "Summer 2024",
-          "evidence": {
-            "product": [
-              "platform"
-            ]
-          },
-          "industry": "Healthcare",
-          "name": "Mito Health",
-          "one_liner": "At-cost preventive health: Labs, Scans, Genetics, Supplements and Rx",
-          "slug": "mito-health"
         },
         {
           "batch": "Summer 2024",
@@ -133401,6 +133493,25 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "machine learning"
+            ],
+            "marketing": [
+              "marketing",
+              "social media"
+            ],
+            "product": [
+              "platform"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Native",
+          "one_liner": "Artificial Intuition for marketing",
+          "slug": "native"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "developer"
             ],
             "founders": [
@@ -133486,17 +133597,21 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
-              "coding",
-              "infrastructure",
-              "cloud"
+              "infrastructure"
+            ],
+            "monetization": [
+              "accounting"
             ],
             "product": [
-              "workflow"
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
             ]
           },
           "industry": "B2B",
           "name": "Acyclic Labs",
-          "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
+          "one_liner": "Agent swarms that make long-running tasks exponentially faster",
           "slug": "acyclic"
         },
         {
@@ -133989,6 +134104,23 @@
         {
           "batch": "Fall 2025",
           "evidence": {
+            "engineering": [
+              "infrastructure",
+              "robotics",
+              "machine learning"
+            ],
+            "product": [
+              "workflow"
+            ]
+          },
+          "industry": "Industrials",
+          "name": "Darwin",
+          "one_liner": "Robots to build civilization",
+          "slug": "darwin"
+        },
+        {
+          "batch": "Fall 2025",
+          "evidence": {
             "monetization": [
               "fintech",
               "accounting"
@@ -134429,7 +134561,7 @@
           "slug": "beglaubigtde"
         }
       ],
-      "count": 1651
+      "count": 1652
     },
     "sales": {
       "companies": [
@@ -134720,7 +134852,7 @@
           },
           "industry": "B2B",
           "name": "Fixture",
-          "one_liner": "An AI-first CRM built for Startups",
+          "one_liner": "An agentic CRM built for Startups",
           "slug": "fixture"
         },
         {
@@ -142190,7 +142322,7 @@
           },
           "industry": "B2B",
           "name": "Oway",
-          "one_liner": "The coordination OS for the physical economy. ",
+          "one_liner": "Building the open operating system for the automated physical economy.",
           "slug": "oway"
         },
         {
@@ -148706,7 +148838,7 @@
           },
           "industry": "B2B",
           "name": "Fixture",
-          "one_liner": "An AI-first CRM built for Startups",
+          "one_liner": "An agentic CRM built for Startups",
           "slug": "fixture"
         },
         {
@@ -153259,13 +153391,12 @@
               "developer tools"
             ],
             "ux-ui": [
-              "ui",
               "design"
             ]
           },
           "industry": "B2B",
           "name": "Reframe",
-          "one_liner": "Zoomable generative UI for codebase architecture",
+          "one_liner": "Model and visualize codebase architecture",
           "slug": "reframe-2"
         },
         {
@@ -158052,7 +158183,8 @@
           "evidence": {
             "engineering": [
               "engineering",
-              "software"
+              "software",
+              "infrastructure"
             ],
             "ux-ui": [
               "design"
@@ -164681,6 +164813,26 @@
           "batch": "Fall 2026",
           "evidence": {
             "engineering": [
+              "engineering",
+              "api",
+              "infrastructure"
+            ],
+            "marketing": [
+              "growth"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Munito AI",
+          "one_liner": "Open-model inference provider for Europe, private by default.",
+          "slug": "munito-ai"
+        },
+        {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
               "engineer",
               "engineering",
               "developer",
@@ -164692,7 +164844,7 @@
           },
           "industry": "B2B",
           "name": "Mirrors",
-          "one_liner": "Steer AI agents in real time using lessons from production runs",
+          "one_liner": "Give AI agents the right instructions at the right moment",
           "slug": "mirrors"
         },
         {
@@ -164835,6 +164987,27 @@
           "slug": "agent-relay"
         },
         {
+          "batch": "Fall 2026",
+          "evidence": {
+            "engineering": [
+              "infrastructure"
+            ],
+            "monetization": [
+              "accounting"
+            ],
+            "product": [
+              "platform"
+            ],
+            "ux-ui": [
+              "design"
+            ]
+          },
+          "industry": "B2B",
+          "name": "Acyclic Labs",
+          "one_liner": "Agent swarms that make long-running tasks exponentially faster",
+          "slug": "acyclic"
+        },
+        {
           "batch": "Fall 2025",
           "evidence": {
             "engineering": [
@@ -164916,16 +165089,13 @@
         {
           "batch": "Fall 2025",
           "evidence": {
-            "engineering": [
-              "software"
-            ],
             "ux-ui": [
               "design"
             ]
           },
           "industry": "B2B",
           "name": "Semble",
-          "one_liner": "The all-in-one software for integrators.",
+          "one_liner": "Takeoffs, design, and field work. Powered by AI.",
           "slug": "semble"
         },
         {
@@ -165877,7 +166047,7 @@
           "slug": "alex"
         }
       ],
-      "count": 946
+      "count": 948
     }
   },
   "rules_version": 1,
@@ -166507,6 +166677,7 @@
       "mino-games",
       "mirabelle",
       "mirror-ai",
+      "mito-health",
       "mixed-media-labs",
       "mixy",
       "mobydish",
@@ -166832,7 +167003,6 @@
       "springwit",
       "squad",
       "stacksi",
-      "stacktrace",
       "stamp",
       "starcity",
       "stardrift",

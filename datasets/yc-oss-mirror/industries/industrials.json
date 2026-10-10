@@ -11865,7 +11865,7 @@
       "Aviation and Space"
     ],
     "industry": "Industrials",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1718841179,
     "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
     "name": "Starcloud",
@@ -12406,10 +12406,10 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1739813505,
-    "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
+    "long_description": "Astro develops power-ready land for AI data centers. Power is now the bottleneck for new data centers, and Astro’s models find the sites that have it. Founder Alex Fuster traded grid congestion at Citadel across US power markets, predicting where the grid would run out of room.",
     "name": "Astro",
     "nonprofit": false,
-    "one_liner": "The world’s first AI energy developer",
+    "one_liner": "Power-ready land for AI data centers",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -12449,7 +12449,7 @@
     "industry": "Industrials",
     "isHiring": false,
     "launched_at": 1738284252,
-    "long_description": "Conntour enables organizations to query video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes the technology unique is its ability to process video at scale, fully on-prem, with minimal hardware requirements.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, selected for the first-ever Palantir Fellowship, and advised by Bob Flores - former CTO of the CIA.",
+    "long_description": "Conntour enables government agencies to query video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video at scale, fully on-premises, with minimal hardware requirements.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, selected for the first-ever Palantir Fellowship, and advised by Bob Flores - former CTO of the CIA.",
     "name": "Conntour",
     "nonprofit": false,
     "one_liner": "Query mission-critical video",
@@ -12464,9 +12464,9 @@
     "status": "Active",
     "subindustry": "Industrials -> Defense",
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "team_size": 20,
@@ -14589,10 +14589,10 @@
     "industry": "Industrials",
     "isHiring": true,
     "launched_at": 1762476616,
-    "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
+    "long_description": "Darwin Robotics creates general-purpose robots to build and maintain the machines civilization runs on.\r\n\r\nWe're starting with AI infrastructure, where skilled technicians perform a long tail of physical work across assembly, installation, commissioning, and maintenance. Our robots learn new tasks from demonstrations rather than being explicitly programmed for each workflow.\r\n\r\nFirst deployments are planned for early 2027.",
     "name": "Darwin",
     "nonprofit": false,
-    "one_liner": "Humanoid robots",
+    "one_liner": "Robots to build civilization",
     "question_answers": true,
     "regions": [
       "United States of America",
@@ -20173,6 +20173,47 @@
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/uxduck",
     "website": "https://uxduck.com"
+  },
+  {
+    "all_locations": "ZH, Switzerland",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/theseus-robotics.json",
+    "app_answers": null,
+    "app_video_public": false,
+    "batch": "Fall 2026",
+    "demo_day_video_public": false,
+    "former_names": [],
+    "id": 37401,
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "industry": "Industrials",
+    "isHiring": false,
+    "launched_at": 1791578688,
+    "long_description": "Theseus Robotics creates the OS & Physical AI to deploys humanoids to automate menial tasks in supermarkets. During the day, our robotics pick orders for e-grocery orders. Overnight, they restocks shelves with goods from the back warehouse. ",
+    "name": "Theseus Robotics",
+    "nonprofit": false,
+    "one_liner": "Humanoids to restock retail shelves & pick orders",
+    "question_answers": false,
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "slug": "theseus-robotics",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0985c4e6c6734c8e730ab16124ab8ee4c127df5c.png",
+    "stage": "Early",
+    "status": "Active",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "team_size": 7,
+    "top_company": false,
+    "url": "https://www.ycombinator.com/companies/theseus-robotics",
+    "website": "https://theseus.bot/"
   },
   {
     "all_locations": "San Francisco, CA, USA",

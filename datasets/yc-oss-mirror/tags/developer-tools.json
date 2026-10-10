@@ -4941,7 +4941,7 @@
     "long_description": "Shutdown to pursue fundamental computing research",
     "name": "Reframe",
     "nonprofit": false,
-    "one_liner": "Zoomable generative UI for codebase architecture",
+    "one_liner": "Model and visualize codebase architecture",
     "question_answers": false,
     "regions": [
       "Unspecified"
@@ -9334,7 +9334,7 @@
       "Analytics"
     ],
     "industry": "B2B",
-    "isHiring": false,
+    "isHiring": true,
     "launched_at": 1628028455,
     "long_description": "Evidence is an open source, code-based alternative to drag-and-drop BI tools. Build polished data products with just SQL and markdown.",
     "name": "Evidence",
@@ -9534,7 +9534,7 @@
     ],
     "slug": "growthbook",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c060531ea33b3550b25532f59de594cc620f374.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Analytics",
     "tags": [
@@ -11797,7 +11797,7 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1655969538,
-    "long_description": "Improve your workflows with open-source context and data access.\r\n\r\nQuery, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and teams.\r\n\r\nWith support for biological formats and registries — by the creators of Scanpy",
+    "long_description": "We make it easy to query, trace, and govern R&D data in the age of AI, serving big pharma enterprises, biotech, and academia.\r\n\r\nOur core product is an open-source, lineage-native, format-agnostic lakehouse for agents and teams.",
     "name": "Lamin",
     "nonprofit": false,
     "one_liner": "Open data platform for traceable, multimodal AI",
@@ -11819,7 +11819,7 @@
       "Data Engineering"
     ],
     "tags_highlighted": [],
-    "team_size": 10,
+    "team_size": 12,
     "top_company": false,
     "url": "https://www.ycombinator.com/companies/lamin",
     "website": "https://lamin.ai"
@@ -12407,7 +12407,7 @@
     ],
     "slug": "trigger-dev",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737382941e8e44eb83d28fa6b26854131dcdfcf9.png",
-    "stage": "Early",
+    "stage": "Growth",
     "status": "Active",
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
@@ -24546,10 +24546,10 @@
     "industry": "B2B",
     "isHiring": false,
     "launched_at": 1789011304,
-    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
     "name": "Mirrors",
     "nonprofit": false,
-    "one_liner": "Steer AI agents in real time using lessons from production runs",
+    "one_liner": "Give AI agents the right instructions at the right moment",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -24562,10 +24562,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "team_size": 2,

@@ -1,7 +1,7 @@
 # YC startup role index
 
 Source: `datasets/yc-oss-mirror/companies/all.json`
-Companies classified: 6283
+Companies classified: 6285
 
 This index is a transparent keyword map of public YC descriptions. It is a research aid, not a claim about a company's internal hiring or organization. Review the evidence field in `yc-role-index.json` before using a match.
 
@@ -9,13 +9,13 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 
 | Role | Companies |
 | --- | ---: |
-| founders | 346 |
-| product | 1651 |
-| ux-ui | 946 |
-| engineering | 2877 |
+| founders | 347 |
+| product | 1652 |
+| ux-ui | 948 |
+| engineering | 2878 |
 | sales | 748 |
-| marketing | 876 |
-| monetization | 2122 |
+| marketing | 878 |
+| monetization | 2123 |
 | Unclassified | 1146 |
 
 ## Recent examples
@@ -108,7 +108,7 @@ This index is a transparent keyword map of public YC descriptions. It is a resea
 - **Menza** (Winter 2026, B2B): The AI data analyst for consumer brands [evidence: brand]
 - **Laurence** (Winter 2026, B2B): Quantitative research for autonomous e-commerce growth [evidence: growth, advertising]
 - **General Legal** (Winter 2026, B2B): Elite AI law firm for high growth companies [evidence: growth]
-- **Fixture** (Winter 2026, B2B): An AI-first CRM built for Startups [evidence: marketing]
+- **Fixture** (Winter 2026, B2B): An agentic CRM built for Startups [evidence: marketing]
 
 ### monetization
 

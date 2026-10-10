@@ -2492,7 +2492,7 @@
     "long_description": "Custom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them. We autonomously collect raw data, train models, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n",
     "name": "Belvedir",
     "nonprofit": false,
-    "one_liner": "The custom AI model factory",
+    "one_liner": "The autonomous AI model factory",
     "question_answers": false,
     "regions": [
       "United States of America",
@@ -2504,9 +2504,9 @@
     "status": "Active",
     "subindustry": "B2B",
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "team_size": 2,
@@ -7023,48 +7023,6 @@
     "website": "https://lumeria.skin"
   },
   {
-    "all_locations": "Toronto, ON, Canada",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/familiar.json",
-    "app_answers": null,
-    "app_video_public": false,
-    "batch": "Summer 2026",
-    "demo_day_video_public": false,
-    "former_names": [],
-    "id": 32987,
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "industry": "B2B",
-    "isHiring": false,
-    "launched_at": 1786578571,
-    "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
-    "name": "Familiar",
-    "nonprofit": false,
-    "one_liner": "Multimodal Translation",
-    "question_answers": false,
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "slug": "familiar",
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
-    "stage": "Early",
-    "status": "Active",
-    "subindustry": "B2B -> Infrastructure",
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Entertainment"
-    ],
-    "tags_highlighted": [],
-    "team_size": 8,
-    "top_company": false,
-    "url": "https://www.ycombinator.com/companies/familiar",
-    "website": "https://thefamiliarlab.com"
-  },
-  {
     "all_locations": "Bengaluru, KA, India",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json",
     "app_answers": null,
@@ -7950,13 +7908,14 @@
   },
   {
     "all_locations": "San Francisco, CA, USA",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/chromie.json",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/capto.json",
     "app_answers": null,
     "app_video_public": false,
     "batch": "Summer 2026",
     "demo_day_video_public": false,
     "former_names": [
-      "chromie.dev"
+      "chromie.dev",
+      "Chromie"
     ],
     "id": 33055,
     "industries": [
@@ -7966,15 +7925,15 @@
     "isHiring": false,
     "launched_at": 1785887406,
     "long_description": "The intelligent operating system for government contracting. Built by former AI engineers and government officials.",
-    "name": "Chromie",
+    "name": "Capto",
     "nonprofit": false,
-    "one_liner": "We help startups win gov contracts",
+    "one_liner": "Helping startups win gov contracts",
     "question_answers": false,
     "regions": [
       "United States of America",
       "America / Canada"
     ],
-    "slug": "chromie",
+    "slug": "capto",
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e9ad437e503d6309ddcdb7e3b79f52406e3f03e.png",
     "stage": "Early",
     "status": "Active",
@@ -7986,8 +7945,8 @@
     "tags_highlighted": [],
     "team_size": 2,
     "top_company": false,
-    "url": "https://www.ycombinator.com/companies/chromie",
-    "website": "https://chromie.dev"
+    "url": "https://www.ycombinator.com/companies/capto",
+    "website": "https://gocapto.com/"
   },
   {
     "all_locations": "San Francisco, CA, USA",
@@ -8680,7 +8639,7 @@
       "B2B"
     ],
     "industry": "B2B",
-    "isHiring": true,
+    "isHiring": false,
     "launched_at": 1782965522,
     "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
     "name": "Petrarch",
